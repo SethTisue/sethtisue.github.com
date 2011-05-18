@@ -1,0 +1,201 @@
+.center { 
+  text-align: center;
+}
+
+.center table { 
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+:link {
+  color: rgb(0, 0, 204)
+}
+
+:visited {
+  color: rgb(100, 0, 100) 
+}
+
+body {
+  color: black;
+  background: white;
+  font-family: Georgia, serif;
+}
+
+td {
+  padding-top: 0;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+}
+
+td.text {
+  width: 30em;
+}
+
+td.column1 {
+  text-align: right;
+  vertical-align: top;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0;
+}
+
+h1 {
+  font-size: 200%;
+}
+
+h2 {
+  font-size: 150%;
+}
+
+h3 {
+  font-size: 125%;
+}
+
+h4 {
+  font-size: 100%;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+p + p {
+  margin-top: 0;
+  text-indent: 1.5em;
+}
+
+.notes {
+  font-size: 80%;
+}
+
+p.spaced {
+  margin-top: 1em;
+  text-indent: 0;
+}
+
+p.photo {
+  margin-top: 1em;
+  text-indent: 0;
+}
+
+p.lyrics {
+  margin-top: 1em;
+  text-indent: 0;
+}
+
+th {
+  text-align: center;
+  text-indent: 0;
+}
+
+ul.paragraphs {
+  padding-left: 1em;
+  margin-top: 0;
+  margin-left: 0;
+  text-indent: -1em;
+  list-style-type: none;
+}
+
+ul.tracks {
+  list-style-type: none;
+  margin-top: 1em;
+  padding-left: 0;
+  font-size: 80%;
+}
+
+ul.track {
+  list-style-type: none;
+  margin-top: 0;
+  padding: 0;
+}
+
+li.track-number {
+  display: inline;
+  padding: 0;
+}
+
+li.track-number:after {
+  content: ". ";
+}
+
+li.track-name {
+  display: inline;
+}
+
+li.track-composer {
+  display: inline;
+  padding: 0;
+}
+
+li.track-composer:before {
+  content: "(";
+  padding: 0;
+}
+
+li.track-composer:after {
+  content: ")";
+  padding: 0;
+}
+
+li.track-time {
+  display: inline;
+}
+
+li.track-time:before {
+  content: "[";
+}
+
+li.track-time:after {
+  content: "]";
+}
+
+li.track-dedication {
+  display: inline;
+  font-style: italic;
+}
+
+li.artist {
+  font-weight: bold;
+}
+
+li.title {
+  font-weight: bold;
+  font-style: italic;
+}
+
+li.songtitle {
+  font-weight: bold;
+}
+
+li.lyricslink {
+}
+
+li.catno {
+}
+
+li.comp {
+}
+
+li.format {
+}
+
+li.players {
+}
+
+img.album {
+  border: 1px solid black;
+}
+
+img.albumnoborder {
+}
+
+hr {
+  height: 0.7em;
+  color: black;
+  background: black;
+  margin-right: 25%;
+}
