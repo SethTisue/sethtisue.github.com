@@ -1,0 +1,2401 @@
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 23712 invoked from network); 1 Mar 2002 10:40:35 -0000
+Received: from adsl-63-194-217-205.dsl.snfc21.pacbell.net (HELO kasley.com) (63.194.217.205)
+  by godzilla.cs.nwu.edu with SMTP; 1 Mar 2002 10:40:35 -0000
+Received: from [192.168.0.3] ([192.168.0.3] verified) by kasley.com (Stalker SMTP Server 1.7) with ESMTP id S.0000012478 for <jandek@cs.northwestern.edu>; Fri, 01 Mar 2002 02:40:39 -0800
+User-Agent: Microsoft-Outlook-Express-Macintosh-Edition/5.02.2022
+Date: Fri, 01 Mar 2002 02:40:33 -0800
+Subject: Jandek mp3s back online
+From: Ian Kasley <ian@kasley.com>
+To: Jandek <jandek@cs.northwestern.edu>
+Message-ID: <B8A49AA1.307C%ian@kasley.com>
+Mime-version: 1.0
+Content-type: text/plain; charset="US-ASCII"
+Content-transfer-encoding: 7bit
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Howdy.
+
+Some of you may have noticed by now, but for those of you who haven't, the
+mp3s of some of the currently out-of-print Jandek albums are back online.
+It's not on the speediest server, so be patient, and be nice. "Telegraph
+Melts" has also just been added. Many thanks to Brad Emrich for supplying me
+(and you!) with copies of these files.
+
+http://www.kasley.com/jandek/
+
+(RealAudio of "Telegraph Melts" coming soon)
+
+
+
+-ian
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 2381 invoked from network); 5 Mar 2002 19:16:07 -0000
+Received: from f14.pav1.hotmail.com (HELO hotmail.com) (64.4.31.14)
+  by godzilla.cs.nwu.edu with SMTP; 5 Mar 2002 19:16:07 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Tue, 5 Mar 2002 11:15:39 -0800
+Received: from 193.95.169.242 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Tue, 05 Mar 2002 19:15:39 GMT
+X-Originating-IP: [193.95.169.242]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Date: Tue, 05 Mar 2002 19:15:39 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F14njQ8vjqueolj8Jec0000eeff@hotmail.com>
+X-OriginalArrivalTime: 05 Mar 2002 19:15:39.0706 (UTC) FILETIME=[231A39A0:01C1C47A]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+Hi there, I've just joined the list having begun to involve myself in the 
+"Jandek experience"... The other day I coincidentally recieved both the 
+Corwood catalogue and my first Jandek CDs from Forced Exposure. I had asked 
+whoever at Corwood if there was any new albums or reissues due "in the 
+coming months" and it probably will suprise no-one that the reply was 
+"Foreign Keys" & "Telegraph Melts".
+I was wondering what people think of the acapella stuff - I just got 
+"Worthless Recluse" and think it's great, I find it really vivid and I think 
+it maintains the intimacy and intensity of some of the other stuff I've 
+heard. I'm especially impressed by the title track.
+I'm curious as to whether Jandek is a William Burroughs fan, due to some of 
+the delivery and the talk of "control". The only thing I can think of that's 
+remotely similar to this CD, apart from maybe WB is Mark E Smith's "Post 
+Nearly Man" which is probably a rare example of sometone making even less 
+concessions to the niceties of performance and presentation than Jandek. So 
+how do long-time fans rate it?
+I'm also curious about which albums people rate highest...
+After nearly 2 months waiting to recieve a delayed Jandek order (due to 
+e-mail problems), the day after the CDs arrived I fell ill with an 
+absolutely horrific feverish stomach bug and found myself absolutely unable 
+and unwilling to listen to them for several days (well, would you listen to 
+"6&6" in that condition?"). Is this the kind of thing that habitually 
+happens to Jandek fans?
+By the way I'm from Ireland and there seems to be a handful of interested 
+souls lurking around...
+Oh yeah, I think I've worked out the guitar tuning fairly accurately if 
+anyone wants to do a covers act...!
+Any news since the website was last updated?
+bye, Paul
+
+_________________________________________________________________
+MSN Photos is the easiest way to share and print your photos: 
+http://photos.msn.com/support/worldwide.aspx
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 22532 invoked from network); 6 Mar 2002 15:14:22 -0000
+Received: from web10803.mail.yahoo.com (216.136.130.245)
+  by godzilla.cs.nwu.edu with SMTP; 6 Mar 2002 15:14:22 -0000
+Message-ID: <20020306151422.79703.qmail@web10803.mail.yahoo.com>
+Received: from [130.184.211.174] by web10803.mail.yahoo.com via HTTP; Wed, 06 Mar 2002 07:14:22 PST
+Date: Wed, 6 Mar 2002 07:14:22 -0800 (PST)
+From: Danen <disappearingink@yahoo.com>
+Subject: Reply to an Introduction
+To: jandek@cs.northwestern.edu
+In-Reply-To: <F14njQ8vjqueolj8Jec0000eeff@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+--- Paul Condon <paulgcondon@hotmail.com> wrote:
+I had asked 
+> whoever at Corwood if there was any new albums or
+> reissues due "in the 
+> coming months" and it probably will suprise no-one
+> that the reply was 
+> "Foreign Keys" & "Telegraph Melts".
+
+Good.  May I ask Mr. Kasley to please remove the mp3's
+to a jandek album upon it's reissue?  that, to me,
+would only seem fair.  I mean, I know everybody on
+this list pretty well will buy the reissues even if
+they have the downloaded versions but it would be a
+shame for Jandek to lose a sale.  put up a Metallica
+album in its place...
+
+
+
+
+> I was wondering what people think of the acapella
+> stuff - I just got 
+> "Worthless Recluse" and think it's great, I find it
+> really vivid and I think 
+> it maintains the intimacy and intensity of some of
+> the other stuff I've 
+> heard. 
+
+My opinion is that it's getting better, but it's still
+a curiosity...I don't know, I have to be honest and
+admit that I don't throw the stuff on for fun very
+often, but I appreciate it and i've already thrown
+some of the shorter pieces on comp cd's for
+people...got a really weird response from one
+guy...It's certainly unique, isn't it?
+
+
+> I'm also curious about which albums people rate
+> highest...
+
+my personal favorite is 'Blue Corpse' (everybody who's
+been on the list awhile can take a second to laugh
+now). since you don't have it, may I suggest you go to
+ian Kasley's web site and download it?  As mentioned
+above, you can buy it (complete with AWESOME
+near-model looking passing by building Jandek album
+cover) when the Man gets around to releasing it...but
+it really is worth having NOW.
+
+Outside of that,there's a lot of grumbling.  Some like
+the electric stuff and some don't.  Some dig the early
+acoustic albums the best (*and yeah, they probably
+are) but I also would point out some later albums like
+'New Town' and 'Gotta Get Away'and 'the beginning'. 
+These aren't as consistent, imho, but they have some
+really great songs on them.
+
+I have yet to see anybody really embrace 'I Woke Up.'
+If you got it, you probably noticed a different
+singer. Strangely, www.allmusic.com, which has a nice
+if not always accurate review section of Jandek, likes
+this album a lot.i think it's fine but I would sure
+buy a lot of other stuff first. if you have the early
+stuff but not the later I'd start with the three I
+listed above and go from there.
+
+
+
+> After nearly 2 months waiting to recieve a delayed
+> Jandek order (due to 
+> e-mail problems), 
+
+Man, to hell with Forced Exposure.  I ordered 2 Godz
+cd's from them in late December and just got them 2
+weeks ago.  the excuse was "we had to re-stock them."
+Well, that was the excuse after I wrote them after I
+hadn't recieved the cd's in 4 weeks.  Then 3 weeks
+later I get "Oh, they're on the way now, thanks for
+waiting" and then a week later I get them.  I would
+love to support FE more, becuase I dig what they do,
+but good lord that's ridiculous!
+
+If you want Jandek cd's, cut out the middleman and
+make use of your catalog.
+
+
+
+the day after the CDs arrived I
+> fell ill with an 
+> absolutely horrific feverish stomach bug and found
+> myself absolutely unable 
+> and unwilling to listen to them for several days
+> (well, would you listen to 
+> "6&6" in that condition?"). 
+
+
+I had Epstein/Barr virus last year and found that
+stuff oddly comforting.  I accept that I have
+problems...
+
+welcome to the list.  I've been here off and on for 3
+years and we can be as quite as the alleged Mr. Smith
+but it's worth sticking around for the occasional
+stuff that get's started.  Also, there's a lot of
+respect on this list, so if you've had problems with
+flames and stuff on other lists (as I have) you won't
+have that problem here.
+
+yours,
+
+Danen
+
+
+__________________________________________________
+Do You Yahoo!?
+Try FREE Yahoo! Mail - the world's greatest free email!
+http://mail.yahoo.com/
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 26149 invoked from network); 6 Mar 2002 19:00:02 -0000
+Received: from f151.pav1.hotmail.com (HELO hotmail.com) (64.4.31.151)
+  by godzilla.cs.nwu.edu with SMTP; 6 Mar 2002 19:00:02 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 6 Mar 2002 10:59:35 -0800
+Received: from 195.218.98.155 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Wed, 06 Mar 2002 18:59:32 GMT
+X-Originating-IP: [195.218.98.155]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: disappearingink@yahoo.com, jandek@cs.northwestern.edu
+Subject: Re: Reply to an Introduction
+Date: Wed, 06 Mar 2002 18:59:32 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F151NYgEj4v5iJarnJ3000087a2@hotmail.com>
+X-OriginalArrivalTime: 06 Mar 2002 18:59:35.0979 (UTC) FILETIME=[0F16E7B0:01C1C541]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+put up a Metallica
+>album in its place...
+>
+Damn straight... and you can be pretty sure Jandek isn't going to be running 
+around brandishing lists of mp3 users or moaning about carpenters and 
+tables...
+
+>my personal favorite is 'Blue Corpse' (everybody who's
+>been on the list awhile can take a second to laugh
+>now). since you don't have it, may I suggest you go to
+>ian Kasley's web site and download it?
+
+Yeah, I've heard it, but only on crap headphones in a noisy internet cafe... 
+sounds pretty special though. I don't have a computer of my own so I'm 
+currently waiting on a friend to download the Kasley stuff for me but he's 
+taking his time.
+>
+>I have yet to see anybody really embrace 'I Woke Up.'
+>If you got it, you probably noticed a different
+>singer.
+>
+That was actually one of the first ones I heard, along with "White Box 
+Requiem"... I actually really like the way it's quite varied. I didn't think 
+there was a different singer, though I've heard this mentioned elsewhere - 
+in fact it sounds to me that the vocals and the harmonica were recorded 
+simultaneously, on the same track, as they don't ever overlap as far as I 
+can remember, and surely the harmonica player is Jandek? Of course I'll have 
+to take the word of the long-term disciples here. Anyway I reckon it's one 
+of the more 'listenable' or 'enjoyable' ones I've heard, though I recognise 
+these aren't the terms one would probably use to judge a Jandek album.
+
+>If you want Jandek cd's, cut out the middleman and
+>make use of your catalog.
+>
+Yeah, I'm going to be going for the 20 box...
+>
+
+By the way, I noticed that "White Box Requiem" is basically just a couple of 
+"songs" divided up into several shorter tracks - is this approach used on 
+any of the other albums?
+
+Thanks for the replies all
+Paul
+
+
+
+_________________________________________________________________
+Join the world’s largest e-mail service with MSN Hotmail. 
+http://www.hotmail.com
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 31127 invoked from network); 6 Mar 2002 19:27:57 -0000
+Received: from f30.pav1.hotmail.com (HELO hotmail.com) (64.4.31.30)
+  by godzilla.cs.nwu.edu with SMTP; 6 Mar 2002 19:27:57 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 6 Mar 2002 11:05:13 -0800
+Received: from 195.218.98.155 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Wed, 06 Mar 2002 19:05:13 GMT
+X-Originating-IP: [195.218.98.155]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: jandek
+Date: Wed, 06 Mar 2002 19:05:13 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F30Cz93MgPPf3L9BGTu0000b91a@hotmail.com>
+X-OriginalArrivalTime: 06 Mar 2002 19:05:13.0631 (UTC) FILETIME=[D85882F0:01C1C541]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I've had the early records for about 15 years now and I bet I haven't
+listened to them more than a few times at most..the pressings suck
+
+I was wondering about that (Peter Grudzien's 'black telephone plastic' 
+perhaps...) - also, were the LP labels similar to the current CD labels?
+Paul
+
+
+_________________________________________________________________
+MSN Photos is the easiest way to share and print your photos: 
+http://photos.msn.com/support/worldwide.aspx
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 31858 invoked from network); 6 Mar 2002 19:29:05 -0000
+Received: from f202.pav1.hotmail.com (HELO hotmail.com) (64.4.31.202)
+  by godzilla.cs.nwu.edu with SMTP; 6 Mar 2002 19:29:05 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 6 Mar 2002 11:05:57 -0800
+Received: from 195.218.98.155 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Wed, 06 Mar 2002 19:05:57 GMT
+X-Originating-IP: [195.218.98.155]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: jandek
+Date: Wed, 06 Mar 2002 19:05:57 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F2027QPwFCOAeNPHsWo00008839@hotmail.com>
+X-OriginalArrivalTime: 06 Mar 2002 19:05:57.0802 (UTC) FILETIME=[F2AC78A0:01C1C541]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I've had the early records for about 15 years now and I bet I haven't
+listened to them more than a few times at most..the pressings suck
+
+I was wondering about that (Peter Grudzien's 'black telephone plastic' 
+perhaps...) - also, were the LP labels similar to the current CD labels?
+Paul
+
+
+_________________________________________________________________
+Chat with friends online, try MSN Messenger: http://messenger.msn.com
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 1859 invoked from network); 6 Mar 2002 19:41:45 -0000
+Received: from waste.org (209.173.204.2)
+  by godzilla.cs.nwu.edu with SMTP; 6 Mar 2002 19:41:45 -0000
+Received: from waste.org (localhost [127.0.0.1])
+	by waste.org (8.12.1/8.12.1/Debian -5) with ESMTP id g26JffB8019468
+	for <jandek@cs.northwestern.edu>; Wed, 6 Mar 2002 13:41:41 -0600
+Received: from localhost (crash@localhost)
+	by waste.org (8.12.1/8.12.1/Debian -5) with ESMTP id g26Jffh5019464
+	for <jandek@cs.northwestern.edu>; Wed, 6 Mar 2002 13:41:41 -0600
+Date: Wed, 6 Mar 2002 13:41:41 -0600 (CST)
+From: Todd Madson <crash@waste.org>
+To: jandek@cs.northwestern.edu
+Subject: A thought.....
+Message-ID: <Pine.LNX.4.44.0203061325480.7481-100000@waste.org>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+A recent post made my mind snap slightly and got me thinking.
+This always leads to trouble.
+
+We're all referring to "him" as Jandek.  We know other people have
+been on the recordings (Nancy Sings, etc.)
+
+Maybe Jandek isn't a "him", as in a personality but rather, an "it",
+in other words, just a project name.
+
+I have a project name that I call 'aliensporebomb' because it
+describes the music more effectively than under my own name.
+
+We also know that the first recording was released as "ready for
+the house" by "the units" but was changed when it was found that
+there was a rock band by name of "the units" (I wonder if the
+real "units" are upset that the guy who usurped their name has
+had more longevity than they had...unless they still exist of
+course).
+
+Obviously there's a "him" behind it but the label "Jandek" doesn't
+necessarily need to refer to a person.
+
+Thoughts?
+
+In a lot of ways the mystery of the who/what of Jandek is a lot more
+satisfying because it's been this self contained thing working on its
+own, not needing the music industry or seemingly anything else.  An
+enigma self-supporting.
+
+And while groups that generate barrel-loads of cash dissappear for
+years at a time - Jandek seemingly endures.  We should be reassured
+by this.  It is as if it's not about the money (one online essay
+says that Smith indicated "I need to move these"), but rather
+propagation.
+
+for a while it was sort of a joke that ZZ Top made a new recording
+every 5 years because they would only work when they had to, or
+Pink Floyd who simply releases another 'greatest hits' package
+instead of enduring the expense and time of reactivating, or
+Kraftwerk who'd rather be bicycling in germany rather than work
+on music projects full time.  Much higher profile, but also a
+completely different agenda.
+
+Jandek is oddly reassurring because his projects are the image of
+quasi-permanence in an industry that doesn't reward staying power.
+
+So one would wonder: of those who have heard Jandek records, who
+has become a musician?  And who has released a recording of their
+original music with no industry support ala Jandek?   I think the
+answer would be surprising.
+
+One can say whatever they want about the musicianship on these
+recordings but the fact that a totally unknown individual in
+Texas has created an ouevre that is known of worldwide with his
+bare hands with no airplay, no interviews, no touring, and no
+industry support is scarcely believable.  And I believe a tip of
+the hat is due Mr. Smith or whoever is behind these recordings
+since it shows that you can do anything if you put your mind to it.
+
+-t
+
+
+
+-- 
+
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 14876 invoked from network); 6 Mar 2002 20:55:41 -0000
+Received: from exchange.ljx.com (HELO mail02.ljextra.com) (208.3.165.71)
+  by godzilla.cs.nwu.edu with SMTP; 6 Mar 2002 20:55:41 -0000
+Received: by ALM-MAIL-1 with Internet Mail Service (5.5.2653.19)
+	id <F52ZKXQX>; Wed, 6 Mar 2002 15:55:14 -0500
+Message-ID: <988631CF8A1FD511B5B40008C7F36CCD1BF65D@ALM-MAIL-1>
+From: Tim Kelly <tkelly@amlaw.com>
+To: 'Todd Madson' <crash@waste.org>, jandek@cs.northwestern.edu
+Subject: RE: A thought.....
+Date: Wed, 6 Mar 2002 15:55:07 -0500 
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C1C551.3280CFD0"
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+------_=_NextPart_001_01C1C551.3280CFD0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+
+Speaking of mysterious recordings, I'll be releasing all of mine ASAP.
+Peace, Tim
+http://www.angelfire.com/ny4/timkelly19/
+
+> -----Original Message-----
+> From: Todd Madson [mailto:crash@waste.org]
+> Sent: Wednesday, March 06, 2002 2:42 PM
+> To: jandek@cs.northwestern.edu
+> Subject: A thought.....
+> 
+> 
+> A recent post made my mind snap slightly and got me thinking.
+> This always leads to trouble.
+> 
+> We're all referring to "him" as Jandek.  We know other people have
+> been on the recordings (Nancy Sings, etc.)
+> 
+> Maybe Jandek isn't a "him", as in a personality but rather, an "it",
+> in other words, just a project name.
+> 
+> I have a project name that I call 'aliensporebomb' because it
+> describes the music more effectively than under my own name.
+> 
+> We also know that the first recording was released as "ready for
+> the house" by "the units" but was changed when it was found that
+> there was a rock band by name of "the units" (I wonder if the
+> real "units" are upset that the guy who usurped their name has
+> had more longevity than they had...unless they still exist of
+> course).
+> 
+> Obviously there's a "him" behind it but the label "Jandek" doesn't
+> necessarily need to refer to a person.
+> 
+> Thoughts?
+> 
+> In a lot of ways the mystery of the who/what of Jandek is a lot more
+> satisfying because it's been this self contained thing working on its
+> own, not needing the music industry or seemingly anything else.  An
+> enigma self-supporting.
+> 
+> And while groups that generate barrel-loads of cash dissappear for
+> years at a time - Jandek seemingly endures.  We should be reassured
+> by this.  It is as if it's not about the money (one online essay
+> says that Smith indicated "I need to move these"), but rather
+> propagation.
+> 
+> for a while it was sort of a joke that ZZ Top made a new recording
+> every 5 years because they would only work when they had to, or
+> Pink Floyd who simply releases another 'greatest hits' package
+> instead of enduring the expense and time of reactivating, or
+> Kraftwerk who'd rather be bicycling in germany rather than work
+> on music projects full time.  Much higher profile, but also a
+> completely different agenda.
+> 
+> Jandek is oddly reassurring because his projects are the image of
+> quasi-permanence in an industry that doesn't reward staying power.
+> 
+> So one would wonder: of those who have heard Jandek records, who
+> has become a musician?  And who has released a recording of their
+> original music with no industry support ala Jandek?   I think the
+> answer would be surprising.
+> 
+> One can say whatever they want about the musicianship on these
+> recordings but the fact that a totally unknown individual in
+> Texas has created an ouevre that is known of worldwide with his
+> bare hands with no airplay, no interviews, no touring, and no
+> industry support is scarcely believable.  And I believe a tip of
+> the hat is due Mr. Smith or whoever is behind these recordings
+> since it shows that you can do anything if you put your mind to it.
+> 
+> -t
+> 
+> 
+> 
+> -- 
+> 
+> 
+> 
+
+------_=_NextPart_001_01C1C551.3280CFD0
+Content-Type: text/html;
+	charset="iso-8859-1"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="MS Exchange Server version 5.5.2653.12">
+<TITLE>RE: A thought.....</TITLE>
+</HEAD>
+<BODY>
+
+<P><FONT SIZE=2>Speaking of mysterious recordings, I'll be releasing all of mine ASAP.</FONT>
+<BR><FONT SIZE=2>Peace, Tim</FONT>
+<BR><FONT SIZE=2><A HREF="http://www.angelfire.com/ny4/timkelly19/" TARGET="_blank">http://www.angelfire.com/ny4/timkelly19/</A></FONT>
+</P>
+
+<P><FONT SIZE=2>&gt; -----Original Message-----</FONT>
+<BR><FONT SIZE=2>&gt; From: Todd Madson [<A HREF="mailto:crash@waste.org">mailto:crash@waste.org</A>]</FONT>
+<BR><FONT SIZE=2>&gt; Sent: Wednesday, March 06, 2002 2:42 PM</FONT>
+<BR><FONT SIZE=2>&gt; To: jandek@cs.northwestern.edu</FONT>
+<BR><FONT SIZE=2>&gt; Subject: A thought.....</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; A recent post made my mind snap slightly and got me thinking.</FONT>
+<BR><FONT SIZE=2>&gt; This always leads to trouble.</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; We're all referring to &quot;him&quot; as Jandek.&nbsp; We know other people have</FONT>
+<BR><FONT SIZE=2>&gt; been on the recordings (Nancy Sings, etc.)</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; Maybe Jandek isn't a &quot;him&quot;, as in a personality but rather, an &quot;it&quot;,</FONT>
+<BR><FONT SIZE=2>&gt; in other words, just a project name.</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; I have a project name that I call 'aliensporebomb' because it</FONT>
+<BR><FONT SIZE=2>&gt; describes the music more effectively than under my own name.</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; We also know that the first recording was released as &quot;ready for</FONT>
+<BR><FONT SIZE=2>&gt; the house&quot; by &quot;the units&quot; but was changed when it was found that</FONT>
+<BR><FONT SIZE=2>&gt; there was a rock band by name of &quot;the units&quot; (I wonder if the</FONT>
+<BR><FONT SIZE=2>&gt; real &quot;units&quot; are upset that the guy who usurped their name has</FONT>
+<BR><FONT SIZE=2>&gt; had more longevity than they had...unless they still exist of</FONT>
+<BR><FONT SIZE=2>&gt; course).</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; Obviously there's a &quot;him&quot; behind it but the label &quot;Jandek&quot; doesn't</FONT>
+<BR><FONT SIZE=2>&gt; necessarily need to refer to a person.</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; Thoughts?</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; In a lot of ways the mystery of the who/what of Jandek is a lot more</FONT>
+<BR><FONT SIZE=2>&gt; satisfying because it's been this self contained thing working on its</FONT>
+<BR><FONT SIZE=2>&gt; own, not needing the music industry or seemingly anything else.&nbsp; An</FONT>
+<BR><FONT SIZE=2>&gt; enigma self-supporting.</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; And while groups that generate barrel-loads of cash dissappear for</FONT>
+<BR><FONT SIZE=2>&gt; years at a time - Jandek seemingly endures.&nbsp; We should be reassured</FONT>
+<BR><FONT SIZE=2>&gt; by this.&nbsp; It is as if it's not about the money (one online essay</FONT>
+<BR><FONT SIZE=2>&gt; says that Smith indicated &quot;I need to move these&quot;), but rather</FONT>
+<BR><FONT SIZE=2>&gt; propagation.</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; for a while it was sort of a joke that ZZ Top made a new recording</FONT>
+<BR><FONT SIZE=2>&gt; every 5 years because they would only work when they had to, or</FONT>
+<BR><FONT SIZE=2>&gt; Pink Floyd who simply releases another 'greatest hits' package</FONT>
+<BR><FONT SIZE=2>&gt; instead of enduring the expense and time of reactivating, or</FONT>
+<BR><FONT SIZE=2>&gt; Kraftwerk who'd rather be bicycling in germany rather than work</FONT>
+<BR><FONT SIZE=2>&gt; on music projects full time.&nbsp; Much higher profile, but also a</FONT>
+<BR><FONT SIZE=2>&gt; completely different agenda.</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; Jandek is oddly reassurring because his projects are the image of</FONT>
+<BR><FONT SIZE=2>&gt; quasi-permanence in an industry that doesn't reward staying power.</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; So one would wonder: of those who have heard Jandek records, who</FONT>
+<BR><FONT SIZE=2>&gt; has become a musician?&nbsp; And who has released a recording of their</FONT>
+<BR><FONT SIZE=2>&gt; original music with no industry support ala Jandek?&nbsp;&nbsp; I think the</FONT>
+<BR><FONT SIZE=2>&gt; answer would be surprising.</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; One can say whatever they want about the musicianship on these</FONT>
+<BR><FONT SIZE=2>&gt; recordings but the fact that a totally unknown individual in</FONT>
+<BR><FONT SIZE=2>&gt; Texas has created an ouevre that is known of worldwide with his</FONT>
+<BR><FONT SIZE=2>&gt; bare hands with no airplay, no interviews, no touring, and no</FONT>
+<BR><FONT SIZE=2>&gt; industry support is scarcely believable.&nbsp; And I believe a tip of</FONT>
+<BR><FONT SIZE=2>&gt; the hat is due Mr. Smith or whoever is behind these recordings</FONT>
+<BR><FONT SIZE=2>&gt; since it shows that you can do anything if you put your mind to it.</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; -t</FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; -- </FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+<BR><FONT SIZE=2>&gt; </FONT>
+</P>
+
+</BODY>
+</HTML>
+------_=_NextPart_001_01C1C551.3280CFD0--
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 30612 invoked from network); 6 Mar 2002 22:30:26 -0000
+Received: from web13302.mail.yahoo.com (216.136.175.38)
+  by godzilla.cs.nwu.edu with SMTP; 6 Mar 2002 22:30:26 -0000
+Message-ID: <20020306223025.89294.qmail@web13302.mail.yahoo.com>
+Received: from [209.27.3.53] by web13302.mail.yahoo.com via HTTP; Wed, 06 Mar 2002 14:30:25 PST
+Date: Wed, 6 Mar 2002 14:30:25 -0800 (PST)
+From: Bradley Be <bradleybee@yahoo.com>
+Subject: Re: 
+To: jandek@cs.northwestern.edu
+In-Reply-To: <F14njQ8vjqueolj8Jec0000eeff@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+--- Paul Condon <paulgcondon@hotmail.com> wrote:
+> 
+> Hi there, I've just joined the list having begun to involve myself
+> in the 
+> "Jandek experience"... The other day I coincidentally recieved both
+> the 
+> Corwood catalogue and my first Jandek CDs from Forced Exposure. I
+> had asked 
+> whoever at Corwood if there was any new albums or reissues due "in
+> the 
+> coming months" and it probably will suprise no-one that the reply
+> was 
+> "Foreign Keys" & "Telegraph Melts".
+I've really been looking foreward to these two.  Definitely the two
+most insane LPs in the Corwood catalog.
+
+> I was wondering what people think of the acapella stuff - I just
+> got 
+> "Worthless Recluse" and think it's great, I find it really vivid
+> and I think 
+> it maintains the intimacy and intensity of some of the other stuff
+> I've 
+> heard. I'm especially impressed by the title track.
+I first thought that the a-capella stuff would be less accessable. 
+After finally hearing them, I found that without the strangely tuned
+guitar the songs actually sound a little more normal.  The songs in
+which he sings actual tones are close to being traditional blues
+performances.  Accessability is a moot point with Jandek records
+anyway...
+
+> I'm also curious about which albums people rate highest...
+On The Way is still my fave.
+
+> the day after the CDs arrived I fell ill with an 
+> absolutely horrific feverish stomach bug and found myself
+> absolutely unable 
+> and unwilling to listen to them for several days (well, would you
+> listen to 
+> "6&6" in that condition?"). Is this the kind of thing that
+> habitually 
+> happens to Jandek fans?
+Listening to Jandek on a weak stomach is NOT recommended :)
+
+> Oh yeah, I think I've worked out the guitar tuning fairly
+> accurately if 
+> anyone wants to do a covers act...!
+I used to see ads around the Houston area for tribute/cover
+theme-nights.  The basic idea was that one band would play as Black
+Flag, another band as the Minutemen, another as the Sex Pistols,
+etc...  I always wanted to go to one of these tribute nights and do a
+few songs in-between sets as Jandek :)    Unfortunately I don't think
+anyone has organized one of those concerts in quite a few years.
+
+
+
+=====
+http://www.geocities.com/bradleybee
+
+__________________________________________________
+Do You Yahoo!?
+Try FREE Yahoo! Mail - the world's greatest free email!
+http://mail.yahoo.com/
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 824 invoked from network); 6 Mar 2002 22:45:06 -0000
+Received: from smtpout.mac.com (204.179.120.86)
+  by godzilla.cs.nwu.edu with SMTP; 6 Mar 2002 22:45:06 -0000
+Received: from smtp-relay01.mac.com (server-source-si02 [10.13.10.6])
+	by smtpout.mac.com (8.12.1/8.10.2/1.0) with ESMTP id g26Mj1JZ020561
+	for <jandek@cs.northwestern.edu>; Wed, 6 Mar 2002 14:45:01 -0800 (PST)
+Received: from asmtp02.mac.com ([10.13.10.66]) by
+          smtp-relay01.mac.com (Netscape Messaging Server 4.15 relay01 Jun
+          21 2001 23:53:48) with ESMTP id GSKPV000.N6R for
+          <jandek@cs.northwestern.edu>; Wed, 6 Mar 2002 14:45:00 -0800 
+Received: from [192.168.1.102] ([141.158.71.184]) by
+          asmtp02.mac.com (Netscape Messaging Server 4.15 asmtp02 Jun 21
+          2001 23:53:48) with ESMTP id GSKPUZ00.F9L; Wed, 6 Mar 2002
+          14:44:59 -0800 
+Mime-Version: 1.0
+X-Sender: maurice@mail.mac.com
+Message-Id: <p0510140eb8ac4c287587@[192.168.1.102]>
+In-Reply-To: <F30Cz93MgPPf3L9BGTu0000b91a@hotmail.com>
+References: <F30Cz93MgPPf3L9BGTu0000b91a@hotmail.com>
+Date: Wed, 6 Mar 2002 17:44:56 -0500
+To: "Paul Condon" <paulgcondon@hotmail.com>, jandek@cs.northwestern.edu
+From: Maurice Rickard <maurice@mac.com>
+Subject: Re: jandek
+Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+At 7:05 PM +0000 3/6/02, Paul Condon wrote:
+
+>I was wondering about that (Peter Grudzien's 'black telephone 
+>plastic' perhaps...) - also, were the LP labels similar to the 
+>current CD labels?
+
+Yep.  Same layout and color scheme, but typefaces (as ever) vary. 
+Welcome to the list!
+-- 
+Maurice Rickard
+http://mauricerickard.com/
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 4376 invoked from network); 6 Mar 2002 23:02:59 -0000
+Received: from major.francomm.com (HELO liberty.francomm.com) (root@208.9.129.201)
+  by godzilla.cs.nwu.edu with SMTP; 6 Mar 2002 23:02:59 -0000
+Received: from francomm.com (dialupmax6096a084.francomm.com [208.12.108.84])
+	by liberty.francomm.com (8.9.3/8.9.3/Debian 8.9.3-21) with ESMTP id RAA27359
+	for <jandek@cs.northwestern.edu>; Wed, 6 Mar 2002 17:56:38 -0500
+X-Authentication-Warning: liberty.francomm.com: Host dialupmax6096a084.francomm.com [208.12.108.84] claimed to be francomm.com
+Message-ID: <3C869FEF.F98FF532@francomm.com>
+Date: Wed, 06 Mar 2002 18:02:07 -0500
+From: nevermor@francomm.com
+X-Mailer: Mozilla 4.51 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+CC: jandek@cs.northwestern.edu
+Subject: Re: A thought.....
+References: <Pine.LNX.4.44.0203061325480.7481-100000@waste.org>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+
+Todd Madson wrote:
+
+> Maybe Jandek isn't a "him", as in a personality but rather, an "it",
+> in other words, just a project name.
+
+Yes, I think that was mentioned one time by someone who called 'him' and
+asked about doing a gig. The answer was something like "I'll ask 'them"
+
+> We also know that the first recording was released as "ready for
+> the house" by "the units" but was changed when it was found that
+> there was a rock band by name of "the units"
+
+Does anyone have this original vinyl. Is it any different looking? (other
+then the Units part)
+
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 18414 invoked from network); 7 Mar 2002 00:35:11 -0000
+Received: from scaup.mail.pas.earthlink.net (HELO scaup.prod.itd.earthlink.net) (207.217.120.49)
+  by godzilla.cs.nwu.edu with SMTP; 7 Mar 2002 00:35:11 -0000
+Received: from pool0030.cvx27-bradley.dialup.earthlink.net ([209.179.56.30] helo=o9p9q1)
+	by scaup.prod.itd.earthlink.net with smtp (Exim 3.33 #1)
+	id 16ilsC-0007YQ-00
+	for jandek@cs.northwestern.edu; Wed, 06 Mar 2002 16:35:10 -0800
+From: "gregg luvoxx" <murderedman@earthlink.net>
+To: "Jandek" <jandek@cs.northwestern.edu>
+Subject: oblique, mystique
+Date: Wed, 6 Mar 2002 16:33:17 -0800
+Message-ID: <MABBKKLNJKPLHEEEBHLOKEDACOAA.murderedman@earthlink.net>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2911.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+We was creamin' 'em down at the 
+Ball park
+
+
+
+_____________________________________
+http://www.gregglopez.com
+ 
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 19514 invoked from network); 7 Mar 2002 00:40:42 -0000
+Received: from adsl-63-194-217-205.dsl.snfc21.pacbell.net (HELO kasley.com) (63.194.217.205)
+  by godzilla.cs.nwu.edu with SMTP; 7 Mar 2002 00:40:42 -0000
+Received: from [192.168.0.3] ([192.168.0.3] verified) by kasley.com (Stalker SMTP Server 1.7) with ESMTP id S.0000012611 for <jandek@cs.northwestern.edu>; Wed, 06 Mar 2002 16:40:46 -0800
+User-Agent: Microsoft-Outlook-Express-Macintosh-Edition/5.02.2022
+Date: Wed, 06 Mar 2002 16:40:40 -0800
+Subject: Re: Reply to an Introduction
+From: Ian Kasley <ian@kasley.com>
+To: <jandek@cs.northwestern.edu>
+Message-ID: <B8ABF708.313F%ian@kasley.com>
+In-Reply-To: <20020306151422.79703.qmail@web10803.mail.yahoo.com>
+Mime-version: 1.0
+Content-type: text/plain; charset="US-ASCII"
+Content-transfer-encoding: 7bit
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+on 3/6/02 7:14 AM, Danen at disappearingink@yahoo.com wrote:
+
+> --- Paul Condon <paulgcondon@hotmail.com> wrote:
+> I had asked 
+>> whoever at Corwood if there was any new albums or
+>> reissues due "in the
+>> coming months" and it probably will suprise no-one
+>> that the reply was
+>> "Foreign Keys" & "Telegraph Melts".
+> 
+> Good.  May I ask Mr. Kasley to please remove the mp3's
+> to a jandek album upon it's reissue?  that, to me,
+> would only seem fair.  I mean, I know everybody on
+> this list pretty well will buy the reissues even if
+> they have the downloaded versions but it would be a
+> shame for Jandek to lose a sale.  put up a Metallica
+> album in its place...
+
+Absolutely. That has always been my intent, just to make the currently out
+of print albums available until they are reissued on CD.
+
+
+>> I'm also curious about which albums people rate
+>> highest...
+> 
+> my personal favorite is 'Blue Corpse' (everybody who's
+> been on the list awhile can take a second to laugh
+> now). since you don't have it, may I suggest you go to
+> ian Kasley's web site and download it?  As mentioned
+> above, you can buy it (complete with AWESOME
+> near-model looking passing by building Jandek album
+> cover) when the Man gets around to releasing it...but
+> it really is worth having NOW.
+
+I second that. The unrequited love of "I Passed By the Building", the quiet
+indecision at life's crossroads in "Variant", the epic incoherence of "Only
+Lover", great stuff. It and the other albums I've heard that document
+Jandek's brush with conventionality ("You Walk Alone", Side 1 of "Lost
+Cause") are the ones which resonate most strongly for me.
+
+Heh, for some reason "When The Telegraph Melts" from "You Walk Alone" always
+calls to mind hot and desperate afternoons in Houston. For some reason it
+always invokes this image/feeling of being somewhere along the Highway 59
+feeder road east of downtown, near Chinatown, around rush hour with the sun
+beginning to set. I can almost taste the dust and feel the oppressive heat.
+I have no idea why this image comes to mind.
+
+In fact, a lot of stuff from around that era brings to mind images of
+Houston for me... sometimes vague, blurry ones, (not unlike Jandek album
+covers) other times more vivid memories like the one mentioned above.
+
+
+> I had Epstein/Barr virus last year and found that
+> stuff oddly comforting.  I accept that I have
+> problems...
+
+Somehow that makes perfect sense. Heh.
+
+
+-ian
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 12651 invoked from network); 7 Mar 2002 03:36:47 -0000
+Received: from clueponbook.nasc.inter.net (HELO app3.nasc.inter.net) (203.176.60.253)
+  by godzilla.cs.nwu.edu with SMTP; 7 Mar 2002 03:36:47 -0000
+Received: from ip201.ontario22.dialup.canada.psi.net ([154.5.239.201])
+	by app3.nasc.inter.net with esmtp (Exim 3.22 #1)
+	id 16iohU-0002ws-00
+	for jandek@cs.northwestern.edu; Wed, 06 Mar 2002 22:36:16 -0500
+User-Agent: Microsoft-Outlook-Express-Macintosh-Edition/5.02.2022
+Date: Wed, 06 Mar 2002 22:36:49 -0500
+Subject: Re: Reply to an Introduction
+From: "Sam M." <smathesn@istar.ca>
+To: <jandek@cs.northwestern.edu>
+Message-ID: <B8AC4A81.1B0F%smathesn@istar.ca>
+In-Reply-To: <B8ABF708.313F%ian@kasley.com>
+Mime-version: 1.0
+Content-type: text/plain; charset="US-ASCII"
+Content-transfer-encoding: 7bit
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+on 3/6/02 7:40 PM, Ian Kasley at ian@kasley.com wrote:
+
+> on 3/6/02 7:14 AM, Danen at disappearingink@yahoo.com wrote:
+> 
+>> --- Paul Condon <paulgcondon@hotmail.com> wrote:
+> 
+>>> I'm also curious about which albums people rate
+>>> highest...
+>> 
+>> my personal favorite is 'Blue Corpse' (everybody who's
+>> been on the list awhile can take a second to laugh
+>> now). since you don't have it, may I suggest you go to
+>> ian Kasley's web site and download it?  As mentioned
+>> above, you can buy it (complete with AWESOME
+>> near-model looking passing by building Jandek album
+>> cover) when the Man gets around to releasing it...but
+>> it really is worth having NOW.
+> 
+> I second that. The unrequited love of "I Passed By the Building", the quiet
+> indecision at life's crossroads in "Variant", the epic incoherence of "Only
+> Lover", great stuff.
+
+Good stuff to read Joe Matt comix to, for those in the know!
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 19879 invoked from network); 7 Mar 2002 04:20:46 -0000
+Received: from imo-r10.mx.aol.com (152.163.225.106)
+  by godzilla.cs.nwu.edu with SMTP; 7 Mar 2002 04:20:46 -0000
+Received: from NCR13@aol.com
+	by imo-r10.mx.aol.com (mail_out_v32.5.) id l.35.23124348 (30963)
+	 for <jandek@cs.northwestern.edu>; Wed, 6 Mar 2002 23:20:16 -0500 (EST)
+From: NCR13@aol.com
+Message-ID: <35.23124348.29b84480@aol.com>
+Date: Wed, 6 Mar 2002 23:20:16 EST
+Subject: Re: oblique, mystique
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+X-Mailer: AOL for Macintosh OS X US sub 20
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+when I bought a digital 8-track, those were the first words I spoke into 
+it.....
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 1738 invoked from network); 7 Mar 2002 05:59:57 -0000
+Received: from scaup.mail.pas.earthlink.net (HELO scaup.prod.itd.earthlink.net) (207.217.120.49)
+  by godzilla.cs.nwu.edu with SMTP; 7 Mar 2002 05:59:57 -0000
+Received: from pool0065.cvx27-bradley.dialup.earthlink.net ([209.179.56.65] helo=o9p9q1)
+	by scaup.prod.itd.earthlink.net with smtp (Exim 3.33 #1)
+	id 16iqwW-0001WN-00
+	for jandek@cs.northwestern.edu; Wed, 06 Mar 2002 21:59:56 -0800
+From: "gregg luvoxx" <murderedman@earthlink.net>
+To: "Jandek" <jandek@cs.northwestern.edu>
+Subject: show and tell records
+Date: Wed, 6 Mar 2002 21:56:32 -0800
+Message-ID: <MABBKKLNJKPLHEEEBHLOEEDECOAA.murderedman@earthlink.net>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2911.0)
+X-MIMEOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Importance: Normal
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+http://www.showandtellmusic.com/pages/galleries/gallery_d/dwayne.h
+tml
+I'm sure this site has been mentioned before, but I've been diggin
+it all day.
+
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 11287 invoked from network); 7 Mar 2002 23:03:18 -0000
+Received: from f145.pav1.hotmail.com (HELO hotmail.com) (64.4.31.145)
+  by godzilla.cs.nwu.edu with SMTP; 7 Mar 2002 23:03:18 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 7 Mar 2002 15:02:51 -0800
+Received: from 213.190.147.241 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Thu, 07 Mar 2002 23:02:51 GMT
+X-Originating-IP: [213.190.147.241]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: More thoughts on "Worthless Recluse"
+Date: Thu, 07 Mar 2002 23:02:51 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F145mPiZxOASWTgZu6W000008a8@hotmail.com>
+X-OriginalArrivalTime: 07 Mar 2002 23:02:51.0470 (UTC) FILETIME=[3517D6E0:01C1C62C]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Listening to "Worthless Recluse" again it struck me that it's a really 
+solitary kind of experience - more so than the albums w/ instrumentation, 
+sitting around listening to it with other people would not only be quite an 
+unpopular form of entertainment (for the want of a better word) but also 
+seems somehow inappropriate. Some of the short tracks towards the end call 
+to mind someone absent-mindedly crooning a half-remembered pre-war ballad, 
+or the way you might unselfconciously sing random phrases that pop into your 
+head when home alone - or maybe that's just me.
+I know some people are kind of dismayed by the voice-only stuff, but did it 
+cross anybody's mind that the guy mightn't even own a guitar any more? He 
+mentions having a new house on "WR" and I get the feeling the old guitar 
+mightn't have made the removal van... the retiring of the electric style 
+would be a precedent but then again it seems futile to try and anticipate 
+anything.
+
+It's true that referring to "Jandek" as an individual is open to debate but 
+to me it seems to make most sense in terms of the presentation, solitary 
+feel of most of the music, introspective nature of the lyrics, etc. I 
+assumed it was a way for the artist to create a distinction between his 
+artistic and private/professional/whatever existence for his own sake as 
+well as to maintain anonymity. Anyway it seems more appropriate than 
+referring to Sterling Smith. The "we" of Corwood is a whole nuther question 
+which I'm going to resist the temptation to do an Oliver Stone on for 
+various reasons.
+
+How do you folk hear about new Jandek releases/reissues? Is it purely word 
+of mouth or do some selected elders recieve notification?
+Paul
+
+_________________________________________________________________
+Join the world’s largest e-mail service with MSN Hotmail. 
+http://www.hotmail.com
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 13353 invoked from network); 7 Mar 2002 23:14:02 -0000
+Received: from web13008.mail.yahoo.com (216.136.174.18)
+  by godzilla.cs.nwu.edu with SMTP; 7 Mar 2002 23:14:02 -0000
+Message-ID: <20020307231402.67011.qmail@web13008.mail.yahoo.com>
+Received: from [68.42.122.227] by web13008.mail.yahoo.com via HTTP; Thu, 07 Mar 2002 15:14:02 PST
+Date: Thu, 7 Mar 2002 15:14:02 -0800 (PST)
+From: tom bruny <snorp1@yahoo.com>
+Subject: Re: More thoughts on "Worthless Recluse"
+To: Paul Condon <paulgcondon@hotmail.com>, jandek@cs.northwestern.edu
+In-Reply-To: <F145mPiZxOASWTgZu6W000008a8@hotmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-979272910-1015542842=:64370"
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+--0-979272910-1015542842=:64370
+Content-Type: text/plain; charset=us-ascii
+
+
+ Havent heard any of the
+Spoken word albums 
+except the 3 and a half minutes
+or so on the Aquarius site,
+creepy,and not in a good way.
+i think ill stick to the music .
+  Paul Condon <paulgcondon@hotmail.com> wrote: Listening to "Worthless Recluse" again it struck me that it's a really 
+solitary kind of experience - more so than the albums w/ instrumentation, 
+sitting around listening to it with other people would not only be quite an 
+unpopular form of entertainment (for the want of a better word) but also 
+seems somehow inappropriate. Some of the short tracks towards the end call 
+to mind someone absent-mindedly crooning a half-remembered pre-war ballad, 
+or the way you might unselfconciously sing random phrases that pop into your 
+head when home alone - or maybe that's just me.
+I know some people are kind of dismayed by the voice-only stuff, but did it 
+cross anybody's mind that the guy mightn't even own a guitar any more? He 
+mentions having a new house on "WR" and I get the feeling the old guitar 
+mightn't have made the removal van... the retiring of the electric style 
+would be a precedent but then again it seems futile to try and anticipate 
+anything.
+
+It's true that referring to "Jandek" as an individual is open to debate but 
+to me it seems to make most sense in terms of the presentation, solitary 
+feel of most of the music, introspective nature of the lyrics, etc. I 
+assumed it was a way for the artist to create a distinction between his 
+artistic and private/professional/whatever existence for his own sake as 
+well as to maintain anonymity. Anyway it seems more appropriate than 
+referring to Sterling Smith. The "we" of Corwood is a whole nuther question 
+which I'm going to resist the temptation to do an Oliver Stone on for 
+various reasons.
+
+How do you folk hear about new Jandek releases/reissues? Is it purely word 
+of mouth or do some selected elders recieve notification?
+Paul
+
+_________________________________________________________________
+Join the world’s largest e-mail service with MSN Hotmail. 
+http://www.hotmail.com
+
+
+
+---------------------------------
+Do You Yahoo!?
+Try FREE Yahoo! Mail - the world's greatest free email!
+--0-979272910-1015542842=:64370
+Content-Type: text/html; charset=us-ascii
+
+<P>&nbsp;<FONT color=blueviolet>Havent heard any of the</FONT>
+<P><FONT color=#8a2be2>Spoken word albums </FONT>
+<P><FONT color=#8a2be2>except the 3 and a half minutes</FONT>
+<P><FONT color=#8a2be2>or so on the Aquarius site,</FONT>
+<P><FONT color=#8a2be2>creepy,and not in a good way.</FONT>
+<P><FONT color=#8a2be2>i think ill stick to the music .</FONT>
+<P>&nbsp; <B><I>Paul Condon &lt;paulgcondon@hotmail.com&gt;</I></B> wrote: 
+<BLOCKQUOTE style="PADDING-LEFT: 5px; MARGIN-LEFT: 5px; BORDER-LEFT: #1010ff 2px solid">Listening to "Worthless Recluse" again it struck me that it's a really <BR>solitary kind of experience - more so than the albums w/ instrumentation, <BR>sitting around listening to it with other people would not only be quite an <BR>unpopular form of entertainment (for the want of a better word) but also <BR>seems somehow inappropriate. Some of the short tracks towards the end call <BR>to mind someone absent-mindedly crooning a half-remembered pre-war ballad, <BR>or the way you might unselfconciously sing random phrases that pop into your <BR>head when home alone - or maybe that's just me.<BR>I know some people are kind of dismayed by the voice-only stuff, but did it <BR>cross anybody's mind that the guy mightn't even own a guitar any more? He <BR>mentions having a new house on "WR" and I get the feeling the old guitar <BR>mightn't have made the removal van... the retiring of the electric style <BR>would be a precedent but then again it seems futile to try and anticipate <BR>anything.<BR><BR>It's true that referring to "Jandek" as an individual is open to debate but <BR>to me it seems to make most sense in terms of the presentation, solitary <BR>feel of most of the music, introspective nature of the lyrics, etc. I <BR>assumed it was a way for the artist to create a distinction between his <BR>artistic and private/professional/whatever existence for his own sake as <BR>well as to maintain anonymity. Anyway it seems more appropriate than <BR>referring to Sterling Smith. The "we" of Corwood is a whole nuther question <BR>which I'm going to resist the temptation to do an Oliver Stone on for <BR>various reasons.<BR><BR>How do you folk hear about new Jandek releases/reissues? Is it purely word <BR>of mouth or do some selected elders recieve notification?<BR>Paul<BR><BR>_________________________________________________________________<BR>Join the world’s largest e-mail service with MSN Hotmail. <BR>http://www.hotmail.com<BR></BLOCKQUOTE><p><br><hr size=1><b>Do You Yahoo!?</b><br>
+Try FREE <a href="$rd_url/tag/http://mail.yahoo.com/">Yahoo! Mail</a> - the world's greatest free email!
+--0-979272910-1015542842=:64370--
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 14511 invoked from network); 7 Mar 2002 23:19:56 -0000
+Received: from major.francomm.com (HELO liberty.francomm.com) (root@208.9.129.201)
+  by godzilla.cs.nwu.edu with SMTP; 7 Mar 2002 23:19:56 -0000
+Received: from francomm.com (dialupmax6096a006.francomm.com [208.12.108.6])
+	by liberty.francomm.com (8.9.3/8.9.3/Debian 8.9.3-21) with ESMTP id SAA09985
+	for <jandek@cs.northwestern.edu>; Thu, 7 Mar 2002 18:13:53 -0500
+X-Authentication-Warning: liberty.francomm.com: Host dialupmax6096a006.francomm.com [208.12.108.6] claimed to be francomm.com
+Message-ID: <3C87F564.90CA3B56@francomm.com>
+Date: Thu, 07 Mar 2002 18:19:00 -0500
+From: nevermor@francomm.com
+X-Mailer: Mozilla 4.51 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: "jandek@cs.northwestern.edu" <jandek@cs.northwestern.edu>
+Subject: Re: More thoughts on "Worthless Recluse"
+References: <F145mPiZxOASWTgZu6W000008a8@hotmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+
+Paul Condon wrote:
+
+> Listening to "Worthless Recluse" again it struck me that it's a really
+> solitary kind of experience
+
+Worthless Recluse is one of my favs. Look at the archives for reviews of it from
+this list once Seth updates his site.
+Seth do you need a scan of Worthless Recluse???
+
+It's like Jandek found what he wanted on "Put My Dream On This Planet", and he
+took it father on "Worthless Recluse". Expanded the idea with slightly better
+quality to boot!  It remids me of a diary entry.
+
+I just found a still sealed copy of Telegram Melts. It has a peculiar bulge in
+it, so I haven't opened it yet!
+
+> He mentions having a new house on "WR" and I get the feeling the old guitar
+> mightn't have made the removal van...
+
+What a shame that would be if that really was the cause! I wonder what kind of
+guitar he has used.. Acoustically.
+
+> How do you folk hear about new Jandek releases/reissues? Is it purely word
+> of mouth or do some selected elders recieve notification?
+
+Yes
+
+
+
+
+
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 16611 invoked from network); 7 Mar 2002 23:29:28 -0000
+Received: from f188.pav1.hotmail.com (HELO hotmail.com) (64.4.31.188)
+  by godzilla.cs.nwu.edu with SMTP; 7 Mar 2002 23:29:28 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 7 Mar 2002 15:29:02 -0800
+Received: from 213.190.147.241 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Thu, 07 Mar 2002 23:29:01 GMT
+X-Originating-IP: [213.190.147.241]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: More thoughts on "Worthless Recluse"
+Date: Thu, 07 Mar 2002 23:29:01 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F188dekDQqj3UpzAfqu00006276@hotmail.com>
+X-OriginalArrivalTime: 07 Mar 2002 23:29:02.0125 (UTC) FILETIME=[DD46C5D0:01C1C62F]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+
+
+> > How do you folk hear about new Jandek releases/reissues? Is it purely 
+>word
+> > of mouth or do some selected elders recieve notification?
+>
+>Yes
+
+You dark horses. I'm scared.
+
+
+
+
+_________________________________________________________________
+Chat with friends online, try MSN Messenger: http://messenger.msn.com
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 18546 invoked from network); 7 Mar 2002 23:38:18 -0000
+Received: from web13006.mail.yahoo.com (216.136.174.16)
+  by godzilla.cs.nwu.edu with SMTP; 7 Mar 2002 23:38:18 -0000
+Message-ID: <20020307233818.95754.qmail@web13006.mail.yahoo.com>
+Received: from [68.42.122.227] by web13006.mail.yahoo.com via HTTP; Thu, 07 Mar 2002 15:38:17 PST
+Date: Thu, 7 Mar 2002 15:38:17 -0800 (PST)
+From: tom bruny <snorp1@yahoo.com>
+Subject: Re: More thoughts on "Worthless Recluse"
+To: Paul Condon <paulgcondon@hotmail.com>, jandek@cs.northwestern.edu
+In-Reply-To: <F188dekDQqj3UpzAfqu00006276@hotmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1243162588-1015544297=:93941"
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+--0-1243162588-1015544297=:93941
+Content-Type: text/plain; charset=us-ascii
+
+
+ I usually find out from the web sites
+or Forced Exposure updates,i not sent
+for a Corwood catalogue yet,im waiting for
+You Walk Alone to be reissued
+  Paul Condon <paulgcondon@hotmail.com> wrote: 
+
+
+> > How do you folk hear about new Jandek releases/reissues? Is it purely 
+>word
+> > of mouth or do some selected elders recieve notification?
+>
+>Yes
+
+You dark horses. I'm scared.
+
+
+
+
+_________________________________________________________________
+Chat with friends online, try MSN Messenger: http://messenger.msn.com
+
+
+
+---------------------------------
+Do You Yahoo!?
+Try FREE Yahoo! Mail - the world's greatest free email!
+--0-1243162588-1015544297=:93941
+Content-Type: text/html; charset=us-ascii
+
+<P>&nbsp;<FONT color=aqua>I usually find out from the web sites</FONT>
+<P><FONT color=#00ffff>or Forced Exposure updates,i not sent</FONT>
+<P><FONT color=#00ffff>for a Corwood catalogue yet,im waiting for</FONT>
+<P><FONT color=#00ffff>You Walk Alone to be reissued</FONT>
+<P>&nbsp; <B><I>Paul Condon &lt;paulgcondon@hotmail.com&gt;</I></B> wrote: 
+<BLOCKQUOTE style="PADDING-LEFT: 5px; MARGIN-LEFT: 5px; BORDER-LEFT: #1010ff 2px solid"><BR><BR><BR>&gt; &gt; How do you folk hear about new Jandek releases/reissues? Is it purely <BR>&gt;word<BR>&gt; &gt; of mouth or do some selected elders recieve notification?<BR>&gt;<BR>&gt;Yes<BR><BR>You dark horses. I'm scared.<BR><BR><BR><BR><BR>_________________________________________________________________<BR>Chat with friends online, try MSN Messenger: http://messenger.msn.com<BR></BLOCKQUOTE><p><br><hr size=1><b>Do You Yahoo!?</b><br>
+Try FREE <a href="$rd_url/tag/http://mail.yahoo.com/">Yahoo! Mail</a> - the world's greatest free email!
+--0-1243162588-1015544297=:93941--
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 29714 invoked from network); 8 Mar 2002 00:43:35 -0000
+Received: from imailg1.svr.pol.co.uk (195.92.195.179)
+  by godzilla.cs.nwu.edu with SMTP; 8 Mar 2002 00:43:35 -0000
+Received: from [195.92.168.141] (helo=tmailb1.svr.pol.co.uk)
+	by imailg1.svr.pol.co.uk with esmtp (Exim 3.35 #1)
+	id 16j8Tv-00089o-00
+	for jandek@cs.northwestern.edu; Fri, 08 Mar 2002 00:43:35 +0000
+Received: from modem-723.caterpie.dialup.pol.co.uk ([217.135.59.211] helo=nyro)
+	by tmailb1.svr.pol.co.uk with smtp (Exim 3.35 #1)
+	id 16j8Tt-0006nD-00
+	for jandek@cs.northwestern.edu; Fri, 08 Mar 2002 00:43:34 +0000
+Message-ID: <007901c1c63a$44457510$d33b87d9@nyro>
+Reply-To: "Jamie Morrison" <amsc05826@cableinet.co.uk>
+From: "Jamie Morrison" <amsc05826@cableinet.co.uk>
+To: "jandek" <jandek@cs.northwestern.edu>
+References: <20020307233818.95754.qmail@web13006.mail.yahoo.com>
+Subject: Re: More thoughts on "Worthless Recluse"
+Date: Fri, 8 Mar 2002 00:43:21 -0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0076_01C1C63A.3F809A00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0076_01C1C63A.3F809A00
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Argh!!!!! Cyan text on white background!!!!!! *eyes burn*
+
+Oh, and in reply to the original question, I hear about the reissues =
+through you lot - though I suppose that it would make sense to write to =
+Corwood and just ask?
+
+I'm also waiting for Telegraph Melts and You Walk Alone to be reissued. =
+I have a distinct feeling that these records will sound totally kickass =
+in the new fangled remastered versions.
+
+Love Jamie
+  ----- Original Message -----=20
+  From: tom bruny=20
+  To: Paul Condon ; jandek@cs.northwestern.edu=20
+  Sent: Thursday, March 07, 2002 11:38 PM
+  Subject: Re: More thoughts on "Worthless Recluse"
+
+
+   I usually find out from the web sites=20
+
+  or Forced Exposure updates,i not sent=20
+
+  for a Corwood catalogue yet,im waiting for=20
+
+  You Walk Alone to be reissued=20
+
+    Paul Condon <paulgcondon@hotmail.com> wrote:=20
+
+
+
+
+    > > How do you folk hear about new Jandek releases/reissues? Is it =
+purely=20
+    >word
+    > > of mouth or do some selected elders recieve notification?
+    >
+    >Yes
+
+    You dark horses. I'm scared.
+
+
+
+
+    _________________________________________________________________
+    Chat with friends online, try MSN Messenger: =
+http://messenger.msn.com
+
+
+
+
+
+-------------------------------------------------------------------------=
+-----
+  Do You Yahoo!?
+  Try FREE Yahoo! Mail - the world's greatest free email!
+
+------=_NextPart_000_0076_01C1C63A.3F809A00
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2600.0" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>Argh!!!!! Cyan text on white =
+background!!!!!! *eyes=20
+burn*</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Oh, and in reply to the original =
+question, I hear=20
+about the reissues through you lot - though I suppose that it would make =
+sense=20
+to write to Corwood and just ask?</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>I'm also waiting for Telegraph Melts =
+and You Walk=20
+Alone to be reissued. I have a distinct feeling that these records will =
+sound=20
+totally kickass in the new fangled remastered =
+versions.</FONT></DIV><FONT=20
+face=3DArial size=3D2>
+<DIV><BR>Love Jamie</DIV></FONT>
+<BLOCKQUOTE=20
+style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 5px; MARGIN-LEFT: 5px; =
+BORDER-LEFT: #000000 2px solid; MARGIN-RIGHT: 0px">
+  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+  <DIV=20
+  style=3D"BACKGROUND: #e4e4e4; FONT: 10pt arial; font-color: =
+black"><B>From:</B>=20
+  <A title=3Dsnorp1@yahoo.com href=3D"mailto:snorp1@yahoo.com">tom =
+bruny</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A =
+title=3Dpaulgcondon@hotmail.com=20
+  href=3D"mailto:paulgcondon@hotmail.com">Paul Condon</A> ; <A=20
+  title=3Djandek@cs.northwestern.edu=20
+  =
+href=3D"mailto:jandek@cs.northwestern.edu">jandek@cs.northwestern.edu</A>=
+ </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Thursday, March 07, 2002 =
+11:38=20
+  PM</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> Re: More thoughts on =
+"Worthless=20
+  Recluse"</DIV>
+  <DIV><BR></DIV>
+  <P>&nbsp;<FONT color=3Daqua>I usually find out from the web =
+sites</FONT>=20
+  <P><FONT color=3D#00ffff>or Forced Exposure updates,i not sent</FONT>=20
+  <P><FONT color=3D#00ffff>for a Corwood catalogue yet,im waiting =
+for</FONT>=20
+  <P><FONT color=3D#00ffff>You Walk Alone to be reissued</FONT>=20
+  <P>&nbsp; <B><I>Paul Condon &lt;<A=20
+  =
+href=3D"mailto:paulgcondon@hotmail.com">paulgcondon@hotmail.com</A>&gt;</=
+I></B>=20
+  wrote:=20
+  <BLOCKQUOTE=20
+  style=3D"PADDING-LEFT: 5px; MARGIN-LEFT: 5px; BORDER-LEFT: #1010ff 2px =
+solid"><BR><BR><BR>&gt;=20
+    &gt; How do you folk hear about new Jandek releases/reissues? Is it =
+purely=20
+    <BR>&gt;word<BR>&gt; &gt; of mouth or do some selected elders =
+recieve=20
+    notification?<BR>&gt;<BR>&gt;Yes<BR><BR>You dark horses. I'm=20
+    =
+scared.<BR><BR><BR><BR><BR>______________________________________________=
+___________________<BR>Chat=20
+    with friends online, try MSN Messenger:=20
+  http://messenger.msn.com<BR></BLOCKQUOTE>
+  <P><BR>
+  <HR SIZE=3D1>
+  <B>Do You Yahoo!?</B><BR>Try FREE <A=20
+  href=3D"$rd_url/tag/http://mail.yahoo.com/">Yahoo! Mail</A> - the =
+world's=20
+  greatest free email!</BLOCKQUOTE></BODY></HTML>
+
+------=_NextPart_000_0076_01C1C63A.3F809A00--
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 18386 invoked from network); 16 Mar 2002 16:14:45 -0000
+Received: from smtpout.mac.com (204.179.120.85)
+  by godzilla.cs.nwu.edu with SMTP; 16 Mar 2002 16:14:45 -0000
+Received: from smtp-relay01.mac.com (server-source-si02 [10.13.10.6])
+	by smtpout.mac.com (8.12.1/8.10.2/1.0) with ESMTP id g2GGEf0R004788
+	for <jandek@cs.northwestern.edu>; Sat, 16 Mar 2002 08:14:41 -0800 (PST)
+Received: from asmtp01.mac.com ([10.13.10.65]) by
+          smtp-relay01.mac.com (Netscape Messaging Server 4.15 relay01 Jun
+          21 2001 23:53:48) with ESMTP id GT2QGG00.M0C for
+          <jandek@cs.northwestern.edu>; Sat, 16 Mar 2002 08:14:40 -0800 
+Received: from [192.168.1.101] ([141.158.71.184]) by
+          asmtp01.mac.com (Netscape Messaging Server 4.15 asmtp01 Jun 21
+          2001 23:53:48) with ESMTP id GT2QGF00.K6L for
+          <jandek@cs.northwestern.edu>; Sat, 16 Mar 2002 08:14:39 -0800 
+Mime-Version: 1.0
+X-Sender: maurice@mail.mac.com
+Message-Id: <p05101406b8b91f33a903@[192.168.1.101]>
+In-Reply-To: <007901c1c63a$44457510$d33b87d9@nyro>
+References: <20020307233818.95754.qmail@web13006.mail.yahoo.com>
+ <007901c1c63a$44457510$d33b87d9@nyro>
+Date: Sat, 16 Mar 2002 11:14:36 -0500
+To: jandek@cs.northwestern.edu
+From: Maurice Rickard <maurice@mac.com>
+Subject: Janky in the NYT
+Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+As part of the semiannual "outsider music" article.  Nothing we 
+didn't know already, but hey, the Times.  Full Janky text: "At the 
+somewhat darker end of the outsider music spectrum are troubled souls 
+like Jandek, a recluse who has issued no fewer than 30 homemade 
+albums full of dirges that sound like murmured suicide notes."  And 
+there are a few paragraphs devoted to Chusid.
+
+http://www.nytimes.com/2002/03/17/magazine/17WWLN.html (registration 
+required, blah blah blah)
+-- 
+Maurice Rickard
+http://mauricerickard.com/
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 6510 invoked from network); 20 Mar 2002 21:37:50 -0000
+Received: from adsl-63-194-217-205.dsl.snfc21.pacbell.net (HELO ss4.) (63.194.217.205)
+  by godzilla.cs.nwu.edu with SMTP; 20 Mar 2002 21:37:50 -0000
+Received: from [192.168.0.3] (iMac [192.168.0.3])
+	by ss4. (8.12.1/8.12.1) with ESMTP id g2KLXl7h010820
+	for <jandek@cs.northwestern.edu>; Wed, 20 Mar 2002 13:33:52 -0800 (PST)
+User-Agent: Microsoft-Outlook-Express-Macintosh-Edition/5.02.2022
+Date: Wed, 20 Mar 2002 13:37:16 -0800
+Subject: Jandek ate my bandwidth (and all I got was this lousy httpd
+	referrer log)
+From: Ian Kasley <ian@kasley.com>
+To: Jandek <jandek@cs.northwestern.edu>
+Message-ID: <B8BE410B.3379%ian@kasley.com>
+Mime-version: 1.0
+Content-type: text/plain; charset="US-ASCII"
+Content-transfer-encoding: 7bit
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Howdy.
+
+As a result of an item about Our Hero being posted on
+http://www.metafilter.com yesterday, connections to my friend's server where
+the Jandek mp3's were being hosted started coming in at an alarming rate
+last night, so he got a bit cheesed off and clamped down access to that
+directory.
+
+So... no more mp3s for the time being.
+
+It may have to be permanent this time, unless someone with bandwidth to burn
+wants to donate some for them. (It was on an ADSL line with 256k upstream,
+which at least beat my own 128k upstream which it used to be served off of)
+Hell, I'd even be willing to co-locate one of my old Sparcs or something.
+(Are you in the San Francisco Bay Area? Let's talk!)
+
+At any rate, the RealAudio should still be working, and I hope to at least
+have those continue to be available.
+
+
+-ian
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 10444 invoked from network); 20 Mar 2002 22:00:32 -0000
+Received: from f49.pav1.hotmail.com (HELO hotmail.com) (64.4.31.49)
+  by godzilla.cs.nwu.edu with SMTP; 20 Mar 2002 22:00:32 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 20 Mar 2002 14:00:01 -0800
+Received: from 195.218.98.153 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Wed, 20 Mar 2002 22:00:01 GMT
+X-Originating-IP: [195.218.98.153]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: very short tracks required
+Date: Wed, 20 Mar 2002 22:00:01 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F491BF4UhaAeGOIuX5Q0000bf02@hotmail.com>
+X-OriginalArrivalTime: 20 Mar 2002 22:00:01.0668 (UTC) FILETIME=[957C7440:01C1D05A]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I thought some of you might be interested in contributing to the compilation 
+described below...
+
+>From Ireland
+Attention all leftfield/noise/avant/electronic/experimental artists
+...records are inviting musicians/ nonmusicians to submit tracks for a 
+forthcoming compilation, which will contain 99 tracks, so the brief of the 
+project is to be well...brief, 42 secs per track, or less of course - we 
+would like artists submitting to write/record a specific track for the 
+compilation, and please try to avoid fade-ins and fade-outs too! If you are 
+sending an edit of a longer track - choose carefully.
+this is a non profit affair, and copyright remains with the artists. Very 
+limited copies available for retail purposes to cover our costs, but a huge 
+number distributed for promotion, all artists on the compilation recieve 1 
+free copy. all copies with handmade packaging etc.
+      We're looking for field recordings, found recordings, spoken word, 
+electro acoustic, noise etc. Booklet will contain contact addresses/blurb 
+for all acts involved.
+      So if you are interested contact dotdotdotrecs@hotmail.com or send 
+your stuff directly, preferably on cd, minidisk or cassette to ...records, 
+po box 213, An Post Sorting Office, Cork City, Ireland.
+brian
+
+The deadline was supposed to be the end of this month but this no longer 
+applies - also note that there is to be further volumes so don't worry about 
+being late, if a contribution arrives too late for the first volume it may 
+get on the next. So far contributors have included KK Null, Rodelius, Silver 
+Apples and many lesser known artists (and ones I can't think of) from 
+Ireland, Japan, the US & elsewhere, and the likes of Pauline Oliveros, Keith 
+Rowe, Guapo & Zu have agreed to contribute.
+Please bring this message to the attention of anyone you think might be 
+interested.
+
+And, no, I wasn't planning to ask you-know-who for a contribution - I think 
+it's probably somewhat unlikely...
+If anyone needs further info contact me at this address, or Brian at 
+dotdotdotrecs@hotmail.com.
+
+Paul
+
+
+_________________________________________________________________
+Chat with friends online, try MSN Messenger: http://messenger.msn.com
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 17431 invoked from network); 28 Mar 2002 05:39:52 -0000
+Received: from unknown (HELO venture.vosn.net) (157.238.46.52)
+  by godzilla.cs.nwu.edu with SMTP; 28 Mar 2002 05:39:52 -0000
+Received: from rich by venture.vosn.net with local (Exim 3.34 #1)
+	id 16qScw-0008Bm-00
+	for jandek@cs.northwestern.edu; Wed, 27 Mar 2002 21:39:10 -0800
+From: "jillandfelix" <jillandfelix@rhizomerecordings.com>
+To: jandek@cs.northwestern.edu
+Subject: you may like...
+X-Mailer: NeoMail 1.25
+X-IPAddress: 165.247.48.167
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Message-Id: <E16qScw-0008Bm-00@venture.vosn.net>
+Date: Wed, 27 Mar 2002 21:39:10 -0800
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - venture.vosn.net
+X-AntiAbuse: Original Domain - cs.northwestern.edu
+X-AntiAbuse: Originator/Caller UID/GID - [32429 1390] / [32429 1390]
+X-AntiAbuse: Sender Address Domain - venture.vosn.net
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+hello,
+
+I am a part of a new record label called rhizome recordings, and 
+we have just finished our first release, which a singer/guitar guy.  it 
+takes a bit from Jandek and his stylings...
+
+our webpage is-
+
+www.rhizomerecordings.com
+
+there are two mp3s on the site
+
+I hope you all like it, and sorry for the over-promoting email,
+
+
+felix
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 18396 invoked from network); 28 Mar 2002 05:43:40 -0000
+Received: from unknown (HELO venture.vosn.net) (157.238.46.52)
+  by godzilla.cs.nwu.edu with SMTP; 28 Mar 2002 05:43:40 -0000
+Received: from rich by venture.vosn.net with local (Exim 3.34 #1)
+	id 16qShJ-0008RV-00
+	for jandek@cs.northwestern.edu; Wed, 27 Mar 2002 21:43:41 -0800
+From: "jillandfelix" <jillandfelix@rhizomerecordings.com>
+To: jandek@cs.northwestern.edu
+Subject: if you like jandek
+X-Mailer: NeoMail 1.25
+X-IPAddress: 165.247.48.167
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Message-Id: <E16qShJ-0008RV-00@venture.vosn.net>
+Date: Wed, 27 Mar 2002 21:43:41 -0800
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - venture.vosn.net
+X-AntiAbuse: Original Domain - cs.northwestern.edu
+X-AntiAbuse: Originator/Caller UID/GID - [32429 1390] / [32429 1390]
+X-AntiAbuse: Sender Address Domain - venture.vosn.net
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 14130 invoked from network); 31 Mar 2002 05:33:18 -0000
+Received: from imo-r02.mx.aol.com (152.163.225.98)
+  by godzilla.cs.nwu.edu with SMTP; 31 Mar 2002 05:33:18 -0000
+Received: from NCR13@aol.com
+	by imo-r02.mx.aol.com (mail_out_v32.5.) id l.15a.b7017a9 (25306)
+	 for <jandek@cs.northwestern.edu>; Sun, 31 Mar 2002 00:32:45 -0500 (EST)
+From: NCR13@aol.com
+Message-ID: <15a.b7017a9.29d7f97b@aol.com>
+Date: Sun, 31 Mar 2002 00:32:43 EST
+Subject: You Walk Alone lyrics
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+X-Mailer: AOL for Macintosh OS X US sub 20
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Happy Easter!
+
+Time and Space (1,2)
+
+He said show up wearing black or white
+I looked at my clothes and it seemed
+Ahhh, they were all black
+They carried my clothes in coffins
+He said yeah, put them in the closet
+Time, space
+He won the silver ??? around my neck
+I looked around but ahhh
+Land sakes!
+They bought all their oranges from Florida
+You said just put them in the closet
+Time, space
+He brought a lot of phony eyebrow pencils
+I hid behind an electric fence
+Oh they brought ??? bush from Ireland
+Ireland
+You said ah, just put 'em you know where-
+In the closet, that's where
+In the closet
+Time, space
+He said show up beat up
+Wearing black or white
+I looked at my clothes, they were all, all black
+They carried in my clothes on coffins
+Ahh, you just said put 'em in the closet
+Time, space
+
+The Cat That Walked From Shelbyville (1,3)
+
+For today I'll smoke a cigar 
+For today I'll play your guitar 
+For today I'll be real nice 
+For today I'll cut you thrice 
+For today I'll cup your eyes 
+For today make no disguise 
+There's a blanket for ya, doctor 
+There's a full-fledged man o' war 
+There's an ink spot on your jersey 
+And scuff marks on your floor 
+For today you smoked a cigar 
+For today you felt real cool 
+For today you wore a blue shirt 
+For today you wore some old brown shoes 
+
+Quinn Boys II (1,4)
+
+Did you ever go down to see the Quinn boys? 
+When I walked down there I went ahh 
+Meet you in the Bowery 
+Goodbye Beacon Hill 
+Hello misfortune, I've got time to kill 
+Time to kill, I've got time to kill 
+Spend all of my days roaming all of the ways 
+Deliver me and see the sun, see the moon in dark June 
+Kiss the sand and ocean salt 
+Take my brother by the hand 
+It's you, and I the man
+
+The Way That You Act (2,1)
+
+As a matter of fact
+It's the way that you act
+As a matter of well
+It's customary
+It was a real pie
+I got it all in my eye
+Fran Drescher (?!?) she told me
+She wanted to hold me
+I laughed to myself
+It's all on a shelf
+It burns and I smoke it
+The words that I choke it
+Finally he cried out
+I wanna be out (repeat)
+
+I Know The Times (2,2)
+
+I know that the time
+Spent together
+Weren't always meant to be
+Oh the voices outside that we heard so clearly
+Weren't for us to hear
+So it's true I was ??? you
+??? you an everlasting moment
+Glue(?) to be
+I listened to the other side of life
+Listen, don't turn back the tide of life
+If I should go and try to find
+The only thing that's on my mind
+Each and every day I dream a dream
+In which I don't return
+But I can never feel the threat
+No never feel the threat of losing
+Anything I got for free
+So listen to the other side of life
+Listen, don't turn back the tide of life
+
+When the Telephone Melts (2,3)
+
+When the telephone melts
+And it's still ringing your name
+When your shoe's got holes
+And a ???'s not the same
+And you're fallin' down
+Then you can think about your mother
+Yes, you can think about your friends
+But you can't blame me for not being around
+You know I told you long ago
+Before you grew so
+That I was a man
+The claws borne on my face
+I say I knew it was jungle
+And I was a man, had a place to go
+If you care, go with me
+Then I just don't know
+But I've thought about your humor
+When you laughed in my face
+You know I didn't mind
+When you stood on my hand
+And then I turned the tables 'round
+I thought it just another day
+I thought you saw it my way
+But oh, to my surprise
+There's a difference in your eyes
+And I thought it hard to find you
+Say you want an ashtray
+???, you think you'll fly away(?)
+But you can joke about your woman
+Yeah, you can say my name in vain
+Say my name in vain
+
+War Dance (2,4)
+
+I'm goin' to the war dance
+I swear I must be ??? in the end
+Ridin' to a war path
+??? dance of death
+Run around the red fire
+Thump, ??? thump thump
+War dance all night long
+War dance all night long
+War dance all night long
+??? the strength
+When ??? bring our path back home
+Oh ??? give us stealth
+Oh ??? flow like ???
+Flow, ??? flow like their blood
+
+COMMENTS: 5 star Jandek. This album is probably as straightforward as his 
+records get, sounding a little like the Grateful Dead, oddly enough. Bares 
+basically no resemblence to what is now available on CD (but the ones that 
+are still out of print are the good ones, IMO). Several songs use recycled 
+lyrics; The Cat... uses For Today, Quinn Boys II uses Quinn Boys I (duh), and 
+The Way That You Act is from Customary. When The Telephone Melts would later 
+be semi-quoted in Think About Your Lady. There are moments where you can hear 
+background chatter if you listen with headphones. I Know The Times is sung in 
+the goofy "non-Jandek" voice that occasionally shows up. The "Fran Drescher" 
+line seems wrong of course, but I've listened to it so many times and can't 
+make a better interpretation (in the original lyric that line wasn't in it at 
+all). Maybe someone else can?
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 6346 invoked from network); 31 Mar 2002 08:15:32 -0000
+Received: from toole.uol.com.br (200.231.206.186)
+  by godzilla.cs.nwu.edu with SMTP; 31 Mar 2002 08:15:32 -0000
+Received: from planetawebsite.com.br ([200.227.138.77])
+	by toole.uol.com.br (8.9.1/8.9.1) with SMTP id FAA07630
+	for <jandek@cs.northwestern.edu>; Sun, 31 Mar 2002 05:11:02 -0300 (BRT)
+Message-Id: <200203310811.FAA07630@toole.uol.com.br>
+From: "Soundj - Skol Beats" <planetawebsite@planetawebsite.com.br>
+To: <jandek@cs.northwestern.edu>
+Subject: Soundj - Skol Beats
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Sun, 31 Mar 2002 05:18:46 -0300
+Reply-To: "Soundj - Skol Beats" <planetawebsite@planetawebsite.com.br>
+Content-Transfer-Encoding: 8bit
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Soundj - detonando a barreira do som</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252"><BASE 
+href=>
+<SCRIPT language=JavaScript>
+<!-- 
+var axel = Math.random() + "";
+var ord = axel * 1000000000000000000;
+//-->
+</SCRIPT>
+
+<STYLE title=pc_css type=text/css>DIV {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; FONT-FAMILY: Arial,Helvetica
+}
+A:link {
+	FONT-STYLE: normal; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-STYLE: normal; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+DIV.tit1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px
+}
+DIV.side {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-STYLE: normal
+}
+DIV.bar {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: white; LINE-HEIGHT: 1.6;
+FONT-FAMILY: Verdana, Arial, Helvetica
+}
+INPUT {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; FONT-FAMILY: Verdana, Arial, Helvetica
+}
+</STYLE>
+<BASE href=http://www.soundj.com.br/news/>
+<META content="MSHTML 6.00.2713.1100" name=GENERATOR></HEAD>
+<BODY vLink=#003399 link=#003399 bgColor=#000000 
+background=http://www.soundj.com.br/news/bg_green_new.gif topMargin=0>
+<DIV></DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#000000 border=0>
+  <TBODY> 
+  <TR>
+    <TD width=135 bgColor=#000000><img
+src="http://www.soundj.com.br/news/fo.gif"></TD>
+    <TD width=223>&nbsp;</TD>
+    <TD width="100%" bgColor=#000000>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp;</td>
+          <td> 
+            <div align="center"></div>
+          </td>
+        </tr>
+      </table>
+    </TD>
+  </TR></TBODY></TABLE>
+<SCRIPT language=javascript>
+<!--
+function mouseOver(src,clrOver) {
+if (!src.contains(event.fromElement)) {
+src.style.cursor = 'hand';
+src.bgColor = clrOver;
+}
+}
+function mouseOut(src,clrIn) {
+if (!src.contains(event.toElement)) {
+src.style.cursor = 'default';
+src.bgColor = clrIn;
+}
+}
+function mouseClick(src) {
+if(event.srcElement.tagName=='TD'){
+src.children.tags('A')[0].click();
+}
+}
+// --> 
+</SCRIPT>
+
+<TABLE cellSpacing=0 cellPadding=4 width="100%" border=0>
+  <TBODY> 
+  <TR> 
+    <TD onmouseover="mouseOver(this,'#cc6600');" onclick=mouseClick(this); 
+    onmouseout="mouseOut(this,'#000000');" align=middle width="14%" 
+    bgColor=#000000>
+      <div align="center"><A href="http://www.soundj.com.br" 
+      target=_blank><FONT face=Arial,Helvetica color=#ffcc00 
+      size=2><B>.:: clique aqui e visite nosso site www.soundj.com.br
+::.</B></FONT></A> 
+      </div>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top>
+      <TABLE cellSpacing=0 cellPadding=4 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD bgColor=#e8e8d0>
+            <TABLE cellSpacing=0 cellPadding=0 width="95%" align=center 
+border=0>
+              <TBODY>
+              <TR>
+                <TD><font face="Verdana,Arial,Helvetica" size="1">Newsletter
+Soundj.com.br 
+                  </font></TD>
+              </TR></TBODY></TABLE></TD></TR><!---INICIO TABELA NOTICIAS
+UPDATE---></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=12 border=0>
+        <TBODY>
+        <TR vAlign=top>
+          <TD bgcolor="#FFFFFF"> 
+            <DIV class=tit1><A 
+            href="http://www.soundj.com.br"> </A></DIV>
+            <DIV align=right>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="11%"><img 
+            src="http://www.soundj.com.br/soundj/rave/rave5.jpg" align=left 
+            border=0></td>
+                  <td width="89%">
+                    <div class=tit1><a 
+            href="http://www.soundj.com.br">Escorregue nessa aventura</a></div>
+                    <div>Confira as fotos da festa Rave H2O que rolou no dia
+23 
+                      de mar&ccedil;o. Muita agita&ccedil;&atilde;o ao comando 
+                      do DJ AAron Liberator da Inglaterra. Fomos at&eacute;
+l&aacute; 
+                      para conferir, mas parece que n&atilde;o fomos s&oacute; 
+                      n&oacute;s..
+                      <div align=right><img height=8 
+            src="http://www.soundj.com.br/news/setinha_gde.gif" width=13 
+            border=0><a 
+           
+href="http://www.soundj.com.br/soundj/artigodetalhe.asp?id=11">Leia 
+                        mais</a></div>
+                    </div>
+            </td>
+                </tr>
+              </table>
+              
+            </DIV>
+          </TD></TR></TBODY></TABLE><BR><!---FIM TABELA NOTICIAS UPDATE--->
+      <TABLE cellSpacing=2 cellPadding=3 width="95%" align=center border=0>
+        <TBODY>
+        <TR>
+          <TD bgColor=#c8c8b0>
+            <DIV><B>Novidades do site - <a
+href="http://www.soundj.com.br/soundj/balada.asp">baladas</a> 
+              - <a href="http://www.soundj.com.br/soundj/chupim.asp">humor</a> 
+              - <a href="http://www.soundj.com.br">m&uacute;sica</a></B></DIV>
+          </TD></TR>
+        <TR vAlign=top>
+          <TD>
+        <TR vAlign=top>
+          <TD><!---INICIO TABELA NOTICIAS--->
+            <DIV> 
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="16%"><b><img
+src="http://www.soundj.com.br/soundj/endo.jpg"></b></td>
+                  <td width="84%"><b><a
+href="http://www.soundj.com.br/soundj/mixagens.asp">Dj 
+                    Leandro Endo faz sua primeira vers&atilde;o de mixagens
+para 
+                    o site Soundj.</a></b></td>
+                </tr>
+              </table>
+              <B> </B></DIV>
+            <DIV>
+              <p>Se voc&ecirc; gosta de m&uacute;sica eletr&ocirc;nica, acesse 
+                agora mesmo nossa se&ccedil;&atilde;o de mixagens em mp3 e
+confira 
+                as alucinantes viradas do DJ Leandro Endo. S&atilde;o 60
+minutos 
+                ao vivo para voc&ecirc; baixar no seu computador e curtir ao
+m&aacute;ximo. 
+                &quot;N&oacute;s vamos leva-lo para outra
+dimens&atilde;o&quot;.<br>
+                <b><br>
+                Dados t&eacute;cnicos do arquivo:</b></p>
+              <p align="left">Formato = MP3<br>
+                Tamanho= 9.9 Megas<br>
+                Tempo estimado do download = 45 minutos para modem 28.8k<br>
+                Tempo de dura&ccedil;&atilde;o das mixagens = 1 hora<br>
+                <br>
+                * Voc&ecirc; poder&aacute; ouvir todas as m&uacute;sicas
+enquanto 
+                faz o download ou se preferir fa&ccedil;a o pedido do CD
+Soundj 
+                acessando nosso formul&aacute;rio on-line.<br>
+                <br>
+              </p>
+              <p align="center"><a href=http://www.soundj.com.br><img
+src="http://www.soundj.com.br/soundj/skol.gif"> </a>
+              </p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td bgcolor="#c8c8b0"><b>&nbsp;Humor</b></td>
+                </tr>
+              </table>
+              <p align="center"><br>
+                <br>
+                Encomendar a sua felicidade R$120.000.000,00<br>
+                Viver at&eacute; os 115 anos R$6.700.000,00<br>
+                Comprar a China R$ 97.250.000.000.000,00 <br>
+                Dar de cara com uma privada bem na hora em que voc&ecirc; mais 
+                precisa, quase n&atilde;o tem preço, para todas as outras
+coisas, 
+                existe o Brand Card). <br>
+                <br>
+                <img height=8 
+            src="http://www.soundj.com.br/news/setinha_gde.gif" width=13 
+            border=0><a 
+            href="http://www.soundj.com.br/soundj/chupim.asp">Saiba mais sobre 
+                este cart&atilde;o que est&aacute; revolucionando o mundo.
+</a></p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td bgcolor="#c8c8b0"><b>Outras novidades</b></td>
+                </tr>
+              </table>
+              <p>Agora em parceria com a CDnow voc&ecirc; poder&aacute;
+comprar 
+                CDs com at&eacute; 40% de desconto.<br>
+                <br>
+                O site Soundj est&aacute; ajudando na divulga&ccedil;&atilde;o 
+                do movimento Anti Drogas, estamos elaborando alguns
+conte&uacute;dos 
+                que seram colocados aleat&oacute;riamente no site. </p>
+            </DIV>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td bgcolor="#c8c8b0"><b><font face="Verdana, Arial,
+Helvetica, sans-serif">Mais 
+                  pera ai quem s&atilde;o voc&ecirc;s ? </font></b></td>
+              </tr>
+            </table>
+            <div align="left"> 
+              <p><br>
+                Somo um grupo de DJs e estamos lan&ccedil;ando este site em
+sua 
+                primeira vers&atilde;o ap&oacute;s 3 meses de muito trabalho. 
+                Atualmente contamos com o apoio de 12 pessoas com um
+&uacute;nico 
+                objetivo em comum. Levar at&eacute; voc&ecirc; o melhor som
+eletr&ocirc;nico. 
+                Trabalhamos muito para tonar nossos ideais uma realidade. Para 
+                quem v&ecirc; tudo pronto at&eacute; parece que foi
+f&aacute;cil, 
+                mas sem o compromisso e a dedica&ccedil;&atilde;o seria quase 
+                imposs&iacute;vel traduzir em bit o sonho que hoje est&aacute; 
+                a sua frente. Este mesmo email que voc&ecirc; est&aacute;
+vendo 
+                agora, tamb&eacute;m &eacute; visto por 14 milh&otilde;es de
+pessoas 
+                de todos os cantos. N&uacute;mero que s&oacute; foi
+poss&iacute;veil 
+                gra&ccedil;as ao nosso intenso suor.<br>
+                <br>
+                O compromisso com a m&uacute;sica eletr&ocirc;nica a partir de 
+                hoje est&aacute; selado num &uacute;nico lugar:<br>
+                <IMG height=8 
+            src="http://200.177.252.101/img/setinha.gif" width=11 border=0><A 
+            href="http://www.soundj.com.br">www.soundj.com.br</A> 
+                <!---FIM TABELA NOTICIAS--->
+                <BR>
+                <br>
+                <br>
+              </p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td bgcolor="#c8c8b0"><b><font face="Verdana, Arial,
+Helvetica, sans-serif">Cr&iacute;ticas 
+                    - sugest&otilde;es ? nosso email &eacute;:</font></b></td>
+                </tr>
+              </table>
+              <div align="left"> 
+                <p></p>
+              </div>
+              <p align="left"><br>
+                <img height=8 
+            src="http://200.177.252.101/img/setinha.gif" width=11 border=0><a
+href="mailto:contato@soundj.com.br">contato@soundj.com.br 
+                </a><br>
+                <br>
+              </p>
+              <p align="center"><font face="Verdana, Arial, Helvetica,
+sans-serif" size="3" color="#000000"><b><font size="4"><a
+href="http://www.soundj.com.br">www.soundj.com.br 
+                </a> </font> </b> </font></p>
+            </div>
+          </TD></TR></table></TD></TR></TBODY></TABLE><BR><!-- LATERAL
+SUPERIOR-->
+    
+<TD width=5 bgColor=#e8e8d0>&nbsp;</TD>
+<TD vAlign=top width=125 bgColor=#e8e8d0> <BR>
+</TD>
+    
+<TD width=5 bgColor=#e8e8d0>&nbsp;</TD>
+</TBODY>
+<TABLE cellSpacing=0 cellPadding=3 width="100%" border=0>
+  <TBODY>
+  <TR vAlign=top bgColor=#000000>
+    <TD align=middle valign="middle"> 
+      <DIV class=side style="COLOR: #cccc99">
+      <CENTER>
+          www.soundj.com.br - detonando a barreira do som 
+        </CENTER></DIV></TD></TR></TBODY></TABLE><BR></BODY></HTML>
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 23979 invoked from network); 31 Mar 2002 13:28:23 -0000
+Received: from mail5.svr.pol.co.uk (195.92.193.20)
+  by godzilla.cs.nwu.edu with SMTP; 31 Mar 2002 13:28:23 -0000
+Received: from modem-188.kook.dialup.pol.co.uk ([62.25.168.188] helo=nyro)
+	by mail5.svr.pol.co.uk with smtp (Exim 3.35 #1)
+	id 16rfNd-000157-00
+	for jandek@cs.northwestern.edu; Sun, 31 Mar 2002 14:28:22 +0100
+Message-ID: <005301c1d8b7$eba294c0$bca8193e@nyro>
+Reply-To: "Jamie Morrison" <amsc05826@cableinet.co.uk>
+From: "Jamie Morrison" <amsc05826@cableinet.co.uk>
+To: "jandek" <jandek@cs.northwestern.edu>
+Subject: My take on the You Walk Alone lyrics
+Date: Sun, 31 Mar 2002 14:28:06 +0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I actually did this months ago and sent it to Seth, but he never replied or
+put it on his site...
+
+Lavender
+
+(instrumental)
+
+Time and Space
+
+He said 'show up wearing black or white'
+I looked at my clothes and I seen they's all black
+They carried my clothes in coffins
+You said 'yeah, put them in the closet'
+Ooh, time, oh, space
+He ??? (sounds like 'wand', pinned?) a silver ??? (sounds like 'clip')
+around my neck
+I looked around and thought 'oh landshakes' (eh?)
+They found all their oranges in Florida
+You said 'just put them in the closet'
+Ooh, time, oh, space
+He brought a lot of ??? (sounds like 'boneache')
+I brought pencils
+I hid behind an electric fence
+But he brought all the cherry ??? (sounds like 'fish') from Ireland? (or
+'island')
+You said 'just put em, you know where, in the closet, that's where! In the
+closet!'
+Ooh, time, oh, space
+He said 'show up wearing black or white'
+I looked at my clothes, they're all black
+They carried all my clothes in coffins
+You just said 'put it in the closet'
+Ooh, time, oh, space
+
+The Cat That Walked From Shelbyville
+
+For today I'll smoke a cigar
+For today I'll play your guitar
+For today I'll be real nice
+For today I'll cut you thrice
+For today I'll cup your eyes
+For today make no disguise
+There's a blanket for your doctor
+There's a full-fledged man o' war
+There's ink spots on your jersey
+Scuff marks on the floor
+For today smoked a cigar
+For today you felt real cool
+For today you wore a blue shirt
+For today you wore some old brown shoes
+
+Quinn Boys II
+
+Did you ever go down to see the Quinn Boys?
+When I walked outta there I went 'aaaaaw!'
+Meet you in the bowery
+Goodbye Beacon Hill
+Hello misfortune, I've got time to kill
+Time to kill, I've got time to kill
+Spent all of my days roaming all ways
+Deliver me and see the sun
+See the moon in dark June
+Kiss the sand and ocean salt
+Take my brother by the hand
+It's you, and I demand
+
+The Way That You Act
+
+As a matter of fact
+It's the way that you act
+As a matter of where
+It's customary
+It was real high
+I got it all in the eye
+Friend Dusty she told me
+She wanted to hold me
+I left myself
+It's all on a shelf
+The words that I've spoken
+Each ones an ??? (sounds like 'I choke it')
+I violate, because
+I wanna be out-ah (x7)
+
+I Know the Times
+
+Ohhhh aaaaaahhh...
+I know the times
+You and I spent together
+Always meant to be
+The voices outside that were so pained
+And meant for us to hear
+But it's two hours worth, worth your everlasting moments to be
+I listen to the other side of life
+Listen, don't turn back the tide of life
+If I should go and try to find
+The thing that's on my mind
+Each and every day I dream and dream
+In which I don't return
+But I can never feel a threat
+No, never feel a threat of losing anything I did for free
+So listen to the other side of life
+Listen, don't turn back the tide of life
+
+When the Telephone Melts
+
+When the telephone melts
+And it's still ringing your name
+When your shoes got holes in them
+And the sidewalk's not the same
+And you're falling down
+Then you can think about your mother
+You can think about your friends
+But you can't blame me for not being around
+You know I told you long ago
+Before you grew so old
+That I wasn't meant for claws falling on my face
+I see you knew it was a jungle
+I was a man, had a place to go
+If you can't come with me then I just don't know
+But I've thought about your humour
+When you laughed in my face
+You know I didn't mind
+When you stood on my head
+And then I turned the tables around
+I thought it was just another day
+I thought you saw it my way
+But to my surprise
+There's a difference in your eyes
+I find it hard to find you
+Say you want an ashtray
+Say you think you found a way
+Well, you can joke about me baby
+You can say my name in vain
+
+War Dance
+
+Going to the warpath
+I swear it must be pie in the end
+Ridin' through a warpath
+Move up the warpath
+Dance up the path
+Run around the red fire
+Thump - thump - thump
+Wardance all night long (x3)
+???
+We'll bring our path back home
+Blowing like they're blind
+At the pierce of a spear (x2)
+
+Love Jamie
+
+

@@ -1,0 +1,3828 @@
+Date: 28 Oct 2003 19:04:56 -0000
+To: seth@tisue.net
+From: majordomo@cs.northwestern.edu
+Subject: Majordomo file: list 'jandek' file 'jandek.0309'
+Reply-To: majordomo@cs.northwestern.edu
+X-Virus-Scanned: by amavisd-new at ccl.northwestern.edu
+
+--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 17718 invoked from network); 2 Sep 2003 04:12:13 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 04:12:13 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 1 Sep 2003 23:12:06 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h824C4x22779
+	for jandek@cs.northwestern.edu; Mon, 1 Sep 2003 23:12:04 -0500
+Received: (qmail 17700 invoked from network); 2 Sep 2003 04:11:29 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 04:11:29 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 1 Sep 2003 23:11:22 -0500
+Received: from dylan.cs.northwestern.edu (tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) with ESMTP id h824BKr22730
+	for <jandek@cs.northwestern.edu>; Mon, 1 Sep 2003 23:11:20 -0500
+Message-Id: <200309020411.h824BKr22730@dylan.cs.northwestern.edu>
+To: jandek@cs.northwestern.edu
+From: Seth Tisue <seth@tisue.net>
+Subject: Put My Dream cover
+X-Mailer: MH-E 7.4.1; nmh 1.0.4; GNU Emacs 21.2.1
+Date: Mon, 01 Sep 2003 23:11:20 -0500
+X-OriginalArrivalTime: 02 Sep 2003 04:11:22.0155 (UTC) FILETIME=[44A077B0:01C37108]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+I finally see what some of you were talking about, that I could never
+see before.  It finally jumped out at me.  I've updated the text on the
+site as follows:
+
+  Cover: It's very dark and murky, but: I see a figure, presumably
+  Jandek, in white shirtsleeves, seated, with his forearms crossed,
+  leaning forward and resting his elbows on his knees.  He appears to be
+  wearing a black hat with a brim, and those are probably stairs in the
+  background.  He's brooding.
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 24878 invoked from network); 2 Sep 2003 16:46:17 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 16:46:17 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 11:46:13 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h82GkCk32084
+	for jandek@cs.northwestern.edu; Tue, 2 Sep 2003 11:46:12 -0500
+Received: (qmail 24783 invoked from network); 2 Sep 2003 16:43:56 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 16:43:56 -0000
+Received: from web41408.mail.yahoo.com ([66.218.93.74]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 11:43:52 -0500
+Message-ID: <20030902164352.4458.qmail@web41408.mail.yahoo.com>
+Received: from [68.163.98.145] by web41408.mail.yahoo.com via HTTP; Tue, 02 Sep 2003 09:43:52 PDT
+Date: Tue, 2 Sep 2003 09:43:52 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: Put My Dream cover
+To: jandek@cs.northwestern.edu
+In-Reply-To: <200309020411.h824BKr22730@dylan.cs.northwestern.edu>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 02 Sep 2003 16:43:52.0734 (UTC) FILETIME=[647813E0:01C37171]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I'm looking right now and I think that the "black hat"
+is a trick of the shadows. If that "object" is really
+a hat, it must be a very big hat, because it is
+covering his entire head.
+
+D.M.
+--- Seth Tisue <seth@tisue.net> wrote:
+> 
+> I finally see what some of you were talking about,
+> that I could never
+> see before.  It finally jumped out at me.  I've
+> updated the text on the
+> site as follows:
+> 
+>   Cover: It's very dark and murky, but: I see a
+> figure, presumably
+>   Jandek, in white shirtsleeves, seated, with his
+> forearms crossed,
+>   leaning forward and resting his elbows on his
+> knees.  He appears to be
+>   wearing a black hat with a brim, and those are
+> probably stairs in the
+>   background.  He's brooding.
+> 
+> ==
+> Seth Tisue - seth@tisue.net - http://tisue.net
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 25802 invoked from network); 2 Sep 2003 17:27:26 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 17:27:26 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 12:26:48 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h82HQlG00488
+	for jandek@cs.northwestern.edu; Tue, 2 Sep 2003 12:26:47 -0500
+Received: (qmail 25492 invoked from network); 2 Sep 2003 17:11:02 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 17:11:02 -0000
+Received: from web41403.mail.yahoo.com ([66.218.93.69]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 12:10:19 -0500
+Message-ID: <20030902171017.98892.qmail@web41403.mail.yahoo.com>
+Received: from [68.163.98.145] by web41403.mail.yahoo.com via HTTP; Tue, 02 Sep 2003 10:10:17 PDT
+Date: Tue, 2 Sep 2003 10:10:17 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Jandek mention on pitchfork
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 02 Sep 2003 17:10:19.0374 (UTC) FILETIME=[162E20E0:01C37175]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+In one of those "neglected mix tape" features, the
+reviewer mentions Jandek....
+
+http://pitchforkmedia.com/watw/03-02/neglected-mixtape4.shtml
+
+"William Shatner: "Mr. Tambourine Man"
+Vying with Mrs. Miller-- or perhaps Jandek-- for Most
+In(s)ane delivery of the English language, this is as
+beguiling as a bloody car crash. I sped it up so as to
+fill up the end of the tape; the dramatic nuances get
+lost a bit."
+
+He's gettin' out there...
+
+D.M.
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 27177 invoked from network); 2 Sep 2003 18:14:10 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 18:14:10 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 13:13:18 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h82IDHf01274
+	for jandek@cs.northwestern.edu; Tue, 2 Sep 2003 13:13:17 -0500
+Received: (qmail 27112 invoked from network); 2 Sep 2003 18:09:57 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 18:09:57 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 13:09:53 -0500
+Received: from dylan.cs.northwestern.edu (tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) with ESMTP id h82I9qi01171
+	for <jandek@cs.northwestern.edu>; Tue, 2 Sep 2003 13:09:52 -0500
+Message-Id: <200309021809.h82I9qi01171@dylan.cs.northwestern.edu>
+To: jandek@cs.northwestern.edu
+Subject: Re: Put My Dream cover 
+In-Reply-To: Your message of "Tue, 02 Sep 2003 09:43:52 PDT."
+             <20030902164352.4458.qmail@web41408.mail.yahoo.com> 
+From: Seth Tisue <seth@tisue.net>
+X-Mailer: MH-E 7.4.1; nmh 1.0.4; GNU Emacs 21.2.1
+Date: Tue, 02 Sep 2003 13:09:52 -0500
+X-OriginalArrivalTime: 02 Sep 2003 18:09:53.0765 (UTC) FILETIME=[68AEE950:01C3717D]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+>>>>> "Daniel" == Daniel Marks <alfredggnome@yahoo.com> writes:
+
+ Daniel> I'm looking right now and I think that the "black hat" is a
+ Daniel> trick of the shadows. If that "object" is really a hat, it must
+ Daniel> be a very big hat, because it is covering his entire head.
+
+That's what I used to think, because I was seeing the photo a different
+way.  Maybe you're still seeing it the same way.
+
+Before, I thought that Jandek was standing, relatively far from the
+camera, angled so that his left elbow was closer to the camera.  If you
+see it that way, the "hat" was both too large and absurdly positioned.
+
+How I see it now: Jandek is seated, and quite close to the camera.  He's
+angled so his right elbow is closest to the camera, not his left.  If
+you see it this way (which I'm now thoroughly convinced is the correct
+way), the hat is correctly positioned, and you can see Jandek's face
+beneath it.  Jandek's face is tilted downward, which makes the hat
+appear larger than it would otherwise, because you're seeing the top of
+the hat.
+
+Once it jumps out at you, it's actually quite clear.  Everything's
+correctly proportioned and right where it should be.
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 29044 invoked from network); 2 Sep 2003 19:36:50 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 19:36:50 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 14:35:55 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h82JZsA02042
+	for jandek@cs.northwestern.edu; Tue, 2 Sep 2003 14:35:54 -0500
+Received: (qmail 28184 invoked from network); 2 Sep 2003 18:47:00 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 18:47:00 -0000
+Received: from web41413.mail.yahoo.com ([66.218.93.79]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 13:46:24 -0500
+Message-ID: <20030902184624.79522.qmail@web41413.mail.yahoo.com>
+Received: from [68.163.97.196] by web41413.mail.yahoo.com via HTTP; Tue, 02 Sep 2003 11:46:24 PDT
+Date: Tue, 2 Sep 2003 11:46:24 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: Put My Dream cover 
+To: jandek@cs.northwestern.edu
+In-Reply-To: <200309021809.h82I9qi01171@dylan.cs.northwestern.edu>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 02 Sep 2003 18:46:24.0905 (UTC) FILETIME=[82B45790:01C37182]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I see now. he's bent over so his eyes are on level
+with his shoulders. Though I still don't think it's
+definitely a top hat.
+
+D.M.
+--- Seth Tisue <seth@tisue.net> wrote:
+> >>>>> "Daniel" == Daniel Marks
+> <alfredggnome@yahoo.com> writes:
+> 
+>  Daniel> I'm looking right now and I think that the
+> "black hat" is a
+>  Daniel> trick of the shadows. If that "object" is
+> really a hat, it must
+>  Daniel> be a very big hat, because it is covering
+> his entire head.
+> 
+> That's what I used to think, because I was seeing
+> the photo a different
+> way.  Maybe you're still seeing it the same way.
+> 
+> Before, I thought that Jandek was standing,
+> relatively far from the
+> camera, angled so that his left elbow was closer to
+> the camera.  If you
+> see it that way, the "hat" was both too large and
+> absurdly positioned.
+> 
+> How I see it now: Jandek is seated, and quite close
+> to the camera.  He's
+> angled so his right elbow is closest to the camera,
+> not his left.  If
+> you see it this way (which I'm now thoroughly
+> convinced is the correct
+> way), the hat is correctly positioned, and you can
+> see Jandek's face
+> beneath it.  Jandek's face is tilted downward, which
+> makes the hat
+> appear larger than it would otherwise, because
+> you're seeing the top of
+> the hat.
+> 
+> Once it jumps out at you, it's actually quite clear.
+>  Everything's
+> correctly proportioned and right where it should be.
+> 
+> ==
+> Seth Tisue - seth@tisue.net - http://tisue.net
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 30284 invoked from network); 2 Sep 2003 20:36:22 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 20:36:22 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 15:36:17 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h82KaFf02823
+	for jandek@cs.northwestern.edu; Tue, 2 Sep 2003 15:36:15 -0500
+Received: (qmail 30224 invoked from network); 2 Sep 2003 20:31:10 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 20:31:10 -0000
+Received: from hotmail.com ([64.4.27.123] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 15:27:47 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Tue, 2 Sep 2003 13:27:47 -0700
+Received: from 193.120.45.146 by by8fd.bay8.hotmail.msn.com with HTTP;
+	Tue, 02 Sep 2003 20:27:46 GMT
+X-Originating-IP: [193.120.45.146]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: hats/cats/shatner/heads in jars
+Date: Tue, 02 Sep 2003 20:27:46 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY8-F123mP9CDBHy3S00025e6e@hotmail.com>
+X-OriginalArrivalTime: 02 Sep 2003 20:27:47.0013 (UTC) FILETIME=[ABEC5F50:01C37190]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+The hat always looked like something resembling a bowler to me. As far as I 
+remember, that picture appears sideways in the documentary.
+
+The part of the title of The Cat that Walked from Shelbyville that always 
+makes me ponder is the "cat" part - ie is that a feline or "cat" as in 
+"dude"?
+The thing about the Simpsons is that there's so much in it that you can find 
+references to anything you want... anyway as far as I know, Groening hasn't 
+had any direct script-writing input in it since the early days. It would be 
+nice to see Jandek's head turning up in a jar in Futurama though.
+
+Shatner's versions of Mr. Tambourine Man and Lucy in the Sky with Diamonds 
+are the most hilarious pieces of music I've ever heard. Beg borrow or steal 
+if you don't have them. Anyway Cherry Red plan to reissue his album The 
+Transformed Man.
+
+Apropos of nowt, that fake album title is a little reminiscent of Nurse With 
+Wound and Current 93's twin albums Thunder Perfect Mind...
+
+Paul
+
+_________________________________________________________________
+Add photos to your messages with MSN 8. Get 2 months FREE*. 
+http://join.msn.com/?page=features/featuredemail
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 31587 invoked from network); 2 Sep 2003 21:42:40 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 21:42:40 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 16:42:34 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h82LgXU03895
+	for jandek@cs.northwestern.edu; Tue, 2 Sep 2003 16:42:33 -0500
+Received: (qmail 31528 invoked from network); 2 Sep 2003 21:39:42 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Sep 2003 21:39:42 -0000
+Received: from smtp0.libero.it ([193.70.192.33]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 16:38:59 -0500
+Received: from pippo (151.24.156.147) by smtp0.libero.it (7.0.019)
+        id 3F40A03C002E9A44 for jandek@cs.northwestern.edu; Tue, 2 Sep 2003 23:38:59 +0200
+From: "Fabio R." <michette-@libero.it>
+To: <jandek@cs.northwestern.edu>
+Subject: R: Put My Dream cover
+Date: Tue, 2 Sep 2003 23:43:15 +0200
+Message-ID: <000401c3719b$378c0a60$939c1897@pippo>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+In-Reply-To: <20030902164352.4458.qmail@web41408.mail.yahoo.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Importance: Normal
+X-OriginalArrivalTime: 02 Sep 2003 21:39:00.0155 (UTC) FILETIME=[9EEA18B0:01C3719A]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+Hi everybody
+I'm Fabio R from Rome and i'm writing here for the first time
+Nice to meet you 
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 2237 invoked from network); 3 Sep 2003 00:59:57 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Sep 2003 00:59:57 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 19:59:51 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h830xnv06285
+	for jandek@cs.northwestern.edu; Tue, 2 Sep 2003 19:59:49 -0500
+Received: (qmail 2214 invoked from network); 3 Sep 2003 00:58:55 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Sep 2003 00:58:55 -0000
+Received: from fireball.blast.net ([207.162.131.33]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 19:58:48 -0500
+Received: from fireball (clinton-nj.ts24.dialup031.blast.net [207.162.152.140])
+	by fireball.blast.net (8.12.8/8.11.6) with SMTP id h830fEql087902
+	for <jandek@cs.northwestern.edu>; Tue, 2 Sep 2003 20:41:18 -0400 (EDT)
+	(envelope-from jgrimshaw@blast.net)
+Message-ID: <001001c371b9$f6fa67c0$8c98a2cf@blast.net>
+From: "Jeff Grimshaw" <jgrimshaw@blast.net>
+To: <jandek@cs.northwestern.edu>
+References: <BAY8-F123mP9CDBHy3S00025e6e@hotmail.com>
+Subject: Re: hats/cats/shatner/heads in jars
+Date: Tue, 2 Sep 2003 21:23:12 -0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-OriginalArrivalTime: 03 Sep 2003 00:58:48.0765 (UTC) FILETIME=[88AECED0:01C371B6]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I always assumed the 'cat' was a feline, but the other reading is pretty
+interesting-- would it be Jandek's only descent into hipster-speak?
+
+For a Shatner experience to treasure forever, I highly recommend his life
+rendition of "Rocket Man," downloadable at
+http://www.otisfodder.com/365days/archive/055.html
+
+Jeff
+
+----- Original Message -----
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: <jandek@cs.northwestern.edu>
+Sent: Tuesday, September 02, 2003 4:27 PM
+Subject: hats/cats/shatner/heads in jars
+
+
+> The hat always looked like something resembling a bowler to me. As far as
+I
+> remember, that picture appears sideways in the documentary.
+>
+> The part of the title of The Cat that Walked from Shelbyville that always
+> makes me ponder is the "cat" part - ie is that a feline or "cat" as in
+> "dude"?
+> The thing about the Simpsons is that there's so much in it that you can
+find
+> references to anything you want... anyway as far as I know, Groening
+hasn't
+> had any direct script-writing input in it since the early days. It would
+be
+> nice to see Jandek's head turning up in a jar in Futurama though.
+>
+> Shatner's versions of Mr. Tambourine Man and Lucy in the Sky with Diamonds
+> are the most hilarious pieces of music I've ever heard. Beg borrow or
+steal
+> if you don't have them. Anyway Cherry Red plan to reissue his album The
+> Transformed Man.
+>
+> Apropos of nowt, that fake album title is a little reminiscent of Nurse
+With
+> Wound and Current 93's twin albums Thunder Perfect Mind...
+>
+> Paul
+>
+> _________________________________________________________________
+> Add photos to your messages with MSN 8. Get 2 months FREE*.
+> http://join.msn.com/?page=features/featuredemail
+>
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 4100 invoked from network); 3 Sep 2003 04:12:38 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Sep 2003 04:12:38 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 23:11:35 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h834BY707987
+	for jandek@cs.northwestern.edu; Tue, 2 Sep 2003 23:11:34 -0500
+Received: (qmail 4071 invoked from network); 3 Sep 2003 04:09:43 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Sep 2003 04:09:43 -0000
+Received: from web20505.mail.yahoo.com ([216.136.226.140]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 2 Sep 2003 23:09:35 -0500
+Message-ID: <20030903040934.66336.qmail@web20505.mail.yahoo.com>
+Received: from [68.41.100.16] by web20505.mail.yahoo.com via HTTP; Tue, 02 Sep 2003 21:09:34 PDT
+Date: Tue, 2 Sep 2003 21:09:34 -0700 (PDT)
+From: Joe Henry <farmofarmo@yahoo.com>
+Subject: The new album
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1021319821-1062562174=:61671"
+X-OriginalArrivalTime: 03 Sep 2003 04:09:35.0257 (UTC) FILETIME=[2F52E090:01C371D1]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+--0-1021319821-1062562174=:61671
+Content-Type: text/plain; charset=us-ascii
+
+
+Hi everyone, I've been away from the list a couple weeks. I took a look in the archive for August to catch up.
+
+First off, thanks to Paul Condon for transcribing the lyrics to "The Place". They're pretty amazing. It seems that he's perfected his preachy, philosophic style that he's used on the last few albums.
+I have not yet received my copy of "The Place" in the mail, but have checked the sound clips on AquariousRecords.com. Is it just me, or is Jandek playing an electric guitar? Perhaps it's hollowbody, but it's surely amplified in some way. I'm not a guitar player, so any of you who are, take a good listen and give me your opinion.
+
+ 
+
+
+---------------------------------
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+--0-1021319821-1062562174=:61671
+Content-Type: text/html; charset=us-ascii
+
+<DIV>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Hi everyone, I've been away from the list a couple weeks. I took a look in the archive for August to catch up.<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">First off, thanks to Paul Condon for transcribing the lyrics to "The Place". They're pretty amazing. It seems that he's perfected his preachy, philosophic style that he's used on the last few albums.<o:p></o:p></SPAN></P><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">I have not yet received my copy of "The Place" in the mail, but have checked the sound clips on AquariousRecords.com. Is it just me, or is Jandek playing an electric guitar? Perhaps it's hollowbody, but it's surely amplified in some way. I'm not a guitar player, so any of you who are, take a good listen and give me your opinion.</SPAN></DIV>
+<DIV><EM></EM><BR>&nbsp;</DIV><p><hr SIZE=1>
+Do you Yahoo!?<br>
+<a href="http://us.rd.yahoo.com/evt=10469/*http://sitebuilder.yahoo.com">Yahoo! SiteBuilder</a> - Free, easy-to-use web site design software
+--0-1021319821-1062562174=:61671--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 11793 invoked from network); 3 Sep 2003 16:24:13 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Sep 2003 16:24:13 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 3 Sep 2003 11:23:55 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h83GNtc16034
+	for jandek@cs.northwestern.edu; Wed, 3 Sep 2003 11:23:55 -0500
+Received: (qmail 10213 invoked from network); 3 Sep 2003 14:36:40 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Sep 2003 14:36:40 -0000
+Received: from web41406.mail.yahoo.com ([66.218.93.72]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 3 Sep 2003 09:36:26 -0500
+Message-ID: <20030903143625.81714.qmail@web41406.mail.yahoo.com>
+Received: from [141.154.81.113] by web41406.mail.yahoo.com via HTTP; Wed, 03 Sep 2003 07:36:25 PDT
+Date: Wed, 3 Sep 2003 07:36:25 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: The new album
+To: jandek@cs.northwestern.edu
+In-Reply-To: <20030903040934.66336.qmail@web20505.mail.yahoo.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 03 Sep 2003 14:36:26.0429 (UTC) FILETIME=[C15446D0:01C37228]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+He could be playing an amplified acoustic guitar, or
+just using a mic'd acoustic that is distorting. Either
+way, it still sounds like an acoustic. I for one was
+glad to hear that he has started to tough the fret
+board again. Maybe it's a new era... Perhaps his
+playing is going to slowly improve like it did from
+RFTH to its peak on You Walk Alone. 
+
+"For today, I'll play your guitar"
+D.M.
+--- Joe Henry <farmofarmo@yahoo.com> wrote:
+> 
+> Hi everyone, I've been away from the list a couple
+> weeks. I took a look in the archive for August to
+> catch up.
+> 
+> First off, thanks to Paul Condon for transcribing
+> the lyrics to "The Place". They're pretty amazing.
+> It seems that he's perfected his preachy,
+> philosophic style that he's used on the last few
+> albums.
+> I have not yet received my copy of "The Place" in
+> the mail, but have checked the sound clips on
+> AquariousRecords.com. Is it just me, or is Jandek
+> playing an electric guitar? Perhaps it's hollowbody,
+> but it's surely amplified in some way. I'm not a
+> guitar player, so any of you who are, take a good
+> listen and give me your opinion.
+> 
+>  
+> 
+> 
+> ---------------------------------
+> Do you Yahoo!?
+> Yahoo! SiteBuilder - Free, easy-to-use web site
+> design software
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 12628 invoked from network); 3 Sep 2003 17:01:35 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Sep 2003 17:01:35 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 3 Sep 2003 12:00:43 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h83H0gI16576
+	for jandek@cs.northwestern.edu; Wed, 3 Sep 2003 12:00:42 -0500
+Received: (qmail 12450 invoked from network); 3 Sep 2003 16:52:20 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Sep 2003 16:52:20 -0000
+Received: from smtp3.libero.it ([193.70.192.127]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 3 Sep 2003 11:51:50 -0500
+Received: from pippo (151.24.216.185) by smtp3.libero.it (7.0.019)
+        id 3F40AA6C0031DACC for jandek@cs.northwestern.edu; Wed, 3 Sep 2003 18:51:49 +0200
+From: "Fabio R." <michette-@libero.it>
+To: <jandek@cs.northwestern.edu>
+Subject: R: The new album
+Date: Wed, 3 Sep 2003 18:56:05 +0200
+Message-ID: <000001c3723c$44761760$b9d81897@pippo>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+Importance: Normal
+In-Reply-To: <20030903143625.81714.qmail@web41406.mail.yahoo.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-OriginalArrivalTime: 03 Sep 2003 16:51:50.0398 (UTC) FILETIME=[AB9791E0:01C3723B]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+And what about his voice?
+Still looks desperate-drunken like THOP?
+
+About the cover photo: I think it dates 10-15 years or so, like others
+from Ireland. the car model reflected in the shop-window seems to date
+late 80's.
+
+Houses reflected in the glass are northern-europe very tipical, let me
+know what you think about it.
+Very stunning and sinister cover, anyway, since The Beginning...
+
+fabio
+
+
+-----Messaggio originale-----
+Da: owner-jandek@cs.northwestern.edu
+[mailto:owner-jandek@cs.northwestern.edu] Per conto di Daniel Marks
+Inviato: mercoled=EC 3 settembre 2003 16.36
+A: jandek@cs.northwestern.edu
+Oggetto: Re: The new album
+
+He could be playing an amplified acoustic guitar, or
+just using a mic'd acoustic that is distorting. Either
+way, it still sounds like an acoustic. I for one was
+glad to hear that he has started to tough the fret
+board again. Maybe it's a new era... Perhaps his
+playing is going to slowly improve like it did from
+RFTH to its peak on You Walk Alone.=20
+
+"For today, I'll play your guitar"
+D.M.
+--- Joe Henry <farmofarmo@yahoo.com> wrote:
+>=20
+> Hi everyone, I've been away from the list a couple
+> weeks. I took a look in the archive for August to
+> catch up.
+>=20
+> First off, thanks to Paul Condon for transcribing
+> the lyrics to "The Place". They're pretty amazing.
+> It seems that he's perfected his preachy,
+> philosophic style that he's used on the last few
+> albums.
+> I have not yet received my copy of "The Place" in
+> the mail, but have checked the sound clips on
+> AquariousRecords.com. Is it just me, or is Jandek
+> playing an electric guitar? Perhaps it's hollowbody,
+> but it's surely amplified in some way. I'm not a
+> guitar player, so any of you who are, take a good
+> listen and give me your opinion.
+>=20
+> =20
+>=20
+>=20
+> ---------------------------------
+> Do you Yahoo!?
+> Yahoo! SiteBuilder - Free, easy-to-use web site
+> design software
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 13864 invoked from network); 3 Sep 2003 18:35:02 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Sep 2003 18:35:02 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 3 Sep 2003 13:34:42 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h83IYgX17668
+	for jandek@cs.northwestern.edu; Wed, 3 Sep 2003 13:34:42 -0500
+Received: (qmail 13837 invoked from network); 3 Sep 2003 18:33:01 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Sep 2003 18:33:01 -0000
+Received: from hotmail.com ([64.4.27.109] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 3 Sep 2003 13:32:39 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 3 Sep 2003 11:32:38 -0700
+Received: from 62.77.173.6 by by8fd.bay8.hotmail.msn.com with HTTP;
+	Wed, 03 Sep 2003 18:32:38 GMT
+X-Originating-IP: [62.77.173.6]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: The new album
+Date: Wed, 03 Sep 2003 18:32:38 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY8-F109Ag0pepP1zn00002e77@hotmail.com>
+X-OriginalArrivalTime: 03 Sep 2003 18:32:38.0854 (UTC) FILETIME=[C0C0B660:01C37249]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+>Is it just me, or is Jandek playing an electric guitar?
+
+The same thought struck me as I was listening to the album - however I came 
+to the conclusion that it's an acoustic with very new (and probably 
+light-gauge) strings. There's a lot of fret buzz and rattling strings as 
+well which might give the impression of an electric guitar.
+As regards the vocals, Jandek sounds really tired on the first track as if 
+he has the weight of the world on his shoulders, and it seems to be only a 
+kind of rolling down a hill momentum that's keeping the songs going - the 
+above isn't a criticism but reveals Jandek's mastery at creating unusual 
+moods. The album features, is in my opinion, some of his best vocals ever, 
+and the guitar playing is still progressing and delving into strange new 
+corners. On this album, Jandek takes you along with him, whereas he seemed 
+to be challenging and pushing away the listener on THOP.
+By the way, haven't we pretty much established that You Walk Alone et al 
+don't feature Jandek's guitar playing - unless Daniel is way ahead and 
+refering to "Jandek" as a group entity kind of thang...
+
+_________________________________________________________________
+MSN 8 with e-mail virus protection service: 2 months FREE* 
+http://join.msn.com/?page=features/virus
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 20896 invoked from network); 4 Sep 2003 02:14:57 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 4 Sep 2003 02:14:57 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 3 Sep 2003 21:14:50 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h842EnK23343
+	for jandek@cs.northwestern.edu; Wed, 3 Sep 2003 21:14:49 -0500
+Received: (qmail 16969 invoked from network); 3 Sep 2003 22:13:29 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Sep 2003 22:13:29 -0000
+Received: from web20508.mail.yahoo.com ([216.136.226.143]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 3 Sep 2003 17:12:45 -0500
+Message-ID: <20030903221245.16409.qmail@web20508.mail.yahoo.com>
+Received: from [68.41.100.16] by web20508.mail.yahoo.com via HTTP; Wed, 03 Sep 2003 15:12:45 PDT
+Date: Wed, 3 Sep 2003 15:12:45 -0700 (PDT)
+From: Joe Henry <farmofarmo@yahoo.com>
+Subject: Re: "The Place" a return to electric? (why not?)
+To: jandek@cs.northwestern.edu
+In-Reply-To: <BAY8-F109Ag0pepP1zn00002e77@hotmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-750852873-1062627165=:16375"
+X-OriginalArrivalTime: 03 Sep 2003 22:12:45.0991 (UTC) FILETIME=[80D1E370:01C37268]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+--0-750852873-1062627165=:16375
+Content-Type: text/plain; charset=us-ascii
+
+After re-listening to the 2 clips and playing them for a few friends (one a professional musician and musicologist, so I trust his opinion), I'm now pretty sure it's electric. At least on the 2 clips provided on aquariusrecords.com. In addition to the fret buzz, the sound just doesn't have the resonance that I think it would with an acoustic.
+
+Paul Condon <paulgcondon@hotmail.com> wrote: >Is it just me, or is Jandek playing an electric guitar?
+
+The same thought struck me as I was listening to the album - however I came 
+to the conclusion that it's an acoustic with very new (and probably 
+light-gauge) strings. There's a lot of fret buzz and rattling strings as 
+well which might give the impression of an electric guitar.
+As regards the vocals, Jandek sounds really tired on the first track as if 
+he has the weight of the world on his shoulders, and it seems to be only a 
+kind of rolling down a hill momentum that's keeping the songs going - the 
+above isn't a criticism but reveals Jandek's mastery at creating unusual 
+moods. The album features, is in my opinion, some of his best vocals ever, 
+and the guitar playing is still progressing and delving into strange new 
+corners. On this album, Jandek takes you along with him, whereas he seemed 
+to be challenging and pushing away the listener on THOP.
+By the way, haven't we pretty much established that You Walk Alone et al 
+don't feature Jandek's guitar playing - unless Daniel is way ahead and 
+refering to "Jandek" as a group entity kind of thang...
+
+_________________________________________________________________
+MSN 8 with e-mail virus protection service: 2 months FREE* 
+http://join.msn.com/?page=features/virus
+
+
+
+---------------------------------
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+--0-750852873-1062627165=:16375
+Content-Type: text/html; charset=us-ascii
+
+<DIV>
+<DIV>After re-listening to the 2 clips and playing them for a few friends (one a professional musician and musicologist, so I trust his opinion), I'm now pretty sure it's electric. At least on the 2 clips provided on aquariusrecords.com. In addition to the fret buzz, the sound just doesn't have the resonance that I think it would with an acoustic.</DIV>
+<DIV><BR><B><I>Paul Condon &lt;paulgcondon@hotmail.com&gt;</I></B> wrote: 
+<BLOCKQUOTE class=replbq style="PADDING-LEFT: 5px; MARGIN-LEFT: 5px; BORDER-LEFT: #1010ff 2px solid">&gt;Is it just me, or is Jandek playing an electric guitar?<BR><BR>The same thought struck me as I was listening to the album - however I came <BR>to the conclusion that it's an acoustic with very new (and probably <BR>light-gauge) strings. There's a lot of fret buzz and rattling strings as <BR>well which might give the impression of an electric guitar.<BR>As regards the vocals, Jandek sounds really tired on the first track as if <BR>he has the weight of the world on his shoulders, and it seems to be only a <BR>kind of rolling down a hill momentum that's keeping the songs going - the <BR>above isn't a criticism but reveals Jandek's mastery at creating unusual <BR>moods. The album features, is in my opinion, some of his best vocals ever, <BR>and the guitar playing is still progressing and delving into strange new <BR>corners. On this album, Jandek takes you along with him, wher
+ eas he
+ seemed <BR>to be challenging and pushing away the listener on THOP.<BR>By the way, haven't we pretty much established that You Walk Alone et al <BR>don't feature Jandek's guitar playing - unless Daniel is way ahead and <BR>refering to "Jandek" as a group entity kind of thang...<BR><BR>_________________________________________________________________<BR>MSN 8 with e-mail virus protection service: 2 months FREE* <BR>http://join.msn.com/?page=features/virus</BLOCKQUOTE></DIV></DIV><p><hr SIZE=1>
+Do you Yahoo!?<br>
+<a href="http://us.rd.yahoo.com/evt=10469/*http://sitebuilder.yahoo.com">Yahoo! SiteBuilder</a> - Free, easy-to-use web site design software
+--0-750852873-1062627165=:16375--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 21446 invoked from network); 4 Sep 2003 02:38:46 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 4 Sep 2003 02:38:46 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 3 Sep 2003 21:38:10 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h842c9w23807
+	for jandek@cs.northwestern.edu; Wed, 3 Sep 2003 21:38:09 -0500
+Received: (qmail 21417 invoked from network); 4 Sep 2003 02:36:59 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 4 Sep 2003 02:36:59 -0000
+Received: from web41404.mail.yahoo.com ([66.218.93.70]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 3 Sep 2003 21:36:51 -0500
+Message-ID: <20030904023651.65024.qmail@web41404.mail.yahoo.com>
+Received: from [151.203.83.201] by web41404.mail.yahoo.com via HTTP; Wed, 03 Sep 2003 19:36:51 PDT
+Date: Wed, 3 Sep 2003 19:36:51 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: "The Place" a return to electric? (why not?)
+To: jandek@cs.northwestern.edu
+In-Reply-To: <20030903221245.16409.qmail@web20508.mail.yahoo.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 04 Sep 2003 02:36:51.0882 (UTC) FILETIME=[65B4F8A0:01C3728D]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+That lack of resonance could also due to the fact that
+he has a crappy guitar. It's clear he doesn't spend a
+lot of money on instruments or recording
+equipment...look at that drum kit! He probably got it
+at Sears. Jandek, the ultimate indie artist. Either
+way, the guitar on "The Place" just doesn't sound
+electric enough to me.  
+
+D.M.
+--- Joe Henry <farmofarmo@yahoo.com> wrote:
+> After re-listening to the 2 clips and playing them
+> for a few friends (one a professional musician and
+> musicologist, so I trust his opinion), I'm now
+> pretty sure it's electric. At least on the 2 clips
+> provided on aquariusrecords.com. In addition to the
+> fret buzz, the sound just doesn't have the resonance
+> that I think it would with an acoustic.
+> 
+> Paul Condon <paulgcondon@hotmail.com> wrote: >Is it
+> just me, or is Jandek playing an electric guitar?
+> 
+> The same thought struck me as I was listening to the
+> album - however I came 
+> to the conclusion that it's an acoustic with very
+> new (and probably 
+> light-gauge) strings. There's a lot of fret buzz and
+> rattling strings as 
+> well which might give the impression of an electric
+> guitar.
+> As regards the vocals, Jandek sounds really tired on
+> the first track as if 
+> he has the weight of the world on his shoulders, and
+> it seems to be only a 
+> kind of rolling down a hill momentum that's keeping
+> the songs going - the 
+> above isn't a criticism but reveals Jandek's mastery
+> at creating unusual 
+> moods. The album features, is in my opinion, some of
+> his best vocals ever, 
+> and the guitar playing is still progressing and
+> delving into strange new 
+> corners. On this album, Jandek takes you along with
+> him, whereas he seemed 
+> to be challenging and pushing away the listener on
+> THOP.
+> By the way, haven't we pretty much established that
+> You Walk Alone et al 
+> don't feature Jandek's guitar playing - unless
+> Daniel is way ahead and 
+> refering to "Jandek" as a group entity kind of
+> thang...
+> 
+>
+_________________________________________________________________
+> MSN 8 with e-mail virus protection service: 2 months
+> FREE* 
+> http://join.msn.com/?page=features/virus
+> 
+> 
+> 
+> ---------------------------------
+> Do you Yahoo!?
+> Yahoo! SiteBuilder - Free, easy-to-use web site
+> design software
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 26941 invoked from network); 4 Sep 2003 14:04:29 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 4 Sep 2003 14:04:29 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 4 Sep 2003 09:02:59 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h84E2xw30003
+	for jandek@cs.northwestern.edu; Thu, 4 Sep 2003 09:02:59 -0500
+Received: (qmail 23529 invoked from network); 4 Sep 2003 08:01:52 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 4 Sep 2003 08:01:52 -0000
+Received: from hotmail.com ([65.54.247.24] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 4 Sep 2003 02:55:21 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 4 Sep 2003 00:55:20 -0700
+Received: from 213.23.225.240 by by2fd.bay2.hotmail.msn.com with HTTP;
+	Thu, 04 Sep 2003 07:55:20 GMT
+X-Originating-IP: [213.23.225.240]
+X-Originating-Email: [cmeeder@hotmail.com]
+From: "Colin Meeder" <cmeeder@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: "The Place" a return to electric? (why not?)
+Date: Thu, 04 Sep 2003 07:55:20 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY2-F249KUsyB1HQro00010252@hotmail.com>
+X-OriginalArrivalTime: 04 Sep 2003 07:55:20.0894 (UTC) FILETIME=[E390CDE0:01C372B9]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+
+
+Sounds like a crappy amplified acoustic to me, for what that's worth.  One 
+of the tens of thousands of halfway playable Korean guitars with piezo 
+pick-ups that get sold every year.
+
+And no, Jandek does not sound drunk to me on this either.  I think the 
+"drunkenness" effect of the last couple of records may simply be a matter of 
+Jandek's having to dig a bit deeper for the improvised lyrics.  We get 
+older, we slow down.
+
+Colin Meeder
+Frankfurt am Main
+
+_________________________________________________________________
+Compare Cable, DSL or Satellite plans: As low as $29.95.  
+https://broadband.msn.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 31360 invoked from network); 14 Sep 2003 14:20:41 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Sep 2003 14:20:41 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 14 Sep 2003 09:20:38 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8EEKck23895
+	for jandek@cs.northwestern.edu; Sun, 14 Sep 2003 09:20:38 -0500
+Received: (qmail 30228 invoked from network); 14 Sep 2003 11:25:05 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Sep 2003 11:25:05 -0000
+Received: from hotmail.com ([64.4.21.67] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 14 Sep 2003 06:22:01 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 14 Sep 2003 04:22:00 -0700
+Received: from 80.58.0.172 by lw14fd.law14.hotmail.msn.com with HTTP;
+	Sun, 14 Sep 2003 11:22:00 GMT
+X-Originating-IP: [80.58.0.172]
+X-Originating-Email: [mayra_gomez_kemp@hotmail.com]
+From: "jose ensalada de fichas de tetris" <mayra_gomez_kemp@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Milstein File?
+Date: Sun, 14 Sep 2003 11:22:00 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1; format=flowed
+Message-ID: <Law14-F673iVdGJ5OGQ00023e44@hotmail.com>
+X-OriginalArrivalTime: 14 Sep 2003 11:22:00.0925 (UTC) FILETIME=[6AB0E0D0:01C37AB2]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Does anybody know what the Milstein File is?
+I've been told it's the "rossetta stone" of Jandek's myth.
+Any details?
+Thanks.
+
+_________________________________________________________________
+Multiplica por cinco el tamaño de tu buzón de correo y envía adjuntos de 
+hasta 2 Mb con MSN Almacenamiento Extra. http://join.msn.com/?pgmarket=es-es
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 31937 invoked from network); 14 Sep 2003 14:43:24 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Sep 2003 14:43:24 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 14 Sep 2003 09:43:21 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8EEhLI24653
+	for jandek@cs.northwestern.edu; Sun, 14 Sep 2003 09:43:21 -0500
+Received: (qmail 31856 invoked from network); 14 Sep 2003 14:32:40 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Sep 2003 14:32:40 -0000
+Received: from gollum.dreamhost.com ([66.33.209.16]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 14 Sep 2003 09:32:38 -0500
+Received: from dpen (adsl-68-75-50-214.dsl.emhril.ameritech.net [68.75.50.214])
+	by gollum.dreamhost.com (Postfix) with ESMTP
+	id D21575B784; Sun, 14 Sep 2003 07:32:34 -0700 (PDT)
+From: "Mark Greenberg" <mark@mayfairrecordings.com>
+To: "jose ensalada de fichas de tetris" <mayra_gomez_kemp@hotmail.com>,
+  <jandek@cs.northwestern.edu>
+Subject: RE: Milstein File?
+Date: Sun, 14 Sep 2003 09:32:54 -0500
+Message-ID: <NGBBLCPHGLBLNPJPFMFCIEHHCGAA.mark@mayfairrecordings.com>
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+Importance: Normal
+In-Reply-To: <Law14-F673iVdGJ5OGQ00023e44@hotmail.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-OriginalArrivalTime: 14 Sep 2003 14:32:38.0201 (UTC) FILETIME=[0BD6B290:01C37ACD]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Never heard of it. Please tell me more.
+
+-Mark
+
+-----Original Message-----
+From: owner-jandek@cs.northwestern.edu
+[mailto:owner-jandek@cs.northwestern.edu]On Behalf Of jose ensalada de
+fichas de tetris
+Sent: Sunday, September 14, 2003 6:22 AM
+To: jandek@cs.northwestern.edu
+Subject: Milstein File?
+
+
+Does anybody know what the Milstein File is?
+I've been told it's the "rossetta stone" of Jandek's myth.
+Any details?
+Thanks.
+
+_________________________________________________________________
+Multiplica por cinco el tamaño de tu buzón de correo y envía adjuntos de
+hasta 2 Mb con MSN Almacenamiento Extra. http://join.msn.com/?pgmarket=es-es
+
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 1692 invoked from network); 14 Sep 2003 17:41:34 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Sep 2003 17:41:34 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 14 Sep 2003 12:40:41 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8EHeeu25839
+	for jandek@cs.northwestern.edu; Sun, 14 Sep 2003 12:40:40 -0500
+Received: (qmail 645 invoked from network); 14 Sep 2003 16:02:38 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Sep 2003 16:02:38 -0000
+Received: from web41406.mail.yahoo.com ([66.218.93.72]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 14 Sep 2003 11:00:23 -0500
+Message-ID: <20030914160023.13811.qmail@web41406.mail.yahoo.com>
+Received: from [68.163.103.231] by web41406.mail.yahoo.com via HTTP; Sun, 14 Sep 2003 09:00:23 PDT
+Date: Sun, 14 Sep 2003 09:00:23 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: RE: Milstein File?
+To: jandek@cs.northwestern.edu
+In-Reply-To: <NGBBLCPHGLBLNPJPFMFCIEHHCGAA.mark@mayfairrecordings.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 14 Sep 2003 16:00:23.0607 (UTC) FILETIME=[4E43E470:01C37AD9]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+The Milstein Files are a series of correspondences
+between Jandek and underground journalist Phil
+Milstein, made during the early 80's. They are said to
+contain some of the most detailed information that
+Jandek was ever willing to give about himself. They
+are to Jandek enthusiasts what Project Blue Book is to
+UFO nuts. Unfortunately, very few people have seen
+these letters, although I do remember hearing that the
+Documentarians were trying to get ahold of them. There
+was an interview with Milstein on WHRB (Harvard's
+radio station) last year during their truly awesome
+"Jandek Orgy". It was very interesting, but I don't
+remember most of it.
+
+D.M.
+--- Mark Greenberg <mark@mayfairrecordings.com> wrote:
+> Never heard of it. Please tell me more.
+> 
+> -Mark
+> 
+> -----Original Message-----
+> From: owner-jandek@cs.northwestern.edu
+> [mailto:owner-jandek@cs.northwestern.edu]On Behalf
+> Of jose ensalada de
+> fichas de tetris
+> Sent: Sunday, September 14, 2003 6:22 AM
+> To: jandek@cs.northwestern.edu
+> Subject: Milstein File?
+> 
+> 
+> Does anybody know what the Milstein File is?
+> I've been told it's the "rossetta stone" of Jandek's
+> myth.
+> Any details?
+> Thanks.
+> 
+>
+_________________________________________________________________
+> Multiplica por cinco el tamaño de tu buzón de correo
+> y envía adjuntos de
+> hasta 2 Mb con MSN Almacenamiento Extra.
+> http://join.msn.com/?pgmarket=es-es
+> 
+> 
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 1693 invoked from network); 14 Sep 2003 17:41:34 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Sep 2003 17:41:34 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 14 Sep 2003 12:40:51 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8EHeoZ25863
+	for jandek@cs.northwestern.edu; Sun, 14 Sep 2003 12:40:50 -0500
+Received: (qmail 731 invoked from network); 14 Sep 2003 16:08:58 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Sep 2003 16:08:58 -0000
+Received: from web12005.mail.yahoo.com ([216.136.172.213]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 14 Sep 2003 11:08:55 -0500
+Message-ID: <20030914160854.77489.qmail@web12005.mail.yahoo.com>
+Received: from [24.54.37.95] by web12005.mail.yahoo.com via HTTP; Sun, 14 Sep 2003 09:08:54 PDT
+Date: Sun, 14 Sep 2003 09:08:54 -0700 (PDT)
+From: Jason Cooley <jasonx12@yahoo.com>
+Subject: RE: Milstein File?
+To: jandek@cs.northwestern.edu
+In-Reply-To: <NGBBLCPHGLBLNPJPFMFCIEHHCGAA.mark@mayfairrecordings.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 14 Sep 2003 16:08:55.0435 (UTC) FILETIME=[7F56A5B0:01C37ADA]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Corwood":
+
+PF: Byron Coley has mailed us something we're calling
+"the Milstein file"... It is a copy of some
+unbelievable correspondence between Phil Milstein and
+Corwood Industries in the very early 1980s. There are
+some incredible revelations in that file, some amazing
+insight into the music, and the music's development.
+
+CF: Not to mention some important artifacts.
+
+PF: It would not be very far off base to call "the
+Milstein file" the Rosetta Stone of Jandek
+scholarship. One of many things that would've never
+been brought to light without the cooperative work of
+the Jandek fan community.
+
+Reiterating that the the film is amazing.  
+
+www.jandekoncorwood.com
+
+
+
+
+--- Mark Greenberg <mark@mayfairrecordings.com> wrote:
+> Never heard of it. Please tell me more.
+> 
+> -Mark
+> Subject: Milstein File?
+> 
+> 
+> Does anybody know what the Milstein File is?
+> I've been told it's the "rossetta stone" of Jandek's
+> myth.
+> Any details?
+> Thanks.
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 22340 invoked from network); 15 Sep 2003 17:46:15 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Sep 2003 17:46:15 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 12:46:12 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8FHkBW09905
+	for jandek@cs.northwestern.edu; Mon, 15 Sep 2003 12:46:11 -0500
+Received: (qmail 22315 invoked from network); 15 Sep 2003 17:45:44 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Sep 2003 17:45:44 -0000
+Received: from smtp0.libero.it ([193.70.192.33]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 12:45:41 -0500
+Received: from pippo (151.24.158.208) by smtp0.libero.it (7.0.020-DD01)
+        id 3F6031BF0011DF64 for jandek@cs.northwestern.edu; Mon, 15 Sep 2003 19:45:40 +0200
+From: "Fabio R." <michette-@libero.it>
+To: <jandek@cs.northwestern.edu>
+Subject: R: Milstein File?
+Date: Mon, 15 Sep 2003 19:50:12 +0200
+Message-ID: <000001c37bb1$d1207920$d09e1897@pippo>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+Importance: Normal
+In-Reply-To: <20030914160854.77489.qmail@web12005.mail.yahoo.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-OriginalArrivalTime: 15 Sep 2003 17:45:41.0479 (UTC) FILETIME=[2E6C6770:01C37BB1]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+Reiterating that the the film is amazing.  
+
+www.jandekoncorwood.com
+
+
+
+hope they'll release it in Italy...
+
+
+
+
+--
+http://digilander.libero.it/flanders1/
+
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 22862 invoked from network); 15 Sep 2003 18:06:15 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Sep 2003 18:06:15 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 13:06:12 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8FI6BA10471
+	for jandek@cs.northwestern.edu; Mon, 15 Sep 2003 13:06:11 -0500
+Received: (qmail 22844 invoked from network); 15 Sep 2003 18:05:31 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Sep 2003 18:05:31 -0000
+Received: from hotmail.com ([64.4.21.84] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 13:05:28 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 15 Sep 2003 11:05:27 -0700
+Received: from 80.58.0.172 by lw14fd.law14.hotmail.msn.com with HTTP;
+	Mon, 15 Sep 2003 18:05:27 GMT
+X-Originating-IP: [80.58.0.172]
+X-Originating-Email: [mayra_gomez_kemp@hotmail.com]
+From: "jose ensalada de fichas de tetris" <mayra_gomez_kemp@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: R: Milstein File?
+Date: Mon, 15 Sep 2003 18:05:27 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1; format=flowed
+Message-ID: <Law14-F84SIt865WYtn000029e6@hotmail.com>
+X-OriginalArrivalTime: 15 Sep 2003 18:05:27.0916 (UTC) FILETIME=[F19852C0:01C37BB3]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I hope they'll release in Spain!!!!
+I've investigated in internet and I think the people behind Jandek On 
+Corwood has has access to the Milstein Files...Can't wait!!!
+What are the last ten minutes of the documentary about?
+Curiosity killed the cat...
+
+_________________________________________________________________
+Infórmate sobre las últimas noticias en MSN Actualidad. 
+http://www.msn.es/Actualidad/
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 24860 invoked from network); 15 Sep 2003 19:55:26 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Sep 2003 19:55:26 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 14:55:22 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8FJtLR12275
+	for jandek@cs.northwestern.edu; Mon, 15 Sep 2003 14:55:21 -0500
+Received: (qmail 24775 invoked from network); 15 Sep 2003 19:48:38 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Sep 2003 19:48:38 -0000
+Received: from hotmail.com ([64.4.27.120] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 14:48:34 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 15 Sep 2003 12:48:33 -0700
+Received: from 193.203.129.54 by by8fd.bay8.hotmail.msn.com with HTTP;
+	Mon, 15 Sep 2003 19:48:32 GMT
+X-Originating-IP: [193.203.129.54]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: R: Milstein File?
+Date: Mon, 15 Sep 2003 19:48:32 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY8-F120ttyDE8IqpF000093e8@hotmail.com>
+X-OriginalArrivalTime: 15 Sep 2003 19:48:33.0431 (UTC) FILETIME=[58730270:01C37BC2]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+>What are the last ten minutes of the documentary about?
+
+Jandek.
+
+Seriously though, hush now... ypu'll appreciate it more when you do see it.
+
+>Curiosity killed the cat...
+
+...that walked from Shelbyville
+
+_________________________________________________________________
+Help STOP SPAM with the new MSN 8 and get 2 months FREE*  
+http://join.msn.com/?page=features/junkmail
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 27819 invoked from network); 15 Sep 2003 21:51:58 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Sep 2003 21:51:58 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 16:51:53 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8FLpqf15017
+	for jandek@cs.northwestern.edu; Mon, 15 Sep 2003 16:51:52 -0500
+Received: (qmail 27796 invoked from network); 15 Sep 2003 21:51:28 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Sep 2003 21:51:28 -0000
+Received: from web12002.mail.yahoo.com ([216.136.172.210]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 16:51:23 -0500
+Message-ID: <20030915215112.6738.qmail@web12002.mail.yahoo.com>
+Received: from [68.170.159.137] by web12002.mail.yahoo.com via HTTP; Mon, 15 Sep 2003 14:51:12 PDT
+Date: Mon, 15 Sep 2003 14:51:12 -0700 (PDT)
+From: Jason Cooley <jasonx12@yahoo.com>
+Subject: Re: R: Milstein File?
+To: jandek@cs.northwestern.edu
+In-Reply-To: <BAY8-F120ttyDE8IqpF000093e8@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 15 Sep 2003 21:51:23.0417 (UTC) FILETIME=[814DA090:01C37BD3]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Maybe the 'Milstein file' will be an Easter Egg on the
+DVD...
+
+--- Paul Condon <paulgcondon@hotmail.com> wrote:
+> >What are the last ten minutes of the documentary
+> about?
+> 
+> Jandek.
+> 
+> Seriously though, hush now... ypu'll appreciate it
+> more when you do see it.
+> 
+> >Curiosity killed the cat...
+> 
+> ...that walked from Shelbyville
+> 
+>
+_________________________________________________________________
+> Help STOP SPAM with the new MSN 8 and get 2 months
+> FREE*  
+> http://join.msn.com/?page=features/junkmail
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 28216 invoked from network); 15 Sep 2003 21:55:25 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Sep 2003 21:55:25 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 16:55:21 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8FLtKO15082
+	for jandek@cs.northwestern.edu; Mon, 15 Sep 2003 16:55:20 -0500
+Received: (qmail 28122 invoked from network); 15 Sep 2003 21:53:00 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Sep 2003 21:53:00 -0000
+Received: from hotmail.com ([64.4.21.16] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 16:52:55 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 15 Sep 2003 14:52:54 -0700
+Received: from 12.216.224.202 by lw14fd.law14.hotmail.msn.com with HTTP;
+	Mon, 15 Sep 2003 21:52:54 GMT
+X-Originating-IP: [12.216.224.202]
+X-Originating-Email: [kisseverycomma@hotmail.com]
+From: "john brown" <kisseverycomma@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: RE: Milstein File?
+Date: Mon, 15 Sep 2003 21:52:54 +0000
+Mime-Version: 1.0
+Content-Type: text/html
+Message-ID: <Law14-F16KvPEkGhAj500043a71@hotmail.com>
+X-OriginalArrivalTime: 15 Sep 2003 21:52:54.0753 (UTC) FILETIME=[B7BE6510:01C37BD3]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<html><div style='background-color:'><P>Also included in the Milstein File;</P>
+<UL>
+<LI>Pre-printed backstage passes from a (canceled) Northeastern Tour c.1983</LI>
+<LI>A lock of hair</LI>
+<LI>Jandek's High School yearbook</LI>
+<LI>Three "the Fall Guy" episodes on BetaMax tape</LI></UL>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV></div><br clear=all><hr> <a href="http://g.msn.com/8HMNENUS/2752??PS=">Get a FREE computer virus scan online from McAfee.</a> </html>
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 30791 invoked from network); 16 Sep 2003 00:00:40 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Sep 2003 00:00:40 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 19:00:34 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8G00XN17074
+	for jandek@cs.northwestern.edu; Mon, 15 Sep 2003 19:00:33 -0500
+Received: (qmail 29354 invoked from network); 15 Sep 2003 22:47:36 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Sep 2003 22:47:36 -0000
+Received: from mailhost.bellboyd.com ([67.94.127.2]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 17:47:31 -0500
+Received: from 67.94.127.3 by mailhost.bellboyd.com with ESMTP (
+ Tumbleweed MMS SMTP Relay (MMS v4.7);); Mon, 15 Sep 2003 17:48:49 -0500
+X-Server-Uuid: 4307f3fc-235d-4475-b52a-e9f8bf3c098e
+X-MimeOLE: Produced By Microsoft Exchange V6.0.6249.0
+content-class: urn:content-classes:message
+MIME-Version: 1.0
+Subject: interest for a chicago screening...
+Date: Mon, 15 Sep 2003 17:47:30 -0500
+Message-ID: <A0A0EFBA6F51084C88BE5B37BB7C0D4B019EEFDE@BBLCH13.corp.bellboyd.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: interest for a chicago screening...
+Thread-Index: AcN721fVnCzgFisyQ96Nq5WVSyAgpw==
+From: "Knott, Evan T." <eknott@bellboyd.com>
+To: jandek@cs.northwestern.edu
+X-WSS-ID: 13789E5B89835-01-01
+Content-Type: multipart/alternative; 
+ boundary="----_=_NextPart_001_01C37BDB.58488401"
+X-OriginalArrivalTime: 15 Sep 2003 22:47:31.0042 (UTC) FILETIME=[58906C20:01C37BDB]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This is a multi-part message in MIME format.
+
+------_=_NextPart_001_01C37BDB.58488401
+Content-Type: text/plain; 
+ charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Hello:
+
+I'm writing to the list to guage the interest of list members (plus
+anyone on this list who knows of anyone else who may be interested) in
+attending a Chicago press screening of Jandek on Corwood.  I've sent
+some inquiries to several local music journalists soliciting their
+attendance at such a screening, and have theater rental information from
+the Gene Siskel Film Center in downtown Chicago for hosting a press
+screening.  Thus far, it appears that a press screening at this venue
+could accomodate 61 persons at a weekend afternoon screening cost of
+$1200.  Assuming we could fill the theater, this would cost each
+attendant about $19 - $20, although I'm guessing any press attending
+will insist on doing so for free.
+
+Thus, we need people to attend this.  I'm hoping my inquiries to the
+press will yield at least 2-3 music journalists to attend, or perhaps a
+=66ew more.  Thus, there would ideally be many spaces for others in the
+Chicago and Midwest region to attend, but I'm hoping to get some idea of
+the level of interest so I can make the necessary commitments.  The film
+producers have stated a preference to do a Chicago screening after
+October 20, and I don't think anything could be arranged until late
+October or sometime in November.
+
+I'm hoping for a good response, because there's no way in hell I can
+stand to wait until 2004 to see the documentary.
+
+Thanks,
+
+Evan
+
+p.s.  if anyone is interested, please respond to me privately so as to
+not clog up the mailboxes of other listmembers.
+
+------------------------------------------
+The information contained in this e-mail message may be privileged,=20
+confidential, and protected from disclosure.  If you are not the
+intended recipient, any further disclosure or use, dissemination,
+distribution, or copying of this message or any attachment is strictly
+prohibited.  If you think that you have received this e-mail message in
+error, please delete it and notify the sender.
+
+
+
+------_=_NextPart_001_01C37BDB.58488401
+Content-Type: text/html; 
+ charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; charset=3Dus-ascii">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version 6.0.6249.1">
+<TITLE>interest for a chicago screening...</TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/rtf format -->
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Hello:</FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">I'm writing to the list to guage the =
+interest of list members (plus anyone on this list who knows of anyone else=
+ =
+who may be interested) in attending a Chicago press screening of Jandek on =
+Corwood.&nbsp; I've sent some inquiries to several local music journalists =
+soliciting their attendance at such a screening, and have theater rental =
+information from the Gene Siskel Film Center in downtown Chicago for hostin=
+g=
+ a press screening.&nbsp; Thus far, it appears that a press screening at =
+this venue could accomodate 61 persons at a weekend afternoon screening cos=
+t=
+ of $1200.&nbsp; Assuming we could fill the theater, this would cost each =
+attendant about $19 - $20, although I'm guessing any press attending will =
+insist on doing so for free.</FONT></P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Thus, we need people to attend this.&nbsp;=
+ =
+I'm hoping my inquiries to the press will yield at least 2-3 music =
+journalists to attend, or perhaps a few more.&nbsp; Thus, there would =
+ideally be many spaces for others in the Chicago and Midwest region to =
+attend, but I'm hoping to get some idea of the level of interest so I can =
+make the necessary commitments.&nbsp; The film producers have stated a =
+preference to do a Chicago screening after October 20, and I don't think =
+anything could be arranged until late October or sometime in =
+November.</FONT></P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">I'm hoping for a good response, because =
+there's no way in hell I can stand to wait until 2004 to see the =
+documentary.</FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Thanks,</FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Evan</FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">p.s.&nbsp; if anyone is interested, please=
+ =
+respond to me privately so as to not clog up the mailboxes of other =
+listmembers.</FONT>
+</P>
+
+</BODY>
+</HTML>
+<P>------------------------------------------<br>
+The information contained in this e-mail message may be privileged, <br>
+confidential, and protected from disclosure.  If you are not the<br>
+intended recipient, any further disclosure or use, dissemination,<br>
+distribution, or copying of this message or any attachment is strictly<br>
+prohibited.  If you think that you have received this e-mail message in<br>
+error, please delete it and notify the sender.<br>
+<br>
+<br>
+</P>
+
+------_=_NextPart_001_01C37BDB.58488401--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 31113 invoked from network); 16 Sep 2003 00:03:07 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Sep 2003 00:03:07 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 19:03:02 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8G030L17203
+	for jandek@cs.northwestern.edu; Mon, 15 Sep 2003 19:03:00 -0500
+Received: (qmail 30542 invoked from network); 15 Sep 2003 23:44:07 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Sep 2003 23:44:07 -0000
+Received: from imo-m02.mx.aol.com ([64.12.136.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 18:44:01 -0500
+Received: from Beastieboyskater@aol.com
+	by imo-m02.mx.aol.com (mail_out_v36_r1.1.) id l.43.220f93e2 (4539)
+	 for <jandek@cs.northwestern.edu>; Mon, 15 Sep 2003 19:43:56 -0400 (EDT)
+From: Beastieboyskater@aol.com
+Message-ID: <43.220f93e2.2c97a8bc@aol.com>
+Date: Mon, 15 Sep 2003 19:43:56 EDT
+Subject: (no subject)
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="part1_43.220f93e2.2c97a8bc_boundary"
+X-Mailer: 8.0 for Windows sub 913
+X-OriginalArrivalTime: 15 Sep 2003 23:44:01.0932 (UTC) FILETIME=[3DB12CC0:01C37BE3]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+--part1_43.220f93e2.2c97a8bc_boundary
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Also included in the Milstein File;
+
+
+Pre-printed backstage passes from a (canceled) Northeastern Tour c.1983=20
+A lock of hair=20
+Jandek's High School yearbook=20
+Three "the Fall Guy" episodes on BetaMax tape=A0
+
+
+
+
+__________
+
+hahaha what the hell?
+
+-jimmy
+
+--part1_43.220f93e2.2c97a8bc_boundary
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><FONT FACE=3Darial,helvetica><FONT  SIZE=3D2 FAMILY=3D"SANSSERIF" FACE=
+=3D"Arial" LANG=3D"0">Also included in the Milstein File;<BR>
+<BR>
+<BR>
+Pre-printed backstage passes from a (canceled) Northeastern Tour c.1983 <BR>
+A lock of hair <BR>
+Jandek's High School yearbook <BR>
+Three "the Fall Guy" episodes on BetaMax tape=A0<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+__________<BR>
+<BR>
+hahaha what the hell?<BR>
+<BR>
+-jimmy</FONT></HTML>
+
+--part1_43.220f93e2.2c97a8bc_boundary--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 32457 invoked from network); 16 Sep 2003 01:00:33 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Sep 2003 01:00:33 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 20:00:27 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8G10QD18234
+	for jandek@cs.northwestern.edu; Mon, 15 Sep 2003 20:00:26 -0500
+Received: (qmail 32403 invoked from network); 16 Sep 2003 00:56:11 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Sep 2003 00:56:11 -0000
+Received: from web41401.mail.yahoo.com ([66.218.93.67]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 19:56:05 -0500
+Message-ID: <20030916005604.24948.qmail@web41401.mail.yahoo.com>
+Received: from [141.154.69.38] by web41401.mail.yahoo.com via HTTP; Mon, 15 Sep 2003 17:56:04 PDT
+Date: Mon, 15 Sep 2003 17:56:04 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: RE: Milstein File?
+To: jandek@cs.northwestern.edu
+In-Reply-To: <Law14-F16KvPEkGhAj500043a71@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 16 Sep 2003 00:56:05.0620 (UTC) FILETIME=[4ECF9B40:01C37BED]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+lol
+
+almost as good as the bit about jandek doing a show at
+chuck e cheese.
+
+D.M.
+--- john brown <kisseverycomma@hotmail.com> wrote:
+
+---------------------------------
+
+Also included in the Milstein File;
+
+   Pre-printed backstage passes from a (canceled)
+Northeastern Tour c.1983
+   A lock of hair
+   Jandek's High School yearbook
+   Three "the Fall Guy" episodes on BetaMax tape
+ 
+ 
+
+
+
+---------------------------------
+ Get a FREE computer virus scan online from McAfee. 
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 11942 invoked from network); 16 Sep 2003 02:17:24 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Sep 2003 02:17:24 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 21:15:59 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8G2FvQ18977
+	for jandek@cs.northwestern.edu; Mon, 15 Sep 2003 21:15:57 -0500
+Received: (qmail 11805 invoked from network); 16 Sep 2003 02:00:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Sep 2003 02:00:53 -0000
+Received: from mta06-svc.ntlworld.com ([62.253.162.46]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 15 Sep 2003 21:00:11 -0500
+Received: from melinda.ntlworld.com ([213.106.151.11])
+          by mta06-svc.ntlworld.com
+          (InterMail vM.4.01.03.37 201-229-121-137-20020806) with ESMTP
+          id <20030916020009.ZGKT3000.mta06-svc.ntlworld.com@melinda.ntlworld.com>
+          for <jandek@cs.northwestern.edu>; Tue, 16 Sep 2003 03:00:09 +0100
+Message-Id: <5.2.1.1.0.20030916025345.00bbe8f0@pop.ntlworld.com>
+X-Sender: blackbess@pop.ntlworld.com
+X-Mailer: QUALCOMM Windows Eudora Version 5.2.1
+Date: Tue, 16 Sep 2003 03:00:15 +0100
+To: jandek@cs.northwestern.edu
+From: G R Kelly <blackbess@ntlworld.com>
+Subject: Light relief
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"; format=flowed
+X-OriginalArrivalTime: 16 Sep 2003 02:00:11.0182 (UTC) FILETIME=[42F1CCE0:01C37BF6]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I saw a Polish reggae fan on Soulseek earlier, with the user name of - wait 
+for it - Jahdek.
+
+
+-- 
+Bess.
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 8983 invoked from network); 17 Sep 2003 17:41:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 17 Sep 2003 17:41:53 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 17 Sep 2003 12:41:23 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8HHfLH13435
+	for jandek@cs.northwestern.edu; Wed, 17 Sep 2003 12:41:21 -0500
+Received: (qmail 8937 invoked from network); 17 Sep 2003 17:37:46 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 17 Sep 2003 17:37:46 -0000
+Received: from hotmail.com ([64.4.27.87] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 17 Sep 2003 12:37:43 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 17 Sep 2003 10:37:42 -0700
+Received: from 193.120.45.150 by by8fd.bay8.hotmail.msn.com with HTTP;
+	Wed, 17 Sep 2003 17:37:42 GMT
+X-Originating-IP: [193.120.45.150]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: Light relief
+Date: Wed, 17 Sep 2003 17:37:42 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY8-F87JWEsBk31TZ1000009b2@hotmail.com>
+X-OriginalArrivalTime: 17 Sep 2003 17:37:42.0967 (UTC) FILETIME=[6608C470:01C37D42]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+>I saw a Polish reggae fan on Soulseek earlier, with the user name of - wait 
+>for it - Jahdek.
+
+As in "I and I Woke Up", "The Humility of Dub"....
+
+_________________________________________________________________
+MSN 8 helps eliminate e-mail viruses. Get 2 months FREE*. 
+http://join.msn.com/?page=features/virus
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 9400 invoked from network); 17 Sep 2003 17:47:54 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 17 Sep 2003 17:47:54 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 17 Sep 2003 12:47:51 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8HHlno13684
+	for jandek@cs.northwestern.edu; Wed, 17 Sep 2003 12:47:49 -0500
+Received: (qmail 9380 invoked from network); 17 Sep 2003 17:47:39 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 17 Sep 2003 17:47:39 -0000
+Received: from cha_inet_1.thecha.org ([207.79.176.2] unverified) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 17 Sep 2003 12:47:36 -0500
+Received: by cha_inet_1.thecha.org with Internet Mail Service (5.5.2653.19)
+	id <S1ZZJ426>; Wed, 17 Sep 2003 12:50:48 -0500
+Message-ID: <501208D84965D211A3CF00805FEA1826012A6E28@CHA_LEGAL>
+From: "Epke, Larry" <LEpke@thecha.org>
+To: "'jandek@cs.northwestern.edu'" <jandek@cs.northwestern.edu>
+Subject: RE: Light relief
+Date: Wed, 17 Sep 2003 12:33:29 -0500
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: text/plain
+X-OriginalArrivalTime: 17 Sep 2003 17:47:36.0069 (UTC) FILETIME=[C78CF350:01C37D43]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+>I saw a Polish reggae fan on Soulseek earlier, with the user name of - wait
+
+>for it - Jahdek.
+
+As in "I and I Woke Up", "The Humility of Dub"....
+
+Or "One Foot in the Ganja"!
+
+Larry Epke 
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 23593 invoked from network); 21 Sep 2003 14:46:14 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 21 Sep 2003 14:46:14 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 21 Sep 2003 09:45:32 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8LEjVx27926
+	for jandek@cs.northwestern.edu; Sun, 21 Sep 2003 09:45:31 -0500
+Received: (qmail 12611 invoked from network); 21 Sep 2003 11:56:27 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 21 Sep 2003 11:56:27 -0000
+Received: from hotmail.com ([64.4.21.98] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 21 Sep 2003 06:56:25 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 21 Sep 2003 04:56:25 -0700
+Received: from 12.216.224.202 by lw14fd.law14.hotmail.msn.com with HTTP;
+	Sun, 21 Sep 2003 11:56:25 GMT
+X-Originating-IP: [12.216.224.202]
+X-Originating-Email: [kisseverycomma@hotmail.com]
+From: "john brown" <kisseverycomma@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Jandek on Corwood Leeds Intl. F. F. Dates announced
+Date: Sun, 21 Sep 2003 11:56:25 +0000
+Mime-Version: 1.0
+Content-Type: text/html
+Message-ID: <Law14-F986OUDxTcg2y000046ab@hotmail.com>
+X-OriginalArrivalTime: 21 Sep 2003 11:56:25.0309 (UTC) FILETIME=[620D20D0:01C38037]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<html><div style='background-color:'><DIV>Hey,<BR><BR>Found out that JoC is going to be playing Saturday, October 10, 2003 at 6:00PM.&nbsp; The venue will be the Leeds City Art Gallery.<BR><BR>All UK/European Jandek fans are more than welcome to come.<BR><BR>Anybody that can spare a moment in the days leading up to the showing to pass out flyers/answer questions/cause a commotion will be appreciated.&nbsp; (If we have to sweeten the pot, we will;&nbsp; Anyone attending to help us out will get inside-track information about the location of the cover shot for "The Place"... Not sure about England's Geography and layout [hint, hint]... but it might even make good day trip).&nbsp; I hate to be the "I have a secret" guy... so I'll share the info with the list after the festival.<BR><BR>More info:&nbsp; <A href="http://www.leedsfilm.com/filmpage.asp?filmId=439">http://www.leedsfilm.com/filmpage.asp?filmId=439</A>&nbsp;<BR><BR>News about Cork is next, I'll pass it along to you when 
+ I get it.<BR><BR>Replies/inquires should be directed to <A href="mailto:jandocumentary@hotmail.com">jandocumentary@hotmail.com</A></DIV>
+<DIV><BR>Regards, <BR>Paul</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV></div><br clear=all><hr> <a href="http://g.msn.com/8HMAENUS/2752??PS=">Get McAfee virus scanning and cleaning of incoming attachments.  Get Hotmail Extra Storage!  </a> </html>
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 2890 invoked from network); 21 Sep 2003 17:35:20 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 21 Sep 2003 17:35:20 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 21 Sep 2003 12:35:17 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8LHZGE29783
+	for jandek@cs.northwestern.edu; Sun, 21 Sep 2003 12:35:16 -0500
+Received: (qmail 2427 invoked from network); 21 Sep 2003 17:28:35 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 21 Sep 2003 17:28:35 -0000
+Received: from hotmail.com ([64.4.21.110] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 21 Sep 2003 12:28:32 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 21 Sep 2003 10:28:31 -0700
+Received: from 81.131.80.81 by lw14fd.law14.hotmail.msn.com with HTTP;
+	Sun, 21 Sep 2003 17:28:31 GMT
+X-Originating-IP: [81.131.80.81]
+X-Originating-Email: [mark_leeforshaw@hotmail.com]
+From: "Mark Forshaw" <mark_leeforshaw@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: Jandek on Corwood Leeds Screening
+Date: Sun, 21 Sep 2003 17:28:31 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <Law14-F110QQez1enAq000021ce@hotmail.com>
+X-OriginalArrivalTime: 21 Sep 2003 17:28:31.0828 (UTC) FILETIME=[C72EA140:01C38065]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+On Saturday morning my girlfriend was on the phone buying tickets for the 
+Leeds screening when the doorbell rang. I answered and the postman handed me 
+our latest package from Corwood with "The Place" and other CDs inside. I 
+swear, sometimes this Jandek thing gets a bit odd . . .
+
+See you there,
+
+Mark.
+
+_________________________________________________________________
+Use MSN Messenger to send music and pics to your friends 
+http://www.msn.co.uk/messenger
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 24325 invoked from network); 22 Sep 2003 14:28:55 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 22 Sep 2003 14:28:55 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 22 Sep 2003 09:28:52 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8MESql08904
+	for jandek@cs.northwestern.edu; Mon, 22 Sep 2003 09:28:52 -0500
+Received: (qmail 6016 invoked from network); 22 Sep 2003 09:59:31 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 22 Sep 2003 09:59:31 -0000
+Received: from hotmail.com ([64.4.18.195] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 22 Sep 2003 04:59:30 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 22 Sep 2003 02:59:29 -0700
+Received: from 12.216.224.202 by law12-oe60.adinternal.hotmail.com with DAV;
+	Mon, 22 Sep 2003 09:59:29 +0000
+X-Originating-IP: [12.216.224.202]
+X-Originating-Email: [sandman_142@hotmail.com]
+From: "Paul Frederick" <sandman_142@hotmail.com>
+To: <jandek@cs.northwestern.edu>
+Subject: Jandek on Corwood -- LIFF date correction
+Date: Mon, 22 Sep 2003 04:59:25 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C380C6.4B7C40A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2720.3000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2727.1300
+Message-ID: <Law12-OE60GZaoojYn500001336@hotmail.com>
+X-OriginalArrivalTime: 22 Sep 2003 09:59:29.0704 (UTC) FILETIME=[36D68280:01C380F0]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_000E_01C380C6.4B7C40A0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hey,
+
+Got thrown by the unfamiliar dd/mm/yy European style of date management.
+
+The Leeds premiere is Saturday October 11, 2003 at 6:00PM (NOT Oct. 10 =
+as previously reported).
+
+Venue will be the Leeds City Art Gallery.
+
+Sorry for the confusion.
+
+Paul
+
+------=_NextPart_000_000E_01C380C6.4B7C40A0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2730.1700" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>Hey,<BR><BR>Got thrown by the =
+unfamiliar dd/mm/yy=20
+European style of date management.<BR><BR>The Leeds premiere is Saturday =
+October=20
+11, 2003 at 6:00PM (NOT Oct. 10 as previously reported).<BR><BR>Venue =
+will be=20
+the Leeds City Art Gallery.<BR><BR>Sorry for the=20
+confusion.<BR><BR>Paul</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_000E_01C380C6.4B7C40A0--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 31967 invoked from network); 27 Sep 2003 07:47:04 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 27 Sep 2003 07:47:04 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 27 Sep 2003 02:47:04 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8R7l2W05448
+	for jandek@cs.northwestern.edu; Sat, 27 Sep 2003 02:47:02 -0500
+Received: (qmail 15551 invoked from network); 27 Sep 2003 03:45:51 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 27 Sep 2003 03:45:51 -0000
+Received: from hotmail.com ([64.4.17.44] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 26 Sep 2003 22:40:17 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Fri, 26 Sep 2003 20:40:16 -0700
+Received: from 203.62.159.23 by lw11fd.law11.hotmail.msn.com with HTTP;
+	Sat, 27 Sep 2003 03:40:16 GMT
+X-Originating-IP: [203.62.159.23]
+X-Originating-Email: [paisleyice@hotmail.com]
+From: "Stella Paisley" <paisleyice@hotmail.com>
+To: jandek@cs.northwestern.edu
+Date: Sat, 27 Sep 2003 03:40:16 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <Law11-F44z64HUUkY2B00027dec@hotmail.com>
+X-OriginalArrivalTime: 27 Sep 2003 03:40:16.0887 (UTC) FILETIME=[112AE870:01C384A9]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+I am in Australia. How do I get LP's? Without a credit card?
+
+_________________________________________________________________
+E-mail just got a whole lot better. New ninemsn Premium. Click here  
+http://ninemsn.com.au/premium/landing.asp
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 6565 invoked from network); 28 Sep 2003 09:03:29 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 28 Sep 2003 09:03:29 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 28 Sep 2003 04:03:29 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8S93Sr17861
+	for jandek@cs.northwestern.edu; Sun, 28 Sep 2003 04:03:28 -0500
+Received: (qmail 23442 invoked from network); 27 Sep 2003 21:25:44 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 27 Sep 2003 21:25:44 -0000
+Received: from web60201.mail.yahoo.com ([216.109.118.96]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 27 Sep 2003 16:19:07 -0500
+Message-ID: <20030927211906.97929.qmail@web60201.mail.yahoo.com>
+Received: from [68.41.100.16] by web60201.mail.yahoo.com via HTTP; Sat, 27 Sep 2003 14:19:06 PDT
+Date: Sat, 27 Sep 2003 14:19:06 -0700 (PDT)
+From: Joe Henry <farmofarmo@yahoo.com>
+Subject: Jandek confirms: "The Place" is electric
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="0-726940505-1064697546=:96908"
+X-OriginalArrivalTime: 27 Sep 2003 21:19:07.0184 (UTC) FILETIME=[FC2CEB00:01C3853C]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+--0-726940505-1064697546=:96908
+Content-Type: multipart/alternative; boundary="0-959528659-1064697546=:96908"
+
+--0-959528659-1064697546=:96908
+Content-Type: text/plain; charset=us-ascii
+
+When I ordered "The Place" and "Graven Image" from Corwood, I wrote on the back of my letter: "Does The Place use electric guitar?", not expecting to get anything in response. But when the cds came in the mail today, the standard one-sheet discography came with a message on the back, written in the usual Sterling-Smith handwriting:
+ 
+"The Place 
+is all electric
+guitar"
+ 
+Check the attachment to this email for the jpg image. Needless to say I feel very validated, and expect long apologies from everyone who disagreed with me.
+
+
+
+---------------------------------
+Do you Yahoo!?
+The New Yahoo! Shopping - with improved product search
+--0-959528659-1064697546=:96908
+Content-Type: text/html; charset=us-ascii
+
+<DIV>
+<DIV>When I ordered "The Place" and "Graven Image" from Corwood, I wrote on the back of my letter: "Does <U>The Place</U> use electric guitar?", not expecting to get anything in response. But when the cds came in the mail today, the standard one-sheet discography came with a message on the back, written in the usual Sterling-Smith handwriting:</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>"<U>The Place</U> </DIV>
+<DIV>is all electric</DIV>
+<DIV>guitar"</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Check the attachment to this email for the jpg image. Needless to say I feel very validated, and expect long apologies from everyone who disagreed with me.</DIV></DIV><p><hr SIZE=1>
+Do you Yahoo!?<br>
+<a href="http://shopping.yahoo.com/?__yltc=s%3A150000443%2Cd%3A22708228%2Cslk%3Atext%2Csec%3Amail">The New Yahoo! Shopping</a> - with improved product search
+--0-959528659-1064697546=:96908--
+--0-726940505-1064697546=:96908
+Content-Type: image/pjpeg; name="the_place_is_all_electric_guitar.jpg"
+Content-Transfer-Encoding: base64
+Content-Description: the_place_is_all_electric_guitar.jpg
+Content-Disposition: inline; filename="the_place_is_all_electric_guitar.jpg"
+
+/9j/4AAQSkZJRgABAgEBLAEsAAD/4QpxRXhpZgAATU0AKgAAAAgABwESAAMA
+AAABAAEAAAEaAAUAAAABAAAAYgEbAAUAAAABAAAAagEoAAMAAAABAAIAAAEx
+AAIAAAAUAAAAcgEyAAIAAAAUAAAAhodpAAQAAAABAAAAnAAAAMgAAAEsAAAA
+AQAAASwAAAABQWRvYmUgUGhvdG9zaG9wIDcuMAAyMDAzOjA5OjI3IDE3OjA4
+OjQ0AAAAAAOgAQADAAAAAf//AACgAgAEAAAAAQAAAV6gAwAEAAAAAQAAAbEA
+AAAAAAAABgEDAAMAAAABAAYAAAEaAAUAAAABAAABFgEbAAUAAAABAAABHgEo
+AAMAAAABAAIAAAIBAAQAAAABAAABJgICAAQAAAABAAAJQwAAAAAAAABIAAAA
+AQAAAEgAAAAB/9j/4AAQSkZJRgABAgEASABIAAD/7QAMQWRvYmVfQ00AAv/u
+AA5BZG9iZQBkgAAAAAH/2wCEAAwICAgJCAwJCQwRCwoLERUPDAwPFRgTExUT
+ExgRDAwMDAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwBDQsLDQ4N
+EA4OEBQODg4UFA4ODg4UEQwMDAwMEREMDAwMDAwRDAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDP/AABEIAIAAZwMBIgACEQEDEQH/3QAEAAf/xAE/AAAB
+BQEBAQEBAQAAAAAAAAADAAECBAUGBwgJCgsBAAEFAQEBAQEBAAAAAAAAAAEA
+AgMEBQYHCAkKCxAAAQQBAwIEAgUHBggFAwwzAQACEQMEIRIxBUFRYRMicYEy
+BhSRobFCIyQVUsFiMzRygtFDByWSU/Dh8WNzNRaisoMmRJNUZEXCo3Q2F9JV
+4mXys4TD03Xj80YnlKSFtJXE1OT0pbXF1eX1VmZ2hpamtsbW5vY3R1dnd4eX
+p7fH1+f3EQACAgECBAQDBAUGBwcGBTUBAAIRAyExEgRBUWFxIhMFMoGRFKGx
+QiPBUtHwMyRi4XKCkkNTFWNzNPElBhaisoMHJjXC0kSTVKMXZEVVNnRl4vKz
+hMPTdePzRpSkhbSVxNTk9KW1xdXl9VZmdoaWprbG1ub2JzdHV2d3h5ent8f/
+2gAMAwEAAhEDEQA/APRWkAwWb/nCkPR7sj5qDWlxMdgP4p9h7pKZfou1f4lN
++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
+aG90b3Nob3AgMy4wADhCSU0EJQAAAAAAEAAAAAAAAAAAAAAAAAAAAAA4QklN
+A+0AAAAAABABLAAAAAEAAQEsAAAAAQABOEJJTQQmAAAAAAAOAAAAAAAAAAAA
+AD+AAAA4QklNBA0AAAAAAAQAAAB4OEJJTQQZAAAAAAAEAAAAHjhCSU0D8wAA
+AAAACQAAAAAAAAAAAQA4QklNBAoAAAAAAAEAADhCSU0nEAAAAAAACgABAAAA
+AAAAAAE4QklNA/UAAAAAAEgAL2ZmAAEAbGZmAAYAAAAAAAEAL2ZmAAEAoZma
+AAYAAAAAAAEAMgAAAAEAWgAAAAYAAAAAAAEANQAAAAEALQAAAAYAAAAAAAE4
+QklNA/gAAAAAAHAAAP////////////////////////////8D6AAAAAD/////
+////////////////////////A+gAAAAA////////////////////////////
+/wPoAAAAAP////////////////////////////8D6AAAOEJJTQQIAAAAAAAQ
+AAAAAQAAAkAAAAJAAAAAADhCSU0EHgAAAAAABAAAAAA4QklNBBoAAAAAA2sA
+AAAGAAAAAAAAAAAAAAGxAAABXgAAABsAdABoAGUAcABsAGEAYwBlAGkAcwBh
+AGwAbABlAGwAZQBjAHQAcgBpAGMAZwB1AGkAdABhAHIAAAABAAAAAAAAAAAA
+AAAAAAAAAAAAAAEAAAAAAAAAAAAAAV4AAAGxAAAAAAAAAAAAAAAAAAAAAAEA
+AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAABudWxsAAAAAgAAAAZib3Vu
+ZHNPYmpjAAAAAQAAAAAAAFJjdDEAAAAEAAAAAFRvcCBsb25nAAAAAAAAAABM
+ZWZ0bG9uZwAAAAAAAAAAQnRvbWxvbmcAAAGxAAAAAFJnaHRsb25nAAABXgAA
+AAZzbGljZXNWbExzAAAAAU9iamMAAAABAAAAAAAFc2xpY2UAAAASAAAAB3Ns
+aWNlSURsb25nAAAAAAAAAAdncm91cElEbG9uZwAAAAAAAAAGb3JpZ2luZW51
+bQAAAAxFU2xpY2VPcmlnaW4AAAANYXV0b0dlbmVyYXRlZAAAAABUeXBlZW51
+bQAAAApFU2xpY2VUeXBlAAAAAEltZyAAAAAGYm91bmRzT2JqYwAAAAEAAAAA
+AABSY3QxAAAABAAAAABUb3AgbG9uZwAAAAAAAAAATGVmdGxvbmcAAAAAAAAA
+AEJ0b21sb25nAAABsQAAAABSZ2h0bG9uZwAAAV4AAAADdXJsVEVYVAAAAAEA
+AAAAAABudWxsVEVYVAAAAAEAAAAAAABNc2dlVEVYVAAAAAEAAAAAAAZhbHRU
+YWdURVhUAAAAAQAAAAAADmNlbGxUZXh0SXNIVE1MYm9vbAEAAAAIY2VsbFRl
+eHRURVhUAAAAAQAAAAAACWhvcnpBbGlnbmVudW0AAAAPRVNsaWNlSG9yekFs
+aWduAAAAB2RlZmF1bHQAAAAJdmVydEFsaWduZW51bQAAAA9FU2xpY2VWZXJ0
+QWxpZ24AAAAHZGVmYXVsdAAAAAtiZ0NvbG9yVHlwZWVudW0AAAARRVNsaWNl
+QkdDb2xvclR5cGUAAAAATm9uZQAAAAl0b3BPdXRzZXRsb25nAAAAAAAAAAps
+ZWZ0T3V0c2V0bG9uZwAAAAAAAAAMYm90dG9tT3V0c2V0bG9uZwAAAAAAAAAL
+cmlnaHRPdXRzZXRsb25nAAAAAAA4QklNBBEAAAAAAAEBADhCSU0EFAAAAAAA
+BAAAAAE4QklNBAwAAAAACV8AAAABAAAAZwAAAIAAAAE4AACcAAAACUMAGAAB
+/9j/4AAQSkZJRgABAgEASABIAAD/7QAMQWRvYmVfQ00AAv/uAA5BZG9iZQBk
+gAAAAAH/2wCEAAwICAgJCAwJCQwRCwoLERUPDAwPFRgTExUTExgRDAwMDAwM
+EQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwBDQsLDQ4NEA4OEBQODg4U
+FA4ODg4UEQwMDAwMEREMDAwMDAwRDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+DAwMDP/AABEIAIAAZwMBIgACEQEDEQH/3QAEAAf/xAE/AAABBQEBAQEBAQAA
+AAAAAAADAAECBAUGBwgJCgsBAAEFAQEBAQEBAAAAAAAAAAEAAgMEBQYHCAkK
+CxAAAQQBAwIEAgUHBggFAwwzAQACEQMEIRIxBUFRYRMicYEyBhSRobFCIyQV
+UsFiMzRygtFDByWSU/Dh8WNzNRaisoMmRJNUZEXCo3Q2F9JV4mXys4TD03Xj
+80YnlKSFtJXE1OT0pbXF1eX1VmZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3EQAC
+AgECBAQDBAUGBwcGBTUBAAIRAyExEgRBUWFxIhMFMoGRFKGxQiPBUtHwMyRi
+4XKCkkNTFWNzNPElBhaisoMHJjXC0kSTVKMXZEVVNnRl4vKzhMPTdePzRpSk
+hbSVxNTk9KW1xdXl9VZmdoaWprbG1ub2JzdHV2d3h5ent8f/2gAMAwEAAhED
+EQA/APRWkAwWb/nCkPR7sj5qDWlxMdgP4p9h7pKZfou1f4lN+j/0Y+9Lamhv
+JbqkplDY0rbPbUpgPGpvyJSJEcfKEtxjjSUVLe3/AEbZ+JTjZrNbfxTE6DT5
+JuQfakplNeoFY/FNLP3G/imB1OkaJpnskpLDP9GExDDoWR5hRISAd4pKX2Ro
+knnukkh//9D0So+53wH8USUKv6R+A/iifBFS8pkK7Iqx31Mudsde8VVNMy57
+g5zW/wDQcpF+1u5w2sAJLnaNgcu3H81JLKUiZ0nVUWdY6bbTkX+rsrwhuyjY
+HVmppb6jH2tsa1zPVp/S1fnvrRq8rEtsdXU9r7Gsbc8AyW12S6qyz/R+pt9u
+9JCaHcbk5mI3aoWNfRk0VX0HfTexttVgmHMcN1djd213vaiDaQZafikpcTJ1
+E9gmgx9JOAJOkaaptPD4JKZpwNE0pSkpZJN2SSQ//9H0Rn0nfAfxU9u4FvZw
+iPioM+k74D+KkSip5h3QMe+p1nTqrcW77c7Kbl49Aqs9NoLKseqzO+yuaz21
+Os2b8e79J/pvUV/H6M+3E6pXmWWn9sNey2uzaHV7q30O9H0r8ylmP79+Mz+e
+pr/R32X+nWtJ2bjjKbiGwHJew2ioS52xvtNr9od6de72epbs9Sz9FX+kUbs7
+FoFpttaDSxtltbfdYGPJZU70Gbrv0z27KfZ+mf8AzaCnOd9XzcC20Y1dNjah
+kUAW2VWPpeMhlz6BZhUOsfcxnrepVZ61X6F6K3oNDMduO00ikMFXp/Z5Y5jR
+tYy2h2R6N2xv+lrWhTZRcxzq3BzGvfU52obvqcar2yf9FYx9b1Uq6rh2MpeW
+vp9eTWLg1h2tr+1Puf8ApHelQynbvss/0lX+kSSmxMOrEoFVIYwCN2wbWktA
+rG1m5/pMa1uyqhn6Kiv9FUjyf3te6y3/AFg6S6l92K/7aWUnK9PHEudUC5u9
+j7zRR/grdtT7vVfXXZbXXsT4vXsG+62t1N1RxztynlrXMruG7fhb63v9bJZX
+U9+7Hrtxf8B9o9f9Gih1AT4z4fFMN373+5V8DIGRi1PeGi91TbLq2lp2752e
+1lmQ1m/b/p7FY0/d7/jqkpkmKkniQfFJTFJJJJD/AP/S9Eb9J3wH8U4Ltw28
+zp8UzQC52saD+KkBsIIkka6BJTg9Pq6DTRh3V7q68Cs0YObkOLW2s2WuyMit
+1bhVdvbXlW32ZFVX/cj0/Ssx7Usrp/1fZ1B+Tdiuy8rqN56fktDPVabHVU5T
+a8mt+1voY9GBR6P068X9L+f6np3quh9MZjfZH1OvxxaLWMuMhu1vo11fo/S3
+U10N9Dbb6nr1f0r7QrgxcUO3Clu71TkA7f8ADEbHZH/G7Hbd6SXGpzPq90y7
+qmPjUDGGFU+/qDqaS2lwqaLLqK3j9C+6qrKrs9Cv0/6X/pPUReg4v1fyenY+
+TgYGLRXTbb6GxtNux4PoW3VZFfq7vXbTX+m3/pavT/wa1jTjzuNDC4h0nY2T
+v2m3dp/hXMZ6n7/ppy2oFxDIc8y8gQXGI3PcPpu2pKRfYcJo2tooa3YaoFTB
++jJLjT7W/wA1ud/NojK2sLnsDW2O5c0AEyfUd7h7v5xz7P8AjHpENOm06apA
+N2GB4IoYUUU0MNdDK6mucXltTWsaXH6T3NYGt3u/fRNf3vkm0IMCPFIRPB/1
+lJTNOD+QpuyYnRJSkk6SSH//0/RGE7nfAfxRBCGz6TvkppKUSSeUvd4pQOTz
+4pjAkQUkql8/SEJe/wDe181H2TG0hP7G+6OUUK908gg9ktRpu+Kido1gp/by
+BJKSlxu8deyXun6SaAJBGk66pCJ4SUzEQl4/ApDjw8kxdGnikpSSSSSH/9T0
+Rn0nfJTlQafc7SeFKfIpKZSoS7yTyY4KaT4FJK8u0/FOS7sohx/dcn3doKSl
+ju4EJS6InVMA0cA/ilAA0BmZRQvr3OqWu7n5JtBpBGqQiRokpmNRzPmn26E+
+CYcDSPJLd28jKSlkkkkkP//V9Dbu3OiI0/ipe6O0pgBudPknDe/8UlKl8dpS
+l/gEtmkapBpmZKSlxvjsl7+dPNLb5lLb5lJKjuntHim9+vA8E5BjklR11Guq
+KF5el75148UodHceSQnnnxCSmSie5UgltSUpJJJJD//W9GY1xLoEjTgJ9j/3
+XfcUG7DxMgh19LLXAQC8SYQ/2V0z/uJV/moqtt7X/un7ktr/AN0/cqn7L6b/
+ANxav81P+zenf9xq/uSVbb2u/dP3Ji13gR8lW/Z3T/8AuOz7j/en/Z2B/wBx
+2fj/AHpKtPtd4H7ktrvP7lX/AGfg/wCgZ+P/AJJP+z8L/QN+93/kklW2NpPY
+ptp80D9n4P8AoW/e7/yab9n4P+hH+c//AMmkq2ztd4FI6CXaDxVcYGH/AKGP
+7b//AEop14uPU7dWza4d9zj/ANU9zUlWkSSSSQ//2QA4QklNBCEAAAAAAFUA
+AAABAQAAAA8AQQBkAG8AYgBlACAAUABoAG8AdABvAHMAaABvAHAAAAATAEEA
+ZABvAGIAZQAgAFAAaABvAHQAbwBzAGgAbwBwACAANwAuADAAAAABADhCSU0E
+BgAAAAAABwADAAAAAQEA/+ESSGh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC8APD94cGFja2V0IGJlZ2luPSfvu78nIGlkPSdXNU0wTXBDZWhpSHpyZVN6
+TlRjemtjOWQnPz4KPD9hZG9iZS14YXAtZmlsdGVycyBlc2M9IkNSIj8+Cjx4
+OnhhcG1ldGEgeG1sbnM6eD0nYWRvYmU6bnM6bWV0YS8nIHg6eGFwdGs9J1hN
+UCB0b29sa2l0IDIuOC4yLTMzLCBmcmFtZXdvcmsgMS41Jz4KPHJkZjpSREYg
+eG1sbnM6cmRmPSdodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1z
+eW50YXgtbnMjJyB4bWxuczppWD0naHR0cDovL25zLmFkb2JlLmNvbS9pWC8x
+LjAvJz4KCiA8cmRmOkRlc2NyaXB0aW9uIGFib3V0PSd1dWlkOjYyZTNhYzI1
+LWYxMmUtMTFkNy04ZGYxLWIzMzNiY2I0MjY0NycKICB4bWxuczp4YXBNTT0n
+aHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyc+CiAgPHhhcE1NOkRv
+Y3VtZW50SUQ+YWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjYyZTNhYzIwLWYxMmUt
+MTFkNy04ZGYxLWIzMzNiY2I0MjY0NzwveGFwTU06RG9jdW1lbnRJRD4KIDwv
+cmRmOkRlc2NyaXB0aW9uPgoKPC9yZGY6UkRGPgo8L3g6eGFwbWV0YT4KICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCjw/
+eHBhY2tldCBlbmQ9J3cnPz7/7gAOQWRvYmUAZAAAAAAB/9sAhAAKBwcHCAcK
+CAgKDwoICg8SDQoKDRIUEBASEBAUEQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMAQsMDBUTFSIYGCIUDg4OFBQODg4OFBEMDAwMDBERDAwM
+DAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCAGxAV4DAREA
+AhEBAxEB/90ABAAs/8QBogAAAAcBAQEBAQAAAAAAAAAABAUDAgYBAAcICQoL
+AQACAgMBAQEBAQAAAAAAAAABAAIDBAUGBwgJCgsQAAIBAwMCBAIGBwMEAgYC
+cwECAxEEAAUhEjFBUQYTYSJxgRQykaEHFbFCI8FS0eEzFmLwJHKC8SVDNFOS
+orJjc8I1RCeTo7M2F1RkdMPS4ggmgwkKGBmElEVGpLRW01UoGvLj88TU5PRl
+dYWVpbXF1eX1ZnaGlqa2xtbm9jdHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4
+KTlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+hEAAgIBAgMFBQQFBgQIAwNt
+AQACEQMEIRIxQQVRE2EiBnGBkTKhsfAUwdHhI0IVUmJy8TMkNEOCFpJTJaJj
+ssIHc9I14kSDF1STCAkKGBkmNkUaJ2R0VTfyo7PDKCnT4/OElKS0xNTk9GV1
+hZWltcXV5fVGVmZ2hpamtsbW5vZHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4
+OUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oADAMBAAIRAxEAPwDqFMUL
+ljLdMVb9BvDFLvQfwxVr0H8MVd6D+GKu+rv4Yq76u/hirvq7+GKu+rN4Yq76
+s3hirvqzeGKt/VmxV31ZsVd9WbFXfVmxV31ZsVd9WbFXfVmxV31ZsVa+rN4Y
+q76s3hirvqreGKu+rN4Yq76s3hira2zg74oLvqzYpa+rNirf1Z/DFXfVmxV3
+1Z8KHfVn8MVd9WfFXfVmxVv6s2Ku+rNirvq7Yq76s+Ku+rtirRgcdsVU6YVX
+AYENgYVbxV//0Oo4obSd1k40HADfxxSrC5Q9QRirfrqTirfrLiq7mKYq16gx
+VoygYq16w8MVW+uR1XbFXfWBXYYqv9ZaYqt9ceGKtfWD4Yq4XHiMVcZz4Yqs
+e4k24Ae9cVWi5lNOnvirZupf5R88KrxcGm43wKp/W5ORFBTCrf1uSo+EAV/D
+FVwumJIK7djiq0XEu9e3QYq2tzJQ8lxVdHPIftDAq5pjQEDfFWhM21R1xVxu
+KD7JrhVszH5YFWGd+VBthVxnbl1oPCmKt+s1SPuxVak7lgCa9a4qq+rgVr1T
+9GKu9U4q71sVd6vbvirfq+IxVbIEJHHvhCCs44q6mFDqYq//0epYoWcSXNB0
+GKW/TOKthD3xVuhxVuuKuJ+nCrt8CtV2pirjyxV3E4VdvirgD4Yq3SvbArdP
+bFXBcUt+n/n2xVrgOo2xQ708VdwwqtZdwO5xVqgrSmKt0FaYq3xoK4q1UUO2
+KuFa9NxgKtjf5+GFWmPSgrXFVvLtTfFVy/EAcVca1pirW9f64quoa07DFWh1
+379MVX4q6mKupiruOKtcMVcK9PuIxVtQSRXwxQVxGKtYoawq/wD/0upYULBX
+m1DTpgSF/I9ziruWKtcsVdXCrq+2Kt1wK3XFW6nFXV+/FVIF60pv44VbDsdh
+U7fjiq4AgHr0xVdGTQ1wK25oNsKtcmoOwJ/DFXV+AA1BxVUBFBgVTZjU9dqU
+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
+xV2KuxV2KuxV2KuxVrFW8UNYq//Z
+
+--0-726940505-1064697546=:96908--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 4392 invoked from network); 28 Sep 2003 22:19:12 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 28 Sep 2003 22:19:12 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 28 Sep 2003 17:17:46 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8SMHjP02239
+	for jandek@cs.northwestern.edu; Sun, 28 Sep 2003 17:17:45 -0500
+Received: (qmail 27084 invoked from network); 28 Sep 2003 20:08:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 28 Sep 2003 20:08:53 -0000
+Received: from hotmail.com ([64.4.27.51] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 28 Sep 2003 15:08:49 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 28 Sep 2003 13:08:48 -0700
+Received: from 193.120.45.138 by by8fd.bay8.hotmail.msn.com with HTTP;
+	Sun, 28 Sep 2003 20:08:48 GMT
+X-Originating-IP: [193.120.45.138]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: Jandek confirms: "The Place" is electric
+Date: Sun, 28 Sep 2003 20:08:48 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY8-F51fIiIUMEjx3y00005f0e@hotmail.com>
+X-OriginalArrivalTime: 28 Sep 2003 20:08:48.0886 (UTC) FILETIME=[54497960:01C385FC]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+>"The Place
+>is all electric
+>guitar"
+>
+>Needless to say I feel very validated, and expect long apologies from 
+>everyone who disagreed with me.
+
+Many, many, sincere apologies. I was convinced it was just a very 
+bright-sounding acoustic. This is an interesting development though.
+Now if you will excuse me I must go and get my ears syringed...
+
+Paul
+
+_________________________________________________________________
+Tired of spam? Get advanced junk mail protection with MSN 8. 
+http://join.msn.com/?page=features/junkmail
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 12035 invoked from network); 30 Sep 2003 13:42:30 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 13:42:30 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 08:42:28 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8UDgQh02907
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 08:42:26 -0500
+Received: (qmail 30203 invoked from network); 30 Sep 2003 10:13:40 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 10:13:40 -0000
+Received: from kogut.o2.pl ([212.126.20.60]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 05:13:00 -0500
+Received: from rekin.go2.pl (rekin.o2.pl [212.126.20.3])
+	by kogut.o2.pl (o2.pl Mailer 2.0.1) with ESMTP id 30107281E8
+	for <jandek@cs.northwestern.edu>; Tue, 30 Sep 2003 12:12:57 +0200 (CEST)
+Received: by rekin.go2.pl (o2.pl Mailer 2.0.1, from userid 99)
+	id 42BFE3402E; Tue, 30 Sep 2003 12:12:57 +0200 (CEST)
+From: =?iso-8859-2?Q?LUTY?= <luty10@o2.pl>
+To: jandek@cs.northwestern.edu
+Subject: =?iso-8859-2?Q?6=20meefs=20and=20jandek?=
+Date: Tue, 30 Sep 2003 12:12:57 +0100
+Content-Type: text/plain; charset="iso-8859-2";
+Content-Transfer-Encoding: 8bit
+X-Mailer: first3.pl WebMailv4.01. Usluga Poczty Elektronicznej dla o2.pl
+X-Originator: 62.21.31.134
+Message-Id: <20030930101257.42BFE3402E@rekin.go2.pl>
+X-OriginalArrivalTime: 30 Sep 2003 10:13:01.0559 (UTC) FILETIME=[6E0BC070:01C3873B]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+have you already heard the band "The 6 meefs and jandek"?
+Available on soulseek,sounds like they're having fun
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 15391 invoked from network); 30 Sep 2003 14:16:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 14:16:53 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 09:16:51 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8UEGox03986
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 09:16:50 -0500
+Received: (qmail 15336 invoked from network); 30 Sep 2003 14:16:13 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 14:16:13 -0000
+Received: from c000.snv.cp.net ([209.228.32.65] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 09:16:11 -0500
+Received: (cpmta 8070 invoked from network); 30 Sep 2003 07:16:10 -0700
+Received: from 209.228.32.74 (HELO mail.eggoffice.intranets.com.criticalpath.net)
+  by smtp.hosting1.intranets.com (209.228.32.65) with SMTP; 30 Sep 2003 07:16:10 -0700
+X-Sent: 30 Sep 2003 14:16:10 GMT
+Received: from [213.78.65.33] by mail.eggoffice.intranets.com with HTTP;
+    Tue, 30 Sep 2003 07:16:09 -0700 (PDT)
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+To: jandek@cs.northwestern.edu
+From: "Colin Tudor" <cod@wobblyweb.com>
+Subject: Jandek /Malkmus/Silver Jews Connection
+X-Sent-From: cod@eggoffice.intranets.com
+Date: Tue, 30 Sep 2003 07:16:09 -0700 (PDT)
+X-Mailer: Web Mail 5.5.0-3_sol28
+Message-Id: <20030930071610.9618.h010.c000.wm@mail.eggoffice.intranets.com.criticalpath.net>
+X-OriginalArrivalTime: 30 Sep 2003 14:16:11.0716 (UTC) FILETIME=[66750840:01C3875D]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Hi all
+In my capacity as a journo I recently spoke with Stephen Malkmus, we got onto the subject of Jandek
+(as i do when I can) and he said that he was not only a fan but that his friend David from a band
+called The Silver Jews had recently had dinner with Jandek where they reminisced about a punk band
+the pair had been in together in Houston.  I'm in the UK and unfamiliar with The Silver Jews but
+does this factoid interest any of you? Any idea what the band might have been or if this fact is
+really fiction. Malkmus sounded genuine and he had no reason to lie but it is a friend of a friend
+story.
+Hope this is a thread :-)
+Colin
+
+Colin Tudor
+PO Box 3
+Whitland
+Dyfed SA34 0YU
+
+01994-419-447
+
+cod@wobblyweb.com
+
+http://www.virginradio107.co.uk/index.html
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 16862 invoked from network); 30 Sep 2003 14:33:26 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 14:33:26 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 09:33:24 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8UEXNn04382
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 09:33:23 -0500
+Received: (qmail 16524 invoked from network); 30 Sep 2003 14:28:46 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 14:28:46 -0000
+Received: from m07.lax.untd.com ([64.136.30.70]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 09:28:43 -0500
+Received: from cookie.untd.com by cookie.untd.com for <"vS5hwU/cVBV20C85nS9ZdErm1w5s/93ItsHUTD7UVCtVuTnPVz0QUA==">; Tue, 30 Sep 2003 07:28:03 PDT
+Received: (from chuckp8@juno.com) 
+ by m07.lax.untd.com (jqueuemail) id JBB5FEWV; Tue, 30 Sep 2003 07:28:03 PDT
+To: cod@wobblyweb.com
+Cc: jandek@cs.northwestern.edu
+Date: Tue, 30 Sep 2003 07:21:26 -0700
+Subject: Re: Jandek /Malkmus/Silver Jews Connection
+Message-ID: <20030930.072127.-301435.1.chuckp8@juno.com>
+X-Mailer: Juno 5.0.33
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Juno-Line-Breaks: 2-7,9-37
+From: chuckp8@juno.com
+X-OriginalArrivalTime: 30 Sep 2003 14:28:44.0059 (UTC) FILETIME=[26E376B0:01C3875F]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+David Berman of the Silver Jews seems the perfect musical companion to
+Jandek, while sounding nothing like him.  All Silver Jews releases are
+worth picking up, and all are readily available through Drag City.
+
+The real issue is... where are the tapes of this punk band?!
+
+CP.
+
+On Tue, 30 Sep 2003 07:16:09 -0700 (PDT) "Colin Tudor"
+<cod@wobblyweb.com> writes:
+> Hi all
+> In my capacity as a journo I recently spoke with Stephen Malkmus, we 
+> got onto the subject of Jandek
+> (as i do when I can) and he said that he was not only a fan but that 
+> his friend David from a band
+> called The Silver Jews had recently had dinner with Jandek where 
+> they reminisced about a punk band
+> the pair had been in together in Houston.  I'm in the UK and 
+> unfamiliar with The Silver Jews but
+> does this factoid interest any of you? Any idea what the band might 
+> have been or if this fact is
+> really fiction. Malkmus sounded genuine and he had no reason to lie 
+> but it is a friend of a friend
+> story.
+> Hope this is a thread :-)
+> Colin
+> 
+> Colin Tudor
+> PO Box 3
+> Whitland
+> Dyfed SA34 0YU
+> 
+> 01994-419-447
+> 
+> cod@wobblyweb.com
+> 
+> http://www.virginradio107.co.uk/index.html
+> 
+> 
+
+________________________________________________________________
+The best thing to hit the internet in years - Juno SpeedBand!
+Surf the web up to FIVE TIMES FASTER!
+Only $14.95/ month - visit www.juno.com to sign up today!
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 16994 invoked from network); 30 Sep 2003 14:33:31 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 14:33:31 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 09:33:29 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8UEXSn04406
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 09:33:28 -0500
+Received: (qmail 16734 invoked from network); 30 Sep 2003 14:31:39 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 14:31:39 -0000
+Received: from rounder.com ([65.172.227.11] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 09:30:48 -0500
+Received: from chriscamsrv ([65.172.227.144]) by rounder.com with MailEnable ESMTP; Tue, 30 Sep 2003 10:30:46 -0400
+Reply-To: <chriscam@rounder.com>
+From: "Chris C" <chriscam@rounder.com>
+To: "'Colin Tudor'" <cod@wobblyweb.com>, <jandek@cs.northwestern.edu>
+Subject: RE: Jandek /Malkmus/Silver Jews Connection
+Date: Tue, 30 Sep 2003 10:31:14 -0400
+Message-ID: <001401c3875f$811202f0$90e3ac41@rounder.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook CWS, Build 9.0.6604 (9.0.2911.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+Importance: Normal
+In-Reply-To: <20030930071610.9618.h010.c000.wm@mail.eggoffice.intranets.com.criticalpath.net>
+X-OriginalArrivalTime: 30 Sep 2003 14:30:48.0294 (UTC) FILETIME=[70F03860:01C3875F]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+Interesting, I've been a casual fan of the Silver Jews for a couple of
+years, and their record "Bright Flight" has a very Jandekian cover
+
+Here's a link to a discography
+
+
+http://www.weeblackskelf.co.uk/cordsuit/discography.php
+
+
+-Christian C
+
+-----Original Message-----
+From: owner-jandek@cs.northwestern.edu
+[mailto:owner-jandek@cs.northwestern.edu]On Behalf Of Colin Tudor
+Sent: Tuesday, September 30, 2003 10:16 AM
+To: jandek@cs.northwestern.edu
+Subject: Jandek /Malkmus/Silver Jews Connection
+
+
+Hi all
+In my capacity as a journo I recently spoke with Stephen Malkmus, we got
+onto the subject of Jandek
+(as i do when I can) and he said that he was not only a fan but that his
+friend David from a band
+called The Silver Jews had recently had dinner with Jandek where they
+reminisced about a punk band
+the pair had been in together in Houston.  I'm in the UK and unfamiliar with
+The Silver Jews but
+does this factoid interest any of you? Any idea what the band might have
+been or if this fact is
+really fiction. Malkmus sounded genuine and he had no reason to lie but it
+is a friend of a friend
+story.
+Hope this is a thread :-)
+Colin
+
+Colin Tudor
+PO Box 3
+Whitland
+Dyfed SA34 0YU
+
+01994-419-447
+
+cod@wobblyweb.com
+
+http://www.virginradio107.co.uk/index.html
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 18630 invoked from network); 30 Sep 2003 14:48:03 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 14:48:03 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 09:47:54 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8UElra04666
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 09:47:53 -0500
+Received: (qmail 18347 invoked from network); 30 Sep 2003 14:44:19 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 14:44:19 -0000
+Received: from frodo.dreamhost.com ([66.33.209.11]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 09:44:16 -0500
+Received: from dpen (adsl-68-75-54-172.dsl.emhril.ameritech.net [68.75.54.172])
+	by frodo.dreamhost.com (Postfix) with ESMTP
+	id C927113BE1; Tue, 30 Sep 2003 07:44:11 -0700 (PDT)
+From: "Mark Greenberg" <mark@mayfairrecordings.com>
+To: "Colin Tudor" <cod@wobblyweb.com>, <jandek@cs.northwestern.edu>
+Subject: RE: Jandek /Malkmus/Silver Jews Connection
+Date: Tue, 30 Sep 2003 09:44:15 -0500
+Message-ID: <NGBBLCPHGLBLNPJPFMFCOEOLCGAA.mark@mayfairrecordings.com>
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Importance: Normal
+In-Reply-To: <20030930071610.9618.h010.c000.wm@mail.eggoffice.intranets.com.criticalpath.net>
+X-OriginalArrivalTime: 30 Sep 2003 14:44:16.0981 (UTC) FILETIME=[52F41050:01C38761]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I would have to believe SM was pulling your leg. David Berman is MUCH
+younger than Jandek/Sterling (15 to 20 years younger) and I am not aware of
+him ever living in Houston. He did however live in Austin in the 80's but
+Austin 'ain't Houston. My assumption is that he, like us, is a fan (see his
+Jandekian album jacket of Bright Flight for proof) and SM thought it might
+be fun to include his friend in the mystery. Just my two cents, mind you....
+
+-Mark
+
+-----Original Message-----
+From: owner-jandek@cs.northwestern.edu
+[mailto:owner-jandek@cs.northwestern.edu]On Behalf Of Colin Tudor
+Sent: Tuesday, September 30, 2003 9:16 AM
+To: jandek@cs.northwestern.edu
+Subject: Jandek /Malkmus/Silver Jews Connection
+
+
+Hi all
+In my capacity as a journo I recently spoke with Stephen Malkmus, we got
+onto the subject of Jandek
+(as i do when I can) and he said that he was not only a fan but that his
+friend David from a band
+called The Silver Jews had recently had dinner with Jandek where they
+reminisced about a punk band
+the pair had been in together in Houston.  I'm in the UK and unfamiliar with
+The Silver Jews but
+does this factoid interest any of you? Any idea what the band might have
+been or if this fact is
+really fiction. Malkmus sounded genuine and he had no reason to lie but it
+is a friend of a friend
+story.
+Hope this is a thread :-)
+Colin
+
+Colin Tudor
+PO Box 3
+Whitland
+Dyfed SA34 0YU
+
+01994-419-447
+
+cod@wobblyweb.com
+
+http://www.virginradio107.co.uk/index.html
+
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 20429 invoked from network); 30 Sep 2003 15:07:16 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 15:07:16 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 10:07:14 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8UF7CT05585
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 10:07:12 -0500
+Received: (qmail 20245 invoked from network); 30 Sep 2003 15:05:07 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 15:05:07 -0000
+Received: from c000.snv.cp.net ([209.228.32.65] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 10:05:05 -0500
+Received: (cpmta 24902 invoked from network); 30 Sep 2003 08:05:03 -0700
+Received: from 209.228.32.67 (HELO mail.eggoffice.intranets.com.criticalpath.net)
+  by smtp.hosting1.intranets.com (209.228.32.65) with SMTP; 30 Sep 2003 08:05:03 -0700
+X-Sent: 30 Sep 2003 15:05:03 GMT
+Received: from [213.78.65.33] by mail.eggoffice.intranets.com with HTTP;
+    Tue, 30 Sep 2003 08:05:03 -0700 (PDT)
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+To: jandek@cs.northwestern.edu
+From: "Colin Tudor" <cod@wobblyweb.com>
+Subject: Silver Jews Info
+X-Sent-From: cod@eggoffice.intranets.com
+Date: Tue, 30 Sep 2003 08:05:03 -0700 (PDT)
+X-Mailer: Web Mail 5.5.0-3_sol28
+Message-Id: <20030930080503.8287.h003.c000.wm@mail.eggoffice.intranets.com.criticalpath.net>
+X-OriginalArrivalTime: 30 Sep 2003 15:05:05.0169 (UTC) FILETIME=[3AEE7010:01C38764]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Thanks for replies. I went back to my interview and what Malkmus says is
+"i like that guy, (jandek), he was in a punk band in Houston years ago. He's a friend of a friend of
+mine, David from the Silver Jews, who recently had dinner with him and had a great time reminiscing"
+
+So maybe my inference that David and Sterling were in the band together is incorrect. malkmus also
+said re: jandek
+
+' he's cool but what serious musician would want to languish in obscurity?"
+
+Colin
+
+Colin Tudor
+PO Box 3
+Whitland
+Dyfed SA34 0YU
+
+01994-419-447
+
+cod@wobblyweb.com
+
+http://www.virginradio107.co.uk/index.html
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 5081 invoked from network); 30 Sep 2003 18:46:12 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 18:46:12 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 13:46:08 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8UIk7H09916
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 13:46:07 -0500
+Received: (qmail 860 invoked from network); 30 Sep 2003 17:48:36 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 17:48:36 -0000
+Received: from smtp0.libero.it ([193.70.192.33]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 12:47:53 -0500
+Received: from pippo (151.24.156.119) by smtp0.libero.it (7.0.020-DD01)
+        id 3F6F1CE70036A5E7 for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 19:47:52 +0200
+From: "Fabio R." <michette-@libero.it>
+To: <jandek@cs.northwestern.edu>
+Subject: R: Jandek /Malkmus/Silver Jews Connection
+Date: Tue, 30 Sep 2003 19:52:39 +0200
+Message-ID: <000001c3877b$a74a56e0$779c1897@pippo>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+Importance: Normal
+In-Reply-To: <20030930.072127.-301435.1.chuckp8@juno.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-OriginalArrivalTime: 30 Sep 2003 17:47:53.0520 (UTC) FILETIME=[F9528300:01C3877A]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+David Berman of the Silver Jews seems the perfect musical companion to
+Jandek, while sounding nothing like him. 
+
+
+--in my opinion, Silver Jews never sounded jandekian at all.
+I think they (he) sound a bit Pavement-like with a big bunch of solist
+Lou reed...
+
+
+ All Silver Jews releases are
+worth picking up, and all are readily available through Drag City.
+
+
+--i like his records. they're all really good.
+What's the jandek cover?
+
+
+The real issue is... where are the tapes of this punk band?!
+
+
+
+--interesting, but...they come from different generations. 
+And..why this doesn't come out before?
+
+
+
+bye fab.
+
+
+--
+www.indiepop.it
+http://digilander.libero.it/flanders1
+ 
+
+
+
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 5289 invoked from network); 30 Sep 2003 18:46:28 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 18:46:28 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 13:46:24 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8UIkNL09943
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 13:46:23 -0500
+Received: (qmail 3220 invoked from network); 30 Sep 2003 18:19:54 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 18:19:54 -0000
+Received: from daimler-benz.com ([53.122.2.34] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 13:19:50 -0500
+Received: by daimler-benz.com; id UAA28160; Tue, 30 Sep 2003 20:19:45 +0200
+From: <Boris.Della.Bella@mbcac.Mercedes-Benz.com>
+Received: from unknown(53.151.100.103) by pluto4.daimler-benz.com via smap (V5.0)
+	id xmasj9171; Tue, 30 Sep 03 16:45:51 +0200
+Received: from mst0s0032.mbcac.mercedes-benz.com ([53.248.79.71])
+ by daimlerchrysler.com
+ (iPlanet Messaging Server 5.2 HotFix 1.20 (built Aug 27 2003))
+ with ESMTP id <0HM100JJK7NUR4@wksmtphubnew.wk.dcx.com> for
+ jandek@cs.northwestern.edu; Tue, 30 Sep 2003 16:45:31 +0200 (MEST)
+Received: by mst0s0032.mbcac.mercedes-benz.com with Internet Mail Service
+ (5.5.2653.19)	id <SSM1D9WM>; Tue, 30 Sep 2003 16:45:30 +0200
+Content-return: allowed
+Date: Tue, 30 Sep 2003 16:45:28 +0200
+Subject: RE: Jandek /Malkmus/Silver Jews Connection
+To: jandek@cs.northwestern.edu
+Message-id: 
+ <59331F3C809FD411A85B009027C23CD606B65491@mst0s0006.mbcac.mercedes-benz.com>
+MIME-version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-type: text/plain; charset=iso-8859-1
+X-OriginalArrivalTime: 30 Sep 2003 18:19:50.0692 (UTC) FILETIME=[700BBE40:01C3877F]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Well...(hi everybody,this is my first post to the list)... I'm sad but I bet
+that mr Malkmus was having real fun...he was joking with our journalist
+(sorry Colin) and also with his best friend mr David "Silver Jews" Berman.
+They're very ironic guys..and to be honest that's a nice joke.
+Ciao 
+baz
+
+P.S. (if I'm wrong...that's TERRIFIC!)
+
+
+-----Original Message-----
+From: Colin Tudor [mailto:cod@wobblyweb.com]
+Sent: 30 September 2003 4:16 PM
+To: jandek@cs.northwestern.edu
+Subject: Jandek /Malkmus/Silver Jews Connection
+
+
+Hi all
+In my capacity as a journo I recently spoke with Stephen Malkmus, we got
+onto the subject of Jandek
+(as i do when I can) and he said that he was not only a fan but that his
+friend David from a band
+called The Silver Jews had recently had dinner with Jandek where they
+reminisced about a punk band
+the pair had been in together in Houston.  I'm in the UK and unfamiliar with
+The Silver Jews but
+does this factoid interest any of you? Any idea what the band might have
+been or if this fact is
+really fiction. Malkmus sounded genuine and he had no reason to lie but it
+is a friend of a friend
+story.
+Hope this is a thread :-)
+Colin
+
+Colin Tudor
+PO Box 3
+Whitland
+Dyfed SA34 0YU
+
+01994-419-447
+
+cod@wobblyweb.com
+
+http://www.virginradio107.co.uk/index.html
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 12166 invoked from network); 30 Sep 2003 20:09:28 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 20:09:28 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 15:09:24 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8UK9ME11763
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 15:09:22 -0500
+Received: (qmail 11948 invoked from network); 30 Sep 2003 20:07:05 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 20:07:05 -0000
+Received: from smeagol.dreamhost.com ([66.33.209.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 15:07:01 -0500
+Received: from dpen (adsl-68-75-54-172.dsl.emhril.ameritech.net [68.75.54.172])
+	by smeagol.dreamhost.com (Postfix) with ESMTP
+	id 0606F23A14; Tue, 30 Sep 2003 13:07:00 -0700 (PDT)
+From: "Mark Greenberg" <mark@mayfairrecordings.com>
+To: "Fabio R." <michette-@libero.it>, <jandek@cs.northwestern.edu>
+Subject: RE: Jandek /Malkmus/Silver Jews Connection
+Date: Tue, 30 Sep 2003 15:07:02 -0500
+Message-ID: <NGBBLCPHGLBLNPJPFMFCEEONCGAA.mark@mayfairrecordings.com>
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+Importance: Normal
+In-Reply-To: <000001c3877b$a74a56e0$779c1897@pippo>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-OriginalArrivalTime: 30 Sep 2003 20:07:01.0364 (UTC) FILETIME=[69066B40:01C3878E]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+He (David Berman-Silver Jews) dose not DO a Jandek cover. The picture on the
+'cover' of his LP/CD Bright Flight is very Jandekian, or Jandekesq, or
+Jandekish.
+
+-Mark
+
+-----Original Message-----
+From: owner-jandek@cs.northwestern.edu
+[mailto:owner-jandek@cs.northwestern.edu]On Behalf Of Fabio R.
+Sent: Tuesday, September 30, 2003 12:53 PM
+To: jandek@cs.northwestern.edu
+Subject: R: Jandek /Malkmus/Silver Jews Connection
+
+
+
+David Berman of the Silver Jews seems the perfect musical companion to
+Jandek, while sounding nothing like him.
+
+
+--in my opinion, Silver Jews never sounded jandekian at all.
+I think they (he) sound a bit Pavement-like with a big bunch of solist
+Lou reed...
+
+
+ All Silver Jews releases are
+worth picking up, and all are readily available through Drag City.
+
+
+--i like his records. they're all really good.
+What's the jandek cover?
+
+
+The real issue is... where are the tapes of this punk band?!
+
+
+
+--interesting, but...they come from different generations.
+And..why this doesn't come out before?
+
+
+
+bye fab.
+
+
+--
+www.indiepop.it
+http://digilander.libero.it/flanders1
+
+
+
+
+
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 14729 invoked from network); 30 Sep 2003 20:39:06 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 20:39:06 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 15:39:02 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8UKd0x12469
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 15:39:00 -0500
+Received: (qmail 14450 invoked from network); 30 Sep 2003 20:35:47 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 20:35:47 -0000
+Received: from hotmail.com ([64.4.27.104] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 15:32:36 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Tue, 30 Sep 2003 13:32:35 -0700
+Received: from 193.120.45.144 by by8fd.bay8.hotmail.msn.com with HTTP;
+	Tue, 30 Sep 2003 20:32:34 GMT
+X-Originating-IP: [193.120.45.144]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: Silver Jews Info
+Date: Tue, 30 Sep 2003 20:32:34 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY8-F104xMwInhdAHx00001322@hotmail.com>
+X-OriginalArrivalTime: 30 Sep 2003 20:32:35.0828 (UTC) FILETIME=[FBA30B40:01C38791]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+>malkmus also said re: jandek
+>
+>' he's cool but what serious musician would want to languish in obscurity?"
+
+Uh, one that just wants to make music and is not interested in flaunting 
+their ego all over the place... Jandek is, for me, by default, the 
+Anti-Blaine.
+
+Paul
+
+_________________________________________________________________
+Add photos to your e-mail with MSN 8. Get 2 months FREE*. 
+http://join.msn.com/?page=features/featuredemail
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 16171 invoked from network); 30 Sep 2003 20:51:47 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 20:51:47 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 15:51:43 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8UKpf513151
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 15:51:41 -0500
+Received: (qmail 16094 invoked from network); 30 Sep 2003 20:51:20 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 20:51:20 -0000
+Received: from smtp3.libero.it ([193.70.192.127]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 15:51:15 -0500
+Received: from pippo (151.24.169.55) by smtp3.libero.it (7.0.020-DD01)
+        id 3F6F04A60039EFC6 for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 22:51:10 +0200
+From: "Fabio R." <michette-@libero.it>
+To: <jandek@cs.northwestern.edu>
+Subject: R: Jandek /Malkmus/Silver Jews Connection
+Date: Tue, 30 Sep 2003 22:53:02 +0200
+Message-ID: <000001c38794$d9f30d80$37a91897@pippo>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+Importance: Normal
+In-Reply-To: <NGBBLCPHGLBLNPJPFMFCEEONCGAA.mark@mayfairrecordings.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-OriginalArrivalTime: 30 Sep 2003 20:51:15.0786 (UTC) FILETIME=[972F12A0:01C38794]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+
+He (David Berman-Silver Jews) dose not DO a Jandek cover. The picture on
+the
+'cover' of his LP/CD Bright Flight is very Jandekian, or Jandekesq, or
+Jandekish.
+
+Oh, right. -your turn to fall..maybe- 
+thanks
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 17302 invoked from network); 30 Sep 2003 21:00:31 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 21:00:31 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 15:59:05 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8UKx3x13240
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 15:59:03 -0500
+Received: (qmail 16823 invoked from network); 30 Sep 2003 20:55:32 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 20:55:32 -0000
+Received: from smeagol.dreamhost.com ([66.33.209.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 15:55:27 -0500
+Received: from dpen (adsl-68-75-54-172.dsl.emhril.ameritech.net [68.75.54.172])
+	by smeagol.dreamhost.com (Postfix) with ESMTP
+	id 82AB323937; Tue, 30 Sep 2003 13:55:26 -0700 (PDT)
+From: "Mark Greenberg" <mark@mayfairrecordings.com>
+To: "Paul Condon" <paulgcondon@hotmail.com>, <jandek@cs.northwestern.edu>
+Subject: RE: Silver Jews Info
+Date: Tue, 30 Sep 2003 15:55:28 -0500
+Message-ID: <NGBBLCPHGLBLNPJPFMFCGEOOCGAA.mark@mayfairrecordings.com>
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+Importance: Normal
+In-Reply-To: <BAY8-F104xMwInhdAHx00001322@hotmail.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-OriginalArrivalTime: 30 Sep 2003 20:55:27.0692 (UTC) FILETIME=[2D54E0C0:01C38795]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+What is funny is that I know hundreds of bands and songwriters that are
+TRULY in obscurity, and NOT BY CHOICE. Jandak, on the other hand is not
+living in total obscurity. We have a freakin' message board on which we all
+talk about him. There are websites (hi Seth) devoted to him. His records
+sell for above average prices on Ebay. There is a documentary movie about
+him. Yes, he is not tongue kissing Madonna on TV. No, he is not living in
+obscurity. Some people liken Jandek to the artist Henry Darger who was a
+friendless loner who made amazing, scary art only for himself. It was all
+found after his death and is today considered a holy grail of outsider art.
+Jandek, though seemingly mining similar personal and emotional territories
+as Darger, IS recognized in his own time.
+
+-Mark
+
+-----Original Message-----
+From: owner-jandek@cs.northwestern.edu
+[mailto:owner-jandek@cs.northwestern.edu]On Behalf Of Paul Condon
+Sent: Tuesday, September 30, 2003 3:33 PM
+To: jandek@cs.northwestern.edu
+Subject: Re: Silver Jews Info
+
+
+>malkmus also said re: jandek
+>
+>' he's cool but what serious musician would want to languish in obscurity?"
+
+Uh, one that just wants to make music and is not interested in flaunting
+their ego all over the place... Jandek is, for me, by default, the
+Anti-Blaine.
+
+Paul
+
+_________________________________________________________________
+Add photos to your e-mail with MSN 8. Get 2 months FREE*.
+http://join.msn.com/?page=features/featuredemail
+
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 19755 invoked from network); 30 Sep 2003 21:29:13 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 21:29:13 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 16:29:09 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8ULT7s13923
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 16:29:07 -0500
+Received: (qmail 18821 invoked from network); 30 Sep 2003 21:16:56 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 21:16:56 -0000
+Received: from hotmail.com ([64.4.27.50] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 16:16:39 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Tue, 30 Sep 2003 14:16:38 -0700
+Received: from 193.120.45.144 by by8fd.bay8.hotmail.msn.com with HTTP;
+	Tue, 30 Sep 2003 21:16:38 GMT
+X-Originating-IP: [193.120.45.144]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Cork screening
+Date: Tue, 30 Sep 2003 21:16:38 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY8-F50e8pv5kKZy8d00004682@hotmail.com>
+X-OriginalArrivalTime: 30 Sep 2003 21:16:38.0760 (UTC) FILETIME=[22F27680:01C38798]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Jandek on Corwood is showing in the Triskel Arts Centre, Cork, at 2.30 pm on 
+Wed. 15th October. I'm going to try to attend, if anyone else on the list is 
+doing so feel free to contact me...
+
+http://www.corkfilmfest.org/programme/calendar.html
+
+Paul
+
+_________________________________________________________________
+Protect your PC - get McAfee.com VirusScan Online 
+http://clinic.mcafee.com/clinic/ibuy/campaign.asp?cid=3963
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 20341 invoked from network); 30 Sep 2003 21:33:21 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 21:33:21 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 16:32:55 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8ULWs414083
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 16:32:54 -0500
+Received: (qmail 20149 invoked from network); 30 Sep 2003 21:30:44 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 21:30:44 -0000
+Received: from web41405.mail.yahoo.com ([66.218.93.71]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 16:30:39 -0500
+Message-ID: <20030930213039.57512.qmail@web41405.mail.yahoo.com>
+Received: from [68.163.168.80] by web41405.mail.yahoo.com via HTTP; Tue, 30 Sep 2003 14:30:39 PDT
+Date: Tue, 30 Sep 2003 14:30:39 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: Jandek confirms: "The Place" is electric
+To: jandek@cs.northwestern.edu
+In-Reply-To: <20030927211906.97929.qmail@web60201.mail.yahoo.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 30 Sep 2003 21:30:39.0708 (UTC) FILETIME=[1830F1C0:01C3879A]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I lose.
+
+D.M.
+--- Joe Henry <farmofarmo@yahoo.com> wrote:
+> When I ordered "The Place" and "Graven Image" from
+> Corwood, I wrote on the back of my letter: "Does The
+> Place use electric guitar?", not expecting to get
+> anything in response. But when the cds came in the
+> mail today, the standard one-sheet discography came
+> with a message on the back, written in the usual
+> Sterling-Smith handwriting:
+>  
+> "The Place 
+> is all electric
+> guitar"
+>  
+> Check the attachment to this email for the jpg
+> image. Needless to say I feel very validated, and
+> expect long apologies from everyone who disagreed
+> with me.
+> 
+> 
+> 
+> ---------------------------------
+> Do you Yahoo!?
+> The New Yahoo! Shopping - with improved product
+search
+
+> ATTACHMENT part 2 image/pjpeg
+name=the_place_is_all_electric_guitar.jpg
+
+
+
+__________________________________
+Do you Yahoo!?
+The New Yahoo! Shopping - with improved product search
+http://shopping.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 21774 invoked from network); 30 Sep 2003 21:47:57 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 21:47:57 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 16:47:53 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h8ULlpP14194
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 16:47:51 -0500
+Received: (qmail 21715 invoked from network); 30 Sep 2003 21:47:29 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 30 Sep 2003 21:47:29 -0000
+Received: from web41407.mail.yahoo.com ([66.218.93.73]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 16:47:24 -0500
+Message-ID: <20030930214723.71495.qmail@web41407.mail.yahoo.com>
+Received: from [68.163.168.80] by web41407.mail.yahoo.com via HTTP; Tue, 30 Sep 2003 14:47:23 PDT
+Date: Tue, 30 Sep 2003 14:47:23 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: Silver Jews Info
+To: jandek@cs.northwestern.edu
+In-Reply-To: <20030930080503.8287.h003.c000.wm@mail.eggoffice.intranets.com.criticalpath.net>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 30 Sep 2003 21:47:24.0614 (UTC) FILETIME=[6F296E60:01C3879C]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Well, I'm a big Pavement fan. Malkmus was right with
+that comment. "he's cool but what serious musician
+would want to languish in obscurity?"
+
+If that doesn't sum up the whole Jandek mystery, what
+does?
+
+D.M.
+--- Colin Tudor <cod@wobblyweb.com> wrote:
+> Thanks for replies. I went back to my interview and
+> what Malkmus says is
+> "i like that guy, (jandek), he was in a punk band in
+> Houston years ago. He's a friend of a friend of
+> mine, David from the Silver Jews, who recently had
+> dinner with him and had a great time reminiscing"
+> 
+> So maybe my inference that David and Sterling were
+> in the band together is incorrect. malkmus also
+> said re: jandek
+> 
+> ' 
+> 
+> Colin
+> 
+> Colin Tudor
+> PO Box 3
+> Whitland
+> Dyfed SA34 0YU
+> 
+> 01994-419-447
+> 
+> cod@wobblyweb.com
+> 
+> http://www.virginradio107.co.uk/index.html
+
+
+__________________________________
+Do you Yahoo!?
+The New Yahoo! Shopping - with improved product search
+http://shopping.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 28817 invoked from network); 1 Oct 2003 04:32:28 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 1 Oct 2003 04:32:28 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 23:32:21 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h914WJb30507
+	for jandek@cs.northwestern.edu; Tue, 30 Sep 2003 23:32:19 -0500
+Received: (qmail 28699 invoked from network); 1 Oct 2003 04:30:55 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 1 Oct 2003 04:30:55 -0000
+Received: from smaug.dreamhost.com ([66.33.209.15] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 30 Sep 2003 23:30:48 -0500
+Received: from dpen (adsl-68-75-58-152.dsl.emhril.ameritech.net [68.75.58.152])
+	by smaug.dreamhost.com (Postfix) with ESMTP
+	id 393155B7FF; Tue, 30 Sep 2003 21:30:47 -0700 (PDT)
+From: "Mark Greenberg" <mark@mayfairrecordings.com>
+To: "Daniel Marks" <alfredggnome@yahoo.com>, <jandek@cs.northwestern.edu>
+Subject: RE: Silver Jews Info
+Date: Tue, 30 Sep 2003 23:31:06 -0500
+Message-ID: <NGBBLCPHGLBLNPJPFMFCIEPBCGAA.mark@mayfairrecordings.com>
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+Importance: Normal
+In-Reply-To: <20030930214723.71495.qmail@web41407.mail.yahoo.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-OriginalArrivalTime: 01 Oct 2003 04:30:48.0388 (UTC) FILETIME=[C9BC4040:01C387D4]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Sum it up in what way? I, too am a Pavement fan but I do not understand what
+you are saying. Are you implying Jandek is not a serious musician even after
+30 odd records over 25 years? Or that his decision to stay somewhat
+anonymous and out of the spotlight reflects on his seriousness? I am
+confused.
+
+-Mark
+
+
+
+>>>>Well, I'm a big Pavement fan. Malkmus was right with
+>>>that comment. "he's cool but what serious musician
+>>>>>would want to languish in obscurity?"
+
+>>>If that doesn't sum up the whole Jandek mystery, what
+>>>does?
+
+>>>>D.M.
+
+-----Original Message-----
+From: owner-jandek@cs.northwestern.edu
+[mailto:owner-jandek@cs.northwestern.edu]On Behalf Of Daniel Marks
+Sent: Tuesday, September 30, 2003 4:47 PM
+To: jandek@cs.northwestern.edu
+Subject: Re: Silver Jews Info
+
+
+Well, I'm a big Pavement fan. Malkmus was right with
+that comment. "he's cool but what serious musician
+would want to languish in obscurity?"
+
+If that doesn't sum up the whole Jandek mystery, what
+does?
+
+D.M.
+--- Colin Tudor <cod@wobblyweb.com> wrote:
+> Thanks for replies. I went back to my interview and
+> what Malkmus says is
+> "i like that guy, (jandek), he was in a punk band in
+> Houston years ago. He's a friend of a friend of
+> mine, David from the Silver Jews, who recently had
+> dinner with him and had a great time reminiscing"
+>
+> So maybe my inference that David and Sterling were
+> in the band together is incorrect. malkmus also
+> said re: jandek
+>
+> '
+>
+> Colin
+>
+> Colin Tudor
+> PO Box 3
+> Whitland
+> Dyfed SA34 0YU
+>
+> 01994-419-447
+>
+> cod@wobblyweb.com
+>
+> http://www.virginradio107.co.uk/index.html
+
+
+__________________________________
+Do you Yahoo!?
+The New Yahoo! Shopping - with improved product search
+http://shopping.yahoo.com
+
+

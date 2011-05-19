@@ -1,0 +1,3260 @@
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 3389 invoked by uid 1029); 1 Sep 2002 22:34:30 -0000
+Received: (qmail 2806 invoked from network); 1 Sep 2002 22:08:22 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 1 Sep 2002 22:08:22 -0000
+Received: from hotmail.com ([64.4.31.104] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 1 Sep 2002 17:04:37 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 1 Sep 2002 15:04:36 -0700
+Received: from 213.105.181.240 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Sun, 01 Sep 2002 22:04:36 GMT
+X-Originating-IP: [213.105.181.240]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: minutae of Jandek remastering inconsequentials
+Date: Sun, 01 Sep 2002 22:04:36 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F104XSsuAXJG9IngjEw0002822a@hotmail.com>
+X-OriginalArrivalTime: 01 Sep 2002 22:04:36.0583 (UTC) FILETIME=[8F81E770:01C25203]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+>some software for reducing background hiss can, if used clumsily, >produce 
+>a gurgling or bubbling sound on intros and outros and other >quiet 
+>sections.
+
+Yeah, it seems to be at the start of tracks that begin very quietly. I think 
+it works in the context though, particularly on "A Dozen Drops"... 
+presumably Jandek is happy with the effect whether it's his doing or not. 
+Another happy accident of the no-fi aesthetic!
+
+
+
+_________________________________________________________________
+Join the world’s largest e-mail service with MSN Hotmail. 
+http://www.hotmail.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 15109 invoked by uid 1029); 4 Sep 2002 13:35:28 -0000
+Received: (qmail 10289 invoked from network); 4 Sep 2002 10:07:59 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 4 Sep 2002 10:07:59 -0000
+Received: from hotmail.com ([64.4.19.141] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 4 Sep 2002 05:01:30 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 4 Sep 2002 03:01:30 -0700
+Received: from 4.60.185.106 by lw12fd.law12.hotmail.msn.com with HTTP;
+	Wed, 04 Sep 2002 10:01:27 GMT
+X-Originating-IP: [4.60.185.106]
+From: "Paul Frederick" <sandman_142@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: talked Jandek with Dr. Demento
+Date: Wed, 04 Sep 2002 05:01:27 -0500
+Mime-Version: 1.0
+Content-Type: text/html
+Message-ID: <F141v5FwBJM2XBPMrVZ0000ad6c@hotmail.com>
+X-OriginalArrivalTime: 04 Sep 2002 10:01:30.0606 (UTC) FILETIME=[0AB070E0:01C253FA]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<html><div style='background-color:'><DIV>
+<DIV>Hey all,<BR><BR>I just got done interviewing Dr. Demento about Jandek.<BR><BR>Wonderful man, well versed in all aspects of music... I guess I had always thought of him as a "novelty-song" guy.&nbsp; But he blew me away with one of the most well-rounded, diverse, and comprehensive understandings of American music that I have ever been exposed to.&nbsp; We talked mostly Jandek and early 20th century blues.<BR><BR>Highlights:&nbsp;<BR><BR>Dr. Demento told us that he got his first Jandek (well... "units") album in 1981, putting him among the "elite few" to get unsolicited copies before 1983-84.&nbsp; This raises many important questions.&nbsp; I'd read a lot into that if I hadn't stopped searching for answers.<BR><BR>He also offered a new (if slightly implausible) theory.&nbsp; "Jandek as Tax-Dodge" ...&nbsp; He pointed out that he has hundreds of records in his collection that were created to serve as a money-pit to siphon off taxes from more profitable ventures.&nbsp; I'm n!
+ot supporting this idea... I think it'd break my heart if it were true... but it's still a new vantage point, and interesting to think about.<BR><BR>He talked about receiving "Ready for the House" and listening to it immediately,&nbsp;then writing to Corwood to get biographical information about the artist to use on the show (It's important to remember the time period... Jandek wasn't "mysterious recluse" at that time... he had one [admittedly strange] album, so the Doctor had a reasonable assumption that his request would be met).&nbsp; Needless to say, the request for information was not met, or mentioned again in any future correspondence.&nbsp; (But, he continued to receive the records for quite some time).<BR><BR>There were so many other interesting nuggets of information, but they escape me.&nbsp; <BR><BR>regards,<BR>Paul<BR><BR>end</DIV></DIV></div><br clear=all><hr>Send and receive Hotmail on your mobile device: <a href='http://g.msn.com/1HM1ENUS/c152??PI=44364'>Click !
+Here</a><br></html>
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 15281 invoked by uid 1029); 4 Sep 2002 13:35:36 -0000
+Received: (qmail 10292 invoked from network); 4 Sep 2002 10:08:00 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 4 Sep 2002 10:08:00 -0000
+Received: from kogut.o2.pl ([212.126.20.61]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 4 Sep 2002 05:03:59 -0500
+Received: from oemcomputer (c19-133.icpnet.pl [62.21.19.133])
+	by kogut.o2.pl (Postfix) with SMTP id 027BC2CA9A5
+	for <jandek@cs.northwestern.edu>; Wed,  4 Sep 2002 11:43:34 +0200 (CEST)
+Message-ID: <001001c253fa$e9e7b0c0$8513153e@oemcomputer>
+From: =?iso-8859-2?Q?Kuba_G=F3rny?= <luty10@o2.pl>
+To: "a propo Jandka" <jandek@cs.northwestern.edu>
+Subject: the whole "ble corpse"album on kazaA
+Date: Wed, 4 Sep 2002 12:07:43 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000D_01C2540B.AC5C51A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MIMEOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-OriginalArrivalTime: 04 Sep 2002 10:04:00.0298 (UTC) FILETIME=[63E9A0A0:01C253FA]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_000D_01C2540B.AC5C51A0
+Content-Type: text/plain;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+
+You can download all the songs from "blue corpse"from kazaA.Does anybody =
+know about any other sources I could download Jandek mp3's from?
+
+------=_NextPart_000_000D_01C2540B.AC5C51A0
+Content-Type: text/html;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-2">
+<META content=3D"MSHTML 5.50.4134.100" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3D"Arial CE" size=3D2>You can download all the songs =
+from "blue=20
+corpse"from kazaA.Does anybody know about any other sources I could =
+download=20
+Jandek mp3's from?</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_000D_01C2540B.AC5C51A0--
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 16601 invoked by uid 1029); 4 Sep 2002 13:55:11 -0000
+Received: (qmail 16497 invoked from network); 4 Sep 2002 13:53:10 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 4 Sep 2002 13:53:10 -0000
+Received: from waste.org ([209.173.204.2]) by mail1.cs.northwestern.edu over TLS secured channel with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 4 Sep 2002 08:44:57 -0500
+Received: from waste.org (localhost [127.0.0.1])
+	by waste.org (8.12.3/8.12.3/Debian -4) with ESMTP id g84DikJC019606
+	(version=TLSv1/SSLv3 cipher=EDH-RSA-DES-CBC3-SHA bits=168 verify=NO);
+	Wed, 4 Sep 2002 08:44:46 -0500
+Received: from localhost (crash@localhost)
+	by waste.org (8.12.3/8.12.3/Debian -4) with ESMTP id g84DikLo019602;
+	Wed, 4 Sep 2002 08:44:46 -0500
+Date: Wed, 4 Sep 2002 08:44:46 -0500 (CDT)
+From: Todd Madson <crash@waste.org>
+To: Paul Frederick <sandman_142@hotmail.com>
+cc: jandek@cs.northwestern.edu
+Subject: Re: talked Jandek with Dr. Demento
+In-Reply-To: <F141v5FwBJM2XBPMrVZ0000ad6c@hotmail.com>
+Message-ID: <Pine.LNX.4.44.0209040838420.7513-100000@waste.org>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=iso-8859-1
+Content-Transfer-Encoding: 8BIT
+X-OriginalArrivalTime: 04 Sep 2002 13:44:59.0419 (UTC) FILETIME=[42F6EEB0:01C25419]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+On Wed, 4 Sep 2002, Paul Frederick wrote:
+
+> Hey all,
+>
+> I just got done interviewing Dr. Demento about Jandek.
+>
+
+Now THAT's interesting.  Our local FM affiliate stopped carrying his
+show years ago so I'd wondered if there was any Jandek-Demento
+connections.
+
+> Wonderful man, well versed in all aspects of music... I guess I had
+> always thought of him as a "novelty-song" guy.  But he blew me away with
+> one of the most well-rounded, diverse, and comprehensive understandings
+> of American music that I have ever been exposed to.  We talked mostly
+> Jandek and early 20th century blues.
+>
+> Highlights: 
+>
+> Dr. Demento told us that he got his first Jandek (well... "units") album
+> in 1981, putting him among the "elite few" to get unsolicited copies
+> before 1983-84.  This raises many important questions.  I'd read a lot
+> into that if I hadn't stopped searching for answers.
+>
+
+Extremely interesting since Dr. Demento would air a lot of things that
+most others would not.  Exposure seems to be one modus operandi that
+Jandek wants as well as "needing to move these."
+
+> He also offered a new (if slightly implausible) theory.  "Jandek as
+> Tax-Dodge" ...  He pointed out that he has hundreds of records in his
+> collection that were created to serve as a money-pit to siphon off taxes
+> from more profitable ventures.  I'm n! ot supporting this idea... I think
+> it'd break my heart if it were true... but it's still a new vantage
+> point, and interesting to think about.
+>
+
+I don't buy this.  The instrumentation and recording gear for the entire
+Jandek ouvre couldn't have cost more than $100 in its entirety.  The sound
+is of two track stereo with no noise reduction.  The guitar is obviously
+an inexpensive acoustic and the electric stuff may very well be the same
+guitar with a pickup added.  The drum kit looks like one of those kiddie
+affairs you see in the Sears gift book catalog around christmas.  It's
+extremely low budget DIY stuff.  I could see this view if the stuff was
+done on more expensive gear but not the way it is.  Another thought might
+be that the expense is actually having cover art printed up and the stuff
+transferred to disc.  Anyone can do this but there's an expense especially
+when done in quantity.
+
+> He talked about receiving "Ready for the House" and listening to it
+> immediately, then writing to Corwood to get biographical information
+> about the artist to use on the show (It's important to remember the time
+> period... Jandek wasn't "mysterious recluse" at that time... he had one
+> [admittedly strange] album, so the Doctor had a reasonable assumption
+> that his request would be met).  Needless to say, the request for
+> information was not met, or mentioned again in any future
+> correspondence.  (But, he continued to receive the records for quite some
+> time).
+>
+
+So my question would be: what DID get sent back to him beyond the
+records?  It's almost as if the record is the statement he wishes
+to make and that's it.
+
+> There were so many other interesting nuggets of information, but they
+> escape me. 
+>
+
+If you can remember any more that would be great.
+
+-t
+
+> regards,
+> Paul
+>
+> end
+>
+> ________________________________________________________________________________
+> Send and receive Hotmail on your mobile device: Click ! Here
+>
+>
+
+-- 
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 32408 invoked by uid 1029); 5 Sep 2002 14:20:16 -0000
+Received: (qmail 21718 invoked from network); 5 Sep 2002 08:18:38 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 5 Sep 2002 08:18:38 -0000
+Received: from hotmail.com ([64.4.19.107] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 5 Sep 2002 03:13:08 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 5 Sep 2002 01:13:07 -0700
+Received: from 4.60.185.106 by lw12fd.law12.hotmail.msn.com with HTTP;
+	Thu, 05 Sep 2002 08:13:07 GMT
+X-Originating-IP: [4.60.185.106]
+From: "Paul Frederick" <sandman_142@hotmail.com>
+To: luty10@o2.pl
+Cc: jandek@cs.northwestern.edu
+Subject: Re: the whole "ble corpse"album on kazaA
+Date: Thu, 05 Sep 2002 03:13:07 -0500
+Mime-Version: 1.0
+Content-Type: text/html
+Message-ID: <F107bR9UmcWbnszOqDZ0002025a@hotmail.com>
+X-OriginalArrivalTime: 05 Sep 2002 08:13:07.0977 (UTC) FILETIME=[113BBF90:01C254B4]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<html><div style='background-color:'><DIV>
+<P><BR><BR>&nbsp;</P></DIV>
+<DIV></DIV>&gt;You can download all the songs from "blue corpse"from kazaA.Does anybody know about &gt;any other sources I could download Jandek mp3's from? 
+<DIV><BR>I have most Jandek albums available on "soulseek" ...&nbsp; ( <A href="http://www.slsk.org/">http://www.slsk.org/</A>&nbsp;).<BR><BR>If you can afford/have access to the albums, I encourage you to buy them (forced exposure, local record shop or direct from Corwood).&nbsp; <BR><BR>After logging on to Soulseek, just search for "jandek."<BR><BR>end<BR><BR><BR><BR></DIV></div><br clear=all><hr>Join the world’s largest e-mail service with MSN Hotmail. <a href='http://g.msn.com/1HM1ENUS/c157??PI=44364'>Click Here</a><br></html>
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 375 invoked by uid 1029); 5 Sep 2002 14:21:08 -0000
+Received: (qmail 22192 invoked from network); 5 Sep 2002 08:41:38 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 5 Sep 2002 08:41:38 -0000
+Received: from rekin.go2.pl ([212.126.20.27] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 5 Sep 2002 03:35:55 -0500
+Received: from oemcomputer (c16-105.icpnet.pl [62.21.16.105])
+	by rekin.go2.pl (Mailer_v2.01) with SMTP id E79D96EE8B
+	for <jandek@cs.northwestern.edu>; Thu,  5 Sep 2002 10:35:48 +0200 (CEST)
+Message-ID: <000b01c254b7$c9b92e60$6910153e@oemcomputer>
+From: =?iso-8859-2?Q?Kuba_G=F3rny?= <luty10@o2.pl>
+To: "a propo Jandka" <jandek@cs.northwestern.edu>
+Subject: Thanks everybody!Soulseek rules ;)
+Date: Thu, 5 Sep 2002 10:39:44 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0008_01C254C8.8CB41640"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-OriginalArrivalTime: 05 Sep 2002 08:35:55.0694 (UTC) FILETIME=[4074CCE0:01C254B7]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0008_01C254C8.8CB41640
+Content-Type: text/plain;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+
+Paul Fredrick,Thank you so much!I just downloaded soulseek and am =
+waiting for Jandek albums to download comlpetely!Thank you again
+
+KG.
+
+------=_NextPart_000_0008_01C254C8.8CB41640
+Content-Type: text/html;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-2">
+<META content=3D"MSHTML 5.50.4134.100" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3D"Arial CE" size=3D2>Paul Fredrick,Thank you so much!I =
+just=20
+downloaded soulseek and am waiting for Jandek albums to download=20
+comlpetely!Thank you again</FONT></DIV>
+<DIV><FONT size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2>KG.</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0008_01C254C8.8CB41640--
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 976 invoked by uid 1029); 5 Sep 2002 14:24:02 -0000
+Received: (qmail 31250 invoked from network); 5 Sep 2002 13:47:54 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 5 Sep 2002 13:47:54 -0000
+Received: from mail02.ljextra.com ([208.3.165.71] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 5 Sep 2002 08:47:47 -0500
+Received: by ALM-MAIL-1 with Internet Mail Service (5.5.2653.19)
+	id <R7W6G9DB>; Thu, 5 Sep 2002 09:47:46 -0400
+Message-ID: <988631CF8A1FD511B5B40008C7F36CCD026D9CED@ALM-MAIL-1>
+From: Tim Kelly <tkelly@amlaw.com>
+To: 'Paul Frederick' <sandman_142@hotmail.com>, jandek@cs.northwestern.edu
+Subject: RE: talked Jandek with Dr. Demento
+Date: Thu, 5 Sep 2002 09:47:40 -0400 
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C254E2.CD62EDF0"
+X-OriginalArrivalTime: 05 Sep 2002 13:47:47.0148 (UTC) FILETIME=[D15A18C0:01C254E2]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+------_=_NextPart_001_01C254E2.CD62EDF0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+
+I am still looking for interviews with people who drink Surge. Please help
+ASAP.
+Send VHS copies of interviews et al to:
+Tim Kelly
+105 Madison Ave 6th Floor
+New York, NY 10016
+Thank you!
+http://karks.com/surge/index.html <http://karks.com/surge/index.html> 
+
+-----Original Message-----
+From: Paul Frederick [mailto:sandman_142@hotmail.com]
+Sent: Wednesday, September 04, 2002 6:01 AM
+To: jandek@cs.northwestern.edu
+Subject: talked Jandek with Dr. Demento
+
+
+Hey all,
+
+I just got done interviewing Dr. Demento about Jandek.
+
+Wonderful man, well versed in all aspects of music... I guess I had always
+thought of him as a "novelty-song" guy.  But he blew me away with one of the
+most well-rounded, diverse, and comprehensive understandings of American
+music that I have ever been exposed to.  We talked mostly Jandek and early
+20th century blues.
+
+Highlights: 
+
+Dr. Demento told us that he got his first Jandek (well... "units") album in
+1981, putting him among the "elite few" to get unsolicited copies before
+1983-84.  This raises many important questions.  I'd read a lot into that if
+I hadn't stopped searching for answers.
+
+He also offered a new (if slightly implausible) theory.  "Jandek as
+Tax-Dodge" ...  He pointed out that he has hundreds of records in his
+collection that were created to serve as a money-pit to siphon off taxes
+from more profitable ventures.  I'm! n! ot supporting this idea... I think
+it'd break my heart if it were true... but it's still a new vantage point,
+and interesting to think about.
+
+He talked about receiving "Ready for the House" and listening to it
+immediately, then writing to Corwood to get biographical information about
+the artist to use on the show (It's important to remember the time period...
+Jandek wasn't "mysterious recluse" at that time... he had one [admittedly
+strange] album, so the Doctor had a reasonable assumption that his request
+would be met).  Needless to say, the request for information was not met, or
+mentioned again in any future correspondence.  (But, he continued to receive
+the records for quite some time).
+
+There were so many other interesting nuggets of information, but they escape
+me.  
+
+regards,
+Paul
+
+end
+
+  _____  
+
+Send and receive Hotmail on your mobile device: Clic! k !
+<http://g.msn.com/1HM1ENUS/c152??PI=44364> Here
+
+
+
+------_=_NextPart_001_01C254E2.CD62EDF0
+Content-Type: text/html;
+	charset="iso-8859-1"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+
+
+<META content="MSHTML 5.00.2314.1000" name=GENERATOR></HEAD>
+<BODY>
+<DIV><FONT face=Arial size=2><SPAN class=068483813-05092002>I am still looking 
+for interviews with people who drink Surge. Please help 
+ASAP.</SPAN></FONT></DIV>
+<DIV><FONT face=Arial size=2><SPAN class=068483813-05092002>Send VHS copies of 
+interviews et al to:<BR>Tim Kelly</SPAN></FONT></DIV>
+<DIV><FONT face=Arial size=2><SPAN class=068483813-05092002>105 Madison Ave 6th 
+Floor</SPAN></FONT></DIV>
+<DIV><FONT face=Arial size=2><SPAN class=068483813-05092002>New York, NY 
+10016</SPAN></FONT></DIV>
+<DIV><FONT face=Arial size=2><SPAN class=068483813-05092002>Thank 
+you!</SPAN></FONT></DIV>
+<DIV><FONT face=Arial size=2><SPAN class=068483813-05092002><A 
+href="http://karks.com/surge/index.html">http://karks.com/surge/index.html</A></SPAN></FONT></DIV>
+<BLOCKQUOTE 
+style="BORDER-LEFT: #000000 2px solid; MARGIN-LEFT: 5px; PADDING-LEFT: 5px">
+  <DIV align=left class=OutlookMessageHeader dir=ltr><FONT face=Tahoma 
+  size=2>-----Original Message-----<BR><B>From:</B> Paul Frederick 
+  [mailto:sandman_142@hotmail.com]<BR><B>Sent:</B> Wednesday, September 04, 2002 
+  6:01 AM<BR><B>To:</B> jandek@cs.northwestern.edu<BR><B>Subject:</B> talked 
+  Jandek with Dr. Demento<BR><BR></DIV></FONT>
+  <DIV>
+  <DIV>
+  <DIV>Hey all,<BR><BR>I just got done interviewing Dr. Demento about 
+  Jandek.<BR><BR>Wonderful man, well versed in all aspects of music... I guess I 
+  had always thought of him as a "novelty-song" guy.&nbsp; But he blew me away 
+  with one of the most well-rounded, diverse, and comprehensive understandings 
+  of American music that I have ever been exposed to.&nbsp; We talked mostly 
+  Jandek and early 20th century blues.<BR><BR>Highlights:&nbsp;<BR><BR>Dr. 
+  Demento told us that he got his first Jandek (well... "units") album in 1981, 
+  putting him among the "elite few" to get unsolicited copies before 
+  1983-84.&nbsp; This raises many important questions.&nbsp; I'd read a lot into 
+  that if I hadn't stopped searching for answers.<BR><BR>He also offered a new 
+  (if slightly implausible) theory.&nbsp; "Jandek as Tax-Dodge" ...&nbsp; He 
+  pointed out that he has hundreds of records in his collection that were 
+  created to serve as a money-pit to siphon off taxes from more profitable 
+  ventures.&nbsp; I'm! n! ot supporting this idea... I think it'd break my heart 
+  if it were true... but it's still a new vantage point, and interesting to 
+  think about.<BR><BR>He talked about receiving "Ready for the House" and 
+  listening to it immediately,&nbsp;then writing to Corwood to get biographical 
+  information about the artist to use on the show (It's important to remember 
+  the time period... Jandek wasn't "mysterious recluse" at that time... he had 
+  one [admittedly strange] album, so the Doctor had a reasonable assumption that 
+  his request would be met).&nbsp; Needless to say, the request for information 
+  was not met, or mentioned again in any future correspondence.&nbsp; (But, he 
+  continued to receive the records for quite some time).<BR><BR>There were so 
+  many other interesting nuggets of information, but they escape me.&nbsp; 
+  <BR><BR>regards,<BR>Paul<BR><BR>end</DIV></DIV></DIV><BR clear=all>
+  <HR>
+  Send and receive Hotmail on your mobile device: <A 
+  href="http://g.msn.com/1HM1ENUS/c152??PI=44364">Clic! k ! 
+Here</A><BR></BLOCKQUOTE></BODY></HTML>
+
+------_=_NextPart_001_01C254E2.CD62EDF0--
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 17210 invoked by uid 1029); 5 Sep 2002 20:06:53 -0000
+Received: (qmail 10662 invoked from network); 5 Sep 2002 17:46:58 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 5 Sep 2002 17:46:58 -0000
+Received: from gatekeeper2.nytimes.com ([199.181.175.211]) by mail1.cs.northwestern.edu over TLS secured channel with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 5 Sep 2002 12:46:31 -0500
+Received: from mailhub2.nytimes.com (smtp-hub.nytimes.com [170.149.204.40])
+	by gatekeeper2.nytimes.com (Switch-2.2.4/Switch-2.2.4) with ESMTP id g85Hjp123435
+	for <jandek@cs.northwestern.edu>; Thu, 5 Sep 2002 13:45:51 -0400 (EDT)
+Received: from notesgate2.nytimes.com (notesgate2.nytimes.com [170.149.204.53])
+	by mailhub2.nytimes.com (Switch-2.2.4/Switch-2.2.4) with ESMTP id g85HkJx21089
+	for <jandek@cs.northwestern.edu>; Thu, 5 Sep 2002 13:46:20 -0400 (EDT)
+Received: from corp-mail-03.ssc.nytimes.com ([206.113.41.244])
+          by notesgate2.nytimes.com (Lotus Domino Release 5.0.8)
+          with ESMTP id 2002090513422318:1486932 ;
+          Thu, 5 Sep 2002 13:42:23 -0400 
+Subject: Jandek as tax dodge theory
+To: jandek@cs.northwestern.edu
+From: Chris.Grier@heraldtribune.com
+Date: Thu, 5 Sep 2002 13:33:30 -0400
+Message-ID: <OF91D18772.FEF23E81-ON85256C2B.0060046D@ssc.nytimes.com>
+MIME-Version: 1.0
+X-MIMETrack: Serialize by Router on CORP-MAIL-03/CORPHQ/NYTIMES(Release 5.0.8 |June 18, 2001) at
+ 09/05/2002 01:33:34 PM,
+	Itemize by SMTP Server on NOTESGATE2/NYT/NYTIMES(Release 5.0.8 |June 18, 2001) at
+ 09/05/2002 01:42:23 PM,
+	Serialize by Router on NOTESGATE2/NYT/NYTIMES(Release 5.0.8 |June 18, 2001) at
+ 09/05/2002 01:49:03 PM,
+	Serialize complete at 09/05/2002 01:49:03 PM
+Content-transfer-encoding: quoted-printable
+Content-type: text/plain; charset=iso-8859-1
+X-OriginalArrivalTime: 05 Sep 2002 17:46:31.0619 (UTC) FILETIME=[2B66E930:01C25504]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+Tim Kelly wrote:
+
+Dr.  Demento told us that he got his first Jandek (well... "units") alb=
+um
+in 1981,  putting him among the "elite few" to get unsolicited copies
+before  1983-84.=A0 This raises many important questions.=A0 I'd read a=
+ lot
+into  that if I hadn't stopped searching for answers.
+
+He also offered a new  (if slightly implausible) theory.=A0 "Jandek as
+Tax-Dodge" ...=A0 He  pointed out that he has hundreds of records in hi=
+s
+collection that were  created to serve as a money-pit to siphon off tax=
+es
+from more profitable  ventures.=A0 I'm! n! ot supporting this idea... I=
+ think
+it'd break my heart  if it were true... but it's still a new vantage po=
+int,
+and interesting to  think about.
+
+---------------------
+
+Texas corporation records and my own research into public and non-publi=
+c
+records shows that the Sterling R. Smith affiliated with Corwood is als=
+o
+affiliated with several other nearby business entities. Dr. Demento may=
+ not
+be far off the mark.
+
+To me, it just makes the Jandek story all that much cooler. I think tha=
+t
+funding yr art by screwing The Man is pretty clever.
+
+=
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 22647 invoked by uid 1029); 5 Sep 2002 22:22:12 -0000
+Received: (qmail 21535 invoked from network); 5 Sep 2002 21:54:17 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 5 Sep 2002 21:54:17 -0000
+Received: from hotmail.com ([64.4.19.141] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 5 Sep 2002 16:53:29 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 5 Sep 2002 14:53:28 -0700
+Received: from 4.60.185.106 by lw12fd.law12.hotmail.msn.com with HTTP;
+	Thu, 05 Sep 2002 21:53:28 GMT
+X-Originating-IP: [4.60.185.106]
+From: "Paul Frederick" <sandman_142@hotmail.com>
+To: Chris.Grier@heraldtribune.com, jandek@cs.northwestern.edu
+Subject: Re: Jandek as tax dodge theory
+Date: Thu, 05 Sep 2002 16:53:28 -0500
+Mime-Version: 1.0
+Content-Type: text/html
+Message-ID: <F141ppQBSYVfxM2RIaX0000cf16@hotmail.com>
+X-OriginalArrivalTime: 05 Sep 2002 21:53:28.0701 (UTC) FILETIME=[AB1232D0:01C25526]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<html><div style='background-color:'><DIV>
+<P>&gt;Texas corporation records and my own research into public and non-public <BR>&gt;records shows that Corwood is also <BR>&gt;affiliated with several other nearby business entities. Dr. Demento may not <BR>&gt;be far off the mark. <BR><BR>When I (provisionally) dismissed this theory, it wasn't because I was unaware of Corwood's other business interests... it's because, well, it just doesn't fit.<BR><BR>Dr. Demento talked about the "qualities" shared by his "tax-dodge" record collection.&nbsp; He cited high (or reasonably high) production values (remember... if you're looking for a money pit, one professionally produced album every three years will siphon off more money than three albums recorded on four-track in the same time period).&nbsp; Also, the Doctor talked about a strong desire to make the albums look as though the producer had every intent on selling them.&nbsp; In other words, the IRS is suspicious of business ventures with product that is less than mainstream (!
+you can't reasonably quote a large loss on something with a very narrow appeal).<BR><BR>The other records he talked to us about had a very high production value (and, according to the Doctor, a very low level of creativity or innovation).&nbsp; They were slick-looking and imitated the design and sound of the era in which they were produced.<BR><BR>I'm not saying that I know for a fact that this can't be the case... but I've thought about it quite a bit.&nbsp; Using a combination of fact and informed intuition, I'd rate the odds of Jandek recordings having the primary function of "tax dodge" as 'very low.'<BR><BR>Very fun to ruminate about, however...<BR><BR>Paul</P></DIV></div><br clear=all><hr>MSN Photos is the easiest way to share and print your photos: <a href='http://g.msn.com/1HM1ENUS/c156??PI=44364'>Click Here</a><br></html>
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 22980 invoked by uid 1029); 5 Sep 2002 22:22:28 -0000
+Received: (qmail 21706 invoked from network); 5 Sep 2002 21:58:17 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 5 Sep 2002 21:58:17 -0000
+Received: from web40601.mail.yahoo.com ([66.218.78.138]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 5 Sep 2002 16:57:40 -0500
+Message-ID: <20020905215740.31796.qmail@web40601.mail.yahoo.com>
+Received: from [66.106.94.156] by web40601.mail.yahoo.com via HTTP; Thu, 05 Sep 2002 14:57:40 PDT
+Date: Thu, 5 Sep 2002 14:57:40 -0700 (PDT)
+From: Michael Brooker <hirakemike@yahoo.com>
+Subject: Modern Dances Cover
+To: JANDEK@CS.NORTHWESTERN.EDU
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 05 Sep 2002 21:57:40.0752 (UTC) FILETIME=[414E2100:01C25527]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Hello,
+
+Not sure if this has already been posted re the Modern
+Dances cover photo.  But when I glanced at it a few
+moments ago, it appeared to have that little fence
+from Telegraph Melts.....Maybe MD is also from the
+same photo shoot as TM and Blue Corpse?
+
+Mike
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Finance - Get real-time stock quotes
+http://finance.yahoo.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 23655 invoked by uid 1029); 5 Sep 2002 22:30:04 -0000
+Received: (qmail 22566 invoked from network); 5 Sep 2002 22:20:17 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 5 Sep 2002 22:20:17 -0000
+Received: from web14809.mail.yahoo.com ([216.136.224.230]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 5 Sep 2002 17:19:45 -0500
+Message-ID: <20020905221944.67062.qmail@web14809.mail.yahoo.com>
+Received: from [141.149.185.57] by web14809.mail.yahoo.com via HTTP; Thu, 05 Sep 2002 15:19:44 PDT
+Date: Thu, 5 Sep 2002 15:19:44 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: oh, c'mon, you all knew it was true
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 05 Sep 2002 22:19:46.0040 (UTC) FILETIME=[573D0780:01C2552A]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+well, i figured that our man had some kind of "other
+reason" for wasting all his money on this crazy album
+project. it is so easy to believe, because why else
+would he be so anonymous? he doesn't want the feds to
+find out who he is. he's not a loner, a freak, or some
+kind of wierdo, as katy vine found out. he's just a
+really clever entreprenuer. remember when irwin chusid
+asked him what other projects he had going and he
+woudn't mention? now we know why he wouldn't; he
+didn't want anyone to connect them. he always liked
+recording music, and so he thought to himself, hey,
+there's got to be a better way to profit from this
+gig. thus, corwood industries, not corwood records.
+imagine for a moment, ther must be corwood books,
+corwood burger joints, corwood plumbing and
+electrician services, the list goes on.
+
+the question is, does this shoot down the authenticity
+of the recordings, knowing that he's not a real
+artist, just some goon fooling and bunch of
+cooler-than-thou fools (us) into buying his fake
+outsider crap, and dodging taxes in the meantime?
+Yeah, i'd say it does, to some extent, but now we know
+one plausible reason as to his anonymity, and one that
+finally fits with katy vine's description. i never
+thought that sterling smith was a genius before, but
+now i'm sure of it. he got us all fooled with his
+joke. but hey, don't stop listening to him, just
+listen to him with a little more irony, like i always
+have. 
+
+shout out to doctor demento, for bringing this to
+light. funny thing though, he never cast jandek in a
+flattering light. he was included as part of a segment
+called "audio torture chamber." 
+
+rain's pouring down in madison,
+
+D.M.
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Finance - Get real-time stock quotes
+http://finance.yahoo.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 828 invoked by uid 1029); 6 Sep 2002 04:17:39 -0000
+Received: (qmail 25813 invoked from network); 5 Sep 2002 23:38:22 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 5 Sep 2002 23:38:22 -0000
+Received: from hotmail.com ([64.4.19.35] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 5 Sep 2002 18:38:14 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 5 Sep 2002 16:38:13 -0700
+Received: from 4.60.185.106 by lw12fd.law12.hotmail.msn.com with HTTP;
+	Thu, 05 Sep 2002 23:38:13 GMT
+X-Originating-IP: [4.60.185.106]
+From: "Paul Frederick" <sandman_142@hotmail.com>
+To: alfredggnome@yahoo.com, jandek@cs.northwestern.edu
+Subject: Re: oh, c'mon, you all knew it was true
+Date: Thu, 05 Sep 2002 18:38:13 -0500
+Mime-Version: 1.0
+Content-Type: text/html
+Message-ID: <F35n04x29xDbH8J0sca00002896@hotmail.com>
+X-OriginalArrivalTime: 05 Sep 2002 23:38:13.0618 (UTC) FILETIME=[4D2C6D20:01C25535]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<html><div style='background-color:'><DIV></DIV>
+<DIV>Clarifications and observations,<BR></DIV>&gt;project. it is so easy to believe, because why else 
+<DIV></DIV>&gt;would he be so anonymous? he doesn't want the feds to 
+<DIV></DIV>&gt;find out who he is. <BR><BR>If it were a tax dodge... anonymity would be hurting Corwood, not helping them.<BR><BR>&gt;gig. thus, corwood industries, not corwood records. 
+<DIV></DIV><BR>Corwood's only traceable product has been records... and as far as I know, it isn't a "parent" (or even tangentially related) to any other business.<BR><BR>&gt;imagine for a moment, ther must be corwood books, 
+<DIV></DIV>&gt;corwood burger joints, corwood plumbing and 
+<DIV></DIV>&gt;electrician services, the list goes on. 
+<DIV></DIV>
+<DIV></DIV><BR>(joke or no joke... that's some pretty funny imagery... I hope I see these someday)<BR><BR>&gt;the question is, does this shoot down the authenticity 
+<DIV></DIV>&gt;of the recordings, knowing that he's not a real 
+<DIV></DIV>&gt;artist, just some goon fooling and bunch of 
+<DIV></DIV>&gt;cooler-than-thou fools (us) into buying his fake 
+<DIV></DIV>&gt;outsider crap, and dodging taxes in the meantime? 
+<DIV></DIV><BR>I don't think it would, even if it were true (which, for the record, I do not).&nbsp; You can't fake the content of the records.&nbsp; If the records stand on their own (which I think they do), then Jandek can stand as an artist.<BR><BR><BR>&gt;Yeah, i'd say it does, to some extent, but now we know 
+<DIV></DIV>&gt;one plausible reason as to his anonymity, and one that 
+<DIV></DIV>&gt;finally fits with katy vine's description. <BR><BR>We've talked with Katy, and while we think she's an amazing writer, and an amazingly nice person.&nbsp; I think that her description of Jandek is only the tip of the iceberg....&nbsp; and... as stated before.&nbsp; This is one enterprise where the anonymity would hurt rather than help.<BR><BR>
+<DIV></DIV>&gt;thought that jandek was a genius before, but 
+<DIV></DIV>&gt;now i'm sure of it. he got us all fooled with his 
+<DIV></DIV>&gt;joke. but hey, don't stop listening to him, just 
+<DIV></DIV>&gt;listen to him with a little more irony, like i always 
+<DIV></DIV>&gt;have. 
+<DIV></DIV><BR>The last statement is incredibly true.&nbsp; Irony is a huge part of my approach to listening to Jandek.<BR><BR><BR>regards,<BR>Paul</div><br clear=all><hr>MSN Photos is the easiest way to share and print your photos: <a href='http://g.msn.com/1HM1ENUS/c156??PI=44364'>Click Here</a><br></html>
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 19669 invoked by uid 1029); 9 Sep 2002 14:54:37 -0000
+Received: (qmail 19354 invoked from network); 9 Sep 2002 14:46:09 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 9 Sep 2002 14:46:09 -0000
+Received: from mail02.ljextra.com ([208.3.165.71] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 9 Sep 2002 09:45:14 -0500
+Received: by ALM-MAIL-1 with Internet Mail Service (5.5.2653.19)
+	id <R7W6HS5P>; Mon, 9 Sep 2002 10:45:13 -0400
+Message-ID: <988631CF8A1FD511B5B40008C7F36CCD026D9D03@ALM-MAIL-1>
+From: Tim Kelly <tkelly@amlaw.com>
+To: "'Chris.Grier@heraldtribune.com'" <Chris.Grier@heraldtribune.com>,
+  jandek@cs.northwestern.edu
+Subject: RE: Jandek as tax dodge theory
+Date: Mon, 9 Sep 2002 10:45:09 -0400 
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C2580F.7EB5E9C0"
+X-OriginalArrivalTime: 09 Sep 2002 14:45:14.0220 (UTC) FILETIME=[819E8AC0:01C2580F]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+------_=_NextPart_001_01C2580F.7EB5E9C0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+I never wrote that!
+However, I will write that Mello Yello is violently inferior to Surge, =
+and
+Wink tastes like orange juice-flavored cat detergent.
+Sincerely,
+Tim Kelly
+P.S. Please send Surge.
+
+> -----Original Message-----
+> From: Chris.Grier@heraldtribune.com
+> [mailto:Chris.Grier@heraldtribune.com]
+> Sent: Thursday, September 05, 2002 1:34 PM
+> To: jandek@cs.northwestern.edu
+> Subject: Jandek as tax dodge theory
+>=20
+>=20
+>=20
+> Tim Kelly wrote:
+>=20
+> Dr.  Demento told us that he got his first Jandek (well...=20
+> "units") album
+> in 1981,  putting him among the "elite few" to get unsolicited copies
+> before  1983-84.=A0 This raises many important questions.=A0 I'd=20
+> read a lot
+> into  that if I hadn't stopped searching for answers.
+>=20
+> He also offered a new  (if slightly implausible) theory.=A0 "Jandek =
+as
+> Tax-Dodge" ...=A0 He  pointed out that he has hundreds of records in =
+his
+> collection that were  created to serve as a money-pit to=20
+> siphon off taxes
+> from more profitable  ventures.=A0 I'm! n! ot supporting this=20
+> idea... I think
+> it'd break my heart  if it were true... but it's still a new=20
+> vantage point,
+> and interesting to  think about.
+>=20
+> ---------------------
+>=20
+> Texas corporation records and my own research into public and=20
+> non-public
+> records shows that the Sterling R. Smith affiliated with=20
+> Corwood is also
+> affiliated with several other nearby business entities. Dr.=20
+> Demento may not
+> be far off the mark.
+>=20
+> To me, it just makes the Jandek story all that much cooler. I=20
+> think that
+> funding yr art by screwing The Man is pretty clever.
+>=20
+>=20
+>=20
+
+------_=_NextPart_001_01C2580F.7EB5E9C0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Diso-8859-1">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+5.5.2653.12">
+<TITLE>RE: Jandek as tax dodge theory</TITLE>
+</HEAD>
+<BODY>
+
+<P><FONT SIZE=3D2>I never wrote that!</FONT>
+<BR><FONT SIZE=3D2>However, I will write that Mello Yello is violently =
+inferior to Surge, and Wink tastes like orange juice-flavored cat =
+detergent.</FONT></P>
+
+<P><FONT SIZE=3D2>Sincerely,</FONT>
+<BR><FONT SIZE=3D2>Tim Kelly</FONT>
+<BR><FONT SIZE=3D2>P.S. Please send Surge.</FONT>
+</P>
+
+<P><FONT SIZE=3D2>&gt; -----Original Message-----</FONT>
+<BR><FONT SIZE=3D2>&gt; From: Chris.Grier@heraldtribune.com</FONT>
+<BR><FONT SIZE=3D2>&gt; [<A =
+HREF=3D"mailto:Chris.Grier@heraldtribune.com">mailto:Chris.Grier@heraldt=
+ribune.com</A>]</FONT>
+<BR><FONT SIZE=3D2>&gt; Sent: Thursday, September 05, 2002 1:34 =
+PM</FONT>
+<BR><FONT SIZE=3D2>&gt; To: jandek@cs.northwestern.edu</FONT>
+<BR><FONT SIZE=3D2>&gt; Subject: Jandek as tax dodge theory</FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; Tim Kelly wrote:</FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; Dr.&nbsp; Demento told us that he got his first =
+Jandek (well... </FONT>
+<BR><FONT SIZE=3D2>&gt; &quot;units&quot;) album</FONT>
+<BR><FONT SIZE=3D2>&gt; in 1981,&nbsp; putting him among the =
+&quot;elite few&quot; to get unsolicited copies</FONT>
+<BR><FONT SIZE=3D2>&gt; before&nbsp; 1983-84.=A0 This raises many =
+important questions.=A0 I'd </FONT>
+<BR><FONT SIZE=3D2>&gt; read a lot</FONT>
+<BR><FONT SIZE=3D2>&gt; into&nbsp; that if I hadn't stopped searching =
+for answers.</FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; He also offered a new&nbsp; (if slightly =
+implausible) theory.=A0 &quot;Jandek as</FONT>
+<BR><FONT SIZE=3D2>&gt; Tax-Dodge&quot; ...=A0 He&nbsp; pointed out =
+that he has hundreds of records in his</FONT>
+<BR><FONT SIZE=3D2>&gt; collection that were&nbsp; created to serve as =
+a money-pit to </FONT>
+<BR><FONT SIZE=3D2>&gt; siphon off taxes</FONT>
+<BR><FONT SIZE=3D2>&gt; from more profitable&nbsp; ventures.=A0 I'm! n! =
+ot supporting this </FONT>
+<BR><FONT SIZE=3D2>&gt; idea... I think</FONT>
+<BR><FONT SIZE=3D2>&gt; it'd break my heart&nbsp; if it were true... =
+but it's still a new </FONT>
+<BR><FONT SIZE=3D2>&gt; vantage point,</FONT>
+<BR><FONT SIZE=3D2>&gt; and interesting to&nbsp; think about.</FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; ---------------------</FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; Texas corporation records and my own research =
+into public and </FONT>
+<BR><FONT SIZE=3D2>&gt; non-public</FONT>
+<BR><FONT SIZE=3D2>&gt; records shows that the Sterling R. Smith =
+affiliated with </FONT>
+<BR><FONT SIZE=3D2>&gt; Corwood is also</FONT>
+<BR><FONT SIZE=3D2>&gt; affiliated with several other nearby business =
+entities. Dr. </FONT>
+<BR><FONT SIZE=3D2>&gt; Demento may not</FONT>
+<BR><FONT SIZE=3D2>&gt; be far off the mark.</FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; To me, it just makes the Jandek story all that =
+much cooler. I </FONT>
+<BR><FONT SIZE=3D2>&gt; think that</FONT>
+<BR><FONT SIZE=3D2>&gt; funding yr art by screwing The Man is pretty =
+clever.</FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+</P>
+
+</BODY>
+</HTML>
+------_=_NextPart_001_01C2580F.7EB5E9C0--
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 11854 invoked by uid 1029); 10 Sep 2002 18:17:32 -0000
+Received: (qmail 11112 invoked from network); 10 Sep 2002 18:00:45 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 10 Sep 2002 18:00:45 -0000
+Received: from hotmail.com ([64.4.21.47] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 10 Sep 2002 12:59:56 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Tue, 10 Sep 2002 10:59:52 -0700
+Received: from 213.123.18.12 by lw14fd.law14.hotmail.msn.com with HTTP;
+	Tue, 10 Sep 2002 17:59:52 GMT
+X-Originating-IP: [213.123.18.12]
+From: "Mark Lee Forshaw" <mark_leeforshaw@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Damaged Goods
+Date: Tue, 10 Sep 2002 17:59:52 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F47yYcKUHbY6OISo1WY00000dab@hotmail.com>
+X-OriginalArrivalTime: 10 Sep 2002 17:59:52.0604 (UTC) FILETIME=[DCE445C0:01C258F3]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+If I recall there has been some speculation/suggestion on the list that 
+"Glad to Get Away" might be out of print and that "White Box Requiem" might 
+only be available in water-damaged form.
+
+Anyway, I asked Corwood about this when I posted my last order and this was 
+their uncharacteristically direct response (very business like):
+
+"0763 white box requiem/0762 glad to get away. Some of these ARE water 
+damaged, which we don't sell, but give away to review persons or radio 
+stations because they play ok - the printing is damaged. However, we have 
+normal undamaged CD's which we do sell and these are not damaged in anyway."
+
+So there we have it. Personally I am very pleased that "Glad to Get Away" is 
+still available for folks to buy (that is, not off ebay or from Forced 
+Exposure) as I think it is among the best three or four of Jandek's records.
+
+Mark
+
+
+
+
+
+_________________________________________________________________
+MSN Photos is the easiest way to share and print your photos: 
+http://photos.msn.com/support/worldwide.aspx
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 24042 invoked by uid 1029); 10 Sep 2002 22:53:22 -0000
+Received: (qmail 23495 invoked from network); 10 Sep 2002 22:39:10 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 10 Sep 2002 22:39:10 -0000
+Received: from hotmail.com ([64.4.31.93] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 10 Sep 2002 17:31:41 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Tue, 10 Sep 2002 15:31:41 -0700
+Received: from 213.105.181.240 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Tue, 10 Sep 2002 22:31:40 GMT
+X-Originating-IP: [213.105.181.240]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: dodge smodge
+Date: Tue, 10 Sep 2002 22:31:40 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F93Cw0UXDcab7NMT665000016e6@hotmail.com>
+X-OriginalArrivalTime: 10 Sep 2002 22:31:41.0048 (UTC) FILETIME=[D57B5780:01C25919]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+I don't buy this tax dodge thing for a couple of reasons. For a start I 
+don't reckon anybody would do 30 albums featuring dense lyrics and bizarre 
+guitar tunings, ie stuff that takes a bit of work, unless they're really 
+compelled to. It'd be much easier to do loads of "Baby I Love You"-style 
+stuff otherwise. Also, on the 20 box I got from Corwood, the custom slip had 
+"Gift" marked rather than "merchandise"... I take it that this means 
+profits(!) aren't being declared. Then there's the previously mentioned 
+anonymity thing.
+
+Has anybody had to wait a helluva long time for a Corwood order recently? 
+Unless something got lost in the mail.
+
+_________________________________________________________________
+Send and receive Hotmail on your mobile device: http://mobile.msn.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 25109 invoked by uid 1029); 10 Sep 2002 23:08:09 -0000
+Received: (qmail 24772 invoked from network); 10 Sep 2002 23:01:09 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 10 Sep 2002 23:01:09 -0000
+Received: from imo-m02.mx.aol.com ([64.12.136.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 10 Sep 2002 17:55:27 -0500
+Received: from AKelly1971@aol.com
+	by imo-m02.mx.aol.com (mail_out_v34.10.) id i.191.cf28e9d (17228);
+	Tue, 10 Sep 2002 18:55:19 -0400 (EDT)
+From: AKelly1971@aol.com
+Message-ID: <191.cf28e9d.2aafd257@aol.com>
+Date: Tue, 10 Sep 2002 18:55:19 EDT
+Subject: Re: dodge smodge
+To: paulgcondon@hotmail.com, jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+X-Mailer: AOL 5.0 for Windows sub 138
+X-OriginalArrivalTime: 10 Sep 2002 22:55:27.0617 (UTC) FILETIME=[27C87F10:01C2591D]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Unless I misremember, an enterprise can be deducted as a tax write-off for 
+three years before it has to make a profit...  I think Jandek has long 
+exceeded that term.
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 20333 invoked by uid 1029); 11 Sep 2002 14:06:05 -0000
+Received: (qmail 15877 invoked from network); 11 Sep 2002 11:33:03 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 11 Sep 2002 11:33:03 -0000
+Received: from donkeykong.gpcc.itd.umich.edu ([141.211.2.163]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 11 Sep 2002 06:24:08 -0500
+Received: from vanguard.gpcc.itd.umich.edu (vanguard.gpcc.itd.umich.edu [141.211.2.216])
+        by donkeykong.gpcc.itd.umich.edu (8.8.8/4.3-mailhub) with ESMTP id HAA19630; Wed, 11 Sep 2002 07:24:04 -0400 (EDT)
+Received: from localhost (sdthorn@localhost)
+	by vanguard.gpcc.itd.umich.edu (8.9.1a/5.1-client) with ESMTP id HAA15256; Wed, 11 Sep 2002 07:24:03 -0400 (EDT)
+Date: Wed, 11 Sep 2002 07:24:03 -0400 (EDT)
+From: Scott D Thorn <sdthorn@umich.edu>
+X-X-Sender: sdthorn@vanguard.gpcc.itd.umich.edu
+To: Paul Condon <paulgcondon@hotmail.com>
+cc: jandek@cs.northwestern.edu
+Subject: Re: dodge smodge
+In-Reply-To: <F93Cw0UXDcab7NMT665000016e6@hotmail.com>
+Message-ID: <Pine.SOL.4.44.0209110721230.13892-100000@vanguard.gpcc.itd.umich.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-OriginalArrivalTime: 11 Sep 2002 11:24:08.0173 (UTC) FILETIME=[BE8561D0:01C25985]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+> Has anybody had to wait a helluva long time for a Corwood order recently?
+> Unless something got lost in the mail.
+
+I received my box o'20 about a month ago. there was only about a week and
+a half wait between sending out the order and receiving the box.
+
+Scott
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 9896 invoked by uid 1029); 11 Sep 2002 21:39:47 -0000
+Received: (qmail 9741 invoked from network); 11 Sep 2002 21:37:12 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 11 Sep 2002 21:37:12 -0000
+Received: from hotmail.com ([64.4.19.51] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 11 Sep 2002 16:36:21 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 11 Sep 2002 14:36:20 -0700
+Received: from 198.185.18.207 by lw12fd.law12.hotmail.msn.com with HTTP;
+	Wed, 11 Sep 2002 21:36:20 GMT
+X-Originating-IP: [198.185.18.207]
+From: "kristi wheeler" <hellokristi@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: dodge smodge
+Date: Wed, 11 Sep 2002 17:36:20 -0400
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F51OgTtV7LKuTcPXxYo0000e9dc@hotmail.com>
+X-OriginalArrivalTime: 11 Sep 2002 21:36:20.0646 (UTC) FILETIME=[44C7F460:01C259DB]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+hey everyone.
+
+i am jandek.  the jig is up.
+
+
+
+_________________________________________________________________
+Send and receive Hotmail on your mobile device: http://mobile.msn.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 3118 invoked by uid 1029); 12 Sep 2002 23:42:41 -0000
+Message-ID: <20020912234241.3117.qmail@cs.northwestern.edu>
+Received: (qmail 2428 invoked from network); 12 Sep 2002 23:20:03 -0000
+Received: from localhost (HELO Godzilla.cs.nwu.edu) (tisue@127.0.0.1)
+  by localhost with SMTP; 12 Sep 2002 23:20:03 -0000
+Subject: Jandek picks up the guitar again
+To: jandek@cs.northwestern.edu
+From: Seth Tisue <seth@tisue.net>
+Date: Thu, 12 Sep 2002 18:20:03 -0500
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+New CD, courtesy Corwood Industries.  It's called I Threw You Away.
+Song titles: "Blues Turned Black", "It Seems Forever", "I Threw You
+Away", "Frozen Beauty", "The World Stops".  Five long tracks, 49
+minutes total, shortest track 7:39.  Voice and acoustic guitar, plus
+some harmonica.  It sounds like a cross between Six and Six and Blue
+Corpse -- it reminds me more of those two albums than of the more
+recent solo acoustic discs.
+
+The cover photo is of a deserted European residential city street on
+an overcast day.  There's a street sign I can't quite read.  There are
+stoplights facing in both directions but the cars are parked on the
+left side of the street, so it must be England.  There's a street sign
+I can't quite read.  There's a large building at the end of the street
+which looks pretty identifiable if someone knows the area.
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+"I'm not writing a book on the science of irony." - Marcel Duchamp
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 11253 invoked by uid 1029); 14 Sep 2002 14:50:54 -0000
+Received: (qmail 10890 invoked from network); 14 Sep 2002 14:40:32 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 14 Sep 2002 14:40:32 -0000
+Received: from web14809.mail.yahoo.com ([216.136.224.230]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 14 Sep 2002 09:34:54 -0500
+Message-ID: <20020914143454.48727.qmail@web14809.mail.yahoo.com>
+Received: from [141.149.188.228] by web14809.mail.yahoo.com via HTTP; Sat, 14 Sep 2002 07:34:54 PDT
+Date: Sat, 14 Sep 2002 07:34:54 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: Jandek picks up the guitar again
+To: jandek@cs.northwestern.edu
+In-Reply-To: <20020912234241.3117.qmail@cs.northwestern.edu>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 14 Sep 2002 14:34:54.0804 (UTC) FILETIME=[E47BE940:01C25BFB]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+--- Seth Tisue <seth@tisue.net> wrote:
+> 
+> New CD, courtesy Corwood Industries.  It's called I
+> Threw You Away.
+> Song titles: "Blues Turned Black", "It Seems
+> Forever", "I Threw You
+> Away", "Frozen Beauty", "The World Stops".  Five
+> long tracks, 49
+> minutes total, shortest track 7:39.  Voice and
+> acoustic guitar, plus
+> some harmonica.  It sounds like a cross between Six
+> and Six and Blue
+> Corpse -- it reminds me more of those two albums
+> than of the more
+> recent solo acoustic discs.
+> 
+> The cover photo is of a deserted European
+> residential city street on
+> an overcast day.  There's a street sign I can't
+> quite read.  There are
+> stoplights facing in both directions but the cars
+> are parked on the
+> left side of the street, so it must be England. 
+> There's a street sign
+> I can't quite read.  There's a large building at the
+> end of the street
+> which looks pretty identifiable if someone knows the
+> area.
+> 
+
+very interesting.... I wonder if the songs are about
+his apparent trip to europe? Maybe he went to england
+because he found out he had at least one or two fans
+there, heh heh. A cross between six and six and blue
+corpse? i can't even imagine that. Six and six is one
+of his most drab albums, and blue corpse is one of his
+best. The first features his whacky tunings with no
+apparent chords, and the second features a more
+talented guitarist using standard tunings and more
+accesible music all around. 
+
+soulseek, wow, that is a godsent. There is a user
+there with every available Corwood CD up on 192 Kb/s
+Mp3. I have downloaded Blue Corpse, You Walk Alone,
+Interstellar Discussion, and Later On. After listening
+to them in their entirety, i am covinced that the
+first two are his best works. Later On is a great
+album as well, jessica is in my top ten.  Interstellar
+Discussion is not nearly as good as everyone says, but
+it has some winning tracks. I am in the process of
+getting a list of all his best songs, and then putting
+them on a three CD set tentatively called, "3 times 4
+is 25 years of jandek" It will feature a detailed
+booklet about the history of corwood, and at least two
+songs from each album, spilt into thirds for each of
+his three periods. Of course, i have no money for this
+project, it's just an idea. What I want to know, is
+what is everyone's top five songs? I'd be glad if we
+all responded, so i could get a good idea of what
+everybody likes.
+My top five:
+Down at the Ballpark
+First You Think Your Fortune's Lovely
+Rain in Madison
+Lavender
+She Fell Down
+
+what does everyone else think?
+
+D.M.
+
+
+
+
+__________________________________________________
+Do you Yahoo!?
+Yahoo! News - Today's headlines
+http://news.yahoo.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 22000 invoked by uid 1029); 14 Sep 2002 21:07:21 -0000
+Message-ID: <20020914210721.21999.qmail@cs.northwestern.edu>
+Received: (qmail 21958 invoked from network); 14 Sep 2002 21:07:07 -0000
+Received: from localhost (HELO Godzilla.cs.nwu.edu) (tisue@127.0.0.1)
+  by localhost with SMTP; 14 Sep 2002 21:07:07 -0000
+To: jandek@cs.northwestern.edu
+Subject: Re: Jandek picks up the guitar again 
+From: Seth Tisue <seth@tisue.net>
+In-reply-to: Your message of "Sat, 14 Sep 2002 07:34:54 PDT."
+             <20020914143454.48727.qmail@web14809.mail.yahoo.com> 
+Date: Sat, 14 Sep 2002 16:07:07 -0500
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+>>>>> "Daniel" == Daniel Marks <alfredggnome@yahoo.com> writes:
+
+ Daniel> A cross between six and six and blue corpse? i can't even
+ Daniel> imagine that. Six and six is one of his most drab albums, and
+ Daniel> blue corpse is one of his best. The first features his whacky
+ Daniel> tunings with no apparent chords, and the second features a
+ Daniel> more talented guitarist using standard tunings and more
+ Daniel> accesible music all around.
+
+I should clarify that comparison.  I Threw You Away is definitely
+"drab" and difficult like Six and Six, not "accessible".  What reminds
+me of Blue Corpse, though:
+
+- there's a lot of guitar strumming, as opposed to the
+  string-at-a-time picking on "Six and Six" and the other early LP's,
+  but it definitely sounds like Jandek strumming and not like the
+  "talented" guitarist on Blue Corpse
+
+- on vocals, Jandek does a lot of that thing where he makes his voice
+  go way up high, pitches sliding everywhere, "crooning" if you will,
+  which I associate with the singing on Blue Corpse
+
+- the longer songs (compared to Six and Six where the songs are short,
+  start up abruptly, and end just as abruptly)
+
+but even saying all this is probably putting too much weight on an off
+the cuff comparison.
+
+ Daniel> What I want to know, is what is everyone's top
+ Daniel> five songs? I'd be glad if we all responded, so i could get a
+ Daniel> good idea of what everybody likes.  My top five: Down at the
+ Daniel> Ballpark First You Think Your Fortune's Lovely Rain in
+ Daniel> Madison Lavender She Fell Down
+
+"Naked in the Afternoon", "Forgive Me", "Oh Jenny", "The Janitor",
+"Nancy Sings", "All in an Apple Orchard", "I Ain't Got None", "Rifle
+in the Closet", "This is a Death Dream", "Ballad of Robert", "House Up
+On the Hill", "I Passed By the Building", "Your Other Man", "C F",
+"When the Telephone Melts", "Lavender", "Message to the Clerk", "I'll
+Sit Alone and Think a Lot About You", "Upon the Grandeur", "Hey Mister
+Can You Tell Me", "Rain in Madison"... oops, that's way more than
+five.
+
+Much as I like the individually memorable songs like this, though, I'm
+just as attached to the masses of songs that I can't always
+individually remember or tell apart, but just pass by and fade away,
+like faces in a crowd or small towns along a highway.  I think that'd
+make an even better mix CD -- "Jandek Songs You Can't Remember" --
+except if you listened to it too much you'd start recognizing them.
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+"I'm not writing a book on the science of irony." - Marcel Duchamp
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 23134 invoked by uid 1029); 14 Sep 2002 21:33:36 -0000
+Message-ID: <20020914213336.23133.qmail@cs.northwestern.edu>
+Received: (qmail 23089 invoked from network); 14 Sep 2002 21:33:16 -0000
+Received: from localhost (HELO Godzilla.cs.nwu.edu) (tisue@127.0.0.1)
+  by localhost with SMTP; 14 Sep 2002 21:33:16 -0000
+To: jandek@cs.northwestern.edu
+Subject: Re: Jandek picks up the guitar again 
+From: Seth Tisue <seth@tisue.net>
+In-reply-to: Your message of "Fri, 13 Sep 2002 21:21:51 -0000."
+             <F183GiU4Mq6BOqViN3600003f0c@hotmail.com> 
+Date: Sat, 14 Sep 2002 16:33:16 -0500
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+>>>>> "Paul" == Paul Condon <paulgcondon@hotmail.com> writes:
+
+ Paul> Very interesting indeed. Any chance of posting a jpeg of the
+ Paul> cover on the list, or on the site?  Paul
+
+It's up on the site now: http://tisue.net/jandek/discog.html#0770
+
+I'm used to thinking of Jandek as someone who never leaves Houston,
+despite evidence to the contrary (e.g. "Rain in Madison" and side two
+of Nine-Thirty).  It's weird enough to imagine running into him on the
+street in Chicago, say, but even weirder that he'd turn up in
+London...
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+"I'm not writing a book on the science of irony." - Marcel Duchamp
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 23748 invoked by uid 1029); 14 Sep 2002 21:40:15 -0000
+Message-ID: <20020914214015.23747.qmail@cs.northwestern.edu>
+Received: (qmail 23646 invoked from network); 14 Sep 2002 21:38:36 -0000
+Received: from localhost (HELO Godzilla.cs.nwu.edu) (tisue@127.0.0.1)
+  by localhost with SMTP; 14 Sep 2002 21:38:36 -0000
+Subject: Some "I Threw You Away" lyrics
+To: jandek@cs.northwestern.edu
+From: Seth Tisue <seth@tisue.net>
+Date: Sat, 14 Sep 2002 16:38:35 -0500
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+I can't play nothing
+I don't know how
+The spirit moves me
+Along with the breeze
+I alight on the ??? sidewalk
+It must be the park
+I like the flowers
+I like the statues
+I threw you away
+So I could play
+
+(from the title track)
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+"I'm not writing a book on the science of irony." - Marcel Duchamp
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 24579 invoked by uid 1029); 14 Sep 2002 21:55:32 -0000
+Received: (qmail 24182 invoked from network); 14 Sep 2002 21:42:43 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 14 Sep 2002 21:42:43 -0000
+Received: from blueyonder.co.uk ([195.188.53.94] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 14 Sep 2002 16:41:54 -0500
+Received: from pcow057o.blueyonder.co.uk ([127.0.0.1]) by blueyonder.co.uk  with Microsoft SMTPSVC(5.5.1877.757.75);
+	 Sat, 14 Sep 2002 22:41:29 +0100
+Received: from nyro (unverified [80.195.54.31]) by pcow057o.blueyonder.co.uk
+ (Content Technologies SMTPRS 4.2.9) with SMTP id <T5d56fb9d84ac1785b3327@pcow057o.blueyonder.co.uk> for <jandek@cs.northwestern.edu>;
+ Sat, 14 Sep 2002 22:41:28 +0100
+Message-ID: <00eb01c25c37$7d6c9560$1f36c350@nyro>
+Reply-To: "Jamie Morrison" <amsc05826@blueyonder.co.uk>
+From: "Jamie Morrison" <amsc05826@blueyonder.co.uk>
+To: "jandek" <jandek@cs.northwestern.edu>
+References: <20020914214015.23747.qmail@cs.northwestern.edu>
+Subject: Re: Some "I Threw You Away" lyrics
+Date: Sat, 14 Sep 2002 22:41:31 +0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-OriginalArrivalTime: 14 Sep 2002 21:41:54.0534 (UTC) FILETIME=[8B087860:01C25C37]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Interesting...
+
+so, is it any cop? How are you liking it?
+
+Jamie
+
+----- Original Message ----- 
+From: "Seth Tisue" <seth@tisue.net>
+To: <jandek@cs.northwestern.edu>
+Sent: Saturday, September 14, 2002 10:38 PM
+Subject: Some "I Threw You Away" lyrics
+
+
+> 
+> I can't play nothing
+> I don't know how
+> The spirit moves me
+> Along with the breeze
+> I alight on the ??? sidewalk
+> It must be the park
+> I like the flowers
+> I like the statues
+> I threw you away
+> So I could play
+> 
+> (from the title track)
+> 
+> ==
+> Seth Tisue - seth@tisue.net - http://tisue.net
+> "I'm not writing a book on the science of irony." - Marcel Duchamp
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 29681 invoked by uid 1029); 15 Sep 2002 00:24:57 -0000
+Message-ID: <20020915002457.29680.qmail@cs.northwestern.edu>
+Received: (qmail 29598 invoked from network); 15 Sep 2002 00:22:46 -0000
+Received: from localhost (HELO Godzilla.cs.nwu.edu) (tisue@127.0.0.1)
+  by localhost with SMTP; 15 Sep 2002 00:22:46 -0000
+Subject: Jandek site update
+To: jandek@cs.northwestern.edu
+From: Seth Tisue <seth@tisue.net>
+Date: Sat, 14 Sep 2002 19:22:46 -0500
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+The "News" section has been removed and its contents folded into
+various other pages on the site, notably the "Press" page, which now
+has a lot more stuff listed on it.
+
+The "Background" section has been reorganized and updated, not as
+thoroughly as I'd like, but I fixed some places where it was woefully
+out of date, and it now prominently directs readers to the Wolk and
+Vine articles.
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+"I'm not writing a book on the science of irony." - Marcel Duchamp
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 26529 invoked by uid 1029); 15 Sep 2002 14:36:47 -0000
+Received: (qmail 25979 invoked from network); 15 Sep 2002 14:16:56 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 15 Sep 2002 14:16:56 -0000
+Received: from mta9.srv.hcvlny.cv.net ([167.206.5.133]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 15 Sep 2002 09:11:54 -0500
+Received: from bitechuser (ool-18bb8564.dyn.optonline.net [24.187.133.100])
+ by mta9.srv.hcvlny.cv.net
+ (iPlanet Messaging Server 5.2 HotFix 0.9 (built Jul 29 2002))
+ with SMTP id <0H2H008EOGMZ0H@mta9.srv.hcvlny.cv.net> for
+ jandek@cs.northwestern.edu; Sun, 15 Sep 2002 10:09:00 -0400 (EDT)
+Date: Sun, 15 Sep 2002 10:12:51 -0400
+From: Gregg Turek <yuus@optonline.net>
+Subject: currently available
+To: jandek@cs.northwestern.edu
+Message-id: <LOBBJLGJKJGHLEEKBMOKEEOODCAA.yuus@optonline.net>
+MIME-version: 1.0
+X-MIMEOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+Content-type: text/plain; charset=iso-8859-1
+Content-transfer-encoding: 7BIT
+Importance: Normal
+X-Priority: 3 (Normal)
+X-MSMail-priority: Normal
+X-OriginalArrivalTime: 15 Sep 2002 14:11:54.0817 (UTC) FILETIME=[D85C5B10:01C25CC1]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+So, what are the currently available CDs from Corwood?  Are there twenty, or
+less or more?
+
+Gregg Turek
+yuus@optonline.net
+greggturek@bigfoot.com
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 7989 invoked by uid 1029); 15 Sep 2002 22:47:14 -0000
+Received: (qmail 2937 invoked from network); 15 Sep 2002 19:44:59 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 15 Sep 2002 19:44:59 -0000
+Received: from hotmail.com ([64.4.20.76] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 15 Sep 2002 14:39:04 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 15 Sep 2002 12:39:04 -0700
+Received: from 62.7.119.203 by lw14fd.law14.hotmail.msn.com with HTTP;
+	Sun, 15 Sep 2002 19:39:04 GMT
+X-Originating-IP: [62.7.119.203]
+From: "Mark Lee Forshaw" <mark_leeforshaw@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: New Jandek Cover
+Date: Sun, 15 Sep 2002 19:39:04 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F251SAkyAp1fBZe6xjZ0001106c@hotmail.com>
+X-OriginalArrivalTime: 15 Sep 2002 19:39:04.0443 (UTC) FILETIME=[8C8794B0:01C25CEF]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+Well I live in England and I agree with Seth that the cover-photo for the 
+new album definitely looks like a UK vista. That building at the top of the 
+street should be fairly easily identifiable. I am going to show it to a few 
+people - see if any one recognises it. One of the few advantages of living 
+in such a small country. The cars look kind of old though. Could be the 
+photo is fairly old. On the other hand, the street looks run down - maybe 
+new cars are not an economic priority at those addresses.
+
+By the way: anybody else on this list live in the UK?
+
+Mark
+
+
+_________________________________________________________________
+Send and receive Hotmail on your mobile device: http://mobile.msn.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 8714 invoked by uid 1029); 15 Sep 2002 22:59:23 -0000
+Received: (qmail 8446 invoked from network); 15 Sep 2002 22:50:03 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 15 Sep 2002 22:50:03 -0000
+Received: from hotmail.com ([64.4.31.40] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 15 Sep 2002 17:45:44 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 15 Sep 2002 15:45:44 -0700
+Received: from 213.105.181.240 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Sun, 15 Sep 2002 22:45:43 GMT
+X-Originating-IP: [213.105.181.240]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: "I threw you away" cover
+Date: Sun, 15 Sep 2002 22:45:43 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F405MtDbfLWU8DO4wN90000bb2c@hotmail.com>
+X-OriginalArrivalTime: 15 Sep 2002 22:45:44.0018 (UTC) FILETIME=[9FFF1B20:01C25D09]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I had a funny feeling about this.
+I reckon that the picture on "I Threw You Away" is not of an English town, 
+but an Irish one. The road sign appears to be a bilingual one like we have 
+here, and though I can't be sure it seems to me to read:
+Luimneach/LIMERICK and An Bhlarna/BLARNEY. If the distance to these 
+locations is on the sign, it's obscured in the picture, but you'd take the 
+same road out of Cork city to get to both. Cork is also very hilly, and that 
+building looks familiar to me, though I can't quite nail it down.
+I could be wrong about this, but I'll do a little research...
+
+
+_________________________________________________________________
+Chat with friends online, try MSN Messenger: http://messenger.msn.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 8820 invoked by uid 1029); 16 Sep 2002 14:08:25 -0000
+Received: (qmail 3830 invoked from network); 16 Sep 2002 11:24:15 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 16 Sep 2002 11:24:15 -0000
+Received: from hotmail.com ([64.4.37.215] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 16 Sep 2002 06:19:00 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 16 Sep 2002 04:18:59 -0700
+Received: from 65.214.176.230 by pv2fd.pav2.hotmail.msn.com with HTTP;
+	Mon, 16 Sep 2002 11:18:59 GMT
+X-Originating-IP: [65.214.176.230]
+From: "brian t" <jandek21@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: "I threw you away" cover
+Date: Mon, 16 Sep 2002 11:18:59 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F215lC6EJNJutzfn7Z10001f252@hotmail.com>
+X-OriginalArrivalTime: 16 Sep 2002 11:18:59.0925 (UTC) FILETIME=[DADB3850:01C25D72]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+the cathedral(?) in the background seems to have an important visual meaning 
+in the cover art and fits right in with jandeks obvious religious overtones. 
+also " the sprit moves me..." is also the title of a beck song off of 
+Steropathetic Soulmanure. Jandek is also a beck fan perhaps?
+
+
+>From: "Paul Condon" <paulgcondon@hotmail.com>
+>To: jandek@cs.northwestern.edu
+>Subject: "I threw you away" cover
+>Date: Sun, 15 Sep 2002 22:45:43 +0000
+>
+>I had a funny feeling about this.
+>I reckon that the picture on "I Threw You Away" is not of an English town, 
+>but an Irish one. The road sign appears to be a bilingual one like we have 
+>here, and though I can't be sure it seems to me to read:
+>Luimneach/LIMERICK and An Bhlarna/BLARNEY. If the distance to these 
+>locations is on the sign, it's obscured in the picture, but you'd take the 
+>same road out of Cork city to get to both. Cork is also very hilly, and 
+>that building looks familiar to me, though I can't quite nail it down.
+>I could be wrong about this, but I'll do a little research...
+>
+>
+>_________________________________________________________________
+>Chat with friends online, try MSN Messenger: http://messenger.msn.com
+
+
+
+
+Brian  T
+
+
+
+_________________________________________________________________
+Join the world’s largest e-mail service with MSN Hotmail. 
+http://www.hotmail.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 26563 invoked by uid 1029); 16 Sep 2002 21:06:11 -0000
+Received: (qmail 26030 invoked from network); 16 Sep 2002 20:58:12 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 16 Sep 2002 20:58:12 -0000
+Received: from hotmail.com ([64.4.19.135] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 16 Sep 2002 15:51:03 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 16 Sep 2002 13:51:02 -0700
+Received: from 4.60.185.106 by lw12fd.law12.hotmail.msn.com with HTTP;
+	Mon, 16 Sep 2002 20:51:01 GMT
+X-Originating-IP: [4.60.185.106]
+From: "Paul Frederick" <sandman_142@hotmail.com>
+To: paulgcondon@hotmail.com
+Cc: jandek@cs.northwestern.edu
+Subject: Jandek's visit to Cork City
+Date: Mon, 16 Sep 2002 15:51:01 -0500
+Mime-Version: 1.0
+Content-Type: text/html
+Message-ID: <F135pu2oYYCtUDCAfeU00009a5a@hotmail.com>
+X-OriginalArrivalTime: 16 Sep 2002 20:51:02.0907 (UTC) FILETIME=[C4F2A4B0:01C25DC2]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<html><div style='background-color:'>&gt;but you'd 
+<DIV></DIV>&gt;take the same road out of Cork city to get to both. Cork is also 
+<DIV></DIV>&gt;very hilly, and that building looks familiar to me, though I can't 
+<DIV></DIV>&gt;quite nail it down. 
+<DIV><BR>Brilliant deduction....&nbsp; I have it on moderate authority that it is the "north cathedral" in Cork City.&nbsp; (also called "The Pro-cathedral of St Mary and St Anne’s", or the "north chapel").<BR><BR>It's a shot from the back or side, so it doesn't look exactly the same&nbsp;as some of the online sources.&nbsp; (which usually feature a well composed frontal shot).<BR><BR>A good pic of the north cathedral can be found here... ( <A href="http://mediaservice.photoisland.com/auction/Sep/20029161183986597346780.jpg">http://mediaservice.photoisland.com/auction/Sep/20029161183986597346780.jpg</A>&nbsp;)<BR><BR>The steep arched windows look different from the "I threw you away" cover, presumably they become more gently arched around the sides.<BR><BR>The brick and... "spires" are an exact match.&nbsp; <BR><BR>Sound right?<BR>PF<BR><BR></DIV></div><br clear=all><hr>Chat with friends online, try MSN Messenger: <a href='http://g.msn.com/1HM1ENUS/c144??PS=47575'>Click Here</!
+a><br></html>
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 31086 invoked by uid 1029); 16 Sep 2002 23:02:36 -0000
+Received: (qmail 30298 invoked from network); 16 Sep 2002 22:46:17 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 16 Sep 2002 22:46:17 -0000
+Received: from avocet.mail.pas.earthlink.net ([207.217.120.50]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 16 Sep 2002 17:39:34 -0500
+Received: from sdn-ar-002txaustp278.dialsprint.net ([168.191.184.80])
+	by avocet.mail.pas.earthlink.net with esmtp (Exim 3.33 #1)
+	id 17r4Wi-00054N-00
+	for jandek@cs.northwestern.edu; Mon, 16 Sep 2002 15:39:33 -0700
+User-Agent: Microsoft-Outlook-Express-Macintosh-Edition/5.0.5
+Date: Mon, 16 Sep 2002 17:34:45 -0500
+Subject: re: jandeks visit
+From: Jason Pierce <onyxmirr@earthlink.net>
+To: <jandek@cs.northwestern.edu>
+Message-ID: <B9ABC6B5.1626%onyxmirr@earthlink.net>
+Mime-version: 1.0
+Content-type: text/plain; charset="US-ASCII"
+Content-transfer-encoding: 7bit
+X-OriginalArrivalTime: 16 Sep 2002 22:39:35.0198 (UTC) FILETIME=[EE9363E0:01C25DD1]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+> 
+> A good pic of the north cathedral can be found here... (
+> http://mediaservice.photoisland.com/auction/Sep/20029161183986597346780.jpg )
+> 
+> The steep arched windows look different from the "I threw you away" cover,
+> presumably they become more gently arched around the sides.
+> 
+> The brick and... "spires" are an exact match.
+> 
+> Sound right?
+> PF
+
+a simple demonstration of scale suggest that it is unlikely the church
+in Cork. i transposed the nun in the Cork photo to scale onto the jandek
+photo. note the jandek church appears to be much larger than the one in
+the Cork photo.
+
+http://www.onyxmirr.org/scale.html
+
+~~json
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 30135 invoked by uid 1029); 17 Sep 2002 14:33:26 -0000
+Received: (qmail 18863 invoked from network); 17 Sep 2002 09:02:32 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 17 Sep 2002 09:02:32 -0000
+Received: from smarthost3.mail.uk.easynet.net ([212.135.6.13]) by mail1.cs.northwestern.edu over TLS secured channel with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 17 Sep 2002 03:52:54 -0500
+Received: from mail.scope.org.uk ([195.40.185.130] helo=mr-b-e-1.scope.org.uk)
+	by smarthost3.mail.uk.easynet.net with smtp (Exim 3.35 #1)
+	id 17rE6G-000EIj-00
+	for jandek@cs.northwestern.edu; Tue, 17 Sep 2002 09:52:53 +0100
+Received: by MR-B-E-1 with Internet Mail Service (5.5.2653.19)
+	id <SLZDY0M9>; Tue, 17 Sep 2002 09:52:35 +0100
+Message-ID: <A4724C541B12D6119A2E00508B6B1BD126C813@MR-B-E-1>
+From: Ivan Shiel <ivan.shiel@scope.org.uk>
+To: jandek@cs.northwestern.edu
+Subject: RE: jandeks visit
+Date: Tue, 17 Sep 2002 09:52:14 +0100
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: text/plain;
+	charset="iso-8859-1"
+X-OriginalArrivalTime: 17 Sep 2002 08:52:55.0285 (UTC) FILETIME=[9D230A50:01C25E27]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I disagree.  Look at the map here:
+http://www.corkcorp.ie/maps/19.html
+
+Here's another photo that includes the rear of the building
+http://www.corkcathedral.com/index.htm
+
+If you look at this photo the rear of the building is virtually an exact
+match for the one on the cover.  Clearly what we see on the cover is the
+rear of the church with the spire (steeple or whatever the hell it's called)
+on the right behind the building
+
+I'm having trouble working out where the photographer would have been
+standing on the map but Jandek fans are uncommonly intelligent, so I'm sure
+we can work it out!
+
+BTW, I know that churches often have charitable funds for one thing or
+another and maybe for the right amount of money the nice people who work
+there could be bribed into confirming this.  
+
+-----Original Message-----
+From: Jason Pierce [mailto:onyxmirr@earthlink.net]
+Sent: 16 September 2002 23:35
+To: jandek@cs.northwestern.edu
+Subject: re: jandeks visit
+
+
+> 
+> A good pic of the north cathedral can be found here... (
+>
+http://mediaservice.photoisland.com/auction/Sep/20029161183986597346780.jpg
+)
+> 
+> The steep arched windows look different from the "I threw you away" cover,
+> presumably they become more gently arched around the sides.
+> 
+> The brick and... "spires" are an exact match.
+> 
+> Sound right?
+> PF
+
+a simple demonstration of scale suggest that it is unlikely the church
+in Cork. i transposed the nun in the Cork photo to scale onto the jandek
+photo. note the jandek church appears to be much larger than the one in
+the Cork photo.
+
+http://www.onyxmirr.org/scale.html
+
+~~~json
+
+
+-------------------------------------------------------------------- 
+Scope is a registered charity number 208231. 
+Visit our website at http://www.scope.org.uk 
+
+This message may contain confidential and/or privileged material. 
+If you are not the intended recipient of this message, or if you believe 
+ it was transmitted to you in error, you are required to delete the 
+ message and any copies of it, and to notify the sender  immediately. Any 
+unauthorised disclosure, copying, distribution, or printing of the 
+message or accompanying files, or unauthorised use of any information 
+contained therein, by anyone other than the intended recipient(s) is 
+prohibited and may be unlawful. 
+
+Any views expressed in this message or in any file(s) transmitted with 
+it are those of the author, and may not necessarily represent the views 
+of Scope.
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 18387 invoked by uid 1029); 17 Sep 2002 21:40:27 -0000
+Received: (qmail 18312 invoked from network); 17 Sep 2002 21:39:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 17 Sep 2002 21:39:53 -0000
+Received: from hotmail.com ([64.4.31.38] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 17 Sep 2002 16:36:11 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Tue, 17 Sep 2002 14:36:10 -0700
+Received: from 213.105.181.240 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Tue, 17 Sep 2002 21:36:10 GMT
+X-Originating-IP: [213.105.181.240]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: I Threw You Away
+Date: Tue, 17 Sep 2002 21:36:10 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F38luzIDPWEHhGDyjVA00016fd4@hotmail.com>
+X-OriginalArrivalTime: 17 Sep 2002 21:36:10.0992 (UTC) FILETIME=[3D815F00:01C25E92]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I've asked around, and a friend of mine reckons that the street is Roman 
+Street in the Shandon area of the city, and that the cathedral was "St. 
+Mary's Pro-Cathedral", the same one as Paul Frederick mentions. You can see 
+it on the map section here:
+
+http://www.corkcorp.ie/maps/19.html
+
+As regards dating the picture, the number plates of the cars supply a couple 
+of clues. Before 1987, Irish number plates featured a number (up to 4 
+digits) and a 3-letter area code. In 1987 a new system was introuced - the 
+year, one or 2 letters to denote the county, followed by a number. A car 
+registered in Cork this year would be listed as
+02-C-(number). Additionally, a blue EC tag was added in c.1992. Though the 
+plates aren't legible in the photo, they don't seem to feature the tag, and 
+seem to feature the older, shorter registrations (the new ones look more 
+cluttered). Old reg cars are very rare by now. So I'd guess that the pic was 
+taken in the late-80s or earlier.
+
+_________________________________________________________________
+Send and receive Hotmail on your mobile device: http://mobile.msn.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 22783 invoked by uid 1029); 17 Sep 2002 23:19:11 -0000
+Received: (qmail 22282 invoked from network); 17 Sep 2002 23:09:54 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 17 Sep 2002 23:09:54 -0000
+Received: from smtpout.mac.com ([204.179.120.97]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 17 Sep 2002 18:01:11 -0500
+Received: from smtp-relay04-en1.mac.com (smtp-relay04-en1 [10.13.10.223])
+	by smtpout.mac.com (Xserve/MantshX 2.0) with ESMTP id g8HN17Ar003485
+	for <jandek@cs.northwestern.edu>; Tue, 17 Sep 2002 16:01:07 -0700 (PDT)
+Received: from asmtp02.mac.com (asmtp02-qfe3.mac.com [10.13.10.66])
+	by smtp-relay04-en1.mac.com (8.12.1/8.12.1/1.0) with ESMTP id g8HN17Og021296
+	for <jandek@cs.northwestern.edu>; Tue, 17 Sep 2002 16:01:07 -0700 (PDT)
+Received: from [192.168.1.102] ([141.151.136.238]) by
+          asmtp02.mac.com (Netscape Messaging Server 4.15) with ESMTP id
+          H2LULU00.B4P for <jandek@cs.northwestern.edu>; Tue, 17 Sep 2002
+          16:01:06 -0700 
+Mime-Version: 1.0
+X-Sender: maurice@mail.mac.com
+Message-Id: <p0511171cb9ad643cfdd3@[192.168.1.102]>
+In-Reply-To: <F38luzIDPWEHhGDyjVA00016fd4@hotmail.com>
+References: <F38luzIDPWEHhGDyjVA00016fd4@hotmail.com>
+Date: Tue, 17 Sep 2002 19:01:02 -0400
+To: jandek@cs.northwestern.edu
+From: Maurice Rickard <maurice@mac.com>
+Subject: Re: I Threw You Away
+Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+X-OriginalArrivalTime: 17 Sep 2002 23:01:11.0436 (UTC) FILETIME=[1D9B5CC0:01C25E9E]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+At 9:36 PM +0000 9/17/02, Paul Condon wrote:
+>As regards dating the picture, the number plates of the cars supply 
+>a couple of clues....
+
+Y'know, *this* is why I love the 'net.  Everybody has bits of 
+information they can contribute to a massive group intelligence.
+-- 
+Maurice Rickard
+http://mauricerickard.com/
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 27954 invoked by uid 1029); 18 Sep 2002 01:25:42 -0000
+Received: (qmail 27520 invoked from network); 18 Sep 2002 01:12:55 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 18 Sep 2002 01:12:55 -0000
+Received: from imo-d10.mx.aol.com ([205.188.157.42]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 17 Sep 2002 20:07:28 -0500
+Received: from NCR13@aol.com
+	by imo-d10.mx.aol.com (mail_out_v34.11.) id l.fd.1df1b044 (1320)
+	 for <jandek@cs.northwestern.edu>; Tue, 17 Sep 2002 21:07:25 -0400 (EDT)
+From: NCR13@aol.com
+Message-ID: <fd.1df1b044.2ab92bcd@aol.com>
+Date: Tue, 17 Sep 2002 21:07:25 EDT
+Subject: Re: I Threw You Away
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+X-Mailer: AOL for Macintosh OS X US sub 20
+X-OriginalArrivalTime: 18 Sep 2002 01:07:28.0934 (UTC) FILETIME=[C225CC60:01C25EAF]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+Do you think the man just used that photo to see how fast his internet 
+fanbase could figure out the location? Hmm, maybe...
+
+In a message dated 9/17/02 7:19:30 PM, maurice@mac.com writes:
+
+<< At 9:36 PM +0000 9/17/02, Paul Condon wrote:
+>As regards dating the picture, the number plates of the cars supply 
+>a couple of clues....
+
+Y'know, *this* is why I love the 'net.  Everybody has bits of 
+information they can contribute to a massive group intelligence. >>
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 28030 invoked by uid 1029); 18 Sep 2002 01:25:44 -0000
+Received: (qmail 26673 invoked from network); 18 Sep 2002 00:48:56 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 18 Sep 2002 00:48:56 -0000
+Received: from web13303.mail.yahoo.com ([216.136.175.39]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 17 Sep 2002 19:41:55 -0500
+Message-ID: <20020918004155.98037.qmail@web13303.mail.yahoo.com>
+Received: from [204.126.199.89] by web13303.mail.yahoo.com via HTTP; Tue, 17 Sep 2002 17:41:55 PDT
+Date: Tue, 17 Sep 2002 17:41:55 -0700 (PDT)
+From: Bradley Be <bradleybee@yahoo.com>
+Subject: Re: My top five:
+To: jandek@cs.northwestern.edu
+In-Reply-To: <20020914143454.48727.qmail@web14809.mail.yahoo.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 18 Sep 2002 00:41:55.0803 (UTC) FILETIME=[305492B0:01C25EAC]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+--- Daniel Marks <alfredggnome@yahoo.com> wrote:
+What I want to know, is
+> what is everyone's top five songs? I'd be glad if we
+> all responded, so i could get a good idea of what
+> everybody likes.
+> My top five:
+> Down at the Ballpark
+> First You Think Your Fortune's Lovely
+> Rain in Madison
+> Lavender
+> She Fell Down
+> 
+> what does everyone else think?
+> 
+> D.M.
+
+It's tough to narrow it down to just 5 :)
+
+1. Down in a Mirror
+2. Governor Rhodes 
+3. Didn't Ask Why
+4. When the Telephone Melts 
+5. I'll Sit Alone and Think a Lot About You
+
+
+=====
+http://www.geocities.com/bradleybee
+
+__________________________________________________
+Do you Yahoo!?
+Yahoo! News - Today's headlines
+http://news.yahoo.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 31271 invoked by uid 1029); 18 Sep 2002 02:45:03 -0000
+Received: (qmail 31190 invoked from network); 18 Sep 2002 02:43:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 18 Sep 2002 02:43:53 -0000
+Received: from web14810.mail.yahoo.com ([216.136.224.231]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 17 Sep 2002 21:43:24 -0500
+Message-ID: <20020918024324.8831.qmail@web14810.mail.yahoo.com>
+Received: from [141.149.188.22] by web14810.mail.yahoo.com via HTTP; Tue, 17 Sep 2002 19:43:24 PDT
+Date: Tue, 17 Sep 2002 19:43:24 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: I Threw You Away
+To: jandek@cs.northwestern.edu
+In-Reply-To: <fd.1df1b044.2ab92bcd@aol.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 18 Sep 2002 02:43:24.0850 (UTC) FILETIME=[28F0E120:01C25EBD]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I'm sure he's aware of this list and of course of
+seth's site. he may have joined it, and just never
+says anything, although that's unlikely. only Jandek
+would join his own fan club, heh heh heh. 
+
+I forgot to mention message to the clerk as one of my
+favourite songs. it's great. 
+
+The thing i like best about the middle period
+(1988-1992) is that he applies corwoodian musical
+"theory" to standard music, creating a product that is
+more accessible but that doesn't sacrifice any of the
+"method" to achieve that accesibility. they are the
+only albums in his catalouge where each song is truely
+unique, not just a varitation with different words.
+The first five albums are like this, and although
+there are two or three gems for each of them, they
+tend to be a bit more unionteresting than the middle
+stuff. 
+
+As for the late period, the variation is slighly
+better, but still pretty dull, expecially on albums
+like white box and New town. Glad to get away and the
+beginning are the standouts of these albums, featuring
+more varition in theme and style than the earlier
+records, but less than in the middles, which seems to
+be what he is going for. the beginning, is one of his
+best instrumentals, up there with the electric end and
+lavender.
+
+for those who have heard On the Way, is it similar to
+YWA, being the follow up? also, is its version of
+message to the clerk better than the Rocks Crumble
+Version?
+
+"I'm not writing an email on the science of jandek"
+"Dont gimme that jive!"
+D.M.
+> 
+> Do you think the man just used that photo to see how
+> fast his internet 
+> fanbase could figure out the location? Hmm, maybe...
+> 
+> In a message dated 9/17/02 7:19:30 PM,
+> maurice@mac.com writes:
+> 
+> << At 9:36 PM +0000 9/17/02, Paul Condon wrote:
+> >As regards dating the picture, the number plates of
+> the cars supply 
+> >a couple of clues....
+> 
+> Y'know, *this* is why I love the 'net.  Everybody
+> has bits of 
+> information they can contribute to a massive group
+> intelligence. >>
+
+
+__________________________________________________
+Do you Yahoo!?
+Yahoo! News - Today's headlines
+http://news.yahoo.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 2623 invoked by uid 1029); 18 Sep 2002 04:17:20 -0000
+Received: (qmail 2453 invoked from network); 18 Sep 2002 04:13:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 18 Sep 2002 04:13:53 -0000
+Received: from imo-r08.mx.aol.com ([152.163.225.104]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 17 Sep 2002 23:12:37 -0500
+Received: from NCR13@aol.com
+	by imo-r08.mx.aol.com (mail_out_v34.10.) id l.19c.8dc660c (25305)
+	 for <jandek@cs.northwestern.edu>; Wed, 18 Sep 2002 00:12:34 -0400 (EDT)
+From: NCR13@aol.com
+Message-ID: <19c.8dc660c.2ab95732@aol.com>
+Date: Wed, 18 Sep 2002 00:12:34 EDT
+Subject: Re: I Threw You Away
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+X-Mailer: AOL for Macintosh OS X US sub 20
+X-OriginalArrivalTime: 18 Sep 2002 04:12:39.0144 (UTC) FILETIME=[A0594E80:01C25EC9]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+In a message dated 9/17/02 10:45:27 PM, alfredggnome@yahoo.com writes:
+
+<< for those who have heard On the Way, is it similar to
+YWA, being the follow up? also, is its version of
+message to the clerk better than the Rocks Crumble
+Version? >>
+
+One side YWA, one side Blue Corpse...really one of the top 5 albums. 
+Personally I find that every "remake" Jandek did was better than the 
+original, though there's probably an exception I'm not thinking of.
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 21675 invoked by uid 1029); 18 Sep 2002 13:31:23 -0000
+Received: (qmail 20274 invoked from network); 18 Sep 2002 12:47:52 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 18 Sep 2002 12:47:52 -0000
+Received: from liberty.francomm.com ([208.9.129.10] RDNS failed) by mail1.cs.northwestern.edu over TLS secured channel with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 18 Sep 2002 07:40:26 -0500
+Received: from francomm.com (max48b-208.9.129.150 [208.9.129.150] (may be forged))
+	by liberty.francomm.com (8.12.3/8.12.3/Debian -4) with ESMTP id g8IDqkCE000928
+	for <jandek@cs.northwestern.edu>; Wed, 18 Sep 2002 08:52:47 -0500
+Message-ID: <3D88739A.ED960A3B@francomm.com>
+Date: Wed, 18 Sep 2002 08:37:46 -0400
+From: nevermor@francomm.com
+X-Mailer: Mozilla 4.79 [en] (Win98; U)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: "jandek@cs.northwestern.edu" <jandek@cs.northwestern.edu>
+Subject: Jandek top 5
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-OriginalArrivalTime: 18 Sep 2002 12:40:26.0511 (UTC) FILETIME=[905091F0:01C25F10]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Daniel Marks wrote:
+
+  >What I want to know, is
+  >what is everyone's top five songs?
+
+I would guess that my top 5 are:
+
+I Know You Well
+CF
+Naked In The Afternoon
+Variant
+Upon The Grandeur
+
+that's just at the time being though...
+
+
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 23170 invoked by uid 1029); 18 Sep 2002 13:59:52 -0000
+Received: (qmail 22991 invoked from network); 18 Sep 2002 13:56:51 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 18 Sep 2002 13:56:51 -0000
+Received: from web40603.mail.yahoo.com ([66.218.78.140]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 18 Sep 2002 08:24:27 -0500
+Message-ID: <20020918132427.19347.qmail@web40603.mail.yahoo.com>
+Received: from [205.188.208.104] by web40603.mail.yahoo.com via HTTP; Wed, 18 Sep 2002 06:24:27 PDT
+Date: Wed, 18 Sep 2002 06:24:27 -0700 (PDT)
+From: Michael Brooker <hirakemike@yahoo.com>
+Subject: Re: My top five:
+To: jandek@cs.northwestern.edu
+In-Reply-To: <20020918004155.98037.qmail@web13303.mail.yahoo.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 18 Sep 2002 13:24:27.0900 (UTC) FILETIME=[B6B48BC0:01C25F16]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Top Five:
+
+1-Ballad of Robert
+2-The Electric End
+3-Message to the Clerk
+4-Out in the Rain
+5-Nancy Sings
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Finance - Get real-time stock quotes
+http://finance.yahoo.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 24314 invoked by uid 1029); 18 Sep 2002 14:13:01 -0000
+Received: (qmail 24063 invoked from network); 18 Sep 2002 14:08:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 18 Sep 2002 14:08:53 -0000
+Received: from hotmail.com ([216.33.237.37] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 18 Sep 2002 09:03:08 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 18 Sep 2002 07:03:08 -0700
+Received: from 64.230.198.75 by lw7fd.law7.hotmail.msn.com with HTTP;
+	Wed, 18 Sep 2002 14:03:07 GMT
+X-Originating-IP: [64.230.198.75]
+From: "Darin Mitchell" <susseddm@hotmail.com>
+To: alfredggnome@yahoo.com, jandek@cs.northwestern.edu
+Subject: Re: I Threw You Away
+Date: Wed, 18 Sep 2002 14:03:07 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F37w5V6QcqnWwAeRaNg00000163@hotmail.com>
+X-OriginalArrivalTime: 18 Sep 2002 14:03:08.0076 (UTC) FILETIME=[1DA34EC0:01C25F1C]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+>As for the late period, the variation is slighly better, but still pretty 
+>dull, expecially on albums like white box and New town.
+
+Sterling once said that White Box was his favourite album. He also said he 
+loved the imagery on that album.
+
+M.
+
+_________________________________________________________________
+Join the world’s largest e-mail service with MSN Hotmail. 
+http://www.hotmail.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 7700 invoked by uid 1029); 21 Sep 2002 00:05:32 -0000
+Received: (qmail 6482 invoked from network); 20 Sep 2002 23:29:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 20 Sep 2002 23:29:53 -0000
+Received: from flamingo.mail.pas.earthlink.net ([207.217.120.232]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 20 Sep 2002 18:29:41 -0500
+Received: from dialup-65.59.40.202.dial1.detroit1.level3.net ([65.59.40.202] helo=earthlink.net)
+	by flamingo.mail.pas.earthlink.net with esmtp (Exim 3.33 #1)
+	id 17sXDN-0000Hj-00
+	for jandek@cs.northwestern.edu; Fri, 20 Sep 2002 16:29:37 -0700
+Message-ID: <3D8B7965.C975FE85@earthlink.net>
+Date: Fri, 20 Sep 2002 19:39:19 +0000
+From: Keeli McCarthy <circusmonkey@earthlink.net>
+X-Mailer: Mozilla 4.7 (Macintosh; I; PPC)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: jandek@cs.northwestern.edu
+Subject: studio 360
+Content-Type: text/plain; charset=us-ascii; x-mac-type="54455854"; x-mac-creator="4D4F5353"
+Content-Transfer-Encoding: 7bit
+X-OriginalArrivalTime: 20 Sep 2002 23:29:41.0281 (UTC) FILETIME=[97FE4110:01C260FD]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+could someone inform which record the closing song from the studio 360
+radio spot on jandek comes from?
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 32738 invoked by uid 1029); 21 Sep 2002 13:36:30 -0000
+Received: (qmail 32664 invoked from network); 21 Sep 2002 13:34:08 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 21 Sep 2002 13:34:08 -0000
+Received: from web14806.mail.yahoo.com ([216.136.224.222]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 21 Sep 2002 08:24:47 -0500
+Message-ID: <20020921132446.40428.qmail@web14806.mail.yahoo.com>
+Received: from [141.149.185.132] by web14806.mail.yahoo.com via HTTP; Sat, 21 Sep 2002 06:24:46 PDT
+Date: Sat, 21 Sep 2002 06:24:46 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: studio 360
+To: jandek@cs.northwestern.edu
+In-Reply-To: <3D8B7965.C975FE85@earthlink.net>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 21 Sep 2002 13:24:47.0500 (UTC) FILETIME=[41A084C0:01C26172]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+--- Keeli McCarthy <circusmonkey@earthlink.net> wrote:
+> could someone inform which record the closing song
+> from the studio 360
+> radio spot on jandek comes from?
+
+they have the playlist from the show elsewhere on the
+website, but i'm pretty sure it's Jessica from Later
+On
+there are also a few pieces from the tribute on the
+site...
+
+I've finally put together the money for three more
+corwood CDs. I am definatly getting You Walk Alone,
+and i think i'll get I Threw You Away and i'm not sure
+about the other one... what does the list think? What
+other records are standouts aside from BC and
+Interstellar Discussion?
+
+D.M.
+
+__________________________________________________
+Do you Yahoo!?
+New DSL Internet Access from SBC & Yahoo!
+http://sbc.yahoo.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 2102 invoked by uid 1029); 21 Sep 2002 14:15:06 -0000
+Received: (qmail 2004 invoked from network); 21 Sep 2002 14:12:09 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 21 Sep 2002 14:12:09 -0000
+Received: from blueyonder.co.uk ([195.188.53.122] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 21 Sep 2002 09:11:00 -0500
+Received: from pcow034o.blueyonder.co.uk ([127.0.0.1]) by blueyonder.co.uk  with Microsoft SMTPSVC(5.5.1877.757.75);
+	 Sat, 21 Sep 2002 15:10:59 +0100
+Received: from nyro (unverified [80.195.54.31]) by pcow034o.blueyonder.co.uk
+ (Content Technologies SMTPRS 4.2.9) with SMTP id <T5d796bb13fac1785ec15d@pcow034o.blueyonder.co.uk> for <jandek@cs.northwestern.edu>;
+ Sat, 21 Sep 2002 15:10:59 +0100
+Message-ID: <006e01c26178$b5c3c0f0$1f36c350@nyro>
+Reply-To: "Jamie Morrison" <amsc05826@blueyonder.co.uk>
+From: "Jamie Morrison" <amsc05826@blueyonder.co.uk>
+To: "jandek" <jandek@cs.northwestern.edu>
+Subject: My 5 Fave Jandek Tracks
+Date: Sat, 21 Sep 2002 15:10:48 +0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-OriginalArrivalTime: 21 Sep 2002 14:11:00.0828 (UTC) FILETIME=[B6A8C9C0:01C26178]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+1. The Cat That Walked From Shelbyville
+2. Nancy Sings
+3. I Know You Well
+4. House Up On the Hill
+5. Your Other Man
+
+Love Jamie
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 29545 invoked by uid 1029); 22 Sep 2002 22:38:02 -0000
+Received: (qmail 25907 invoked from network); 22 Sep 2002 20:27:35 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 22 Sep 2002 20:27:35 -0000
+Received: from web12001.mail.yahoo.com ([216.136.172.207]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 22 Sep 2002 15:21:24 -0500
+Message-ID: <20020922202120.55444.qmail@web12001.mail.yahoo.com>
+Received: from [24.54.36.83] by web12001.mail.yahoo.com via HTTP; Sun, 22 Sep 2002 13:21:20 PDT
+Date: Sun, 22 Sep 2002 13:21:20 -0700 (PDT)
+From: Jason Cooley <jasonx12@yahoo.com>
+Subject: Re: My 5 Fave Jandek Tracks
+To: jandek <jandek@cs.northwestern.edu>
+In-Reply-To: <006e01c26178$b5c3c0f0$1f36c350@nyro>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 22 Sep 2002 20:21:24.0703 (UTC) FILETIME=[9F88BEF0:01C26275]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+1. The Cat That Walked from Shelbyville
+2. You Painted Your Teeth
+3. Lavender
+4. You
+5. The Electric End
+
+Janky should put together a best of...it'd be
+interesting to see what his choices would be. 
+Although bands usually put out bestofs when they've
+run out of ideas.
+
+__________________________________________________
+Do you Yahoo!?
+New DSL Internet Access from SBC & Yahoo!
+http://sbc.yahoo.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 29947 invoked by uid 1029); 22 Sep 2002 22:39:00 -0000
+Received: (qmail 26983 invoked from network); 22 Sep 2002 21:05:37 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 22 Sep 2002 21:05:37 -0000
+Received: from hotmail.com ([64.4.31.62] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 22 Sep 2002 16:04:40 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 22 Sep 2002 14:04:40 -0700
+Received: from 213.105.181.240 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Sun, 22 Sep 2002 21:04:39 GMT
+X-Originating-IP: [213.105.181.240]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: full-page review in the Wire
+Date: Sun, 22 Sep 2002 21:04:39 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F62AfwWQAfNOxgNt9ud000033ac@hotmail.com>
+X-OriginalArrivalTime: 22 Sep 2002 21:04:40.0041 (UTC) FILETIME=[AA79E590:01C2627B]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+The October issue of the Wire (Suicide on the cover) features a full-page 
+review of Follow Your Footsteps, Modern Dances, Blue Corpse, You Walk Alone 
+and Worthless Recluse (!) by Byron Coley. It's illustrated with 4 of the 
+Summersteps photos. Unsuprisingly, very positive reviews of the reissues, 
+and a fairly balanced one of Recluse, mentioning that it divides fans and 
+isn't a good point to start, and compareing it to Beefheart's "Well" and 
+recordings of a drunken Jack Kerouac. Coley recommends purchasing the albums 
+even for those who aren't actually into the music as such, as a kind of 
+objet d'art dealie... I reckon this'll create significant interest as there 
+must be loads of potential Jandek fans who read the Wire but haven't heard 
+of him, especially in this end of Europe where the college radio thing is 
+pretty non-existant.
+
+_________________________________________________________________
+Chat with friends online, try MSN Messenger: http://messenger.msn.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 31576 invoked by uid 1029); 22 Sep 2002 23:23:25 -0000
+Received: (qmail 31433 invoked from network); 22 Sep 2002 23:18:41 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 22 Sep 2002 23:18:41 -0000
+Received: from blueyonder.co.uk ([195.188.53.121] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 22 Sep 2002 18:15:38 -0500
+Received: from pcow035o.blueyonder.co.uk ([127.0.0.1]) by blueyonder.co.uk  with Microsoft SMTPSVC(5.5.1877.757.75);
+	 Mon, 23 Sep 2002 00:15:31 +0100
+Received: from nyro (unverified [80.195.54.201]) by pcow035o.blueyonder.co.uk
+ (Content Technologies SMTPRS 4.2.9) with SMTP id <T5d80849598ac1785ed16d@pcow035o.blueyonder.co.uk> for <jandek@cs.northwestern.edu>;
+ Mon, 23 Sep 2002 00:15:31 +0100
+Message-ID: <00d901c2628d$f2d5bdc0$c936c350@nyro>
+Reply-To: "Jamie Morrison" <amsc05826@blueyonder.co.uk>
+From: "Jamie Morrison" <amsc05826@blueyonder.co.uk>
+To: "jandek" <jandek@cs.northwestern.edu>
+References: <20020922202120.55444.qmail@web12001.mail.yahoo.com>
+Subject: Re: Jandek Best-of
+Date: Mon, 23 Sep 2002 00:15:32 +0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-OriginalArrivalTime: 22 Sep 2002 23:15:38.0265 (UTC) FILETIME=[F657B890:01C2628D]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+> 1. The Cat That Walked from Shelbyville
+> 2. You Painted Your Teeth
+> 3. Lavender
+> 4. You
+> 5. The Electric End
+>
+> Janky should put together a best of...it'd be
+> interesting to see what his choices would be.
+> Although bands usually put out bestofs when they've
+> run out of ideas.
+
+Maybe one track from each album? Or would that be slight overkill? :)
+
+How about we devise our own (chronological?) 'best of's?
+
+Here's my (hastily assembled) attempt:
+
+1. Naked in the Afternoon
+2. Point Judith
+3. Jessica
+4. Nancy Sings
+5. Liquids Flow to the Sea
+6. You Painted Your Teeth
+7. I Know You Well
+8. Carnival Queen
+9. House of the Rising Sun
+10. I Passed by the Building
+11. Quinn Boys II
+12. The Cat That Walked From Shelbyville
+13. Message to the Clerk
+14. License to Kill
+15. Come Through With a Smile
+16. Babe I Love You
+17. Walking
+18. Janky
+19. New Town
+20. Killer Cats in the Caribbean
+
+I think that's crap. Oh well. Could anyoneelse do better?
+
+Love Jamie
+
+Maybe a good Jandek mix? :) (methinks that would be a bit *too* much Jandek
+to take in one sitting)
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 21423 invoked by uid 1029); 24 Sep 2002 14:15:44 -0000
+Received: (qmail 350 invoked from network); 24 Sep 2002 03:47:31 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 24 Sep 2002 03:47:31 -0000
+Received: from hotmail.com ([64.4.18.201] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 23 Sep 2002 22:39:41 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 23 Sep 2002 20:39:40 -0700
+X-Originating-IP: [4.60.185.106]
+From: "Paul Frederick" <sandman_142@hotmail.com>
+To: <jandek@cs.northwestern.edu>
+Subject: New Jandek on soulseek...
+Date: Mon, 23 Sep 2002 20:58:38 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0011_01C26343.FD641AF0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4807.1700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4910.0300
+Message-ID: <OE66PywZydWrXQ7etFk00002c38@hotmail.com>
+X-OriginalArrivalTime: 24 Sep 2002 03:39:40.0923 (UTC) FILETIME=[03B73CB0:01C2637C]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0011_01C26343.FD641AF0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+I've put "i threw you away" on soulseek (www.slsk.org) ...  If anyone =
+would like to listen...
+
+As always, if your financial/geographic situation permits it... there is =
+no excuse for not buying the album.
+
+I make it available only to sate the curiosities of those who have not =
+yet heard it... not as a substitute for buying the album.
+
+I like it very much... what do others think of it so far?
+
+Paul
+
+------=_NextPart_000_0011_01C26343.FD641AF0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META content=3D"MSHTML 5.00.3502.5390" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>I've put "i threw you away" on soulseek =
+(<A=20
+href=3D"http://www.slsk.org">www.slsk.org</A>) ...&nbsp; If anyone would =
+like to=20
+listen...<BR><BR>As always, if your financial/geographic situation =
+permits it...=20
+there is no excuse for not buying the album.<BR><BR>I make it available =
+only to=20
+sate the curiosities of those who have not yet heard it... not as a =
+substitute=20
+for buying the album.<BR><BR>I like it very much... what do others think =
+of it=20
+so far?<BR><BR>Paul</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0011_01C26343.FD641AF0--
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 23604 invoked by uid 1029); 24 Sep 2002 14:48:21 -0000
+Received: (qmail 23505 invoked from network); 24 Sep 2002 14:46:30 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 24 Sep 2002 14:46:30 -0000
+Received: from mail02.ljextra.com ([208.3.165.71] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 24 Sep 2002 09:43:44 -0500
+Received: by ALM-MAIL-1 with Internet Mail Service (5.5.2653.19)
+	id <R7W6KR5R>; Tue, 24 Sep 2002 10:43:44 -0400
+Message-ID: <988631CF8A1FD511B5B40008C7F36CCD026D9DD5@ALM-MAIL-1>
+From: Tim Kelly <tkelly@amlaw.com>
+To: 'Paul Condon' <paulgcondon@hotmail.com>, jandek@cs.northwestern.edu
+Subject: RE: full-page review in the Wire
+Date: Tue, 24 Sep 2002 10:43:42 -0400
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C263D8.C74C5730"
+X-OriginalArrivalTime: 24 Sep 2002 14:43:44.0804 (UTC) FILETIME=[C884FE40:01C263D8]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+------_=_NextPart_001_01C263D8.C74C5730
+Content-Type: text/plain;
+	charset="iso-8859-1"
+
+Is this Wire publication available in the United States of America?
+Sincerely,
+Tim Kelly
+
+> -----Original Message-----
+> From: Paul Condon [mailto:paulgcondon@hotmail.com]
+> Sent: Sunday, September 22, 2002 5:05 PM
+> To: jandek@cs.northwestern.edu
+> Subject: full-page review in the Wire
+> 
+> 
+> 
+> The October issue of the Wire (Suicide on the cover) features 
+> a full-page 
+> review of Follow Your Footsteps, Modern Dances, Blue Corpse, 
+> You Walk Alone 
+> and Worthless Recluse (!) by Byron Coley. It's illustrated 
+> with 4 of the 
+> Summersteps photos. Unsuprisingly, very positive reviews of 
+> the reissues, 
+> and a fairly balanced one of Recluse, mentioning that it 
+> divides fans and 
+> isn't a good point to start, and compareing it to Beefheart's 
+> "Well" and 
+> recordings of a drunken Jack Kerouac. Coley recommends 
+> purchasing the albums 
+> even for those who aren't actually into the music as such, as 
+> a kind of 
+> objet d'art dealie... I reckon this'll create significant 
+> interest as there 
+> must be loads of potential Jandek fans who read the Wire but 
+> haven't heard 
+> of him, especially in this end of Europe where the college 
+> radio thing is 
+> pretty non-existant.
+> 
+> _________________________________________________________________
+> Chat with friends online, try MSN Messenger: http://messenger.msn.com
+> 
+
+------_=_NextPart_001_01C263D8.C74C5730
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Diso-8859-1">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+5.5.2653.12">
+<TITLE>RE: full-page review in the Wire</TITLE>
+</HEAD>
+<BODY>
+
+<P><FONT SIZE=3D2>Is this Wire publication available in the United =
+States of America?</FONT>
+<BR><FONT SIZE=3D2>Sincerely,</FONT>
+<BR><FONT SIZE=3D2>Tim Kelly</FONT>
+</P>
+
+<P><FONT SIZE=3D2>&gt; -----Original Message-----</FONT>
+<BR><FONT SIZE=3D2>&gt; From: Paul Condon [<A =
+HREF=3D"mailto:paulgcondon@hotmail.com">mailto:paulgcondon@hotmail.com</=
+A>]</FONT>
+<BR><FONT SIZE=3D2>&gt; Sent: Sunday, September 22, 2002 5:05 PM</FONT>
+<BR><FONT SIZE=3D2>&gt; To: jandek@cs.northwestern.edu</FONT>
+<BR><FONT SIZE=3D2>&gt; Subject: full-page review in the Wire</FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; The October issue of the Wire (Suicide on the =
+cover) features </FONT>
+<BR><FONT SIZE=3D2>&gt; a full-page </FONT>
+<BR><FONT SIZE=3D2>&gt; review of Follow Your Footsteps, Modern Dances, =
+Blue Corpse, </FONT>
+<BR><FONT SIZE=3D2>&gt; You Walk Alone </FONT>
+<BR><FONT SIZE=3D2>&gt; and Worthless Recluse (!) by Byron Coley. It's =
+illustrated </FONT>
+<BR><FONT SIZE=3D2>&gt; with 4 of the </FONT>
+<BR><FONT SIZE=3D2>&gt; Summersteps photos. Unsuprisingly, very =
+positive reviews of </FONT>
+<BR><FONT SIZE=3D2>&gt; the reissues, </FONT>
+<BR><FONT SIZE=3D2>&gt; and a fairly balanced one of Recluse, =
+mentioning that it </FONT>
+<BR><FONT SIZE=3D2>&gt; divides fans and </FONT>
+<BR><FONT SIZE=3D2>&gt; isn't a good point to start, and compareing it =
+to Beefheart's </FONT>
+<BR><FONT SIZE=3D2>&gt; &quot;Well&quot; and </FONT>
+<BR><FONT SIZE=3D2>&gt; recordings of a drunken Jack Kerouac. Coley =
+recommends </FONT>
+<BR><FONT SIZE=3D2>&gt; purchasing the albums </FONT>
+<BR><FONT SIZE=3D2>&gt; even for those who aren't actually into the =
+music as such, as </FONT>
+<BR><FONT SIZE=3D2>&gt; a kind of </FONT>
+<BR><FONT SIZE=3D2>&gt; objet d'art dealie... I reckon this'll create =
+significant </FONT>
+<BR><FONT SIZE=3D2>&gt; interest as there </FONT>
+<BR><FONT SIZE=3D2>&gt; must be loads of potential Jandek fans who read =
+the Wire but </FONT>
+<BR><FONT SIZE=3D2>&gt; haven't heard </FONT>
+<BR><FONT SIZE=3D2>&gt; of him, especially in this end of Europe where =
+the college </FONT>
+<BR><FONT SIZE=3D2>&gt; radio thing is </FONT>
+<BR><FONT SIZE=3D2>&gt; pretty non-existant.</FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+<BR><FONT SIZE=3D2>&gt; =
+_________________________________________________________________</FONT>=
+
+<BR><FONT SIZE=3D2>&gt; Chat with friends online, try MSN Messenger: <A =
+HREF=3D"http://messenger.msn.com" =
+TARGET=3D"_blank">http://messenger.msn.com</A></FONT>
+<BR><FONT SIZE=3D2>&gt; </FONT>
+</P>
+
+</BODY>
+</HTML>
+------_=_NextPart_001_01C263D8.C74C5730--
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 25168 invoked by uid 1029); 24 Sep 2002 15:11:10 -0000
+Received: (qmail 25089 invoked from network); 24 Sep 2002 15:10:29 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 24 Sep 2002 15:10:29 -0000
+Received: from smtpout.mac.com ([204.179.120.85]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 24 Sep 2002 10:00:46 -0500
+Received: from smtp-relay03.mac.com (smtp-relay03-en1 [10.13.10.222])
+	by smtpout.mac.com (Xserve/MantshX 2.0) with ESMTP id g8OF0dOr010530
+	for <jandek@cs.northwestern.edu>; Tue, 24 Sep 2002 08:00:39 -0700 (PDT)
+Received: from asmtp01.mac.com (asmtp01-qfe3 [10.13.10.65])
+	by smtp-relay03.mac.com (8.12.1/8.12.1/1.0) with ESMTP id g8OF0cKN016613
+	for <jandek@cs.northwestern.edu>; Tue, 24 Sep 2002 08:00:38 -0700 (PDT)
+Received: from [192.168.1.102] ([141.151.136.238]) by
+          asmtp01.mac.com (Netscape Messaging Server 4.15) with ESMTP id
+          H2Y71200.BUL for <jandek@cs.northwestern.edu>; Tue, 24 Sep 2002
+          08:00:38 -0700 
+Mime-Version: 1.0
+X-Sender: maurice@mail.mac.com
+Message-Id: <p05111701b9b62e444190@[192.168.1.102]>
+In-Reply-To: <988631CF8A1FD511B5B40008C7F36CCD026D9DD5@ALM-MAIL-1>
+References: <988631CF8A1FD511B5B40008C7F36CCD026D9DD5@ALM-MAIL-1>
+Date: Tue, 24 Sep 2002 11:00:34 -0400
+To: jandek@cs.northwestern.edu
+From: Maurice Rickard <maurice@mac.com>
+Subject: RE: full-page review in the Wire
+Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+X-OriginalArrivalTime: 24 Sep 2002 15:00:46.0898 (UTC) FILETIME=[29BC2920:01C263DB]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Yup.  Not necessarily easy to find depending on where you are, but 
+I've seen it in places ranging from your local indie CD shop (the 
+kind of place that actually stocks Janky's ouvre) to Barnes and Noble 
+(which, of course, doesn't stock the man's ouvre, but does stock the 
+Wire).
+
+-M
+
+At 10:43 AM -0400 9/24/02, Tim Kelly wrote:
+Is this Wire publication available in the United States of America?
+Sincerely,
+Tim Kelly
+
+-- 
+Maurice Rickard
+http://mauricerickard.com/
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 25874 invoked by uid 1029); 24 Sep 2002 15:20:05 -0000
+Received: (qmail 25586 invoked from network); 24 Sep 2002 15:12:30 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 24 Sep 2002 15:12:30 -0000
+Received: from web12807.mail.yahoo.com ([216.136.174.42]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 24 Sep 2002 10:12:16 -0500
+Message-ID: <20020924151208.58473.qmail@web12807.mail.yahoo.com>
+Received: from [24.148.51.177] by web12807.mail.yahoo.com via HTTP; Tue, 24 Sep 2002 08:12:08 PDT
+Date: Tue, 24 Sep 2002 08:12:08 -0700 (PDT)
+From: Alex Carlson <akcarlson@yahoo.com>
+Subject: RE: full-page review in the Wire
+To: jandek@cs.northwestern.edu
+In-Reply-To: <988631CF8A1FD511B5B40008C7F36CCD026D9DD5@ALM-MAIL-1>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 24 Sep 2002 15:12:16.0585 (UTC) FILETIME=[C4D20B90:01C263DC]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Yes.  It's available at finer record shops and bookstores everywhere,
+although it costs about $7 in the States.
+
+
+> Is this Wire publication available in the United States of America?
+> Sincerely,
+> Tim Kelly
+> 
+
+
+__________________________________________________
+Do you Yahoo!?
+New DSL Internet Access from SBC & Yahoo!
+http://sbc.yahoo.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 32336 invoked by uid 1029); 24 Sep 2002 17:45:58 -0000
+Received: (qmail 31061 invoked from network); 24 Sep 2002 17:10:30 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 24 Sep 2002 17:10:30 -0000
+Received: from liberty.francomm.com ([208.9.129.10] RDNS failed) by mail1.cs.northwestern.edu over TLS secured channel with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 24 Sep 2002 12:10:15 -0500
+Received: from francomm.com (max48a-208.9.129.93 [208.9.129.93] (may be forged))
+	by liberty.francomm.com (8.12.3/8.12.3/Debian -4) with ESMTP id g8OIOICE018666
+	for <jandek@cs.northwestern.edu>; Tue, 24 Sep 2002 13:24:19 -0500
+Message-ID: <3D909BCB.61C50931@francomm.com>
+Date: Tue, 24 Sep 2002 13:07:23 -0400
+From: nevermor@francomm.com
+X-Mailer: Mozilla 4.79 [en] (Win98; U)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: jandek <jandek@cs.northwestern.edu>
+Subject: Re: Jandek Best-of
+References: <20020922202120.55444.qmail@web12001.mail.yahoo.com> <00d901c2628d$f2d5bdc0$c936c350@nyro>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-OriginalArrivalTime: 24 Sep 2002 17:10:16.0304 (UTC) FILETIME=[40A96F00:01C263ED]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I had composed my own "Greatest hits" not too long ago. Cronilogical order.
+Because it was easier, I (mostly) only used songs that are available on Jandek
+cds.
+
+1. Naked In The Afternoon
+2. Nancy Sings
+3. She Fell Down
+4. Mothers Day Card
+5. Didn't Ask Why
+6. I KNow YOu Well
+7. I Passed By The Building
+8. CF
+9. Variant
+10. Part II
+11. YOur Other Man
+12. Long Way
+13. The Way That You Act
+14. Crack A Smile
+15. Upon The Granduer
+16. Babe I Love You
+17. Plenty
+18. I Knew About Them
+19. The Clothes
+20. You Won't Get Up
+
+
+Jamie Morrison wrote:
+
+> Here's my (hastily assembled) attempt:
+>
+> 1. Naked in the Afternoon
+> 2. Point Judith
+> 3. Jessica
+> 4. Nancy Sings
+> 5. Liquids Flow to the Sea
+> 6. You Painted Your Teeth
+> 7. I Know You Well
+> 8. Carnival Queen
+> 9. House of the Rising Sun
+> 10. I Passed by the Building
+> 11. Quinn Boys II
+> 12. The Cat That Walked From Shelbyville
+> 13. Message to the Clerk
+> 14. License to Kill
+> 15. Come Through With a Smile
+> 16. Babe I Love You
+> 17. Walking
+> 18. Janky
+> 19. New Town
+> 20. Killer Cats in the Caribbean
+>
+> I think that's crap. Oh well. Could anyoneelse do better?
+>
+> Love Jamie
+>
+> Maybe a good Jandek mix? :) (methinks that would be a bit *too* much Jandek
+> to take in one sitting)
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 12149 invoked by uid 1029); 24 Sep 2002 21:32:35 -0000
+Received: (qmail 11802 invoked from network); 24 Sep 2002 21:24:29 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 24 Sep 2002 21:24:29 -0000
+Received: from holt.mail.atl.earthlink.net ([207.69.200.187]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 24 Sep 2002 16:24:10 -0500
+Received: from smui08.slb.mindspring.net ([199.174.114.50])
+	by holt.mail.atl.earthlink.net with esmtp (Exim 3.33 #1)
+	id 17tx9b-0002Mw-00
+	for jandek@cs.northwestern.edu; Tue, 24 Sep 2002 17:23:35 -0400
+Received: by smui08.slb.mindspring.net id RAA0000000466; Tue, 24 Sep 2002 17:23:35 -0400 (EDT)
+Date: Tue, 24 Sep 2002 17:23:34 -0400
+From: "Tom Meadows" <indianfood@mindspring.com>
+To: jandek@cs.northwestern.edu
+Reply-To: indianfood@mindspring.com
+Subject: Jandek in Wire
+Message-ID: <Springmail.0994.1032902614.0.97052500@webmail.atl.earthlink.net>
+X-Originating-IP: 12.29.34.2
+X-OriginalArrivalTime: 24 Sep 2002 21:24:23.0773 (UTC) FILETIME=[C0DC90D0:01C26410]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Just an FYI: there's a nice little article/review in the latest Wire by Byron
+Coley. He's the writer that piqued my interest in Jandek over a decade ago in
+the pages of Forced Exposure.
+
+-Tom
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 7869 invoked by uid 1029); 25 Sep 2002 21:23:19 -0000
+Received: (qmail 7786 invoked from network); 25 Sep 2002 21:22:27 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 25 Sep 2002 21:22:27 -0000
+Received: from hotmail.com ([64.4.31.111] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 25 Sep 2002 16:22:06 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 25 Sep 2002 14:22:05 -0700
+Received: from 213.105.181.240 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Wed, 25 Sep 2002 21:22:05 GMT
+X-Originating-IP: [213.105.181.240]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: excerpt on WMFU
+Date: Wed, 25 Sep 2002 21:22:05 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F111qr3FhhGSdUsjCyl0000ac55@hotmail.com>
+X-OriginalArrivalTime: 25 Sep 2002 21:22:05.0584 (UTC) FILETIME=[98E85900:01C264D9]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+If, like me, you get totally confused by Soulseek, there's about 3 1/2 
+minutes of the title track of "I Threw You Away" on a WFMU show on RealAudio 
+here - you'll have to forward to about 2.47.
+http://www.wfmu.org/playlists/shows/5029
+
+Seth's description of a cross between Six and Six and Blue Corpse makes 
+sense to me now - sparse and slow with howlin' at the moon, moanin' at 
+midnight vocals. Apparently a return to the one-handed guitar style too. 
+This being Jandek, I'm assuming this is fairly representative of the whole 
+album - is this the case?
+
+_________________________________________________________________
+MSN Photos is the easiest way to share and print your photos: 
+http://photos.msn.com/support/worldwide.aspx
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 21558 invoked by uid 1029); 26 Sep 2002 17:08:27 -0000
+Received: (qmail 16463 invoked from network); 26 Sep 2002 15:48:35 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 26 Sep 2002 15:48:35 -0000
+Received: from liberty.francomm.com ([208.9.129.10] RDNS failed) by mail1.cs.northwestern.edu over TLS secured channel with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 26 Sep 2002 10:45:03 -0500
+Received: from francomm.com (max48b-208.9.129.153 [208.9.129.153] (may be forged))
+	by liberty.francomm.com (8.12.3/8.12.3/Debian -4) with ESMTP id g8QGxPPc008668
+	for <jandek@cs.northwestern.edu>; Thu, 26 Sep 2002 11:59:35 -0500
+Message-ID: <3D932AC2.5D1419E8@francomm.com>
+Date: Thu, 26 Sep 2002 11:41:54 -0400
+From: nevermor@francomm.com
+X-Mailer: Mozilla 4.79 [en] (Win98; U)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: jandek@cs.northwestern.edu
+Subject: I Threw You Away thoughts
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-OriginalArrivalTime: 26 Sep 2002 15:45:05.0031 (UTC) FILETIME=[AEEE9170:01C26573]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I'm listening to I Threw You Away at the moment....
+
+I'm a  bit disappointed at first listen. Not that it's bad.. just not
+what I was expecting.
+I guess I was expecting something more like Blue Corpse or Follow Your
+Footsteps with that type of guitar, but it's not. The guitar is typical
+Jandekian guitar with Jandek actually howling the mournful lyrics. Songs
+seem very similar to each other at first listen. The recording quality
+is quite good. Doesn't seem like the last few recordings done with that
+cheap voice actuated recorder. Maybe those voice-recordings were done
+"on the road" while he was in the UK? Who knows...
+
+PS does anyone else get bounced messages when they email to this list?
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 26515 invoked by uid 1029); 26 Sep 2002 18:21:15 -0000
+Message-ID: <20020926182115.26514.qmail@cs.northwestern.edu>
+Received: (qmail 26455 invoked from network); 26 Sep 2002 18:20:20 -0000
+Received: from localhost (HELO Godzilla.cs.nwu.edu) (tisue@127.0.0.1)
+  by localhost with SMTP; 26 Sep 2002 18:20:20 -0000
+Subject: Bounce messages when posting to Jandek list
+To: jandek@cs.northwestern.edu
+From: Seth Tisue <seth@tisue.net>
+Date: Thu, 26 Sep 2002 13:20:20 -0500
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+If you get one, just ignore it and see if your post goes though
+anyway, which it should (although not always right away, since I have
+to approve each post).
+
+I'd fix it, but the mail setup on the servers here is about to totally
+change, so it's not really worth tinkering with until the new setup is
+in place.
+
+Your Jandek list admin,
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+"I'm not writing a book on the science of irony." - Marcel Duchamp
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 4674 invoked by uid 1029); 26 Sep 2002 21:35:52 -0000
+Received: (qmail 4510 invoked from network); 26 Sep 2002 21:33:10 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 26 Sep 2002 21:33:10 -0000
+Received: from hotmail.com ([64.4.31.113] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 26 Sep 2002 16:27:41 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 26 Sep 2002 14:27:41 -0700
+Received: from 213.190.147.241 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Thu, 26 Sep 2002 21:27:40 GMT
+X-Originating-IP: [213.190.147.241]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: yet another comp
+Date: Thu, 26 Sep 2002 21:27:40 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F113phwFutJLtosJ3Ih0000c580@hotmail.com>
+X-OriginalArrivalTime: 26 Sep 2002 21:27:41.0293 (UTC) FILETIME=[8B6B39D0:01C265A3]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Here's my five:
+1) Point Judith
+2) Down in a Mirror
+3) I Ain't Got None
+4) The Electric End
+5) A Dozen Drops
+
+And this is a comp I made for a friend, from all the albums I had at the 
+time, and trying to be kind of representative.
+side 1
+1- Naked in the Afternoon
+2- European Jewel (Incomplete)
+3- Point Judith
+4- The Janitor
+5- Down in a Mirror
+6- European Jewel
+7- Nancy Sings
+8- Supression
+9- Nepoleon in Russia
+10- If Your Fortune Fails You
+11- Message to the Clerk pt.1
+12- Couldn't Be a Reader
+13- I Ain't Got None
+side 2
+14- Nine Thirty
+15- I Know You Well
+16- I Passed by the Building
+17- You Other Man
+18- Phillip Was Mentioned
+19- Rain in Madison
+20- White Box
+21- Long Long
+22- Sleepless Night
+23- New Town
+24- You Standing There (The Beginning version)
+25- The Beginning (excerpt)
+26- It's Your House (excerpt)
+27- Frosted Field
+28- Interlude
+
+All that and no room for Breathtaker, Call You the Sun, Voices in the Dark, 
+This is a Death Dream, Down in the Ballpark, Janky, Hey Mister Can You Tell 
+Me, A Dozen Drops, etc... Since I did that comp I got Somebody in the Snow, 
+Lost Cause, and 12th Apostle, and from those I'd have to include Bring it in 
+a Manger, Tell Me Who You Are, God Came Between Us, a bit of The Electric 
+End, and Whiskers. And I still don't have 'em all. Jesus. If you ask me, 
+you'd need a double cd to scratch the surface properly.
+
+_________________________________________________________________
+Send and receive Hotmail on your mobile device: http://mobile.msn.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 16568 invoked from network); 28 Sep 2002 21:19:41 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 28 Sep 2002 21:19:41 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 28 Sep 2002 16:18:27 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id g8SLIQI30373
+	for jandek@cs.northwestern.edu; Sat, 28 Sep 2002 16:18:26 -0500
+Received: (qmail 16369 invoked from network); 28 Sep 2002 21:12:41 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 28 Sep 2002 21:12:41 -0000
+Received: from hotmail.com ([64.4.31.123] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 28 Sep 2002 16:12:26 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sat, 28 Sep 2002 14:12:26 -0700
+Received: from 213.190.147.241 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Sat, 28 Sep 2002 21:12:25 GMT
+X-Originating-IP: [213.190.147.241]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: white box requiem lyrics
+Date: Sat, 28 Sep 2002 21:12:25 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F123BkAcJaqJlYct7p00000efb3@hotmail.com>
+X-OriginalArrivalTime: 28 Sep 2002 21:12:26.0408 (UTC) FILETIME=[BEEE5A80:01C26733]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Jandek's concept album! My theory is that this is made up of only 2 or 3 
+long performances which were divided into shorter tracks (maybe after having 
+"second thoughts" about the accessability (!) of longer songs) - you can 
+hear where tracks end in the middle of a note and the subsequent track 
+begins on the end of the same note, and also tracks 6 & 7 are obviously a 
+continued lyric.
+
+WHITE BOX (2)
+Well I did it now
+I did it now
+The box said "Do not open under pain of death"
+It had my initials there where
+I signed my initials there on it
+On that white box
+I signed my initials there
+"Do not open under pain of death"
+I opened it anyway
+I died anyway (x2)
+So I come back and say
+Come back to stay
+Lord knows I love you anyway
+I love you anyway
+
+SECOND THOUGHTS (3)
+I been havin' bad case of the second thoughts
+You know how the second thoughts is
+You think first and then you think about it
+Bad case of the second thoughts
+Second thoughts 'bout so much of first thoughts
+
+THINKING (6)
+If you're thinking in your head
+If you will hear what I have said
+I can't say it
+
+PART YESTERDAY (7)
+Yesterday I could say it, I know I could
+I just know
+Cause I'm part yesterday
+Makes me all today
+So it's so hard to tell you
+I quit describin' things, that's what I did
+Now you got to go searchin' inside of your strings
+You better, better not tell
+You won't be able to (x2)
+And inside you know (and sorry no?)
+Cause I'm not able to
+Have any second thoughts
+I opened the box
+I opened the box anyway
+
+EVENING SUN (9)
+When I live I will die
+When I die I will live
+And when I live I will live
+When I die I will die
+
+MUST HAVE BEEN A MIRACLE (10)
+It must have been a miracle
+Sent you down to me
+Reminded me of me
+And that I needed, I wanted
+You made me come alive
+You made me live, you made me die
+
+WONDERING (11)
+I thank you for your light
+You're so hard to believe
+I hardly believe you , I...
+That you could be there so hard to believe
+You got me wonderin'
+Cause I can't believe you hardly
+But, but I can, I can believe you, hardly
+
+WHAT SHOULD I DO (12)
+Well I, well I try work something out
+I found out something different
+So what should I do
+
+DIDN'T REALLY DIE (14)
+And I don't know if what I did
+Was wrong or right
+I believe you and I don't
+But I believe you
+What another man he said (?)
+Was very good
+So I got second thoughts
+I wanna die this way
+So I can live another day with you
+So I didn't really die
+I just kill myself in a way
+You can't see
+So you see this is my second thoughts
+I'm sendin' away best way I can
+It's the best way I can
+You know why, do you know why
+
+_________________________________________________________________
+Send and receive Hotmail on your mobile device: http://mobile.msn.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 28184 invoked from network); 29 Sep 2002 04:09:40 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 29 Sep 2002 04:09:40 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 28 Sep 2002 23:07:44 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id g8T47hb31729
+	for jandek@cs.northwestern.edu; Sat, 28 Sep 2002 23:07:43 -0500
+Received: (qmail 22918 invoked from network); 29 Sep 2002 01:01:36 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 29 Sep 2002 01:01:36 -0000
+Received: from web13303.mail.yahoo.com ([216.136.175.39]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 28 Sep 2002 19:57:32 -0500
+Message-ID: <20020929005728.23632.qmail@web13303.mail.yahoo.com>
+Received: from [204.126.199.89] by web13303.mail.yahoo.com via HTTP; Sat, 28 Sep 2002 17:57:28 PDT
+Date: Sat, 28 Sep 2002 17:57:28 -0700 (PDT)
+From: Bradley Be <bradleybee@yahoo.com>
+Subject: current corwood discography
+To: jandek@cs.northwestern.edu
+In-Reply-To: <F123BkAcJaqJlYct7p00000efb3@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 29 Sep 2002 00:57:32.0679 (UTC) FILETIME=[314BC170:01C26753]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+http://geocities.com/bradleybee/corwood.jpg
+
+
+
+=====
+http://www.geocities.com/bradleybee
+
+__________________________________________________
+Do you Yahoo!?
+New DSL Internet Access from SBC & Yahoo!
+http://sbc.yahoo.com
+
+Delivered-To: jandek@cs.northwestern.edu
+Received: (qmail 21236 invoked from network); 29 Sep 2002 14:34:38 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 29 Sep 2002 14:34:38 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 29 Sep 2002 09:25:29 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id g8TEPTm09941
+	for jandek@cs.northwestern.edu; Sun, 29 Sep 2002 09:25:29 -0500
+Received: (qmail 16068 invoked from network); 29 Sep 2002 11:17:16 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by godzilla.cs.nwu.edu with SMTP; 29 Sep 2002 11:17:16 -0000
+Received: from smtp.comcast.net ([24.153.64.2]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 29 Sep 2002 06:10:29 -0500
+Received: from [68.61.97.85]
+ (pcp02688875pcs.roylok01.mi.comcast.net [68.61.97.85])
+ by mtaout05.icomcast.net
+ (iPlanet Messaging Server 5.1 HotFix 1.4 (built Aug  5 2002))
+ with ESMTP id <0H3700G1Z5PERI@mtaout05.icomcast.net> for
+ jandek@cs.northwestern.edu; Sun, 29 Sep 2002 07:10:26 -0400 (EDT)
+Date: Sun, 29 Sep 2002 07:12:24 -0400
+From: "Danny Casolaro's Octopus" <Cydonia@comcast.net>
+Subject: best of?
+To: jandek@cs.northwestern.edu
+Message-id: <B9BC5858.F503%Cydonia@comcast.net>
+MIME-version: 1.0
+Content-type: text/plain; charset=US-ASCII
+Content-transfer-encoding: 7BIT
+User-Agent: Microsoft-Outlook-Express-Macintosh-Edition/5.02.2022
+X-OriginalArrivalTime: 29 Sep 2002 11:10:29.0171 (UTC) FILETIME=[D1CB1830:01C267A8]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Would some kind soul be willing to make me a best of Jandek cd? I have a lot
+of non-Jandek to trade...
+
+James
+----- 
+Charlie Rose: The film [The English Patient] is interesting in that
+                        it's not the book.
+David Foster Wallace: That is difficult to argue with.
+

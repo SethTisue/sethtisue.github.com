@@ -1,0 +1,2209 @@
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 25915 invoked from network); 18 Jul 2003 01:33:30 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 18 Jul 2003 01:33:30 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 17 Jul 2003 20:32:03 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6I1W2C03909
+	for jandek@cs.northwestern.edu; Thu, 17 Jul 2003 20:32:02 -0500
+Received: (qmail 25896 invoked from network); 18 Jul 2003 01:31:39 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 18 Jul 2003 01:31:39 -0000
+Received: from remt21.cluster1.charter.net ([209.225.8.31]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 17 Jul 2003 20:31:33 -0500
+Received: from [24.197.128.74] (HELO charter.net)
+  by remt21.cluster1.charter.net (CommuniGate Pro SMTP 4.0.6)
+  with ESMTP id 95926923 for jandek@cs.northwestern.edu; Thu, 17 Jul 2003 21:31:32 -0400
+Date: Thu, 17 Jul 2003 21:31:08 -0400
+Mime-Version: 1.0 (Apple Message framework v551)
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+Subject: Graven Image
+From: "T. Greiner" <bustelo3@charter.net>
+To: jandek@cs.northwestern.edu
+Content-Transfer-Encoding: 7bit
+Message-Id: <81C3BC4A-B8BF-11D7-AEBD-003065C28906@charter.net>
+X-Mailer: Apple Mail (2.551)
+X-OriginalArrivalTime: 18 Jul 2003 01:31:33.0046 (UTC) FILETIME=[52120D60:01C34CCC]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Received Twelfth Apostle in the mail today, along with the handwritten 
+message:
+"Graven Image is now available."
+
+I don't know if this is news to this mailing list, as I am not 
+subscribed.  But I do enjoy reading the archives.
+
+So it ends, the reissues.  A bit sad.
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 26290 invoked from network); 18 Jul 2003 01:44:32 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 18 Jul 2003 01:44:32 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 17 Jul 2003 20:42:33 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6I1gVP04023
+	for jandek@cs.northwestern.edu; Thu, 17 Jul 2003 20:42:31 -0500
+Received: (qmail 26239 invoked from network); 18 Jul 2003 01:36:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 18 Jul 2003 01:36:53 -0000
+Received: from imo-r04.mx.aol.com ([152.163.225.100]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 17 Jul 2003 20:36:46 -0500
+Received: from SmashBlocked@aol.com
+	by imo-r04.mx.aol.com (mail_out_v36_r1.1.) id 3.6b.1586d785 (18555);
+	Thu, 17 Jul 2003 21:36:43 -0400 (EDT)
+From: SmashBlocked@aol.com
+Message-ID: <6b.1586d785.2c48a92a@aol.com>
+Date: Thu, 17 Jul 2003 21:36:42 EDT
+Subject: Re: Graven Image
+To: bustelo3@charter.net, jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="part1_6b.1586d785.2c48a92a_boundary"
+X-Mailer: 7.0 for Windows sub 10638
+X-OriginalArrivalTime: 18 Jul 2003 01:36:46.0609 (UTC) FILETIME=[0CF7F810:01C34CCD]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+--part1_6b.1586d785.2c48a92a_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+Holy Shit!
+What happened to this list?  I thought perhaps I was unsubscribed!
+
+WHOA...........................
+
+Whens the movie playing in chicago?
+
+:D
+jon!
+
+--part1_6b.1586d785.2c48a92a_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><FONT FACE=3Darial,helvetica><FONT  SIZE=3D2 FAMILY=3D"SANSSERIF" FACE=
+=3D"Arial" LANG=3D"0">Holy Shit!<BR>
+What happened to this list?&nbsp; I thought perhaps I was unsubscribed!<BR>
+<BR>
+WHOA...........................<BR>
+<BR>
+Whens the movie playing in chicago?<BR>
+<BR>
+:D<BR>
+jon!</FONT></HTML>
+
+--part1_6b.1586d785.2c48a92a_boundary--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 25658 invoked from network); 20 Jul 2003 14:59:29 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 20 Jul 2003 14:59:29 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 20 Jul 2003 09:59:26 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6KExPL21309
+	for jandek@cs.northwestern.edu; Sun, 20 Jul 2003 09:59:25 -0500
+Received: (qmail 25638 invoked from network); 20 Jul 2003 14:58:48 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 20 Jul 2003 14:58:48 -0000
+Received: from hotmail.com ([64.4.21.114] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 20 Jul 2003 09:58:46 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 20 Jul 2003 07:58:45 -0700
+Received: from 80.58.0.172 by lw14fd.law14.hotmail.msn.com with HTTP;
+	Sun, 20 Jul 2003 14:58:45 GMT
+X-Originating-IP: [80.58.0.172]
+X-Originating-Email: [mayra_gomez_kemp@hotmail.com]
+From: "jose ensalada de fichas de tetris" <mayra_gomez_kemp@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Jandek's stories?
+Date: Sun, 20 Jul 2003 14:58:45 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1; format=flowed
+Message-ID: <Law14-F1140lfepHjon000178c6@hotmail.com>
+X-OriginalArrivalTime: 20 Jul 2003 14:58:45.0821 (UTC) FILETIME=[6B1486D0:01C34ECF]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Hi to everybody.
+I've recently discovered Jandek and I'm absolutely fascinated. I haven't 
+been able to listen to anything else in a week.
+I guess this topic has been answered a thousand times but I'm new so I'm 
+gonna try:
+Can somebody tell me the most famous theories and rumours about Jandek's 
+identity?
+I've heard he's been in jail, he is the retarded son of a wealthy man (this 
+one I don't believe it), he is a corporate worker, ...
+Thank you.
+
+_________________________________________________________________
+Dale rienda suelta a tu tiempo libre. Encuentra mil ideas para exprimir tu 
+ocio con MSN Entretenimiento. http://entretenimiento.msn.es/
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 26322 invoked from network); 20 Jul 2003 16:48:40 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 20 Jul 2003 16:48:40 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 20 Jul 2003 11:48:37 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6KGma622270
+	for jandek@cs.northwestern.edu; Sun, 20 Jul 2003 11:48:36 -0500
+Received: (qmail 26243 invoked from network); 20 Jul 2003 16:36:10 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 20 Jul 2003 16:36:10 -0000
+Received: from paiol.terra.com.br ([200.176.3.18]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 20 Jul 2003 11:36:07 -0500
+Received: from bertioga.terra.com.br (bertioga.terra.com.br [200.176.3.77])
+	by paiol.terra.com.br (Postfix) with ESMTP id 5EB688481A4
+	for <jandek@cs.northwestern.edu>; Sun, 20 Jul 2003 13:36:06 -0300 (BRT)
+Received: from FRANTY (cm-net-poa-C8B0C7C7.brdterra.com.br [200.176.199.199])
+	(authenticated user franty)
+	by bertioga.terra.com.br (Postfix) with ESMTP id 143223F8042
+	for <jandek@cs.northwestern.edu>; Sun, 20 Jul 2003 13:36:04 -0300 (BRT)
+Message-ID: <001101c34edd$038eb950$c7c7b0c8@FRANTY>
+From: "Francesco Settineri" <franty@terra.com.br>
+To: <jandek@cs.northwestern.edu>
+References: <Law14-F1140lfepHjon000178c6@hotmail.com>
+Subject: Re: Jandek's stories?
+Date: Sun, 20 Jul 2003 13:36:04 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+X-OriginalArrivalTime: 20 Jul 2003 16:36:07.0782 (UTC) FILETIME=[05290860:01C34EDD]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+there's lots of good information on seth tisue's site
+http://tisue.net/jandek/discussion.html
+
+not much, thought, just the known facts.
+
+----- Original Message ----- 
+From: "jose ensalada de fichas de tetris" <mayra_gomez_kemp@hotmail.com>
+To: <jandek@cs.northwestern.edu>
+Sent: Sunday, July 20, 2003 11:58 AM
+Subject: Jandek's stories?
+
+
+> Hi to everybody.
+> I've recently discovered Jandek and I'm absolutely fascinated. I haven't
+> been able to listen to anything else in a week.
+> I guess this topic has been answered a thousand times but I'm new so I'm
+> gonna try:
+> Can somebody tell me the most famous theories and rumours about Jandek's
+> identity?
+> I've heard he's been in jail, he is the retarded son of a wealthy man
+(this
+> one I don't believe it), he is a corporate worker, ...
+> Thank you.
+>
+> _________________________________________________________________
+> Dale rienda suelta a tu tiempo libre. Encuentra mil ideas para exprimir tu
+> ocio con MSN Entretenimiento. http://entretenimiento.msn.es/
+>
+> Esta mensagem foi verificada pelo E-mail Protegido Terra.
+> Scan engine: VirusScan / Atualizado em 18/07/2003 / Versão: 1.3.13
+> Proteja o seu e-mail Terra: http://www.emailprotegido.terra.com.br/
+>
+>
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 2163 invoked from network); 24 Jul 2003 14:24:19 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 24 Jul 2003 14:24:19 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 24 Jul 2003 09:24:17 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6OEOG023903
+	for jandek@cs.northwestern.edu; Thu, 24 Jul 2003 09:24:16 -0500
+Received: (qmail 1318 invoked from network); 24 Jul 2003 11:17:46 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 24 Jul 2003 11:17:46 -0000
+Received: from hotmail.com ([64.4.21.22] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 24 Jul 2003 06:16:29 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 24 Jul 2003 04:16:30 -0700
+Received: from 80.58.0.172 by lw14fd.law14.hotmail.msn.com with HTTP;
+	Thu, 24 Jul 2003 11:16:30 GMT
+X-Originating-IP: [80.58.0.172]
+X-Originating-Email: [mayra_gomez_kemp@hotmail.com]
+From: "jose ensalada de fichas de tetris" <mayra_gomez_kemp@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: jandek order
+Date: Thu, 24 Jul 2003 11:16:30 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1; format=flowed
+Message-ID: <Law14-F22KZq1WnxPuq00001deb@hotmail.com>
+X-OriginalArrivalTime: 24 Jul 2003 11:16:30.0650 (UTC) FILETIME=[0859E9A0:01C351D5]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I'm from madrid, Spain, and I would like to make an order to corwood 
+industries. I'd like to order a 20 cds box.
+Can anybody tell me how do I pay for the records?
+Thanks a lot.
+Jose.
+
+_________________________________________________________________
+Accede al romance onine. Descubre gente que busca a otra gente en MSN Amor & 
+Amistad. http://match.msn.es/
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 5493 invoked from network); 24 Jul 2003 17:45:08 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 24 Jul 2003 17:45:08 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 24 Jul 2003 12:45:04 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6OHj3o28286
+	for jandek@cs.northwestern.edu; Thu, 24 Jul 2003 12:45:03 -0500
+Received: (qmail 4833 invoked from network); 24 Jul 2003 16:47:20 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 24 Jul 2003 16:47:20 -0000
+Received: from web12001.mail.yahoo.com ([216.136.172.207]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 24 Jul 2003 11:44:54 -0500
+Message-ID: <20030724164453.49314.qmail@web12001.mail.yahoo.com>
+Received: from [68.170.159.83] by web12001.mail.yahoo.com via HTTP; Thu, 24 Jul 2003 09:44:53 PDT
+Date: Thu, 24 Jul 2003 09:44:53 -0700 (PDT)
+From: Jason Cooley <jasonx12@yahoo.com>
+Subject: Re: jandek on corwood
+To: jose ensalada de fichas de tetris <mayra_gomez_kemp@hotmail.com>,
+  jandek@cs.northwestern.edu
+In-Reply-To: <Law14-F22KZq1WnxPuq00001deb@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 24 Jul 2003 16:44:54.0671 (UTC) FILETIME=[E8DCE9F0:01C35202]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+So I just finished watching "Jandek On Corwood".  I'm
+sure others have seen it by now.  I'm surprised by the
+lack of discussion about it.  Are we not supposed to
+talk about it?
+
+I'll say this: the ending was mind-blowing.
+
+> I'm from madrid, Spain, and I would like to make an
+> order to corwood 
+> industries. I'd like to order a 20 cds box.
+> Can anybody tell me how do I pay for the records?
+
+Just write to Corwood:
+
+Corwood Industries
+P.O. Box 15375
+Houston, TX 77220
+USA
+> 
+>
+_________________________________________________________________
+> Accede al romance onine. Descubre gente que busca a
+> otra gente en MSN Amor & 
+> Amistad. http://match.msn.es/
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 5882 invoked from network); 24 Jul 2003 17:56:06 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 24 Jul 2003 17:56:06 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 24 Jul 2003 12:56:02 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6OHu1d28461
+	for jandek@cs.northwestern.edu; Thu, 24 Jul 2003 12:56:01 -0500
+Received: (qmail 5846 invoked from network); 24 Jul 2003 17:53:00 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 24 Jul 2003 17:53:00 -0000
+Received: from mailhost.bellboyd.com ([67.94.127.2]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 24 Jul 2003 12:51:48 -0500
+Received: from 67.94.127.3 by mailhost.bellboyd.com with ESMTP (
+ Tumbleweed MMS SMTP Relay (MMS v4.7);); Thu, 24 Jul 2003 12:52:59 -0500
+X-Server-Uuid: 4307f3fc-235d-4475-b52a-e9f8bf3c098e
+X-MimeOLE: Produced By Microsoft Exchange V6.0.6249.0
+content-class: urn:content-classes:message
+MIME-Version: 1.0
+Subject: RE: jandek on corwood
+Date: Thu, 24 Jul 2003 12:51:47 -0500
+Message-ID: <A0A0EFBA6F51084C88BE5B37BB7C0D4BA9A71D@BBLCH13.corp.bellboyd.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: jandek on corwood
+Thread-Index: AcNSC1/XyuGhsUnXRZm3l8oiuzZXYAAAC/RA
+From: "Knott, Evan T." <eknott@bellboyd.com>
+To: "Jason Cooley" <jasonx12@yahoo.com>,
+  "jose ensalada de fichas de tetris" <mayra_gomez_kemp@hotmail.com>,
+  jandek@cs.northwestern.edu
+X-WSS-ID: 133EC370446969-01-01
+Content-Type: multipart/alternative; 
+ boundary="----_=_NextPart_001_01C3520C.40A7520B"
+X-OriginalArrivalTime: 24 Jul 2003 17:51:48.0280 (UTC) FILETIME=[41290B80:01C3520C]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This is a multi-part message in MIME format.
+
+------_=_NextPart_001_01C3520C.40A7520B
+Content-Type: text/plain; 
+ charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi everyone:
+
+I just joined this list yesterday, so this is my first post.  Very little =
+traffic it seems, at least so far.
+
+Anyway, how is it that people are able to view the documentary already?  I =
+thought nobody could see it until after the Toronto Film Fest in Sept., =
+unless a promotional screening could be arranged (have people succeeded in =
+organizing such a screening?)
+
+I'm curious to hear people's general reviews, but if people decide to =
+discuss specifics about the documentary, I think I and perhaps others would=
+ =
+appreciate a heads-up about potential spoilers, how it ends, etc.  I want t=
+o=
+ view the film without knowing the specifics.
+
+Also, by way of introduction, I'm 26, live in Chicago, am a lawyer, and =
+consider myself a huge admirer or Jandek and his music.  are there any othe=
+r=
+ list members (besides seth, who never returns email anyway) residing in =
+chicago?
+
+Thanks,
+
+Evan
+
+-----Original Message-----
+=46rom: Jason Cooley [mailto:jasonx12@yahoo.com]
+Sent: Thursday, July 24, 2003 11:45 AM
+To: jose ensalada de fichas de tetris; jandek@cs.northwestern.edu
+Subject: Re: jandek on corwood
+
+
+So I just finished watching "Jandek On Corwood".  I'm
+sure others have seen it by now.  I'm surprised by the
+lack of discussion about it.  Are we not supposed to
+talk about it?
+
+I'll say this: the ending was mind-blowing.
+
+> I'm from madrid, Spain, and I would like to make an
+> order to corwood=20
+> industries. I'd like to order a 20 cds box.
+> Can anybody tell me how do I pay for the records?
+
+Just write to Corwood:
+
+Corwood Industries
+P.O. Box 15375
+Houston, TX 77220
+USA
+>=20
+>
+_________________________________________________________________
+> Accede al romance onine. Descubre gente que busca a
+> otra gente en MSN Amor &=20
+> Amistad. http://match.msn.es/
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+
+------------------------------------------
+The information contained in this e-mail message may be privileged,=20
+confidential, and protected from disclosure.  If you are not the
+intended recipient, any further disclosure or use, dissemination,
+distribution, or copying of this message or any attachment is strictly
+prohibited.  If you think that you have received this e-mail message in
+error, please delete it and notify the sender.
+
+
+
+------_=_NextPart_001_01C3520C.40A7520B
+Content-Type: text/html; 
+ charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Diso-8859-1">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version 6.0.6249.1">
+<TITLE>RE: jandek on corwood</TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/plain format -->
+
+<P><FONT SIZE=3D2>Hi everyone:</FONT>
+</P>
+
+<P><FONT SIZE=3D2>I just joined this list yesterday, so this is my first =
+post.&nbsp; Very little traffic it seems, at least so far.</FONT>
+</P>
+
+<P><FONT SIZE=3D2>Anyway, how is it that people are able to view the =
+documentary already?&nbsp; I thought nobody could see it until after the =
+Toronto Film Fest in Sept., unless a promotional screening could be arrange=
+d=
+ (have people succeeded in organizing such a screening?)</FONT></P>
+
+<P><FONT SIZE=3D2>I'm curious to hear people's general reviews, but if =
+people decide to discuss specifics about the documentary, I think I and =
+perhaps others would appreciate a heads-up about potential spoilers, how it=
+ =
+ends, etc.&nbsp; I want to view the film without knowing the =
+specifics.</FONT></P>
+
+<P><FONT SIZE=3D2>Also, by way of introduction, I'm 26, live in Chicago, am=
+ =
+a lawyer, and consider myself a huge admirer or Jandek and his music.&nbsp;=
+ =
+are there any other list members (besides seth, who never returns email =
+anyway) residing in chicago?</FONT></P>
+
+<P><FONT SIZE=3D2>Thanks,</FONT>
+</P>
+
+<P><FONT SIZE=3D2>Evan</FONT>
+</P>
+
+<P><FONT SIZE=3D2>-----Original Message-----</FONT>
+
+<BR><FONT SIZE=3D2>From: Jason Cooley [<A =
+HREF=3D"mailto:jasonx12@yahoo.com">mailto:jasonx12@yahoo.com</A>]</FONT>
+
+<BR><FONT SIZE=3D2>Sent: Thursday, July 24, 2003 11:45 AM</FONT>
+
+<BR><FONT SIZE=3D2>To: jose ensalada de fichas de tetris; =
+jandek@cs.northwestern.edu</FONT>
+
+<BR><FONT SIZE=3D2>Subject: Re: jandek on corwood</FONT>
+</P>
+<BR>
+
+<P><FONT SIZE=3D2>So I just finished watching &quot;Jandek On =
+Corwood&quot;.&nbsp; I'm</FONT>
+
+<BR><FONT SIZE=3D2>sure others have seen it by now.&nbsp; I'm surprised by =
+the</FONT>
+
+<BR><FONT SIZE=3D2>lack of discussion about it.&nbsp; Are we not supposed =
+to</FONT>
+
+<BR><FONT SIZE=3D2>talk about it?</FONT>
+</P>
+
+<P><FONT SIZE=3D2>I'll say this: the ending was mind-blowing.</FONT>
+</P>
+
+<P><FONT SIZE=3D2>&gt; I'm from madrid, Spain, and I would like to make =
+an</FONT>
+
+<BR><FONT SIZE=3D2>&gt; order to corwood </FONT>
+
+<BR><FONT SIZE=3D2>&gt; industries. I'd like to order a 20 cds box.</FONT>
+
+<BR><FONT SIZE=3D2>&gt; Can anybody tell me how do I pay for the =
+records?</FONT>
+</P>
+
+<P><FONT SIZE=3D2>Just write to Corwood:</FONT>
+</P>
+
+<P><FONT SIZE=3D2>Corwood Industries</FONT>
+
+<BR><FONT SIZE=3D2>P.O. Box 15375</FONT>
+
+<BR><FONT SIZE=3D2>Houston, TX 77220</FONT>
+
+<BR><FONT SIZE=3D2>USA</FONT>
+
+<BR><FONT SIZE=3D2>&gt; </FONT>
+
+<BR><FONT SIZE=3D2>&gt;</FONT>
+
+<BR><FONT =
+SIZE=3D2>_________________________________________________________________<=
+/FONT>
+
+<BR><FONT SIZE=3D2>&gt; Accede al romance onine. Descubre gente que busca =
+a</FONT>
+
+<BR><FONT SIZE=3D2>&gt; otra gente en MSN Amor &amp; </FONT>
+
+<BR><FONT SIZE=3D2>&gt; Amistad. <A =
+HREF=3D"http://match.msn.es/">http://match.msn.es/</A></FONT>
+</P>
+<BR>
+
+<P><FONT SIZE=3D2>__________________________________</FONT>
+
+<BR><FONT SIZE=3D2>Do you Yahoo!?</FONT>
+
+<BR><FONT SIZE=3D2>Yahoo! SiteBuilder - Free, easy-to-use web site design =
+software</FONT>
+
+<BR><FONT SIZE=3D2><A =
+HREF=3D"http://sitebuilder.yahoo.com">http://sitebuilder.yahoo.com</A></FON=
+T>
+</P>
+
+</BODY>
+</HTML>
+<P>------------------------------------------<br>
+The information contained in this e-mail message may be privileged, <br>
+confidential, and protected from disclosure.  If you are not the<br>
+intended recipient, any further disclosure or use, dissemination,<br>
+distribution, or copying of this message or any attachment is strictly<br>
+prohibited.  If you think that you have received this e-mail message in<br>
+error, please delete it and notify the sender.<br>
+<br>
+<br>
+</P>
+
+------_=_NextPart_001_01C3520C.40A7520B--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 6880 invoked from network); 24 Jul 2003 19:14:58 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 24 Jul 2003 19:14:58 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 24 Jul 2003 14:13:28 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6OJDQA29270
+	for jandek@cs.northwestern.edu; Thu, 24 Jul 2003 14:13:26 -0500
+Received: (qmail 6650 invoked from network); 24 Jul 2003 18:50:15 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 24 Jul 2003 18:50:15 -0000
+Received: from web12005.mail.yahoo.com ([216.136.172.213]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 24 Jul 2003 13:50:11 -0500
+Message-ID: <20030724185011.67156.qmail@web12005.mail.yahoo.com>
+Received: from [68.170.159.83] by web12005.mail.yahoo.com via HTTP; Thu, 24 Jul 2003 11:50:11 PDT
+Date: Thu, 24 Jul 2003 11:50:11 -0700 (PDT)
+From: Jason Cooley <jasonx12@yahoo.com>
+Subject: Re: jandek on corwood
+To: jandek@cs.northwestern.edu
+In-Reply-To: <BAY9-F62ZneAzdfTVSx000032c1@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 24 Jul 2003 18:50:12.0030 (UTC) FILETIME=[698EDDE0:01C35214]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+The filmmakers sent me a copy saying that I'd helped
+them finish it in some way.  I sent them some LP cover
+scans with college DJ comments on them, but they
+didn't use them.  I'm sure they sent copies to other
+people, too.  The lack of any sort of mention on the
+list makes me think maybe we're not supposed to
+discuss it.
+
+--- Brian Madonick <brian_madonick@hotmail.com> wrote:
+> where did you get it?
+ 
+> >From: Jason Cooley <jasonx12@yahoo.com>
+> >To: jose ensalada de fichas de tetris
+> <mayra_gomez_kemp@hotmail.com>,  
+> >jandek@cs.northwestern.edu
+> >Subject: Re: jandek on corwood
+> >Date: Thu, 24 Jul 2003 09:44:53 -0700 (PDT)
+> >
+> >So I just finished watching "Jandek On Corwood". 
+> I'm
+> >sure others have seen it by now.  I'm surprised by
+> the
+> >lack of discussion about it.  Are we not supposed
+> to
+> >talk about it?
+> >
+> >I'll say this: the ending was mind-blowing.
+> >
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 8484 invoked from network); 24 Jul 2003 21:11:52 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 24 Jul 2003 21:11:52 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 24 Jul 2003 16:11:02 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6OLB0c30518
+	for jandek@cs.northwestern.edu; Thu, 24 Jul 2003 16:11:00 -0500
+Received: (qmail 8453 invoked from network); 24 Jul 2003 21:10:07 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 24 Jul 2003 21:10:07 -0000
+Received: from hotmail.com ([64.4.27.63] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 24 Jul 2003 16:08:58 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 24 Jul 2003 14:08:58 -0700
+Received: from 193.120.45.146 by by8fd.bay8.hotmail.msn.com with HTTP;
+	Thu, 24 Jul 2003 21:08:57 GMT
+X-Originating-IP: [193.120.45.146]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: jandek on corwood
+Date: Thu, 24 Jul 2003 21:08:57 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY8-F63vlUQ9cAgjHX000024d0@hotmail.com>
+X-OriginalArrivalTime: 24 Jul 2003 21:08:58.0187 (UTC) FILETIME=[CC5599B0:01C35227]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I was sent a copy of the documentary too. I've been dying to discuss it but 
+held back because it'd be really unfair to spoil anything for people. You 
+know the way with so many mainstream movies, you see the trailer and read 
+the reviews and you've already got the bulk of the experience... I find 
+Jandek is a real antidote to that sort of thing. The film makers have 
+already admitted that there's little in the way of huge revelations anyway. 
+Yes, the ending is quite wonderful. That bit in the middle freaked me out 
+too. Overall, I don't think it could have been done better. Hail Friedrichs 
+and Fehler.
+
+Jose: I live in Ireland and always send cash in dollars via registered mail, 
+though that's obviously not the best way to pay for a 20 box. I presume 
+Corwood accept bank drafts in dollars?
+
+Paul
+
+_________________________________________________________________
+Tired of spam? Get advanced junk mail protection with MSN 8. 
+http://join.msn.com/?page=features/junkmail
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 12314 invoked from network); 25 Jul 2003 03:22:30 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Jul 2003 03:22:30 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 24 Jul 2003 22:22:23 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6P3MLf01982
+	for jandek@cs.northwestern.edu; Thu, 24 Jul 2003 22:22:21 -0500
+Received: (qmail 12275 invoked from network); 25 Jul 2003 03:21:31 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Jul 2003 03:21:31 -0000
+Received: from hotmail.com ([64.4.21.58] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 24 Jul 2003 22:21:24 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 24 Jul 2003 20:21:23 -0700
+Received: from 80.58.0.172 by lw14fd.law14.hotmail.msn.com with HTTP;
+	Fri, 25 Jul 2003 03:21:23 GMT
+X-Originating-IP: [80.58.0.172]
+X-Originating-Email: [mayra_gomez_kemp@hotmail.com]
+From: "jose ensalada de fichas de tetris" <mayra_gomez_kemp@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: jandek on corwood
+Date: Fri, 25 Jul 2003 03:21:23 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1; format=flowed
+Message-ID: <Law14-F58vXH4kd1qhg00004cf7@hotmail.com>
+X-OriginalArrivalTime: 25 Jul 2003 03:21:23.0426 (UTC) FILETIME=[D3227C20:01C3525B]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Thanks for the answers.
+I live in Spain, and I think that in this shitty country I'll never be able 
+to watch "Jandek on Corwood".
+Does anybody know if there will be a dvd of the film? Is the movie gonna be 
+exhibited in regular cinemas?
+Jose.
+
+_________________________________________________________________
+Dale rienda suelta a tu tiempo libre. Encuentra mil ideas para exprimir tu 
+ocio con MSN Entretenimiento. http://entretenimiento.msn.es/
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 17340 invoked from network); 25 Jul 2003 15:03:43 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Jul 2003 15:03:43 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 25 Jul 2003 10:03:40 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6PF3dn08234
+	for jandek@cs.northwestern.edu; Fri, 25 Jul 2003 10:03:39 -0500
+Received: (qmail 13898 invoked from network); 25 Jul 2003 08:18:11 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Jul 2003 08:18:11 -0000
+Received: from rekin5.o2.pl ([212.126.20.9] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 25 Jul 2003 03:17:53 -0500
+Received: by rekin5.o2.pl (Mailer_v2.01, from userid 502)
+	id C3FF933CCD; Fri, 25 Jul 2003 10:17:45 +0200 (CEST)
+From: =?iso-8859-2?Q?LUTY?= <luty10@o2.pl>
+To: jandek@cs.northwestern.edu
+Subject: =?iso-8859-2?Q?Re:=20jandek=20on=20corwood?=
+Date: Fri, 25 Jul 2003 10:17:45 +0100
+Content-Type: text/plain; charset="iso-8859-2";
+Content-Transfer-Encoding: 8bit
+X-Mailer: first3.pl WebMailv4.01. Usluga Poczty Elektronicznej dla o2.pl
+X-Originator: 62.21.20.242
+Message-Id: <20030725081745.C3FF933CCD@rekin5.o2.pl>
+X-OriginalArrivalTime: 25 Jul 2003 08:17:53.0522 (UTC) FILETIME=[3EDBB520:01C35285]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Hey!You think you're living in a shitty country?I'm from POLAND,man. I suspect I'm the only Jandek fan in a whole wide country.And I don't think I'll ever see the Jandek documentary-I hope it will be possible to order somehow.
+
+>Thanks for the answers.
+>I live in Spain, and I think that in this shitty country I'll never be able 
+>to watch "Jandek on Corwood".
+>Does anybody know if there will be a dvd of the film? Is the movie gonna be 
+>exhibited in regular cinemas?
+>Jose.
+>
+>_________________________________________________________________
+>Dale rienda suelta a tu tiempo libre. Encuentra mil ideas para exprimir tu 
+>ocio con MSN Entretenimiento. http://entretenimiento.msn.es/
+>
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 17958 invoked from network); 25 Jul 2003 15:34:03 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Jul 2003 15:34:03 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 25 Jul 2003 10:33:29 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6PFXS309058
+	for jandek@cs.northwestern.edu; Fri, 25 Jul 2003 10:33:28 -0500
+Received: (qmail 17900 invoked from network); 25 Jul 2003 15:28:35 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Jul 2003 15:28:35 -0000
+Received: from web12001.mail.yahoo.com ([216.136.172.207]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 25 Jul 2003 10:27:32 -0500
+Message-ID: <20030725152732.93348.qmail@web12001.mail.yahoo.com>
+Received: from [68.170.159.83] by web12001.mail.yahoo.com via HTTP; Fri, 25 Jul 2003 08:27:32 PDT
+Date: Fri, 25 Jul 2003 08:27:32 -0700 (PDT)
+From: Jason Cooley <jasonx12@yahoo.com>
+Subject: Re: jandek on corwood
+To: jandek@cs.northwestern.edu
+In-Reply-To: <20030725081745.C3FF933CCD@rekin5.o2.pl>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 25 Jul 2003 15:27:33.0030 (UTC) FILETIME=[44A47460:01C352C1]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+That was the funniest email ever.
+
+I don't see why you either of you wouldn't be able to
+see the Jandek documentary when it comes out.  You'll
+at least be able to see it on video.
+
+--- LUTY <luty10@o2.pl> wrote:
+> Hey!You think you're living in a shitty country?I'm
+> from POLAND,man. I suspect I'm the only Jandek fan
+> in a whole wide country.And I don't think I'll ever
+> see the Jandek documentary-I hope it will be
+> possible to order somehow.
+> 
+> >Thanks for the answers.
+> >I live in Spain, and I think that in this shitty
+> country I'll never be able 
+> >to watch "Jandek on Corwood".
+> >Does anybody know if there will be a dvd of the
+> film? Is the movie gonna be 
+> >exhibited in regular cinemas?
+> >Jose.
+> >
+>
+>_________________________________________________________________
+> >Dale rienda suelta a tu tiempo libre. Encuentra mil
+> ideas para exprimir tu 
+> >ocio con MSN Entretenimiento.
+> http://entretenimiento.msn.es/
+> >
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 20331 invoked from network); 25 Jul 2003 18:01:41 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Jul 2003 18:01:41 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 25 Jul 2003 13:01:20 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6PI1JF10765
+	for jandek@cs.northwestern.edu; Fri, 25 Jul 2003 13:01:19 -0500
+Received: (qmail 20292 invoked from network); 25 Jul 2003 18:00:07 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Jul 2003 18:00:07 -0000
+Received: from hotmail.com ([64.4.21.63] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 25 Jul 2003 13:00:04 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Fri, 25 Jul 2003 11:00:04 -0700
+Received: from 80.58.0.172 by lw14fd.law14.hotmail.msn.com with HTTP;
+	Fri, 25 Jul 2003 18:00:03 GMT
+X-Originating-IP: [80.58.0.172]
+X-Originating-Email: [mayra_gomez_kemp@hotmail.com]
+From: "jose ensalada de fichas de tetris" <mayra_gomez_kemp@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: jandek on corwood
+Date: Fri, 25 Jul 2003 18:00:03 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1; format=flowed
+Message-ID: <Law14-F63Q21ju2iDL600006fdb@hotmail.com>
+X-OriginalArrivalTime: 25 Jul 2003 18:00:04.0064 (UTC) FILETIME=[93156E00:01C352D6]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+It's a shitty country because of the culture. Here there are not (almost) 
+good directors, good tv programs or music.
+I don't know, it's a deep topic to discuss here.
+another Jandek fans here? Well, I know one (the man who introduced me, he 
+lives in Barcelona) and now I'm spreading the religion into my friends 
+so...Three or Four Jandek fans in Spain at least.
+jose.
+
+_________________________________________________________________
+Charla con tus amigos en línea mediante MSN Messenger:  
+http://messenger.microsoft.com/es
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 21064 invoked from network); 25 Jul 2003 18:40:58 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Jul 2003 18:40:58 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 25 Jul 2003 13:40:54 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6PIerl11208
+	for jandek@cs.northwestern.edu; Fri, 25 Jul 2003 13:40:53 -0500
+Received: (qmail 21009 invoked from network); 25 Jul 2003 18:37:11 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Jul 2003 18:37:11 -0000
+Received: from web12002.mail.yahoo.com ([216.136.172.210]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 25 Jul 2003 13:37:07 -0500
+Message-ID: <20030725183701.15023.qmail@web12002.mail.yahoo.com>
+Received: from [68.170.159.83] by web12002.mail.yahoo.com via HTTP; Fri, 25 Jul 2003 11:37:01 PDT
+Date: Fri, 25 Jul 2003 11:37:01 -0700 (PDT)
+From: Jason Cooley <jasonx12@yahoo.com>
+Subject: Re: jandek on corwood
+To: jandek@cs.northwestern.edu
+In-Reply-To: <Law14-F63Q21ju2iDL600006fdb@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 25 Jul 2003 18:37:07.0702 (UTC) FILETIME=[C079A960:01C352DB]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+While watching the documentary a second time, I
+realized that the in the cover photo of "Put My Dream
+On This Planet" (previously I couldn't tell what was
+going on) that Jandek (or whoever it is) is sitting on
+the floor with his arms crossed over his knees.  
+
+I dunno.  I'm missing all the Jandekers.  Where are
+you all?
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 22384 invoked from network); 25 Jul 2003 20:04:19 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Jul 2003 20:04:19 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 25 Jul 2003 15:04:15 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6PK4Ef12549
+	for jandek@cs.northwestern.edu; Fri, 25 Jul 2003 15:04:14 -0500
+Received: (qmail 22326 invoked from network); 25 Jul 2003 20:02:21 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Jul 2003 20:02:21 -0000
+Received: from web41406.mail.yahoo.com ([66.218.93.72]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 25 Jul 2003 15:01:38 -0500
+Message-ID: <20030725200137.68688.qmail@web41406.mail.yahoo.com>
+Received: from [68.160.175.187] by web41406.mail.yahoo.com via HTTP; Fri, 25 Jul 2003 13:01:37 PDT
+Date: Fri, 25 Jul 2003 13:01:37 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: adventures in cambridge
+To: jandek@cs.northwestern.edu
+In-Reply-To: <20030725183701.15023.qmail@web12002.mail.yahoo.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 25 Jul 2003 20:01:38.0296 (UTC) FILETIME=[8EC8E780:01C352E7]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I'm still here. Not that that means much! I've been
+away for a while so I had a lot of mail to
+read...that's the most traffic I've seen on the list
+since that stupid guy who said we were all too nosey
+about four months ago. 
+
+Anyway... Visited Cambridge the other day and after a
+while we found Twisted Village, one of the few record
+stores with Jandek for sale. It was located in an
+odorous basement on the edge of town, and it had the
+largest Jandek selection I've ever seen. There were
+about twelve albums there. 
+
+I bought The Living End and On the Way. The former is
+a pretty good album that of course has the best Jandek
+photo. "License to Kill", "Slinky Parade", and "Talk
+that Talk" are good tracks from there. I've learned
+how to play "License to Kill" and am trying to talk my
+band into playing it. I know it's been covered already
+by James McNew of Yo La Tengo, but it's a great tune. 
+
+Living End has a lot of cool stereo separation
+effects; usually Jandek is in only one speaker, like
+the Beatles used to do back in the day (hey Irwin,
+there's a Beatles connection!) It's his most overtly
+blusey album-- not better than You Walk Alone,
+however. It's fairly strong until Side two, which is
+where the "new nancy" starts to sing. You can barely
+hear her, and she sucks at singing; no where near the
+old Nancy. All she knows is one bad melody, which she
+uses to ruin some of the coolest grooves that Jandek's
+band has ever come up with. I'll review it on my
+website someday, it'll get 3 and a hlf bird houses.
+
+peace, 
+
+D.M. 
+--- Jason Cooley <jasonx12@yahoo.com> wrote:
+> 
+> While watching the documentary a second time, I
+> realized that the in the cover photo of "Put My
+> Dream
+> On This Planet" (previously I couldn't tell what was
+> going on) that Jandek (or whoever it is) is sitting
+> on
+> the floor with his arms crossed over his knees.  
+> 
+> I dunno.  I'm missing all the Jandekers.  Where are
+> you all?
+> 
+> __________________________________
+> Do you Yahoo!?
+> Yahoo! SiteBuilder - Free, easy-to-use web site
+> design software
+> http://sitebuilder.yahoo.com
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 29108 invoked from network); 26 Jul 2003 19:06:05 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 26 Jul 2003 19:06:05 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 26 Jul 2003 14:05:26 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6QJ5PU28095
+	for jandek@cs.northwestern.edu; Sat, 26 Jul 2003 14:05:25 -0500
+Received: (qmail 28955 invoked from network); 26 Jul 2003 18:34:13 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 26 Jul 2003 18:34:13 -0000
+Received: from spf13.us4.outblaze.com ([205.158.62.67]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 26 Jul 2003 13:34:09 -0500
+Received: from 205-158-62-68.outblaze.com (205-158-62-68.outblaze.com [205.158.62.68])
+	by spf13.us4.outblaze.com (Postfix) with QMQP id 0AAA71800B97
+	for <jandek@cs.northwestern.edu>; Sat, 26 Jul 2003 18:34:09 +0000 (GMT)
+Received: (qmail 13879 invoked from network); 26 Jul 2003 18:34:08 -0000
+Received: from unknown (HELO ws1-2.us4.outblaze.com) (205.158.62.54)
+  by 205-158-62-153.outblaze.com with SMTP; 26 Jul 2003 18:34:08 -0000
+Received: (qmail 49008 invoked by uid 1001); 26 Jul 2003 18:34:08 -0000
+Message-ID: <20030726183408.49007.qmail@mail.com>
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.41 (Entity 5.404)
+Received: from [68.41.100.16] by ws1-2.us4.outblaze.com with http for
+    crushtacoes@mail.com; Sat, 26 Jul 2003 13:34:08 -0500
+From: "Joe Henry" <crushtacoes@mail.com>
+To: "Jason Cooley" <jasonx12@yahoo.com>, jandek@cs.northwestern.edu
+Date: Sat, 26 Jul 2003 13:34:08 -0500
+Subject: Re: jandek on corwood
+X-Originating-Ip: 68.41.100.16
+X-Originating-Server: ws1-2.us4.outblaze.com
+X-OriginalArrivalTime: 26 Jul 2003 18:34:09.0897 (UTC) FILETIME=[80E88590:01C353A4]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I saw what was going on in the "Put My Dream" cover initially, and always have wondered why Seth's site never mentioned it. I also like how the figure on the cover seems to be wearing a cool hat of some sort.
+
+As for the scant traffic on this list, perhaps we should get into some questions about Jandek's lyrics. Some seem to be directed to the listener, others a personal soliloquy. Jandek's trials and tribulations with God seem to make an interesting subject, and one that spans his entire discography from "Show Me The Way O Lord" to "I Threw You Away".
+
+----- Original Message -----
+From: Jason Cooley <jasonx12@yahoo.com>
+
+> 
+> While watching the documentary a second time, I
+> realized that the in the cover photo of "Put My Dream
+> On This Planet" (previously I couldn't tell what was
+> going on) that Jandek (or whoever it is) is sitting on
+> the floor with his arms crossed over his knees.  
+
+-- 
+__________________________________________________________
+Sign-up for your own FREE Personalized E-mail at Mail.com
+http://www.mail.com/?sr=signup
+
+CareerBuilder.com has over 400,000 jobs. Be smarter about your job search
+http://corp.mail.com/careers
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 29109 invoked from network); 26 Jul 2003 19:06:05 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 26 Jul 2003 19:06:05 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 26 Jul 2003 14:05:29 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6QJ5Su28119
+	for jandek@cs.northwestern.edu; Sat, 26 Jul 2003 14:05:28 -0500
+Received: (qmail 28965 invoked from network); 26 Jul 2003 18:34:23 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 26 Jul 2003 18:34:23 -0000
+Received: from hotmail.com ([64.4.27.27] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 26 Jul 2003 13:34:19 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sat, 26 Jul 2003 11:34:18 -0700
+Received: from 62.77.173.6 by by8fd.bay8.hotmail.msn.com with HTTP;
+	Sat, 26 Jul 2003 18:34:18 GMT
+X-Originating-IP: [62.77.173.6]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: adventures in cambridge
+Date: Sat, 26 Jul 2003 18:34:18 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY8-F27by5T03phaaW0000cd3f@hotmail.com>
+X-OriginalArrivalTime: 26 Jul 2003 18:34:18.0962 (UTC) FILETIME=[864FBB20:01C353A4]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+New Nancy? Old Nancy? Christ, Daniel!
+In Nancy II's defence (ha), I like the way she's barely audible on the first 
+song on side 2 of The Living End, and becomes more & more prominent as the 
+record progresses - it's like hearing somebody come out of their shell. I 
+listened to the album ther other day and enjoyed it more than I had 
+previously, but I'd say that Eddie's (or whoever's) one solo was wearing a 
+bit thin by this time.
+
+Paul
+
+_________________________________________________________________
+The new MSN 8: smart spam protection and 2 months FREE*  
+http://join.msn.com/?page=features/junkmail
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 31002 invoked from network); 27 Jul 2003 01:34:50 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 27 Jul 2003 01:34:50 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 26 Jul 2003 20:34:44 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6R1YgO01191
+	for jandek@cs.northwestern.edu; Sat, 26 Jul 2003 20:34:42 -0500
+Received: (qmail 30767 invoked from network); 27 Jul 2003 00:27:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 27 Jul 2003 00:27:53 -0000
+Received: from web41407.mail.yahoo.com ([66.218.93.73]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 26 Jul 2003 19:27:47 -0500
+Message-ID: <20030727002746.65669.qmail@web41407.mail.yahoo.com>
+Received: from [68.160.167.79] by web41407.mail.yahoo.com via HTTP; Sat, 26 Jul 2003 17:27:46 PDT
+Date: Sat, 26 Jul 2003 17:27:46 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: adventures in cambridge
+To: jandek@cs.northwestern.edu
+In-Reply-To: <BAY8-F27by5T03phaaW0000cd3f@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 27 Jul 2003 00:27:47.0500 (UTC) FILETIME=[E795CEC0:01C353D5]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Yeah...I remember a dicussion about whether Eddie has
+any chops. He has one chop. It does get boring, but
+it's better in my mind than Jandek's single chord.
+
+"Lightin' on fire one night/ Smokin' cigarettes"
+D.M.
+--- Paul Condon <paulgcondon@hotmail.com> wrote:
+> New Nancy? Old Nancy? Christ, Daniel!
+> In Nancy II's defence (ha), I like the way she's
+> barely audible on the first 
+> song on side 2 of The Living End, and becomes more &
+> more prominent as the 
+> record progresses - it's like hearing somebody come
+> out of their shell. I 
+> listened to the album ther other day and enjoyed it
+> more than I had 
+> previously, but I'd say that Eddie's (or whoever's)
+> one solo was wearing a 
+> bit thin by this time.
+> 
+> Paul
+> 
+>
+_________________________________________________________________
+> The new MSN 8: smart spam protection and 2 months
+> FREE*  
+> http://join.msn.com/?page=features/junkmail
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 31827 invoked from network); 27 Jul 2003 05:02:24 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 27 Jul 2003 05:02:24 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 27 Jul 2003 00:02:16 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6R52Fw02733
+	for jandek@cs.northwestern.edu; Sun, 27 Jul 2003 00:02:15 -0500
+Received: (qmail 31697 invoked from network); 27 Jul 2003 04:05:44 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 27 Jul 2003 04:05:44 -0000
+Received: from hotmail.com ([64.4.23.25] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 26 Jul 2003 23:05:24 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sat, 26 Jul 2003 21:05:24 -0700
+Received: from 63.185.201.151 by lw15fd.law15.hotmail.msn.com with HTTP;
+	Sun, 27 Jul 2003 04:05:23 GMT
+X-Originating-IP: [63.185.201.151]
+X-Originating-Email: [majestic12@hotmail.com]
+From: "v c" <majestic12@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: jandek inquiries
+Date: Sat, 26 Jul 2003 23:05:23 -0500
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <Law15-F256ZNAfdeid400005700@hotmail.com>
+X-OriginalArrivalTime: 27 Jul 2003 04:05:24.0245 (UTC) FILETIME=[4E02FC50:01C353F4]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+so ehh.. how are we supposed to know if there's a screening of the film in 
+our area? it would be nice if the site listed them--but i don't think they 
+do. unless i just missed that section.
+
+also, has anyone ever had any luck finding jandek albums in local record 
+stores? i would imagine that some indie shops somewhere must have something 
+of his. i'm in the nyc/nj area. so uh, if anyone knows of any stores in the 
+area, lemme know.
+
+and also, same goes for screenings--please post here if you know of one.
+
+v
+
+_________________________________________________________________
+Add photos to your e-mail with MSN 8. Get 2 months FREE*.  
+http://join.msn.com/?page=features/featuredemail
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 11798 invoked from network); 27 Jul 2003 18:47:26 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 27 Jul 2003 18:47:26 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 27 Jul 2003 13:47:22 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6RIlMl18321
+	for jandek@cs.northwestern.edu; Sun, 27 Jul 2003 13:47:22 -0500
+Received: (qmail 11426 invoked from network); 27 Jul 2003 17:08:34 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 27 Jul 2003 17:08:34 -0000
+Received: from hotmail.com ([65.54.245.6] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 27 Jul 2003 12:08:31 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 27 Jul 2003 10:08:30 -0700
+Received: from 24.239.173.198 by by1fd.bay1.hotmail.msn.com with HTTP;
+	Sun, 27 Jul 2003 17:08:26 GMT
+X-Originating-IP: [24.239.173.198]
+X-Originating-Email: [lukomski@hotmail.com]
+From: "Bob Lukomski" <lukomski@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: jandek inquiries
+Date: Sun, 27 Jul 2003 13:08:26 -0400
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY1-F6hUOCv1OwGzAD00008bf7@hotmail.com>
+X-OriginalArrivalTime: 27 Jul 2003 17:08:30.0549 (UTC) FILETIME=[B4080050:01C35461]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+V...
+
+Finding Jandek in NYC...
+
+Kim's on St. Marks, OtherMusic on E.4th, Earwax in Williamsburg, and the DIA 
+center in Chelsea all proudly have their own Jandek sections... and I'm sure 
+there are other places as well...
+I've often come across Janky in the used bins at Earwax and Kim's...
+
+I still think the best deal is to order directly from Corwood...
+
+
+-Bob
+_____________________________
+Bob Lukomski
+Composer
+
+Brooklyn, NY
+
+http://www.boblukomski.net
+
+
+
+
+From: "v c" <majestic12@hotmail.com>
+>To: jandek@cs.northwestern.edu
+>Subject: jandek inquiries
+>Date: Sat, 26 Jul 2003 23:05:23 -0500
+>
+>
+>so ehh.. how are we supposed to know if there's a screening of the film in 
+>our area? it would be nice if the site listed them--but i don't think they 
+>do. unless i just missed that section.
+>
+>also, has anyone ever had any luck finding jandek albums in local record 
+>stores? i would imagine that some indie shops somewhere must have something 
+>of his. i'm in the nyc/nj area. so uh, if anyone knows of any stores in the 
+>area, lemme know.
+>
+>and also, same goes for screenings--please post here if you know of one.
+>
+>v
+>
+>_________________________________________________________________
+>Add photos to your e-mail with MSN 8. Get 2 months FREE*.  
+>http://join.msn.com/?page=features/featuredemail
+
+_________________________________________________________________
+MSN 8 with e-mail virus protection service: 2 months FREE*  
+http://join.msn.com/?page=features/virus
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 14464 invoked from network); 28 Jul 2003 03:57:43 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 28 Jul 2003 03:57:43 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 27 Jul 2003 22:55:28 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6S3tRP22349
+	for jandek@cs.northwestern.edu; Sun, 27 Jul 2003 22:55:27 -0500
+Received: (qmail 12366 invoked from network); 27 Jul 2003 20:02:13 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 27 Jul 2003 20:02:13 -0000
+Received: from web41402.mail.yahoo.com ([66.218.93.68]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 27 Jul 2003 15:00:29 -0500
+Message-ID: <20030727200028.3032.qmail@web41402.mail.yahoo.com>
+Received: from [151.203.112.20] by web41402.mail.yahoo.com via HTTP; Sun, 27 Jul 2003 13:00:28 PDT
+Date: Sun, 27 Jul 2003 13:00:28 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: jandek inquiries
+To: jandek@cs.northwestern.edu
+In-Reply-To: <BAY1-F6hUOCv1OwGzAD00008bf7@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 27 Jul 2003 20:00:29.0316 (UTC) FILETIME=[BA7EE440:01C35479]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+actually, tiwsted village in cambridge sold them for
+one dollar less than corwood does; but it's still cool
+to order direct, and if you're lucky, you'll get a
+note. Shipment is very very prompt. if only ebay users
+were more like jandek....
+
+D.M.
+--- Bob Lukomski <lukomski@hotmail.com> wrote:
+> V...
+> 
+> Finding Jandek in NYC...
+> 
+> Kim's on St. Marks, OtherMusic on E.4th, Earwax in
+> Williamsburg, and the DIA 
+> center in Chelsea all proudly have their own Jandek
+> sections... and I'm sure 
+> there are other places as well...
+> I've often come across Janky in the used bins at
+> Earwax and Kim's...
+> 
+> I still think the best deal is to order directly
+> from Corwood...
+> 
+> 
+> -Bob
+> _____________________________
+> Bob Lukomski
+> Composer
+> 
+> Brooklyn, NY
+> 
+> http://www.boblukomski.net
+> 
+> 
+> 
+> 
+> >From: "v c" <majestic12@hotmail.com>
+> >To: jandek@cs.northwestern.edu
+> >Subject: jandek inquiries
+> >Date: Sat, 26 Jul 2003 23:05:23 -0500
+> >
+> >
+> >so ehh.. how are we supposed to know if there's a
+> screening of the film in 
+> >our area? it would be nice if the site listed
+> them--but i don't think they 
+> >do. unless i just missed that section.
+> >
+> >also, has anyone ever had any luck finding jandek
+> albums in local record 
+> >stores? i would imagine that some indie shops
+> somewhere must have something 
+> >of his. i'm in the nyc/nj area. so uh, if anyone
+> knows of any stores in the 
+> >area, lemme know.
+> >
+> >and also, same goes for screenings--please post
+> here if you know of one.
+> >
+> >v
+> >
+>
+>_________________________________________________________________
+> >Add photos to your e-mail with MSN 8. Get 2 months
+> FREE*.  
+> >http://join.msn.com/?page=features/featuredemail
+> 
+>
+_________________________________________________________________
+> MSN 8 with e-mail virus protection service: 2 months
+> FREE*  
+> http://join.msn.com/?page=features/virus
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 14739 invoked from network); 28 Jul 2003 03:58:59 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 28 Jul 2003 03:58:59 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 27 Jul 2003 22:58:52 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6S3wpK22436
+	for jandek@cs.northwestern.edu; Sun, 27 Jul 2003 22:58:51 -0500
+Received: (qmail 13766 invoked from network); 28 Jul 2003 01:19:35 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 28 Jul 2003 01:19:35 -0000
+Received: from hotmail.com ([64.4.23.14] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 27 Jul 2003 20:19:29 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 27 Jul 2003 18:19:28 -0700
+Received: from 65.178.49.64 by lw15fd.law15.hotmail.msn.com with HTTP;
+	Mon, 28 Jul 2003 01:19:28 GMT
+X-Originating-IP: [65.178.49.64]
+X-Originating-Email: [majestic12@hotmail.com]
+From: "v c" <majestic12@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: jandek inquiries
+Date: Sun, 27 Jul 2003 20:19:28 -0500
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <Law15-F149rf3yXvEbj0000eb91@hotmail.com>
+X-OriginalArrivalTime: 28 Jul 2003 01:19:28.0964 (UTC) FILETIME=[4A9D6840:01C354A6]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+really?? just a couple weeks ago i was in both other music and kim's and 
+didn't find anything. but both of those stores have such crazy filing 
+systems--especially other music. thanks though, i guess i'll just have to go 
+back.
+
+i am thinking about ordering a bunch of cds directly from corwood as well. 
+it does seem like the way to go.
+
+v
+
+
+From: "Bob Lukomski" <lukomski@hotmail.com>
+>To: jandek@cs.northwestern.edu
+>Subject: Re: jandek inquiries
+>Date: Sun, 27 Jul 2003 13:08:26 -0400
+>
+>V...
+>
+>Finding Jandek in NYC...
+>
+>Kim's on St. Marks, OtherMusic on E.4th, Earwax in Williamsburg, and the 
+>DIA center in Chelsea all proudly have their own Jandek sections... and I'm 
+>sure there are other places as well...
+>I've often come across Janky in the used bins at Earwax and Kim's...
+>
+>I still think the best deal is to order directly from Corwood...
+>
+>
+>-Bob
+>_____________________________
+>Bob Lukomski
+>Composer
+>
+>Brooklyn, NY
+>
+>http://www.boblukomski.net
+>
+>
+>
+>
+>>From: "v c" <majestic12@hotmail.com>
+>>To: jandek@cs.northwestern.edu
+>>Subject: jandek inquiries
+>>Date: Sat, 26 Jul 2003 23:05:23 -0500
+>>
+>>
+>>so ehh.. how are we supposed to know if there's a screening of the film in 
+>>our area? it would be nice if the site listed them--but i don't think they 
+>>do. unless i just missed that section.
+>>
+>>also, has anyone ever had any luck finding jandek albums in local record 
+>>stores? i would imagine that some indie shops somewhere must have 
+>>something of his. i'm in the nyc/nj area. so uh, if anyone knows of any 
+>>stores in the area, lemme know.
+>>
+>>and also, same goes for screenings--please post here if you know of one.
+>>
+>>v
+>>
+>>_________________________________________________________________
+>>Add photos to your e-mail with MSN 8. Get 2 months FREE*.  
+>>http://join.msn.com/?page=features/featuredemail
+>
+>_________________________________________________________________
+>MSN 8 with e-mail virus protection service: 2 months FREE*  
+>http://join.msn.com/?page=features/virus
+
+_________________________________________________________________
+Protect your PC - get McAfee.com VirusScan Online  
+http://clinic.mcafee.com/clinic/ibuy/campaign.asp?cid=3963
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 18124 invoked from network); 28 Jul 2003 13:51:33 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 28 Jul 2003 13:51:33 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 28 Jul 2003 08:46:28 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6SDkRQ28351
+	for jandek@cs.northwestern.edu; Mon, 28 Jul 2003 08:46:27 -0500
+Received: (qmail 15152 invoked from network); 28 Jul 2003 04:32:26 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 28 Jul 2003 04:32:26 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 27 Jul 2003 23:32:06 -0500
+Received: from dylan.cs.northwestern.edu (tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) with ESMTP id h6S4W5823273
+	for <jandek@cs.northwestern.edu>; Sun, 27 Jul 2003 23:32:05 -0500
+Message-Id: <200307280432.h6S4W5823273@dylan.cs.northwestern.edu>
+To: jandek@cs.northwestern.edu
+From: Seth Tisue <seth@tisue.net>
+Subject: Graven Image
+X-Mailer: MH-E 7.4.1; nmh 1.0.4; GNU Emacs 21.2.1
+Date: Sun, 27 Jul 2003 23:32:05 -0500
+X-OriginalArrivalTime: 28 Jul 2003 04:32:06.0566 (UTC) FILETIME=[337B8460:01C354C1]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+Graven Image has now been reissued -- it came in the mail from Corwood a
+few days ago.  So every Jandek album is now in print again!
+
+The packaging has been updated -- new typeface, UPC code.
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 19929 invoked from network); 28 Jul 2003 16:23:01 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 28 Jul 2003 16:23:01 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 28 Jul 2003 11:22:58 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6SGMv231032
+	for jandek@cs.northwestern.edu; Mon, 28 Jul 2003 11:22:57 -0500
+Received: (qmail 19167 invoked from network); 28 Jul 2003 15:33:38 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 28 Jul 2003 15:33:38 -0000
+Received: from web12005.mail.yahoo.com ([216.136.172.213]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 28 Jul 2003 10:32:59 -0500
+Message-ID: <20030728153259.93398.qmail@web12005.mail.yahoo.com>
+Received: from [68.170.159.83] by web12005.mail.yahoo.com via HTTP; Mon, 28 Jul 2003 08:32:59 PDT
+Date: Mon, 28 Jul 2003 08:32:59 -0700 (PDT)
+From: Jason Cooley <jasonx12@yahoo.com>
+Subject: Re: jandek inquiries
+To: v c <majestic12@hotmail.com>, jandek@cs.northwestern.edu
+In-Reply-To: <Law15-F149rf3yXvEbj0000eb91@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 28 Jul 2003 15:32:59.0949 (UTC) FILETIME=[86BD95D0:01C3551D]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Kim's definitely has a lot of the Jandek titles brand
+new on CD, on the first floor.  I've seen used Jandek
+vinyl on the 2nd floor many times.  You just have to
+keep going back.
+
+-- v c <majestic12@hotmail.com> wrote:
+> really?? just a couple weeks ago i was in both other
+> music and kim's and 
+> didn't find anything. but both of those stores have
+> such crazy filing 
+> systems--especially other music. thanks though, i
+> guess i'll just have to go 
+> back.
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 22494 invoked from network); 31 Jul 2003 17:28:02 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 17:28:02 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 12:27:58 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6VHRws22454
+	for jandek@cs.northwestern.edu; Thu, 31 Jul 2003 12:27:58 -0500
+Received: (qmail 22358 invoked from network); 31 Jul 2003 17:18:58 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 17:18:58 -0000
+Received: from mailsrv2.ohsu.edu ([137.53.1.35]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 12:18:54 -0500
+Received: from mailsrv2.ohsu.edu (localhost [127.0.0.1])
+	by mailsrv2.ohsu.edu (8.12.9/8.12.9) with ESMTP id h6VHIqEP010213
+	for <jandek@cs.northwestern.edu>; Thu, 31 Jul 2003 10:18:52 -0700 (PDT)
+Received: from gwsmtp.ohsu.edu (ngw19.ohsu.edu [137.53.4.219])
+	by mailsrv2.ohsu.edu (8.12.9/8.12.9) with SMTP id h6VHIpOf010203
+	for <jandek@cs.northwestern.edu>; Thu, 31 Jul 2003 10:18:51 -0700 (PDT)
+Received: from gwiadom1-Message_Server by gwsmtp.ohsu.edu
+	with Novell_GroupWise; Thu, 31 Jul 2003 10:18:51 -0700
+Message-Id: <sf28ed0b.018@gwsmtp.ohsu.edu>
+X-Mailer: Novell GroupWise Internet Agent 5.5.6.1
+Date: Thu, 31 Jul 2003 10:18:44 -0700
+From: "Mark Poroli" <porolim@ohsu.edu>
+To: <jandek@cs.northwestern.edu>
+Subject: jandek
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_5A04416B.3859433A"
+X-OriginalArrivalTime: 31 Jul 2003 17:18:55.0050 (UTC) FILETIME=[D1EA4AA0:01C35787]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This is a MIME message. If you are reading this text, you may want to 
+consider changing to a mail reader or gateway that understands how to 
+properly handle MIME multipart messages.
+
+--=_5A04416B.3859433A
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+I have a theory that Jandek is Sterling Smith's mother's maiden name.
+=20
+Just won and received The Units Ready for the house LP from ebay heard for =
+first time today I say its one of his best and  its version of european =
+jewell dispells my other theory that his recordings are also a progression =
+of learning how to play guitar etc. obviously he created and has always =
+had his own distinct style
+
+--=_5A04416B.3859433A
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Description: HTML
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1"=
+>
+<META content=3D"MSHTML 6.00.2800.1126" name=3DGENERATOR></HEAD>
+<BODY style=3D"MARGIN-TOP: 2px; FONT: 8pt Tahoma; MARGIN-LEFT: 2px"><FONT =
+size=3D2>I=20
+have a theory that Jandek is Sterling Smith's mother's maiden=20
+name.<BR>&nbsp;<BR>Just won and received The Units Ready for the house LP =
+from=20
+ebay heard for first time today I say its one of his best and&nbsp; its =
+version=20
+of european jewell dispells my other theory that his recordings are also =
+a=20
+progression of learning how to play guitar etc. obviously he created and =
+has=20
+always had his own distinct style</FONT></BODY></HTML>
+
+--=_5A04416B.3859433A--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 23308 invoked from network); 31 Jul 2003 18:16:02 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:16:02 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:15:47 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6VIFkb23013
+	for jandek@cs.northwestern.edu; Thu, 31 Jul 2003 13:15:46 -0500
+Received: (qmail 23032 invoked from network); 31 Jul 2003 17:49:15 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 17:49:15 -0000
+Received: from hotmail.com ([64.4.27.118] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 12:47:15 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 31 Jul 2003 10:47:14 -0700
+Received: from 193.120.45.132 by by8fd.bay8.hotmail.msn.com with HTTP;
+	Thu, 31 Jul 2003 17:47:14 GMT
+X-Originating-IP: [193.120.45.132]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: outsiders on tv
+Date: Thu, 31 Jul 2003 17:47:14 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY8-F118oHSQMKXgXg0001cef0@hotmail.com>
+X-OriginalArrivalTime: 31 Jul 2003 17:47:14.0870 (UTC) FILETIME=[C7163D60:01C3578B]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+There was a TV programme on Channel 4 (UK) last night called "The 
+Outsiders", mainly centring on Irwin Chusid and a few of his favourites. 
+Shooby Taylor, BJ Snowden, Bingo Gazingo, Peter Grudzien and Alvin Dahn were 
+featured, but not a mention of Jandek. This is probably not a bad thing, 
+since Chusid is unlikely to say anything particularly positive about Jandek 
+- then again he has recently stated that he has said everything he wants to 
+about him. He wasn't such a great Jandek commentator anyway, and never 
+betrayed any emotional involvement with the music. And as refreshing and 
+enjoyable as I find the above artists, I suspect Jandek's style is somewhat 
+more deliberate and self-conscious.
+Good to see Shooby, BJ and co. givin' out their various brands of good vibes 
+though.
+
+Paul
+
+_________________________________________________________________
+Protect your PC - get McAfee.com VirusScan Online 
+http://clinic.mcafee.com/clinic/ibuy/campaign.asp?cid=3963
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 23309 invoked from network); 31 Jul 2003 18:16:02 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:16:02 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:15:51 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6VIFpP23038
+	for jandek@cs.northwestern.edu; Thu, 31 Jul 2003 13:15:51 -0500
+Received: (qmail 23176 invoked from network); 31 Jul 2003 17:58:54 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 17:58:54 -0000
+Received: from rwcrmhc13.comcast.net ([204.127.198.39]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 12:58:30 -0500
+Received: from rwcrwbc05 (unknown[204.127.197.115](misconfigured sender))
+          by comcast.net (rwcrmhc13) with SMTP
+          id <2003073117583001500qnf6ce>; Thu, 31 Jul 2003 17:58:30 +0000
+Received: from [67.64.101.33] by rwcrwbc05;
+	Thu, 31 Jul 2003 17:58:25 +0000
+From: picturesoftakingfish@comcast.net
+To: jandek@cs.northwestern.edu
+Subject: New Corwood Address?
+Date: Thu, 31 Jul 2003 17:58:25 +0000
+X-Mailer: AT&T Message Center Version 1 (Jul 22 2003)
+X-Authenticated-Sender: cGljdHVyZXNvZnRha2luZ2Zpc2hAY29tY2FzdC5uZXQ=
+Message-ID: <MAIL1TUSzbAUfKRfcjc00000bf2@mail1.cs.northwestern.edu>
+X-OriginalArrivalTime: 31 Jul 2003 17:58:30.0706 (UTC) FILETIME=[59EAA120:01C3578D]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Hi, I'm new to the list so forgive me if this is old news.  Under the yellow 
+pages section of Yahoo there is a physical address for Corwood Industries.  
+It's listed as 4326 Scotland St. Houston, TX 77007.  Is this news to anyone?
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 23994 invoked from network); 31 Jul 2003 18:28:36 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:28:36 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:28:33 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6VISWI23273
+	for jandek@cs.northwestern.edu; Thu, 31 Jul 2003 13:28:32 -0500
+Received: (qmail 23945 invoked from network); 31 Jul 2003 18:25:03 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:25:03 -0000
+Received: from web41405.mail.yahoo.com ([66.218.93.71]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:24:59 -0500
+Message-ID: <20030731182458.30582.qmail@web41405.mail.yahoo.com>
+Received: from [141.154.83.224] by web41405.mail.yahoo.com via HTTP; Thu, 31 Jul 2003 11:24:58 PDT
+Date: Thu, 31 Jul 2003 11:24:58 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: outsiders on tv
+To: jandek@cs.northwestern.edu
+In-Reply-To: <BAY8-F118oHSQMKXgXg0001cef0@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 31 Jul 2003 18:24:59.0660 (UTC) FILETIME=[0D01C4C0:01C35791]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I don't think Chusid is so bad. He's just a realist.
+It's clear he doesn't enjoy the music, but he respects
+Jandek's "thing", that is, what he does and the way he
+does it. And don't forget, Sterling himself refered to
+Chusid as his "mentor"... without Chusid's "interest",
+he would have quit before ever releasing "Six and Six"
+(or anything that followed it). For that, we should
+all thank Chusid, regardless of his being a
+condescending chump most of the time. 
+
+D.M.
+--- Paul Condon <paulgcondon@hotmail.com> wrote:
+> There was a TV programme on Channel 4 (UK) last
+> night called "The 
+> Outsiders", mainly centring on Irwin Chusid and a
+> few of his favourites. 
+> Shooby Taylor, BJ Snowden, Bingo Gazingo, Peter
+> Grudzien and Alvin Dahn were 
+> featured, but not a mention of Jandek. This is
+> probably not a bad thing, 
+> since Chusid is unlikely to say anything
+> particularly positive about Jandek 
+> - then again he has recently stated that he has said
+> everything he wants to 
+> about him. He wasn't such a great Jandek commentator
+> anyway, and never 
+> betrayed any emotional involvement with the music.
+> And as refreshing and 
+> enjoyable as I find the above artists, I suspect
+> Jandek's style is somewhat 
+> more deliberate and self-conscious.
+> Good to see Shooby, BJ and co. givin' out their
+> various brands of good vibes 
+> though.
+> 
+> Paul
+> 
+>
+_________________________________________________________________
+> Protect your PC - get McAfee.com VirusScan Online 
+>
+http://clinic.mcafee.com/clinic/ibuy/campaign.asp?cid=3963
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 24179 invoked from network); 31 Jul 2003 18:28:42 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:28:42 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:28:39 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6VISco23297
+	for jandek@cs.northwestern.edu; Thu, 31 Jul 2003 13:28:38 -0500
+Received: (qmail 23979 invoked from network); 31 Jul 2003 18:27:17 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:27:17 -0000
+Received: from web41407.mail.yahoo.com ([66.218.93.73]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:26:34 -0500
+Message-ID: <20030731182634.33158.qmail@web41407.mail.yahoo.com>
+Received: from [141.154.83.224] by web41407.mail.yahoo.com via HTTP; Thu, 31 Jul 2003 11:26:34 PDT
+Date: Thu, 31 Jul 2003 11:26:34 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: New Corwood Address?
+To: jandek@cs.northwestern.edu
+In-Reply-To: <MAIL1TUSzbAUfKRfcjc00000bf2@mail1.cs.northwestern.edu>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 31 Jul 2003 18:26:34.0550 (UTC) FILETIME=[4590D560:01C35791]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+It's news to me. I've never heard of that address...
+There is of course the Cummins drive address, but that
+has been confirmed by Smith to be abandoned. 
+
+D.M.
+--- picturesoftakingfish@comcast.net wrote:
+> Hi, I'm new to the list so forgive me if this is old
+> news.  Under the yellow 
+> pages section of Yahoo there is a physical address
+> for Corwood Industries.  
+> It's listed as 4326 Scotland St. Houston, TX 77007. 
+> Is this news to anyone?
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 24694 invoked from network); 31 Jul 2003 18:38:23 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:38:23 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:38:04 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6VIc3Z23377
+	for jandek@cs.northwestern.edu; Thu, 31 Jul 2003 13:38:03 -0500
+Received: (qmail 24618 invoked from network); 31 Jul 2003 18:35:09 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:35:09 -0000
+Received: from lion.esosoft.net ([66.113.66.12]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:35:05 -0500
+Received: from user-0vvd91c.cable.mindspring.com ([63.246.164.44] helo=exit)
+	by lion.esosoft.net with esmtp (Exim 3.36 #1)
+	id 19iIGU-0006rS-00; Thu, 31 Jul 2003 11:35:03 -0700
+Reply-To: <exit@exitproductions.com>
+From: "Ben Londa" <exit@exitproductions.com>
+To: "'Daniel Marks'" <alfredggnome@yahoo.com>, <jandek@cs.northwestern.edu>
+Subject: RE: New Corwood Address?
+Date: Thu, 31 Jul 2003 13:35:08 -0500
+Message-ID: <000e01c35792$781771f0$5f0a0a0a@exit>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+In-Reply-To: <20030731182634.33158.qmail@web41407.mail.yahoo.com>
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+Importance: Normal
+X-OriginalArrivalTime: 31 Jul 2003 18:35:05.0644 (UTC) FILETIME=[763396C0:01C35792]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Jandek/Sterling/Corwood now lives at the Scotland St. address... It's a
+duplex..
+
+> -----Original Message-----
+> From: owner-jandek@cs.northwestern.edu 
+> [mailto:owner-jandek@cs.northwestern.edu] On Behalf Of Daniel Marks
+> Sent: Thursday, July 31, 2003 1:27 PM
+> To: jandek@cs.northwestern.edu
+> Subject: Re: New Corwood Address?
+> 
+> 
+> It's news to me. I've never heard of that address...
+> There is of course the Cummins drive address, but that
+> has been confirmed by Smith to be abandoned. 
+> 
+> D.M.
+> --- picturesoftakingfish@comcast.net wrote:
+> > Hi, I'm new to the list so forgive me if this is old
+> > news.  Under the yellow
+> > pages section of Yahoo there is a physical address
+> > for Corwood Industries.  
+> > It's listed as 4326 Scotland St. Houston, TX 77007. 
+> > Is this news to anyone?
+> 
+> 
+> __________________________________
+> Do you Yahoo!?
+> Yahoo! SiteBuilder - Free, easy-to-use web site design software
+> http://sitebuilder.yahoo.com
+> 
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 24984 invoked from network); 31 Jul 2003 18:39:38 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:39:38 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:38:55 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6VIcse23421
+	for jandek@cs.northwestern.edu; Thu, 31 Jul 2003 13:38:54 -0500
+Received: (qmail 24618 invoked from network); 31 Jul 2003 18:35:09 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:35:09 -0000
+Received: from lion.esosoft.net ([66.113.66.12]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:35:05 -0500
+Received: from user-0vvd91c.cable.mindspring.com ([63.246.164.44] helo=exit)
+	by lion.esosoft.net with esmtp (Exim 3.36 #1)
+	id 19iIGU-0006rS-00; Thu, 31 Jul 2003 11:35:03 -0700
+Reply-To: <exit@exitproductions.com>
+From: "Ben Londa" <exit@exitproductions.com>
+To: "'Daniel Marks'" <alfredggnome@yahoo.com>, <jandek@cs.northwestern.edu>
+Subject: RE: New Corwood Address?
+Date: Thu, 31 Jul 2003 13:35:08 -0500
+Message-ID: <000e01c35792$781771f0$5f0a0a0a@exit>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+In-Reply-To: <20030731182634.33158.qmail@web41407.mail.yahoo.com>
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+Importance: Normal
+X-OriginalArrivalTime: 31 Jul 2003 18:35:05.0644 (UTC) FILETIME=[763396C0:01C35792]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Jandek/Sterling/Corwood now lives at the Scotland St. address... It's a
+duplex..
+
+> -----Original Message-----
+> From: owner-jandek@cs.northwestern.edu 
+> [mailto:owner-jandek@cs.northwestern.edu] On Behalf Of Daniel Marks
+> Sent: Thursday, July 31, 2003 1:27 PM
+> To: jandek@cs.northwestern.edu
+> Subject: Re: New Corwood Address?
+> 
+> 
+> It's news to me. I've never heard of that address...
+> There is of course the Cummins drive address, but that
+> has been confirmed by Smith to be abandoned. 
+> 
+> D.M.
+> --- picturesoftakingfish@comcast.net wrote:
+> > Hi, I'm new to the list so forgive me if this is old
+> > news.  Under the yellow
+> > pages section of Yahoo there is a physical address
+> > for Corwood Industries.  
+> > It's listed as 4326 Scotland St. Houston, TX 77007. 
+> > Is this news to anyone?
+> 
+> 
+> __________________________________
+> Do you Yahoo!?
+> Yahoo! SiteBuilder - Free, easy-to-use web site design software
+> http://sitebuilder.yahoo.com
+> 
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 24989 invoked from network); 31 Jul 2003 18:39:38 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:39:38 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:38:56 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6VIcuT23445
+	for jandek@cs.northwestern.edu; Thu, 31 Jul 2003 13:38:56 -0500
+Received: (qmail 24682 invoked from network); 31 Jul 2003 18:38:23 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:38:23 -0000
+Received: from hotmail.com ([64.4.19.55] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:37:11 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 31 Jul 2003 11:37:10 -0700
+Received: from 63.189.41.26 by lw12fd.law12.hotmail.msn.com with HTTP;
+	Thu, 31 Jul 2003 18:37:10 GMT
+X-Originating-IP: [63.189.41.26]
+X-Originating-Email: [sandman_142@hotmail.com]
+From: "Paul Frederick" <sandman_142@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: New Corwood Address?
+Date: Thu, 31 Jul 2003 13:37:10 -0500
+Mime-Version: 1.0
+Content-Type: text/html
+Message-ID: <Law12-F55cLsXJB7oDa0001baa5@hotmail.com>
+X-OriginalArrivalTime: 31 Jul 2003 18:37:10.0515 (UTC) FILETIME=[C0A16430:01C35792]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<html><div style='background-color:'><DIV>
+<P><BR><BR></P>
+<DIV>
+<DIV></DIV>
+<P><BR><BR></P></DIV></DIV>
+<DIV></DIV>&gt;Under the yellow 
+<DIV></DIV>
+<DIV></DIV>&gt;pages section of Yahoo there is a physical address for Corwood Industries. 
+<DIV></DIV>
+<DIV></DIV>&gt;It's listed as 4326 Scotland St. Houston, TX 77007. Is this news to anyone? 
+<DIV></DIV>
+<DIV><BR><BR>The PO Box is the preferred address for correspondence/inquiries/etc.&nbsp; The address you mention is a grand edifice that Corwood uses to impress potential signees to the label.<BR><BR>I was talking to 50 Cent the other day and he was telling me about a trip to Corwood's "infamous" Scotland Street building where&nbsp;three Corwood Ind. A&amp;R guys plied him with strong drink and attractive&nbsp;(if "trashy looking"... [50's words, not mine]) females... trying to get him to sign a contract.<BR><BR>The contract, apparently, wasn't to 50's liking (promising him only 16 points, and almost no back end on international releases [handled by "Corwood-Europe"]) and he had&nbsp;his wits about him enough to decline.&nbsp; He still calls Corwood a "first class operation" though, and says "they know how to treat their talent."<BR><BR>Paul&nbsp;</DIV>
+<DIV></DIV></div><br clear=all><hr>The new <a href="http://g.msn.com/8HMVENUS/2737??PS=">MSN 8:</a> smart spam protection and 2 months FREE* </html>
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 25616 invoked from network); 31 Jul 2003 18:48:33 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:48:33 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:48:30 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6VImTU23591
+	for jandek@cs.northwestern.edu; Thu, 31 Jul 2003 13:48:29 -0500
+Received: (qmail 25584 invoked from network); 31 Jul 2003 18:47:00 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 18:47:00 -0000
+Received: from hotmail.com ([64.4.19.90] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 13:46:56 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 31 Jul 2003 11:46:56 -0700
+Received: from 63.189.41.26 by lw12fd.law12.hotmail.msn.com with HTTP;
+	Thu, 31 Jul 2003 18:46:55 GMT
+X-Originating-IP: [63.189.41.26]
+X-Originating-Email: [sandman_142@hotmail.com]
+From: "Paul Frederick" <sandman_142@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: chusid/jandek relationship
+Date: Thu, 31 Jul 2003 13:46:55 -0500
+Mime-Version: 1.0
+Content-Type: text/html
+Message-ID: <Law12-F90Q6KLV47ozI0001b9a5@hotmail.com>
+X-OriginalArrivalTime: 31 Jul 2003 18:46:56.0142 (UTC) FILETIME=[1DB0FAE0:01C35794]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<html><div style='background-color:'><DIV>
+<DIV></DIV></DIV>
+<DIV></DIV>&gt;does it. And don't forget, Sterling himself refered to 
+<DIV></DIV>&gt;Chusid as his "mentor"... without Chusid's "interest", 
+<DIV></DIV>&gt;he would have quit before ever releasing "Six and Six" 
+<DIV></DIV>&gt;(or anything that followed it). For that, we should 
+<DIV></DIV>&gt;all thank Chusid, regardless of his being a 
+<DIV></DIV>&gt;condescending chump most of the time. <BR><BR>I ain't mad at Mr. Chusid... but I have a healthy skepticism surrounding the "mentor" claim.<BR><BR>I have seen (with my own eyes) a letter from Corwood (c. 1980) thanking Phil Milstein for his review of RFtH and saying words to the effect of "You are the reason that I continued making music after RFtH."&nbsp;&nbsp; Now... whether IC appropriated&nbsp;this story, I don't know... It could be that Jandek was just feeling rather thankful (to many parties) at the time.&nbsp; <BR><BR>Based on the fact that this behavior didn't manifest itself at any other time (I don't know of him lauding and thanking anyone else to this degree, at any later date), I have an inclination to doubt that Jandek indulged too many music writer egos at that time, either.<BR><BR>If Chusid told me that Jandek said this about him, I would believe him.&nbsp; But I'm not sure he's ever done more than alluded to this fact up to this point.&nbsp; Was 
+ there a specific article that you were drawing from, Daniel?&nbsp; (This is quite possible, as I've lapsed on reading the Chusid/Jandek canon).<BR><BR>Paul
+<DIV></DIV>
+<DIV><BR><BR>&nbsp;</DIV></div><br clear=all><hr>The new <a href="http://g.msn.com/8HMVENUS/2737??PS=">MSN 8:</a> smart spam protection and 2 months FREE* </html>
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 27885 invoked from network); 31 Jul 2003 22:29:06 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 22:29:06 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 17:26:44 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h6VMQhP25861
+	for jandek@cs.northwestern.edu; Thu, 31 Jul 2003 17:26:43 -0500
+Received: (qmail 27438 invoked from network); 31 Jul 2003 21:41:32 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 31 Jul 2003 21:41:32 -0000
+Received: from web41410.mail.yahoo.com ([66.218.93.76]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 31 Jul 2003 16:41:28 -0500
+Message-ID: <20030731214127.35028.qmail@web41410.mail.yahoo.com>
+Received: from [141.154.115.160] by web41410.mail.yahoo.com via HTTP; Thu, 31 Jul 2003 14:41:27 PDT
+Date: Thu, 31 Jul 2003 14:41:27 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: chusid/jandek relationship
+To: Jandek@cs.northwestern.edu
+In-Reply-To: <Law12-F90Q6KLV47ozI0001b9a5@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 31 Jul 2003 21:41:28.0128 (UTC) FILETIME=[7F7B3C00:01C357AC]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+In the LCD 22 article on WFMU's website, Chusid
+mentions Jandek calling him his "mentor". I also
+understand there is more about it in "Songs in the Key
+of Z", although I've never read the book. Also, I
+think he said something about it in the WHRB
+interview... or maybe it was Byron Coley... And as for
+the Milstein stuff...I guess we have him to thank as
+well. 
+
+D.M. 
+--- Paul Frederick <sandman_142@hotmail.com> wrote:
+
+---------------------------------
+
+
+
+>does it. And don't forget, Sterling himself refered
+to 
+>Chusid as his "mentor"... without Chusid's
+"interest", 
+>he would have quit before ever releasing "Six and
+Six" 
+>(or anything that followed it). For that, we should 
+>all thank Chusid, regardless of his being a 
+>condescending chump most of the time. 
+
+I ain't mad at Mr. Chusid... but I have a healthy
+skepticism surrounding the "mentor" claim.
+
+I have seen (with my own eyes) a letter from Corwood
+(c. 1980) thanking Phil Milstein for his review of
+RFtH and saying words to the effect of "You are the
+reason that I continued making music after RFtH."  
+Now... whether IC appropriated this story, I don't
+know... It could be that Jandek was just feeling
+rather thankful (to many parties) at the time.  
+
+Based on the fact that this behavior didn't manifest
+itself at any other time (I don't know of him lauding
+and thanking anyone else to this degree, at any later
+date), I have an inclination to doubt that Jandek
+indulged too many music writer egos at that time,
+either.
+
+If Chusid told me that Jandek said this about him, I
+would believe him.  But I'm not sure he's ever done
+more than alluded to this fact up to this point.  Was 
+there a specific article that you were drawing from,
+Daniel?  (This is quite possible, as I've lapsed on
+reading the Chusid/Jandek canon).
+
+Paul
+
+
+ 
+
+
+
+---------------------------------
+The new MSN 8: smart spam protection and 2 months
+FREE* 
+
+
+__________________________________
+Do you Yahoo!?
+Yahoo! SiteBuilder - Free, easy-to-use web site design software
+http://sitebuilder.yahoo.com

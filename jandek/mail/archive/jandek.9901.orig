@@ -1,0 +1,855 @@
+From NCR13@aol.com Wed Jan 06 03:25:27 1999
+Return-Path: <NCR13@aol.com>
+Delivered-To: jandek@cs.nwu.edu
+Received: (qmail 13778 invoked from network); 6 Jan 1999 03:25:26 -0000
+Received: from imo19.mx.aol.com (198.81.17.9)
+  by godzilla.cs.nwu.edu with SMTP; 6 Jan 1999 03:25:26 -0000
+Received: from NCR13@aol.com
+	by imo19.mx.aol.com (IMOv18.1) id FQPWa18627
+	 for <jandek@cs.nwu.edu>; Tue, 5 Jan 1999 22:24:07 +1900 (EST)
+From: NCR13@aol.com
+Message-ID: <f17610ef.3692d757@aol.com>
+Date: Tue, 5 Jan 1999 22:24:07 EST
+To: jandek@cs.nwu.edu
+Mime-Version: 1.0
+Subject: a Jandek article
+Content-type: text/plain; charset=US-ASCII
+Content-transfer-encoding: 7bit
+X-Mailer: AOL 4.0 for Windows 95 sub 214
+
+
+I scored this article from Pulse magazine (Tower Records' giveaway thing) back
+in July of '96 but had lost it in my cellar until today. It's called "You Want
+Alternative?" by Irwin Chusid, and deals with the usual questionably-insane
+artists: the Shaggs, Wesley Willis, Tiny Tim, and....Jandek! This may prove
+informative or totally erroneous, but it is pretty amusing. Here it is,
+unedited:
+
+"How to describe Jandek? Like most amateur rock crits, start by comparing him
+to the Beatles. Then strip away melody, catchy hooks, rhythm and harmony. Next
+toss out vocal and instrumental ability, along with any trace of human emotion
+other than pain. Aside from these deficiencies, he's EXACTLY like the Fab
+Four. Or maybe the Velvet Underground, AFTER taxes.
+"Jandek sounds like a muttering sleepwalker strumming an out-of-tune tennis
+racket. His "music" is dark and gloomy, past the point of no return. It won't
+make you sad; it will make you tense and uncomfortable. You'll love it or hate
+it---and for every one of the former, there are a million of the latter.
+Sample song titles: "Painted My Teeth", "Twelve Minutes Since February 32'nd"
+(sic), "Janitor's Dead". He sometimes plays harmonica, sounding like Neil
+Young having an asthma attack. Occasionally he's backed by a drummer who seems
+to have no familiarity with the instrument, but simply pounds away
+relentlessly with no ground beat. It's purgative. After five minutes of
+listening to Jandek, ANYTHING sounds good!
+"His real name is Sterling R. Smith, and he's based somewhere around Houston.
+(Please don't call the one in the Houston phone book--it's not him.) Since
+1978, Smith has issued at least 25 full-length 12-inch vinyl albums--no 7-inch
+or 12-inch singles, no remixes, no cassettes, (until very recently) no CDs and
+no videos. His albums contain no liner notes and there's no press kit. He does
+not perform in public or grant interviews. His records rarely turn up in
+stores, even in second-hand shops. Someone is pouring a lot of money into a
+deep, dark hole.
+"I was onto Smith from his first release, READY FOR THE HOUSE, and we
+corresponded briefly in 1980-81. One of his notes implored: "Send me some
+addresses of record stores...that deal in my music and I'll ship them free
+boxes of my recordings. I need to move them." After several letters and a few
+enigmatic phone conversations, we lost contact. He has continued to release at
+least one album a year, all of which escape critical notice. Each, to quote
+journalist and fan Byron Coley, "blows around the country like an old dead
+leaf painted purple."
+Delivered-To: jandek@cs.nwu.edu
+Message-ID: <19990119030526.24818.qmail@cs.nwu.edu>
+Received: (qmail 24809 invoked from network); 19 Jan 1999 03:05:26 -0000
+Received: from localhost (HELO Godzilla.cs.nwu.edu) (tisue@127.0.0.1)
+  by localhost with SMTP; 19 Jan 1999 03:05:25 -0000
+Subject: Jandek list: new software
+To: jandek@cs.nwu.edu
+From: Seth Tisue <s-tisue@nwu.edu>
+Date: Mon, 18 Jan 1999 21:05:25 -0600
+Sender: owner-jandek@cs.nwu.edu
+Precedence: bulk
+
+
+The Jandek mailing list is now running on new mailing list software.
+(If you care, the old software was qmail, the new software is
+majordomo.)
+
+What has changed:
+
+- The list should be more reliable now.  (Before, whenever someone
+  subscribed, the list immediately broke, until I fixed it...)
+
+- The instructions for subscribing and unsubscribing.  The address
+  is still jandek-request@cs.nwu.edu.  Before, you sent a blank
+  message to subscribe; now, you have to send the word "subscribe"
+  in the message body.  To unsubscribe, send the word "unsubscribe"
+  in the message body.
+
+- The list archives are no longer available through the web page;
+  they're available instead by E-mail from the mailing list server.
+  Send the command "index" to jandek-request@cs.nwu.edu for a list
+  of available files; then send a "get" command to retrieve a
+  particular file, for example, "get jandek.9812".  You can retrieve
+  a bunch of files at once by just stringing together more "get"
+  commands.
+
+What hasn't changed:
+
+- To post to the list, send to: jandek@cs.nwu.edu
+
+- To contact the human list owner (me), send to: jandek-owner@cs.nwu.edu
+
+== Seth Tisue <s-tisue@nwu.edu>         http://www.cs.nwu.edu/~tisue/
+"In the future we'll invent more junk!" - Gang of Four
+
+Delivered-To: jandek@cs.nwu.edu
+Message-ID: <19990120034605.12681.qmail@cs.nwu.edu>
+Received: (qmail 12672 invoked from network); 20 Jan 1999 03:46:01 -0000
+Received: from localhost (HELO Godzilla.cs.nwu.edu) (tisue@127.0.0.1)
+  by localhost with SMTP; 20 Jan 1999 03:46:01 -0000
+Subject: Corwood flyer scan available
+To: jandek@cs.nwu.edu
+From: Seth Tisue <s-tisue@nwu.edu>
+Date: Tue, 19 Jan 1999 21:46:01 -0600
+Sender: owner-jandek@cs.nwu.edu
+Precedence: bulk
+
+
+Check it out:
+
+  315x406, 66K version:
+  <http://www.cs.nwu.edu/~tisue/jandek/flyer-small.gif>
+
+  1260x1627, 143K version:
+  <http://www.cs.nwu.edu/~tisue/jandek/flyer.jpg>
+
+It's from 1989 and shows the 60-for-$25 deal.
+
+Thanks to Steve Silverstein for supplying the original,
+
+== Seth Tisue <s-tisue@nwu.edu>         http://www.cs.nwu.edu/~tisue/
+"In the future we'll invent more junk!" - Gang of Four
+
+Delivered-To: jandek@cs.nwu.edu
+Received: (qmail 20994 invoked from network); 25 Jan 1999 18:08:53 -0000
+Received: from send102.yahoomail.com (205.180.60.90)
+  by godzilla.cs.nwu.edu with SMTP; 25 Jan 1999 18:08:53 -0000
+Message-ID: <19990125181102.29903.rocketmail@send102.yahoomail.com>
+Received: from [207.155.224.37] by send102.yahoomail.com; Mon, 25 Jan 1999 10:11:02 PST
+Date: Mon, 25 Jan 1999 10:11:02 -0800 (PST)
+From: brad emrich <bradleybee@yahoo.com>
+Subject: Jandek for sale
+To: jandek@cs.nwu.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Sender: owner-jandek@cs.nwu.edu
+Precedence: bulk
+
+I am offering my personal Jandek vinyl collection up for sale.
+The sale is set prices, first come-first served.
+$20	0760	twelfth apostle
+$20	0759	Lost cause
+$20	0758	one foot in the north
+$20	0757	somebody in the snow
+$20	0756	the living end
+$25	0755	on the way
+$25	0754	you walk alone
+$25	0753	Blue corpse
+$35	0749	Foreign keys
+$40	0742	chair beside a window
+$40	0741	later on
+$40	0740	six and six
+As a bonus, every record will contain a xerox of an official Corwood
+discography.
+
+I am also offering for sale the following Sonic Youth items:
+$20	goo 1		4 tunna brix lp
+$20	goo 2		hold that tiger lp
+$50	chat 1		"Sister" interview disc
+$30	#116/1000 	live in Bremen picture disc
+$20	e#38		t.v. shit 12"
+$15	GFST22132 	"Little trouble girl" 12"
+As a bonus, every record will contain a xerox of P.F.D. tour flyer.
+
+Person to person postage will be $5 in the U.S., $10 for outside the
+U.S.
+Send check or money order with name, address & e-mail to:
+Brad Emrich
+11520 Mullins Dr.
+Houston, TX 77035
+If it is convenient for you to visit the S.W. Houston area,
+ and you would prefer a direct Cash transaction, 
+ please e-mail bradleybee@yahoo.com to set an appointment.
+Packages will be sent after your check clears my bank account.
+Feel free to send concealed cash, but please understand that I will
+not be responsible for cash stolen in the mail.
+
+
+
+
+
+_________________________________________________________
+DO YOU YAHOO!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+Delivered-To: jandek@cs.nwu.edu
+Message-ID: <19990126172243.16898.qmail@cs.nwu.edu>
+Received: (qmail 16889 invoked from network); 26 Jan 1999 17:22:42 -0000
+Received: from localhost (HELO Godzilla.cs.nwu.edu) (tisue@127.0.0.1)
+  by localhost with SMTP; 26 Jan 1999 17:22:42 -0000
+Subject: More lyrics
+To: jandek@cs.nwu.edu
+From: Seth Tisue <s-tisue@nwu.edu>
+Date: Tue, 26 Jan 1999 11:22:42 -0600
+Sender: owner-jandek@cs.nwu.edu
+Precedence: bulk
+
+
+Here are the lyrics to Interstellar Discussion (1984), Nine-Thirty (1985),
+and Blue Corpse (1987), courtesy of Ryan Hildebrand (thank you Ryan!).
+
+These albums contain some of Jandek's most lyrically intense material
+-- check out "This is a Death Dream", "Only Lover", "Rifle in the
+Closet" (?! weird), etc.  Also of note is the Southern travelogue
+spread across several songs on Nine-Thirty ("You people sure are
+strange to a city boy from up north"?!).
+
+All the lyrics transcribed so far are always on the web at
+<http://www.cs.nwu.edu/~tisue/jandek/lyrics.html>.
+
+   STARLESS (Interstellar Discussion 1/1)
+   I must say what I say
+   Listen -- what I say
+   
+   HEY (Interstellar Discussion 1/2)
+   Hey
+   I'm gonna chase your blues away
+   Hey
+   A-won't you come along?
+   Hey hey hey...
+   
+   WALTZ IN TWO-FOURTHS TIME (Interstellar Discussion 1/4)
+   We ain't gonna let you wash your car
+   Said we ain't gonna let you wash your car
+   It's so damn dirty you can't see too far
+   Take me back
+   Take me bones
+   And take my blood
+   And dash it all (?)
+   Let's go! Ohhhh...
+   
+   CALL YOU THE SUN (Interstellar Discussion 1/5)
+   You come around at (morning?)
+   They call you the sun
+   Gonna ???
+   ??? and get you baby
+   You come at night
+   They call you darkness
+   You come in the morning
+   They call you the sun
+   
+   I AIN'T GOT NONE (Interstellar Discussion 1/6)
+   Just because you're lonely
+   Just because your mother took your daughter from her only
+   Da da da da da da...
+   Just because you're lonely
+   Just because your mother took your daughter from you, oh no
+   Think you -- come around -- here
+   Asking for my son
+   I just have to tell you I ain't got none
+   I have to tell you that I ain't got none
+   
+   THE SPIRIT (Interstellar Discussion 1/7)
+   Sitting in your morning sun
+   Old black night has all been done
+   Once again your picture's new
+   Seems it's quiet just like you
+   Looking at a miracle
+   Living in a natural way
+   Lord, I know that you're the one
+   With me the morning sun
+   
+   RIFLE IN THE CLOSET (Interstellar Discussion 2/1)
+   Hey John
+   Stopped by this afternoon
+   To see you in the purple moon
+   Best I say what's on my mind
+   Best I say what's on my mind
+   Hey John, John, John, John...
+   Hey John I'm walking on pins
+   My life is a lie and I'm telling you the truth
+   There's nothing else I can do
+   Except live another day
+   And find a way to tell you
+   I've been doing what a good man should
+   Hey John (I hate John?)
+   My eyes have been crying
+   And we've been making (?)
+   Coffee's no good in the morn'
+   Beer ain't no good at night
+   I hate John
+   The theatre's been dripping
+   The movie's 3D
+   There's two rides to Texas
+   547-3668
+   I hate John
+   The rifle in the closet is just the name the song
+   The rifle in the closet is just the name of my song
+   Hey John
+   
+   SUNG (Interstellar Discussion 2/2)
+   I'm looking at a blank page
+   Looking at a blank page
+   I'm just singing a song
+   That I didn't write
+   I just sung
+   
+   HA HA (Interstellar Discussion 2/3)
+   Ha ha ha ha ha ha ha ha
+   And now you want a fortune too
+   Ha ha ha ha ha ha ha ha
+   You think you'll ever be untrue?
+   Ha ha ha...
+   You think you'll ever be untrue?
+   Ha ha ha...
+   You think you'll ever get that bread?
+   Ha ha...
+   
+   CUSTOMARY (Interstellar Discussion 2/4)
+   As a matter of fact
+   It's the way that you act
+   It's a matter of (ways?)
+   It's customary
+   It was the real (pie?)
+   I got it all in my eye
+   She told me she wanted to hold me
+   I laughed to my self
+   It's all on the shelf
+   It burns and
+   It eats the ones and I choke it
+   ???
+   I won't be altered
+   
+   MAY 7, 9:15 A.M. (Interstellar Discussion 2/5)
+   I take three baths a day
+   Wash out all my mind
+   Each time I get so gay
+   It takes me out of my mind
+   To get a clean mind
+   To wash out my mind
+   For a fresh new time
+   And a real time
+   So it's three times a day
+   I go to the cleaners
+   I seldom do anything
+   Just 'cause it's my birthday
+   The time will come
+   You'll find you some new way to have a clean day
+   In the merry, merry month of May
+   
+   SITUATIONS (Interstellar Discussion 2/6)
+   I don't know, I really don't
+   They come to the door asking for someone I never knew
+   Get into situations
+   I'm way far away from
+   Did you really think you could teach me something?
+   I already learned all I know
+   And I know enough to pick my own friends
+   
+   COULDN'T BE A READER (Interstellar Discussion 2/7)
+   I couldn't be a reader
+   I had to write the words
+   I couldn't be a dancer
+   I had to pull the string
+   Hey, I wouldn't treat you nice
+   Hey, you'd have to pay the price
+   Now I'm lost forever
+   I couldn't play a part
+   Knowing that a fever is written in my blood
+   Hey, I wouldn't treat you nice
+   Hey, you'd have to pay the price
+   Best that you forget me
+   Best that you forget me
+   
+   KICK (Interstellar Discussion 2/8)
+   Out there crying in the noon day sun
+   ???
+   A year ago she was a friend of mine
+   Didn't even fix just a little while
+   Wish I didn't have to see you this way
+   Casting dark shadow over my day
+   I'm not crazy about the way things go
+   Seen it all before at a movie show
+   There'll be another man in a little while
+   Walking down the road just another mile
+   She's a thief, she's a harlot, you can take your pick
+   Gotta make the payment on another kick
+
+     _________________________________________________________________
+   
+   TELL ME WHEN (Nine-Thirty 1/1)
+   I don't know what it was and
+   I just forgot it
+   It was really symbolic
+   I guess I left it
+   In a dresser
+   With a hat down
+   And two ties
+   It's all right
+   That's just what I did I
+   I'll do it again
+   Just tell me when
+   
+   LEFT THE BEACH LAST SUNDAY (Nine-Thirty 1/2)
+   I left the beach on last Sunday
+   I came a long way
+   From South Carolina to Ohi-a
+   Wasn't fussy about the way I came
+   To me it was all the same
+   I left the beach on last Sunday
+   
+   BELLS AND VOICES (Nine-Thirty 1/3)
+   The bells sound early in the morning
+   They sound late in the night
+   When the skin comes tied to your phone
+   There's no stopping the bells
+   You said the people are on the phone asking if you want to go here or
+   there
+   Hey would you come along
+   And then they either come or don't
+   And that's what you do -- you either come or go
+   That's what I do -- I either come or go
+   Come along
+   I left a long time ago and I guess you didn't notice
+   Yeah you are catching up
+   Boy you don't know what you're doing
+   
+   FAYE (Nine-Thirty 1/4)
+   Don't you know that I love you
+   Stop making me sad
+   You're the meanest little woman
+   That I ever had
+   Please say that you love me
+   Stop making me blue
+   You're the cutest little woman
+   That I ever knew
+   Well, by golly, she loves me
+   She's making me smile
+   A little wine will do her (?)
+   All the live long while
+   I'm taking it to you
+   In a foreign way
+   You bring me the sunshine
+   Oh, my darlin' Faye
+   
+   WRONG TIME (Nine-Thirty 1/5)
+   It's not the right time
+   Something's wrong, but I'm gonna do it anyway
+   You can put your bloody mind in a paper bag and eat it for lunch
+   What is God?
+   What are you doing here? Or there?
+   I am a fool
+   Forgive me
+   If a door is open
+   I should be back soon
+   
+   VOICES IN THE DARK (Nine-Thirty 1/6)
+   There's voices here in the dark
+   I have to beat them before it gets dark
+   I hear them now it's true
+   They're coming even out of you
+   I just have to pretend that they're not there
+   But I'm never gonna go anywhere
+   I even know they're there
+   I don't care ha ha ha ha ha ha ha ha ha ha ha...
+   I can't say as I never heard them before
+   
+   GREEN DREAMS (Nine-Thirty 1/7)
+   Green dreams in the springtime
+   April dreams that bloom in May
+   Green dream's better than gray
+   Come all the colors that bloom in May
+   The earth wakes up
+   But you're not here
+   Gone driving on home
+   Green dreams
+   You're not here
+   
+   BLIND CAT (Nine-Thirty 1/8)
+   They come around
+   Take your thing
+   And put it in another place
+   I smile and say it's OK
+   I didn't care anyway
+   I listen for a while
+   They're no good
+   They were just stupid
+   Couldn't show a blind cat not even one thing
+   But we can have some words
+   I'll hear your story
+   It's not so bad
+   
+   GEORGIA EAST (Nine-Thirty 2/1)
+   I shouldn't feel so sad
+   It was all I had
+   I should be glad
+   Coming into Atlanta
+   Big wheels turning
+   Talk about negroes
+   Talk about the fruit
+   Georgia peaches
+   Scuttlin's
+   Pecans shaking from the trees
+   You people sure are strange to a city boy from up north
+   
+   MAY 3 (Nine-Thirty 2/2)
+   If you want a friend in South Carolina look up Charleston (?)
+   Wish I never have to leave Charleston
+   May 3rd
+   We go back very much the same as how we came
+   Goodbye palm trees
+   Brown water seas
+   Savannah
+   Goodbye pretty town
+   Three hundred years old
+   Charleston
+   
+   NINE-THIRTY (Nine-Thirty 2/3)
+   Oh texaco and seven south
+   Montague avenue
+   Red and green and yellow
+   Two thousand ???
+   All those white lines
+   And bumping time
+   Keep off the median
+   There's an air force base
+   And a whole human race
+   Moving until tomorrow
+   
+   THIS IS A DEATH DREAM (Nine-Thirty 2/4)
+   This is a death dream
+   In the daytime
+   I go to the cemetery buildings
+   In search of books
+   And never do I find the right one
+   I just browse through death books
+   When it seems the ones I want are out
+   In the night time I go with friends to the cemetery
+   And the entire time concerns
+   Carousings and adventures within the cemetery
+   But all others are insincere and even silly
+   Some figures predominate and I compromise my
+   Especial meeting to go with them
+   I always attempt to get some of these friends to go with me
+   But they are afraid
+   It seems I do not want to go alone
+   And leave each successive night with hopes for
+   Tomorrow's daytime excursion to the cemetery
+   Last time I was particularly upset
+   Despair that the right books will never be there
+   Because people will not bring them back and
+   My reliance is weak
+   I should find a way to require that which I want
+   Of special interest in the dream is the night time attraction
+   Of particular growing things
+   Which previously were cultivated in horror with another
+   In the night wanderings I attempt to get back to these to encounter
+   horror
+   But they -- others are afraid or silly
+   And one or two are not
+   But show me replicas which are not the same
+   This I know and am disappointed
+   Earlier for interest I had a wine bottle
+   Weird death monsters approached and I admitted them
+   As they filed past into my house
+   Not the bedroom where others were
+   They danced in the living room
+   Extremely macabre and death-like moves
+   Others saw them and sometime later expressed horror as they left
+   Or escaped
+   
+   YOU DIDN'T LIE (Nine-Thirty 2/6)
+   You didn't lie
+   You only told the truth
+   I got some place that was very hard to get out of
+   Didn't get too close
+   Wouldn't get too close
+   
+   OH JENNY (Nine-Thirty 2/7)
+   Oh Jenny
+   Didn't mean to do you so bad
+   Oh Jenny
+   I'll give you everything I have
+   Oh Jenny
+   Didn't mean to do you so bad
+   Oh Jenny
+   I didn't mean to do you so bad
+   Oh Jenny
+   I'll give you everything I have
+   Oh Jenny
+   Didn't mean to do you so bad
+   Oh Jenny
+
+     _________________________________________________________________
+
+   I PASSED BY THE BUILDING (Blue Corpse 1/1)
+   I passed by the building you were working in
+   I wanted to step inside it
+   I wanted to lie in your arms again
+   I passed by the building that you live in
+   And I wanted to die
+   I just stood there and cried
+   For then the way I felt
+   For the way I was gonna cry
+   For loving you
+   I passed by the building where you sleep
+   And I wanted to sigh
+   At the sweet smell of your loving
+   But I just weep at the morning
+   I just weep
+   
+   CF (Blue Corpse 1/2)
+   When we go
+   I'm falling down to the river
+   I'm gonna climb another mountain
+   I'm going down to the mountain
+   I'm coming up from below
+   I'm gonna climb as high as I can
+   I ain't got no other place to go
+   Down to the river
+   I'm going down to the river
+   I'm going to spread myself around
+   I'm going down to the river
+   Spread myself around
+   How much time
+   How much time
+   How much time
+   Going down, I'm going down, I'm going down
+   
+   VARIANT (Blue Corpse 1/3)
+   And so we go
+   Like times of old
+   To stay on one road
+   Or choose another
+   I just don't know
+   Which way to go
+   When we were small
+   And not so tall
+   We didn't know
+   Which road to go
+   I just don't know which way to go
+   I think I'll follow you ???
+   
+   PART II (Blue Corpse 1/4)
+   Ahh -- you wouldn't believe it tastes like candy
+   You see something that wasn't there
+   I'll be the one
+   I'll be the one
+   Don't you know I'll be the one
+   
+   YOUR OTHER MAN (Blue Corpse 1/5)
+   Well, I guess your mind's made up
+   Well, I guess there's not much left to do
+   Go on, see your other man
+   Walk up the stairs
+   That's where the stars are
+   Go on, see your other man
+   Well, you wouldn't believe it tastes like candy
+   Gimme a fork, yeah a gimme a fork
+   Eat some potato
+   Shades are falling
+   Shades are falling
+   
+   LONG WAY (Blue Corpse 1/6)
+   Long way to the back of the bus
+   It's a long way, a long way...
+   To the back of the... long way
+   Not as long as all that, but it's a long way [laughs]
+   
+   DOWN AT THE BALL PARK (Blue Corpse 1/7)
+   Oblique
+   Oblique
+   Mystique
+   There was ??? down at the ball park
+   And we pitched a little down at the ball park
+   Aww, with Jerry and Lucas and oh yeah
+   Down at the ball park
+   And you know there's that song
+   ???
+   He's a sitting in a corner down by the ???
+   Oh, it's all down at the ball park
+   Ohhh down at the ball park
+   Take it, take it Eddie
+   Take it down to the ball park
+   God, they is askin' me if they can borrow some bats
+   Down at the ball park
+   Ohh motorcycle
+   Down at the ball park
+   
+   HOUSE OF THE RISING SUN (Blue Corpse 2/2)
+   My mother was a tailor
+   She sewed these new blue jeans
+   My father was a gambler
+   Down in New Orleans
+   The only thing a gambler needs
+   His suitcase and a trunk
+   The only pleasure he gets out of life
+   When he's all drunk
+   I know ??? where
+   I spend my time ???
+   Down at the Rising Sun
+   So mother tell your children
+   Not to do what I have done
+   Spend my life in -- sitting in misery
+   Down in the Rising Sun
+   
+   ONLY LOVER (Blue Corpse 2/3)
+   You never smoke a cigarette when you are doing something
+   Only when your are half doing it
+   You are a teenage runt with a lot of cream, sparky
+   Gone floating down a river to Madrid
+   And a car pull in softly
+   Waiting for the footsteps
+   How has as she followed me here?
+   The tent I went to wasn't mine, it was a cantaloupe's
+   Cantaloupes are so good to eat
+   When you dream of your ??? in a shower
+   Gone floatin' down a river to Madrid
+   I love you my lady
+   I love you like I do
+   Why you make me so blue?
+   A-kill me, kill me, kill me
+   Achilles, kill me
+   I think I'm a goner
+   When I see one of your shoes
+   Gone floatin' down a river to Madrid
+   You're the reason I live
+   You're the cause of my death
+   I love what I can't help
+   You took my success
+   Will you take my failure?
+   After Arny (?) took a pill from the bottom
+   He wasn't n'er the same
+   You ought to be gone floatin' down a river to Madrid
+   I hear you bought a new dress
+   A red the color of your kiss
+   Darlin' are you with me now?
+   A-kiss me, kiss me, kiss me
+   Ahh it's my time to die
+   When I think of your black lips
+   Gone floatin' down a river to Madrid
+   Found a painted pony in your breast
+   Can I tell you the rest?
+   I love you goddess
+   Listen mister, can you be my monkey?
+   Feel my pulse take a stab at my arm
+   I was meant to have a garden
+   Gone floatin' down a river to Madrid
+   Jezebel, you're my favorite -- in your country I roam
+   Listen to me now, lady
+   Worst I had to tell you was I followed you here
+   First you made me promise that I wouldn't leave
+   Then I found my freedom
+   Gone floatin' down a river to Madrid
+   Lost some lovely on the way
+   You gave them back I heard you say
+   You're my only lover
+   Like a kangaroo I'm only half doing what I do
+   Jesus stares at me from the wall
+   And I think I like your bosom
+   Aww gone floatin' down a river to Madrid
+   Ahh, you hear my music
+   Oh, lord I think it's hard to tell how she followed me here
+   
+   QUINN BOYS (Blue Corpse 2/4)
+   Did you ever go down to see the Quinn boys?
+   When I walked down there I went ???
+   Meet you in the bowery
+   Goodbye beacon hill
+   Hello misfortune, I've got time to kill
+   Time to kill, I've got time to kill
+   Spend all of my days roaming all of the ways
+   Deliver me and see the sun, see the moon in dark June
+   Kiss the sand and ocean salt
+   Take my brother by the hand
+   It's you and I (Dan? Dear?)
+   
+   ONE MINUTE (Blue Corpse 2/5)
+   Looks like one minute to me
+   Knock the walls down there for a couple of minutes [pre-music talking]
+   Just relax folks, just relax
+   That's right, settle back in your chair
+   Listen to the music
+   Close your eyes and watch the pretty colors dancing around in your
+   hair
+   Follow the music
+
+== Seth Tisue <s-tisue@nwu.edu>         http://www.cs.nwu.edu/~tisue/
+"In the future we'll invent more junk!" - Gang of Four
+
+Delivered-To: jandek@cs.nwu.edu
+Received: (qmail 9385 invoked from network); 27 Jan 1999 23:29:04 -0000
+Received: from send103.yahoomail.com (205.180.60.92)
+  by godzilla.cs.nwu.edu with SMTP; 27 Jan 1999 23:29:04 -0000
+Message-ID: <19990127233151.21245.rocketmail@send103.yahoomail.com>
+Received: from [152.163.197.189] by send103.yahoomail.com; Wed, 27 Jan 1999 15:31:51 PST
+Date: Wed, 27 Jan 1999 15:31:51 -0800 (PST)
+From: brad emrich <bradleybee@yahoo.com>
+Subject: Jandek for sale ADDRESS CORRECTION
+To: jandek@cs.nwu.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Sender: owner-jandek@cs.nwu.edu
+Precedence: bulk
+
+I typed my address wrong on my previous posting.  My mail carrier has
+sent one order to me, correcting the mistake on the envelope, but if
+you want to order something, use the correct address just to be sure
+it gets here O.K..  Six and Six has been sold, so here is the updated
+& corrected posting again.  Thanks:
+
+I am offering my personal Jandek vinyl collection up for sale.
+The sale is set prices, first come-first served.
+$20	0760	twelfth apostle
+$20	0759	Lost cause
+$20	0758	one foot in the north
+$20	0757	somebody in the snow
+$20	0756	the living end
+$25	0755	on the way
+$25	0754	you walk alone
+$25	0753	Blue corpse
+$35	0749	Foreign keys
+$40	0742	chair beside a window
+$40	0741	later on
+As a bonus, every record will contain a xerox of an official Corwood
+discography.
+I am also offering for sale the following Sonic Youth items:
+$20	goo 1		4 tunna brix 12"
+$20	goo 2		hold that tiger lp
+$50	chat 1		"Sister" interview disc
+$30	#116/1000 	live in Bremen picture disc
+$20	e#38		t.v. shit 12"
+$15	GFST22132 	"Little trouble girl" 12"
+As a bonus, every record will contain a xerox of P.F.D. tour flyer.
+Person to person postage will be $5 in the U.S., $10 for outside the
+U.S.
+Send check or money order with name, address & e-mail to:
+Brad Emrich
+11530 Mullins Dr.
+Houston, TX 77035
+If it is convenient for you to visit the S.W. Houston area, and you
+would prefer a direct Cash transaction, 
+ please e-mail bradleybee@yahoo.com to set an appointment.
+Packages will be sent after your check clears my bank account.
+Feel free to send concealed cash, but please understand that I will
+not be responsible for cash stolen in the mail.
+Person to person postage will be $5 in the U.S., $10 for outside the
+U.S.
+
+
+
+_________________________________________________________
+DO YOU YAHOO!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+

@@ -1,0 +1,3467 @@
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 20472 invoked from network); 1 Apr 2003 18:25:54 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 1 Apr 2003 18:25:54 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h31IPn530701
+	for jandek@zappa.cs.northwestern.edu; Tue, 1 Apr 2003 12:25:49 -0600
+Received: (qmail 20380 invoked from network); 1 Apr 2003 18:17:27 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 1 Apr 2003 18:17:27 -0000
+Received: from hotmail.com ([64.4.31.159] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 1 Apr 2003 12:16:51 -0600
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Tue, 1 Apr 2003 10:16:48 -0800
+Received: from 62.254.160.106 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Tue, 01 Apr 2003 18:16:48 GMT
+X-Originating-IP: [62.254.160.106]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: wild speculation/Jandek psychosis/rocks
+Date: Tue, 01 Apr 2003 18:16:48 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F159rGWHVrlqWKcbQLP0003c27f@hotmail.com>
+X-OriginalArrivalTime: 01 Apr 2003 18:16:48.0620 (UTC) FILETIME=[DC5742C0:01C2F87A]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+I found that comment from Corwood about suprises in the future extremely 
+interesting, and of course got to wondering what this could refer to. Here 
+are my crackpot anticipatory theories. After all it is April Fool's day. Not 
+in order of percieved likelyhood.
+
+1) Jandek already stated an intention to use the piano again.
+2) New musicians, maybe playing instruments previously associated with 
+Jandek - or maybe Jandek will get into sampler abuse or something.
+3) Return of Nancy / Eddie etc.
+4) Remember the novels he told Chusid about? Worthless Recluse in particular 
+seems like it could have derived from long prose pieces. Could Corwood be 
+planning to get into book publishing? This might be more difficult than 
+pressing lps or cds, but it would be no problem to set up a website... seems 
+unlikely I know, but the change to cd and (I assume) digital recording of 
+the last 2 albums suggest that Jandek is not a total luddite.
+Or is he? 5) Return to vinyl!
+6) Previously unreleased archive material.
+7) Corwood gets into film...
+8) Instrumental album.
+9) Covers album.
+10) Double album (2 80-min. songs).
+OK, that's enough.
+
+The last few posts from the documentary camp suggest that the guys may be 
+suffering from an ailment that I have displayed symptoms of myself, ie "Am I 
+losing it or is this an influence on / a reference to Jandek?". This must be 
+unavoidable given their immersion in the project. To paraphrase Nick Cave 
+(and extend the WWJD trick) "A ragged mop, a twisted cup, the face of Jandek 
+in my soup"... already perfectly captured as a visual metaphor by that 
+lovely shot of the moon reflected in the lake in the trailer.
+
+I transcribed the Rocks Crumble too a while ago but had a lot of gaps and 
+get too lazy to try and work out the missing parts... so here's where my 
+transcription differs from Joe's.
+CLERK 1: I think the line is "said I knew God was alive" - it rhymes better 
+(Jandek often displays a fondness for obvious rhymes) and fits in with his 
+religious views.
+BRANDED: "Germans came, I wasn't home"?
+         "Lately I have found the sound"?
+         "Beast escaped from me today"?
+BREATHTAKER: "High tail fever"?
+             "Once to the mighty bold"?
+LONESOME: line 2:"When I leave someplace, I'm gone"
+          line 4-6:"to read the wanted sign / you left me here alone /
+                    now I have to look around"
+          line 9: "I need someone near"
+SAME ROAD "And when you don’t know whether to fight or just let it 
+happen".... "turn around and mix them up"
+
+_________________________________________________________________
+MSN 8 helps eliminate e-mail viruses. Get 2 months FREE*. 
+http://join.msn.com/?page=features/virus
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 21373 invoked from network); 1 Apr 2003 19:30:40 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 1 Apr 2003 19:30:40 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h31JUZo31497
+	for jandek@zappa.cs.northwestern.edu; Tue, 1 Apr 2003 13:30:35 -0600
+Received: (qmail 21354 invoked from network); 1 Apr 2003 19:30:23 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 1 Apr 2003 19:30:23 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 1 Apr 2003 13:30:19 -0600
+Received: from dylan.cs.northwestern.edu (tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) with ESMTP id h31JUIb31452
+	for <jandek@cs.northwestern.edu>; Tue, 1 Apr 2003 13:30:18 -0600
+Message-Id: <200304011930.h31JUIb31452@dylan.cs.northwestern.edu>
+To: jandek@cs.northwestern.edu
+Subject: Re: wild speculation/Jandek psychosis/rocks 
+In-Reply-To: Your message of "Tue, 01 Apr 2003 18:16:48 GMT."
+             <F159rGWHVrlqWKcbQLP0003c27f@hotmail.com> 
+From: Seth Tisue <seth@tisue.net>
+X-Mailer: MH-E 7.0; nmh 1.0.4; Emacs 21.2
+Date: Tue, 01 Apr 2003 13:30:18 -0600
+X-OriginalArrivalTime: 01 Apr 2003 19:30:19.0023 (UTC) FILETIME=[212559F0:01C2F885]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+>>>>> "Paul" == Paul Condon <paulgcondon@hotmail.com> writes:
+
+ Paul> I transcribed the Rocks Crumble too a while ago but had a lot of
+ Paul> gaps and get too lazy to try and work out the missing parts... so
+ Paul> here's where my transcription differs from Joe's.  CLERK 1: I
+ Paul> think the line is "said I knew God was alive" - it rhymes better
+ Paul> (Jandek often displays a fondness for obvious rhymes) and fits in
+ Paul> with his religious views.
+
+I agree.
+
+ Paul> BRANDED: "Germans came, I wasn't home"?
+
+Agreed.
+
+ Paul> "Lately I have found the sound"?
+
+I think it's "a sound".
+
+ Paul> "Beast escaped from me today"?
+
+My best guess is "peace", but I put a "(?)" after it.
+
+ Paul> BREATHTAKER: "High tail fever"?
+
+Sounds like "hot" to me -- this also kinda fits with the "cold" later in
+the same line.
+
+ Paul> "Once to the mighty bold"?
+ Paul> LONESOME: line 2:"When I leave someplace, I'm gone"
+ Paul> line 4-6:"to
+ Paul> read the wanted sign / you left me here alone / now I have to
+ Paul> look around" 
+ Paul> line 9: "I need someone near" 
+
+Agreed.
+
+ Paul> SAME ROAD "And when
+ Paul> you don’t know whether to fight or just let it happen"
+
+He distinctly says "happens", not "happen".
+
+ Paul> "turn around and mix them up"
+
+Agreed.
+
+All of the lyrics Joe sent are now up on the site, by the way (I made a
+few of my own corrections, or what hopefully are corrections anyway, in
+addition to the above).
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 22087 invoked from network); 1 Apr 2003 20:01:50 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 1 Apr 2003 20:01:50 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h31K1jO04854
+	for jandek@zappa.cs.northwestern.edu; Tue, 1 Apr 2003 14:01:45 -0600
+Received: (qmail 22038 invoked from network); 1 Apr 2003 20:00:58 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 1 Apr 2003 20:00:58 -0000
+Received: from spf1.us.outblaze.com ([205.158.62.158] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 1 Apr 2003 14:00:52 -0600
+Received: (qmail 14968 invoked from network); 1 Apr 2003 19:59:56 -0000
+Received: from unknown (205.158.62.68)
+  by spf1.us.outblaze.com with QMQP; 1 Apr 2003 19:59:56 -0000
+Received: (qmail 68708 invoked from network); 1 Apr 2003 20:00:32 -0000
+Received: from unknown (HELO ws1-11.us4.outblaze.com) (205.158.62.80)
+  by 205-158-62-153.outblaze.com with SMTP; 1 Apr 2003 20:00:29 -0000
+Received: (qmail 25854 invoked by uid 1001); 1 Apr 2003 20:00:27 -0000
+Message-ID: <20030401200027.25853.qmail@mail.com>
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.41 (Entity 5.404)
+Received: from [68.41.100.16] by ws1-11.us4.outblaze.com with http for
+    crushtacoes@mail.com; Tue, 01 Apr 2003 15:00:27 -0500
+From: "Joe Henry" <crushtacoes@mail.com>
+To: seth@tisue.net, jandek@cs.northwestern.edu
+Date: Tue, 01 Apr 2003 15:00:27 -0500
+Subject: Re: wild speculation/Jandek psychosis/rocks
+X-Originating-Ip: 68.41.100.16
+X-Originating-Server: ws1-11.us4.outblaze.com
+X-OriginalArrivalTime: 01 Apr 2003 20:00:53.0882 (UTC) FILETIME=[66CE9DA0:01C2F889]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+Yeah, all these corrections are cool with me. I especially agree with "I knew god was alive". I am currently working on Modern Dances, which might prove a little taxing, considering the loose vocal trade offs between Jandek and Nancy.
+-- 
+__________________________________________________________
+Sign-up for your own FREE Personalized E-mail at Mail.com
+http://www.mail.com/?sr=signup
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 32695 invoked from network); 2 Apr 2003 14:59:05 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 2 Apr 2003 14:59:05 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h32Ex2W14976
+	for jandek@zappa.cs.northwestern.edu; Wed, 2 Apr 2003 08:59:02 -0600
+Received: (qmail 32630 invoked from network); 2 Apr 2003 14:54:40 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Apr 2003 14:54:40 -0000
+Received: from hotmail.com ([207.68.163.203] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 2 Apr 2003 08:54:38 -0600
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 2 Apr 2003 06:54:37 -0800
+Received: from 62.31.85.143 by sea1fd.sea1.hotmail.msn.com with HTTP;
+	Wed, 02 Apr 2003 14:54:37 GMT
+X-Originating-IP: [62.31.85.143]
+X-Originating-Email: [gogs_cun@hotmail.com]
+From: "Gogs C" <gogs_cun@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: photo on front page
+Date: Wed, 02 Apr 2003 14:54:37 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F203tg2c7qIA3EEmYDK00004c7e@hotmail.com>
+X-OriginalArrivalTime: 02 Apr 2003 14:54:37.0904 (UTC) FILETIME=[C848A500:01C2F927]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+I just got added to this list today. Thanks to whoever put me on, cos I 
+think they mibbie had to do it manually.
+Anyway, here's a quick question; Where's the photo of Jandek looking about 8 
+from? The one on the front page of Seth's site? It's probably really 
+obvious, but it's been bothering me for a while.
+Ta.
+Gogs.
+
+
+
+
+
+_________________________________________________________________
+Express yourself with cool emoticons http://www.msn.co.uk/messenger
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 2127 invoked from network); 2 Apr 2003 16:43:22 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 2 Apr 2003 16:43:22 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h32GhIt16521
+	for jandek@zappa.cs.northwestern.edu; Wed, 2 Apr 2003 10:43:18 -0600
+Received: (qmail 2111 invoked from network); 2 Apr 2003 16:42:56 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Apr 2003 16:42:56 -0000
+Received: from hotmail.com ([64.4.31.51] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 2 Apr 2003 10:42:11 -0600
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 2 Apr 2003 08:42:07 -0800
+Received: from 62.254.160.106 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Wed, 02 Apr 2003 16:42:07 GMT
+X-Originating-IP: [62.254.160.106]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: one more speculation/RFTH sleeve
+Date: Wed, 02 Apr 2003 16:42:07 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F51VhXQtjec3qWwNi5L0000fadb@hotmail.com>
+X-OriginalArrivalTime: 02 Apr 2003 16:42:07.0230 (UTC) FILETIME=[CC61B1E0:01C2F936]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+Forgot one... Jandek goes on the road, and subsequently releases the cd 
+"Live Corpse".
+Help me out here, Daniel...
+
+There's a copy of RFTH on E-bay, (link below), and I was suprised that the 
+cover features the picture with a black line around it and a white border. I 
+assumed that like the cd, and any other Corwood vinyl I've seen, that the 
+picture covered the entire front sleeve. Did any other lps feature a similar 
+layout? Are all the copies of RFTH similar?
+Incidentally, bidding is currently at $100.99, and it's only NM/VG...
+
+http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2519219554&category=306
+
+
+_________________________________________________________________
+MSN 8 helps eliminate e-mail viruses. Get 2 months FREE*. 
+http://join.msn.com/?page=features/virus
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 8860 invoked from network); 2 Apr 2003 23:27:11 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 2 Apr 2003 23:27:11 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h32NR4q20991
+	for jandek@zappa.cs.northwestern.edu; Wed, 2 Apr 2003 17:27:04 -0600
+Received: (qmail 8431 invoked from network); 2 Apr 2003 22:56:24 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Apr 2003 22:56:24 -0000
+Received: from web41406.mail.yahoo.com ([66.218.93.72]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 2 Apr 2003 16:55:57 -0600
+Message-ID: <20030402225557.94893.qmail@web41406.mail.yahoo.com>
+Received: from [68.160.174.153] by web41406.mail.yahoo.com via HTTP; Wed, 02 Apr 2003 14:55:57 PST
+Date: Wed, 2 Apr 2003 14:55:57 -0800 (PST)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: site cover pic
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 02 Apr 2003 22:55:58.0726 (UTC) FILETIME=[06985A60:01C2F96B]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+That's a photoshopped triple-image of closeups from
+the covers of Follow Your Footsteps and Graven Image,
+and I think the flower pot from Ready for the House. 
+It does makes that pic of Jandek look younger, but i
+think he was about 16 or 17 when it was taken. The
+phone pole in the front like that always looked like a
+door to me, and jandek is peering out from inside.
+it's pretty cool. I tried something similar for the
+opening pic on my site, combining Glad to Get Away,
+Modern Dances, and taking the guitar from Living in a
+Moon So Blue. It sucked though because i did not have
+access to photoshop, and was stuck shlacking with MS
+Paint. Oi.
+
+D.M.
+--- Gogs C <gogs_cun@hotmail.com> wrote:
+> I just got added to this list today. Thanks to
+> whoever put me on, cos I 
+> think they mibbie had to do it manually.
+> Anyway, here's a quick question; Where's the photo
+> of Jandek looking about 8 
+> from? The one on the front page of Seth's site? It's
+> probably really 
+> obvious, but it's been bothering me for a while.
+> Ta.
+> Gogs.
+
+
+__________________________________________________
+Do you Yahoo!?
+Yahoo! Tax Center - File online, calculators, forms, and more
+http://tax.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 9162 invoked from network); 2 Apr 2003 23:33:51 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 2 Apr 2003 23:33:51 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h32NXiT21173
+	for jandek@zappa.cs.northwestern.edu; Wed, 2 Apr 2003 17:33:44 -0600
+Received: (qmail 9145 invoked from network); 2 Apr 2003 23:33:31 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 2 Apr 2003 23:33:31 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 2 Apr 2003 17:33:25 -0600
+Received: from dylan.cs.northwestern.edu (tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) with ESMTP id h32NXOB21120
+	for <jandek@cs.northwestern.edu>; Wed, 2 Apr 2003 17:33:24 -0600
+Message-Id: <200304022333.h32NXOB21120@dylan.cs.northwestern.edu>
+To: jandek@cs.northwestern.edu
+From: Seth Tisue <seth@tisue.net>
+Subject: The photo on the site
+X-Mailer: MH-E 7.0; nmh 1.0.4; Emacs 21.2
+Date: Wed, 02 Apr 2003 17:33:24 -0600
+X-OriginalArrivalTime: 02 Apr 2003 23:33:25.0320 (UTC) FILETIME=[41AB6480:01C2F970]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+
+It's a Follow Your Footsteps LP peering out from behind my closet door,
+with the Newport T-shirt I was wearing reflected in the shrinkwrap.  You
+can see a little bit of my finger in the lower left where I'm holding
+the LP.
+
+I enjoyed Daniel's theory though :-).
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 11417 invoked from network); 3 Apr 2003 02:32:06 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 3 Apr 2003 02:32:06 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h332Vw522949
+	for jandek@zappa.cs.northwestern.edu; Wed, 2 Apr 2003 20:31:58 -0600
+Received: (qmail 11297 invoked from network); 3 Apr 2003 02:15:52 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Apr 2003 02:15:52 -0000
+Received: from web41415.mail.yahoo.com ([66.218.93.81]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 2 Apr 2003 20:14:58 -0600
+Message-ID: <20030403021453.48001.qmail@web41415.mail.yahoo.com>
+Received: from [68.160.129.167] by web41415.mail.yahoo.com via HTTP; Wed, 02 Apr 2003 18:14:53 PST
+Date: Wed, 2 Apr 2003 18:14:53 -0800 (PST)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: RFTH
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 03 Apr 2003 02:14:58.0570 (UTC) FILETIME=[D34BF6A0:01C2F986]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+Haha I'm glad to see there's at least someone else on
+the list with a sense of Jandekian humor! I've
+daydreamed when i should have been paying attention to
+someone of getting together a couple Jandek
+fans/musicians, and starting a cover band called The
+Quinn Boys. We'd play his most accessible stuff and
+rework some older material, and be billed as a freaky
+blues-rock band with a mysterious ghost writer....and
+as a special celebration of corwood's 25th anniversary
+(that's this year), we'd somehow convince ol' sterling
+to come out and do one concert with us as the backing
+band! man, i have too much time on my hands.  
+
+as for the RFTH cover, all the copies on ebay that
+i've seen had the white border. not sure what to say
+about that. then again, it was really the units'
+record. heh heh.
+
+D.M. 
+--- Paul Condon <paulgcondon@hotmail.com> wrote:
+> Forgot one... Jandek goes on the road, and
+> subsequently releases the cd 
+> "Live Corpse".
+> Help me out here, Daniel...
+> 
+> There's a copy of RFTH on E-bay, (link below), and I
+> was suprised that the 
+> cover features the picture with a black line around
+> it and a white border. I 
+> assumed that like the cd, and any other Corwood
+> vinyl I've seen, that the 
+> picture covered the entire front sleeve. Did any
+> other lps feature a similar 
+> layout? Are all the copies of RFTH similar?
+> Incidentally, bidding is currently at $100.99, and
+> it's only NM/VG...
+> 
+>
+http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2519219554&category=306
+
+
+
+=====
+Take nothing and no one seriously.
+
+Daniel S. Marks- Author, musician, admirer of pretty things. 
+
+http://www.geocities.com/alfredggnome
+http://www.casualfridaysband.com
+http://www.mp3.com/CasualFridays
+
+__________________________________________________
+Do you Yahoo!?
+Yahoo! Tax Center - File online, calculators, forms, and more
+http://tax.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 16749 invoked from network); 3 Apr 2003 15:37:30 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 3 Apr 2003 15:37:30 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h33FbRt28486
+	for jandek@zappa.cs.northwestern.edu; Thu, 3 Apr 2003 09:37:27 -0600
+Received: (qmail 15471 invoked from network); 3 Apr 2003 13:58:33 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Apr 2003 13:58:33 -0000
+Received: from waste.org ([209.173.204.2]) by mail1.cs.northwestern.edu over TLS secured channel with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 3 Apr 2003 07:58:31 -0600
+Received: from waste.org (localhost [127.0.0.1])
+	by waste.org (8.12.3/8.12.3/Debian-5) with ESMTP id h33DwUNb007066;
+	Thu, 3 Apr 2003 07:58:30 -0600
+Received: from localhost (crash@localhost)
+	by waste.org (8.12.3/8.12.3/Debian-5) with ESMTP id h33DwUZ9007062;
+	Thu, 3 Apr 2003 07:58:30 -0600
+Date: Thu, 3 Apr 2003 07:58:30 -0600 (CST)
+From: Todd Madson <crash@waste.org>
+To: Daniel Marks <alfredggnome@yahoo.com>
+cc: jandek@cs.northwestern.edu
+Subject: Re: RFTH
+In-Reply-To: <20030403021453.48001.qmail@web41415.mail.yahoo.com>
+Message-ID: <Pine.LNX.4.53.0304030758100.7003@waste.org>
+References: <20030403021453.48001.qmail@web41415.mail.yahoo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-OriginalArrivalTime: 03 Apr 2003 13:58:31.0453 (UTC) FILETIME=[1C22BCD0:01C2F9E9]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+On Wed, 2 Apr 2003, Daniel Marks wrote:
+
+> Haha I'm glad to see there's at least someone else on
+> the list with a sense of Jandekian humor! I've
+> daydreamed when i should have been paying attention to
+> someone of getting together a couple Jandek
+> fans/musicians, and starting a cover band called The
+> Quinn Boys. We'd play his most accessible stuff and
+> rework some older material, and be billed as a freaky
+> blues-rock band with a mysterious ghost writer....and
+> as a special celebration of corwood's 25th anniversary
+> (that's this year), we'd somehow convince ol' sterling
+> to come out and do one concert with us as the backing
+> band! man, i have too much time on my hands.
+>
+
+I LOVE THAT IDEA!  Sign me up on guitar for sure.
+
+-t
+
+> as for the RFTH cover, all the copies on ebay that
+> i've seen had the white border. not sure what to say
+> about that. then again, it was really the units'
+> record. heh heh.
+>
+> D.M.
+> --- Paul Condon <paulgcondon@hotmail.com> wrote:
+> > Forgot one... Jandek goes on the road, and
+> > subsequently releases the cd
+> > "Live Corpse".
+> > Help me out here, Daniel...
+> >
+> > There's a copy of RFTH on E-bay, (link below), and I
+> > was suprised that the
+> > cover features the picture with a black line around
+> > it and a white border. I
+> > assumed that like the cd, and any other Corwood
+> > vinyl I've seen, that the
+> > picture covered the entire front sleeve. Did any
+> > other lps feature a similar
+> > layout? Are all the copies of RFTH similar?
+> > Incidentally, bidding is currently at $100.99, and
+> > it's only NM/VG...
+> >
+> >
+> http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2519219554&category=306
+>
+>
+>
+> =====
+> Take nothing and no one seriously.
+>
+> Daniel S. Marks- Author, musician, admirer of pretty things.
+>
+> http://www.geocities.com/alfredggnome
+> http://www.casualfridaysband.com
+> http://www.mp3.com/CasualFridays
+>
+> __________________________________________________
+> Do you Yahoo!?
+> Yahoo! Tax Center - File online, calculators, forms, and more
+> http://tax.yahoo.com
+>
+
+-- 
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 24337 invoked from network); 3 Apr 2003 22:48:12 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 3 Apr 2003 22:48:12 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h33Mm6o01579
+	for jandek@zappa.cs.northwestern.edu; Thu, 3 Apr 2003 16:48:06 -0600
+Received: (qmail 23062 invoked from network); 3 Apr 2003 22:03:26 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 3 Apr 2003 22:03:26 -0000
+Received: from web41405.mail.yahoo.com ([66.218.93.71]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 3 Apr 2003 16:03:21 -0600
+Message-ID: <20030403220320.27910.qmail@web41405.mail.yahoo.com>
+Received: from [68.162.214.229] by web41405.mail.yahoo.com via HTTP; Thu, 03 Apr 2003 14:03:20 PST
+Date: Thu, 3 Apr 2003 14:03:20 -0800 (PST)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: RFTH
+To: jandek@cs.northwestern.edu
+In-Reply-To: <Pine.LNX.4.53.0304030758100.7003@waste.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 03 Apr 2003 22:03:21.0296 (UTC) FILETIME=[D7088500:01C2FA2C]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+i was thinking two guitars and a drum set should be
+enough....most of the mid period stuff has that as the
+band...anyone play the drums? lol.
+
+D.M.
+--- Todd Madson <crash@waste.org> wrote:
+> On Wed, 2 Apr 2003, Daniel Marks wrote:
+> 
+> > Haha I'm glad to see there's at least someone else
+> on
+> > the list with a sense of Jandekian humor! I've
+> > daydreamed when i should have been paying
+> attention to
+> > someone of getting together a couple Jandek
+> > fans/musicians, and starting a cover band called
+> The
+> > Quinn Boys. We'd play his most accessible stuff
+> and
+> > rework some older material, and be billed as a
+> freaky
+> > blues-rock band with a mysterious ghost
+> writer....and
+> > as a special celebration of corwood's 25th
+> anniversary
+> > (that's this year), we'd somehow convince ol'
+> sterling
+> > to come out and do one concert with us as the
+> backing
+> > band! man, i have too much time on my hands.
+> >
+> 
+> I LOVE THAT IDEA!  Sign me up on guitar for sure.
+> 
+> -t
+> 
+> > as for the RFTH cover, all the copies on ebay that
+> > i've seen had the white border. not sure what to
+> say
+> > about that. then again, it was really the units'
+> > record. heh heh.
+> >
+> > D.M.
+> > --- Paul Condon <paulgcondon@hotmail.com> wrote:
+> > > Forgot one... Jandek goes on the road, and
+> > > subsequently releases the cd
+> > > "Live Corpse".
+> > > Help me out here, Daniel...
+> > >
+> > > There's a copy of RFTH on E-bay, (link below),
+> and I
+> > > was suprised that the
+> > > cover features the picture with a black line
+> around
+> > > it and a white border. I
+> > > assumed that like the cd, and any other Corwood
+> > > vinyl I've seen, that the
+> > > picture covered the entire front sleeve. Did any
+> > > other lps feature a similar
+> > > layout? Are all the copies of RFTH similar?
+> > > Incidentally, bidding is currently at $100.99,
+> and
+> > > it's only NM/VG...
+> > >
+> > >
+> >
+>
+http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2519219554&category=306
+> >
+> >
+> >
+> > =====
+> > Take nothing and no one seriously.
+> >
+> > Daniel S. Marks- Author, musician, admirer of
+> pretty things.
+> >
+> > http://www.geocities.com/alfredggnome
+> > http://www.casualfridaysband.com
+> > http://www.mp3.com/CasualFridays
+> >
+> > __________________________________________________
+> > Do you Yahoo!?
+> > Yahoo! Tax Center - File online, calculators,
+> forms, and more
+> > http://tax.yahoo.com
+> >
+> 
+> -- 
+> 
+
+
+=====
+Take nothing and no one seriously.
+
+Daniel S. Marks- Author, musician, admirer of pretty things. 
+
+http://www.geocities.com/alfredggnome
+http://www.casualfridaysband.com
+http://www.mp3.com/CasualFridays
+
+__________________________________________________
+Do you Yahoo!?
+Yahoo! Tax Center - File online, calculators, forms, and more
+http://tax.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 28748 invoked from network); 4 Apr 2003 04:10:19 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 4 Apr 2003 04:10:19 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h344ABE06459
+	for jandek@zappa.cs.northwestern.edu; Thu, 3 Apr 2003 22:10:11 -0600
+Received: (qmail 28714 invoked from network); 4 Apr 2003 04:09:42 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 4 Apr 2003 04:09:42 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 3 Apr 2003 21:39:30 -0600
+Received: from dylan.cs.northwestern.edu (tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) with ESMTP id h343dTB06268
+	for <jandek@cs.northwestern.edu>; Thu, 3 Apr 2003 21:39:29 -0600
+Message-Id: <200304040339.h343dTB06268@dylan.cs.northwestern.edu>
+To: jandek@cs.northwestern.edu
+From: Seth Tisue <seth@tisue.net>
+Subject: Trubee/Rasen article in Spin
+X-Mailer: MH-E 7.0; nmh 1.0.4; Emacs 21.2
+Date: Thu, 03 Apr 2003 21:39:29 -0600
+X-OriginalArrivalTime: 04 Apr 2003 03:39:30.0296 (UTC) FILETIME=[CCB1AF80:01C2FA5B]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+
+Thanks to Ray Carmen for supplying me with a photocopy of this article.
+It contains a few small but interesting revelations...
+
+Jandek
+[Spin magazine, unknown date (probably 1985)]
+
+[illustration: Ready for the House cover]
+
+Jandek is a virtually unknown poet living deep in the heart of Texas who
+records eerie poems on a primitive reel-to-reel tape recorder in his
+apartment.  Then, with money he earns as a machinist, he presses 300
+albums that are sold by mail through obscure underground newsletters.
+Nine albums have been released in this manner during the last five
+years, and a tenth, simply called Nine-Thirty, should be available
+sometime this year.  Small matters, such as tires for Jandek's car,
+affect the production schedule.
+
+Jandek's songs are so sparse, so obscure, and so downright unusual that
+most normal people cannot listen to them for more than a few moments.
+"The rocks crumble, unto dust they die," croons Jandek, in a monotonous,
+atonal voice.  Some listeners involuntarily fidget, others scowl and and
+sneer before making snide remarks, and a few assume a fetal position or
+lapse into a catatonic state.  These strange and extreme reactions are
+real, not figments of our imagination.  It is for those very reasons
+that fans eagerly await and purchase each new album.
+
+Uninitiated listeners may think that Jandek sounds like a drug-warped
+hippie moaning surreal poetry while playing an obnoxiously out-of-tune
+guitar.  And there is room here for argument.  However, Jandek insists
+that he tunes the guitar for each recording session, in fact, every
+song, but rather than use traditional methods, he creates unconventional
+tone scales that match the aural imagery.
+
+An enigmatic recluse, Jandek records his songs while alone in his
+apartment somewhere in Houston.  Occasionally, he hits the microphone or
+knocks it over with his guitar, imbuing the song with a charming,
+homemade quality.  Rich, exotic lyrics may segue into brief flights of
+frustration and anger.  However, Jandek's poetry is not all dark and
+depressing.  The lyrics of "Nancy Sings" are suffused with the mystical
+naturalism of Native Americans:
+
+  A dozen drops
+  Fall from your face
+  Shaking the rain in a quiet place
+  Shining clean, a fresh new day
+  Wakes up the world in a fragrant bouquet
+  Listen to the sound of constant fall
+  Skies give water for life of all
+  If you reach into the air. [*]
+
+Jandek's Six and Six album addresses the ebb and flow of people and
+things in everyone's life.  "I Knew You Would Leave" is about a rock
+that crumbles into dust:
+
+  The rocks crumble
+  Unto dust they die
+  Once hard
+  Stuff of mountains
+  Now soft powder among the sands
+  Who dares crush a rock
+  Oh rock
+  No rock
+  Reduced to the winds
+  Scatter your parts
+  You are not one but many
+  To those you shall succumb. [*]
+
+Jandek believes that each person's essential spirit exists forever in
+the universe.  The imprints made on other people remain eternal in the
+memories of all those involved.
+
+Jandek seems an incredibly isolated but committed artist.  He refuses to
+discuss his life or his songs, saying only that each speaks for itself.
+Also, he refuses to perform in public.  The mysterious rock poet is
+unknown in Houston's small music community except to the folks at the
+record-pressing factory.  Some of the album covers, however, contain
+grainy, slightly out-of-focus pictures that may be of him.  There are no
+known photographs of him.
+
+Other albums feature stark photographs of a guitar leaning against a
+wall, or portions of a sparsely furnished room -- presumably all factual
+documents to help maintain the eternal spirit.  The front cover of each
+album is a sparse visual image without words or title.  The back covers
+simply list the songs in sequence, time of each track, the album's
+catalog number, and the label's address.
+
+Jandek spends $600 for each release of 300 albums; color covers cost an
+additional $200.  Everything from the recording tape to the shrink-wrap
+on the albums is funded with earnings from his regular eight-to-five
+job.  So far, none of the albums has sold more than 150 copies, which
+makes this an unprofitable venture.
+
+The Jandek Discography:
+0739 Ready for the House
+0740 Six and Six
+0741 Later On
+0742 Chair Beside a Window
+0743 Living in a Moon So Blue
+0744 Staring at the Cellophane
+0745 Your Turn to Fall
+0746 The Rocks Crumble
+0747 Interstellar Discussion
+0748 Nine-Thirty
+
+All 10 LP's are available on Corwood Records at $6 per single album or
+$55 per 25-count box (any mix).  Only prepaid orders can be accepted.
+To order, or for more information about the Jandek albums, write to:
+
+  Corwood Industries
+  Box 15375
+  Houston, TX 77020
+
+-- John Trubee and Edward Rasen
+
+[*] Song lyrics copyright Corwood Industries
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 6163 invoked from network); 4 Apr 2003 21:02:00 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 4 Apr 2003 21:02:00 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h34L1t317504
+	for jandek@zappa.cs.northwestern.edu; Fri, 4 Apr 2003 15:01:55 -0600
+Received: (qmail 6113 invoked from network); 4 Apr 2003 20:59:41 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 4 Apr 2003 20:59:41 -0000
+Received: from web41414.mail.yahoo.com ([66.218.93.80]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 4 Apr 2003 14:49:45 -0600
+Message-ID: <20030404204944.98202.qmail@web41414.mail.yahoo.com>
+Received: from [68.160.132.65] by web41414.mail.yahoo.com via HTTP; Fri, 04 Apr 2003 12:49:44 PST
+Date: Fri, 4 Apr 2003 12:49:44 -0800 (PST)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Re: Trubee/Rasen article in Spin
+To: Jandek@cs.northwestern.edu
+In-Reply-To: <200304040339.h343dTB06268@dylan.cs.northwestern.edu>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 04 Apr 2003 20:49:45.0195 (UTC) FILETIME=[B93EBBB0:01C2FAEB]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+This was posted to the list a long time ago. the guy
+typed it up during his thanksgiving stay at his
+parents' house. good for people who haven't seen it
+though i guess.
+
+D.M.
+--- Seth Tisue <seth@tisue.net> wrote:
+> 
+> Thanks to Ray Carmen for supplying me with a
+> photocopy of this article.
+> It contains a few small but interesting
+> revelations...
+> 
+> Jandek
+> [Spin magazine, unknown date (probably 1985)]
+> 
+> [illustration: Ready for the House cover]
+> 
+> Jandek is a virtually unknown poet living deep in
+> the heart of Texas who
+> records eerie poems on a primitive reel-to-reel tape
+> recorder in his
+> apartment.  Then, with money he earns as a
+> machinist, he presses 300
+> albums that are sold by mail through obscure
+> underground newsletters.
+> Nine albums have been released in this manner during
+> the last five
+> years, and a tenth, simply called Nine-Thirty,
+> should be available
+> sometime this year.  Small matters, such as tires
+> for Jandek's car,
+> affect the production schedule.
+> 
+> Jandek's songs are so sparse, so obscure, and so
+> downright unusual that
+> most normal people cannot listen to them for more
+> than a few moments.
+> "The rocks crumble, unto dust they die," croons
+> Jandek, in a monotonous,
+> atonal voice.  Some listeners involuntarily fidget,
+> others scowl and and
+> sneer before making snide remarks, and a few assume
+> a fetal position or
+> lapse into a catatonic state.  These strange and
+> extreme reactions are
+> real, not figments of our imagination.  It is for
+> those very reasons
+> that fans eagerly await and purchase each new album.
+> 
+> Uninitiated listeners may think that Jandek sounds
+> like a drug-warped
+> hippie moaning surreal poetry while playing an
+> obnoxiously out-of-tune
+> guitar.  And there is room here for argument. 
+> However, Jandek insists
+> that he tunes the guitar for each recording session,
+> in fact, every
+> song, but rather than use traditional methods, he
+> creates unconventional
+> tone scales that match the aural imagery.
+> 
+> An enigmatic recluse, Jandek records his songs while
+> alone in his
+> apartment somewhere in Houston.  Occasionally, he
+> hits the microphone or
+> knocks it over with his guitar, imbuing the song
+> with a charming,
+> homemade quality.  Rich, exotic lyrics may segue
+> into brief flights of
+> frustration and anger.  However, Jandek's poetry is
+> not all dark and
+> depressing.  The lyrics of "Nancy Sings" are
+> suffused with the mystical
+> naturalism of Native Americans:
+> 
+>   A dozen drops
+>   Fall from your face
+>   Shaking the rain in a quiet place
+>   Shining clean, a fresh new day
+>   Wakes up the world in a fragrant bouquet
+>   Listen to the sound of constant fall
+>   Skies give water for life of all
+>   If you reach into the air. [*]
+> 
+> Jandek's Six and Six album addresses the ebb and
+> flow of people and
+> things in everyone's life.  "I Knew You Would Leave"
+> is about a rock
+> that crumbles into dust:
+> 
+>   The rocks crumble
+>   Unto dust they die
+>   Once hard
+>   Stuff of mountains
+>   Now soft powder among the sands
+>   Who dares crush a rock
+>   Oh rock
+>   No rock
+>   Reduced to the winds
+>   Scatter your parts
+>   You are not one but many
+>   To those you shall succumb. [*]
+> 
+> Jandek believes that each person's essential spirit
+> exists forever in
+> the universe.  The imprints made on other people
+> remain eternal in the
+> memories of all those involved.
+> 
+> Jandek seems an incredibly isolated but committed
+> artist.  He refuses to
+> discuss his life or his songs, saying only that each
+> speaks for itself.
+> Also, he refuses to perform in public.  The
+> mysterious rock poet is
+> unknown in Houston's small music community except to
+> the folks at the
+> record-pressing factory.  Some of the album covers,
+> however, contain
+> grainy, slightly out-of-focus pictures that may be
+> of him.  There are no
+> known photographs of him.
+> 
+> Other albums feature stark photographs of a guitar
+> leaning against a
+> wall, or portions of a sparsely furnished room --
+> presumably all factual
+> documents to help maintain the eternal spirit.  The
+> front cover of each
+> album is a sparse visual image without words or
+> title.  The back covers
+> simply list the songs in sequence, time of each
+> track, the album's
+> catalog number, and the label's address.
+> 
+> Jandek spends $600 for each release of 300 albums;
+> color covers cost an
+> additional $200.  Everything from the recording tape
+> to the shrink-wrap
+> on the albums is funded with earnings from his
+> regular eight-to-five
+> job.  So far, none of the albums has sold more than
+> 150 copies, which
+> makes this an unprofitable venture.
+> 
+> The Jandek Discography:
+> 0739 Ready for the House
+> 0740 Six and Six
+> 0741 Later On
+> 0742 Chair Beside a Window
+> 0743 Living in a Moon So Blue
+> 0744 Staring at the Cellophane
+> 0745 Your Turn to Fall
+> 0746 The Rocks Crumble
+> 0747 Interstellar Discussion
+> 0748 Nine-Thirty
+> 
+> All 10 LP's are available on Corwood Records at $6
+> per single album or
+> $55 per 25-count box (any mix).  Only prepaid orders
+> can be accepted.
+> To order, or for more information about the Jandek
+> albums, write to:
+> 
+>   Corwood Industries
+>   Box 15375
+>   Houston, TX 77020
+> 
+> -- John Trubee and Edward Rasen
+> 
+> [*] Song lyrics copyright Corwood Industries
+> 
+> ==
+> Seth Tisue - seth@tisue.net - http://tisue.net
+
+
+=====
+Take nothing and no one seriously.
+
+Daniel S. Marks- Author, musician, admirer of pretty things. 
+
+http://www.geocities.com/alfredggnome
+http://www.casualfridaysband.com
+http://www.mp3.com/CasualFridays
+
+__________________________________________________
+Do you Yahoo!?
+Yahoo! Tax Center - File online, calculators, forms, and more
+http://tax.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 6411 invoked from network); 4 Apr 2003 21:04:41 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 4 Apr 2003 21:04:41 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h34L4aj17534
+	for jandek@zappa.cs.northwestern.edu; Fri, 4 Apr 2003 15:04:36 -0600
+Received: (qmail 6114 invoked from network); 4 Apr 2003 20:59:41 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 4 Apr 2003 20:59:41 -0000
+Received: from hotmail.com ([64.4.31.50] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 4 Apr 2003 14:59:25 -0600
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Fri, 4 Apr 2003 12:59:24 -0800
+Received: from 213.105.181.208 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Fri, 04 Apr 2003 20:59:24 GMT
+X-Originating-IP: [213.105.181.208]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: crash bang boom
+Date: Fri, 04 Apr 2003 20:59:24 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F50LJm2ZBNCogiwHsqh00053280@hotmail.com>
+X-OriginalArrivalTime: 04 Apr 2003 20:59:24.0395 (UTC) FILETIME=[1279A3B0:01C2FAED]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+>i was thinking two guitars and a drum set should be
+>enough....most of the mid period stuff has that as the
+>band...anyone play the drums? lol.
+>
+>D.M.
+
+What, in that Mo Tucker drunk on cheap whiskey way? Shouldn't be too hard to 
+organize that. I'd offer my guitar mangling services if not for the small 
+issue of the Atlantic Ocean being betwixt us all...
+I was leafing through John Fahey's fantastic book, "How Bluegrass Music 
+Destroyed My LIfe", today, and came across a part where he describes feeling 
+like everything was going black, followed by the line "BLACK BLACK BLACK 
+BLACK BLACK"... sound familiar?
+
+Paul
+
+_________________________________________________________________
+Add photos to your e-mail with MSN 8. Get 2 months FREE*. 
+http://join.msn.com/?page=features/featuredemail
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 8450 invoked from network); 4 Apr 2003 23:03:37 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 4 Apr 2003 23:03:37 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h34N3W119114
+	for jandek@zappa.cs.northwestern.edu; Fri, 4 Apr 2003 17:03:32 -0600
+Received: (qmail 8358 invoked from network); 4 Apr 2003 23:02:28 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 4 Apr 2003 23:02:28 -0000
+Received: from imo-d09.mx.aol.com ([205.188.157.41]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 4 Apr 2003 16:57:12 -0600
+Received: from Jwmojohand@aol.com
+	by imo-d09.mx.aol.com (mail_out_v34.21.) id i.4e.1a4ab697 (17377);
+	Fri, 4 Apr 2003 17:56:54 -0500 (EST)
+From: Jwmojohand@aol.com
+Message-ID: <4e.1a4ab697.2bbf67b6@aol.com>
+Date: Fri, 4 Apr 2003 17:56:54 EST
+Subject: Re: crash bang boom
+To: paulgcondon@hotmail.com, jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="part1_4e.1a4ab697.2bbf67b6_boundary"
+X-Mailer: 8.0 for Windows sub 6011
+X-OriginalArrivalTime: 04 Apr 2003 22:57:12.0281 (UTC) FILETIME=[87437490:01C2FAFD]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+
+--part1_4e.1a4ab697.2bbf67b6_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+--I was leafing through John Fahey's fantastic book, "How Bluegrass Music 
+Destroyed My LIfe", today, and came across a part where he describes feeling 
+like everything was going black, followed by the line "BLACK BLACK BLACK 
+BLACK BLACK"... sound familiar?--
+
+    Has anyone pointed out the similarity of poor Jandek moaning "Black black 
+black..." with the Patty Waters record yet? Patty Waters Sings, on ESP-Disk 
+back in 1965, featured a side two tantrum wherein Patty wailed "Black black 
+black..." for a really long time over the course of an assault on "Black Is 
+the Color of My True Love's Hair." I always think of it when I hear "Blues 
+Turned Black." I wonder if Jandek knew the cut or it was just a case of 
+moaning the same word in a similar way. Now I'll betcha Fahey knew the Waters 
+record though.
+
+         anyway, J. Walton, Michiana Spectral Evidence Accumulation Committee
+
+--part1_4e.1a4ab697.2bbf67b6_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><FONT FACE=3Darial,helvetica><FONT  SIZE=3D2 FAMILY=3D"SANSSERIF" FACE=
+=3D"Arial" LANG=3D"0">--I was leafing through John Fahey's fantastic book, "=
+How Bluegrass Music <BR>
+Destroyed My LIfe", today, and came across a part where he describes feeling=
+ <BR>
+like everything was going black, followed by the line "BLACK BLACK BLACK <BR=
+>
+BLACK BLACK"... sound familiar?--<BR>
+<BR>
+&nbsp;&nbsp;&nbsp; Has anyone pointed out the similarity of poor Jandek moan=
+ing "Black black black..." with the Patty Waters record yet? Patty Waters Si=
+ngs, on ESP-Disk back in 1965, featured a side two tantrum wherein Patty wai=
+led "Black black black..." for a really long time over the course of an assa=
+ult on "Black Is the Color of My True Love's Hair." I always think of it whe=
+n I hear "Blues Turned Black." I wonder if Jandek knew the cut or it was jus=
+t a case of moaning the same word in a similar way. Now I'll betcha Fahey kn=
+ew the Waters record though.<BR>
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; anyway, J. Walton, Michiana=
+ Spectral Evidence Accumulation Committee</FONT></HTML>
+
+--part1_4e.1a4ab697.2bbf67b6_boundary--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 11114 invoked from network); 5 Apr 2003 05:04:08 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 5 Apr 2003 05:04:08 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h35540b20659
+	for jandek@zappa.cs.northwestern.edu; Fri, 4 Apr 2003 23:04:00 -0600
+Received: (qmail 9892 invoked from network); 5 Apr 2003 00:42:30 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 5 Apr 2003 00:42:30 -0000
+Received: from web14914.mail.yahoo.com ([216.136.225.241]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 4 Apr 2003 18:27:25 -0600
+Message-ID: <20030405002723.22248.qmail@web14914.mail.yahoo.com>
+Received: from [172.192.45.54] by web14914.mail.yahoo.com via HTTP; Fri, 04 Apr 2003 16:27:23 PST
+Date: Fri, 4 Apr 2003 16:27:23 -0800 (PST)
+From: james <jamesbgraf@yahoo.com>
+Subject: Re: crash bang boom
+To: jandek@cs.northwestern.edu
+In-Reply-To: <4e.1a4ab697.2bbf67b6@aol.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 05 Apr 2003 00:27:25.0984 (UTC) FILETIME=[2214FA00:01C2FB0A]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+speaking of similar moanings, on the Smog song
+"nineteen" from dongs of sevotion, bill callahan sings
+the line "the next day she gave me a call, and she was
+all drunk." his delivery of the words "all drunk"
+echos exactly jandek's delivery of the same line in
+some song i had a long time ago and no longer have.
+coincidence? i doubt it.
+
+
+--- Jwmojohand@aol.com wrote:
+> --I was leafing through John Fahey's fantastic book,
+> "How Bluegrass Music 
+> Destroyed My LIfe", today, and came across a part
+> where he describes feeling 
+> like everything was going black, followed by the
+> line "BLACK BLACK BLACK 
+> BLACK BLACK"... sound familiar?--
+> 
+>     Has anyone pointed out the similarity of poor
+> Jandek moaning "Black black 
+> black..." with the Patty Waters record yet? Patty
+> Waters Sings, on ESP-Disk 
+> back in 1965, featured a side two tantrum wherein
+> Patty wailed "Black black 
+> black..." for a really long time over the course of
+> an assault on "Black Is 
+> the Color of My True Love's Hair." I always think of
+> it when I hear "Blues 
+> Turned Black." I wonder if Jandek knew the cut or it
+> was just a case of 
+> moaning the same word in a similar way. Now I'll
+> betcha Fahey knew the Waters 
+> record though.
+> 
+>          anyway, J. Walton, Michiana Spectral
+> Evidence Accumulation Committee
+> 
+
+
+__________________________________________________
+Do you Yahoo!?
+Yahoo! Tax Center - File online, calculators, forms, and more
+http://tax.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 11340 invoked from network); 5 Apr 2003 05:04:13 -0000
+Received: from dylan.cs.nwu.edu (HELO dylan.cs.northwestern.edu) (129.105.100.5)
+  by zappa.cs.nwu.edu with SMTP; 5 Apr 2003 05:04:13 -0000
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h35545N20683
+	for jandek@zappa.cs.northwestern.edu; Fri, 4 Apr 2003 23:04:05 -0600
+Received: (qmail 10005 invoked from network); 5 Apr 2003 01:04:49 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 5 Apr 2003 01:04:49 -0000
+Received: from hotmail.com ([64.4.31.101] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 4 Apr 2003 19:01:02 -0600
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Fri, 4 Apr 2003 17:01:01 -0800
+Received: from 24.187.246.237 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Sat, 05 Apr 2003 01:01:00 GMT
+X-Originating-IP: [24.187.246.237]
+X-Originating-Email: [akelly1971@hotmail.com]
+From: "Amy Kelly" <akelly1971@hotmail.com>
+To: Jwmojohand@aol.com, paulgcondon@hotmail.com, jandek@cs.northwestern.edu
+Subject: Re: crash bang boom
+Date: Fri, 04 Apr 2003 20:01:00 -0500
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F101YDKFJ2I13pL32ct00017d85@hotmail.com>
+X-OriginalArrivalTime: 05 Apr 2003 01:01:01.0956 (UTC) FILETIME=[D3B1E440:01C2FB0E]
+Sender: owner-jandek@zappa.cs.northwestern.edu
+Precedence: bulk
+
+I've only received two Jandek emails in the last few weeks...  Is it my 
+email account, or is the list just in a lull period?
+
+Cheers, Amy
+
+
+
+
+From: Jwmojohand@aol.com
+>To: paulgcondon@hotmail.com, jandek@cs.northwestern.edu
+>Subject: Re: crash bang boom
+>Date: Fri, 4 Apr 2003 17:56:54 EST
+>
+>--I was leafing through John Fahey's fantastic book, "How Bluegrass Music
+>Destroyed My LIfe", today, and came across a part where he describes 
+>feeling
+>like everything was going black, followed by the line "BLACK BLACK BLACK
+>BLACK BLACK"... sound familiar?--
+>
+>     Has anyone pointed out the similarity of poor Jandek moaning "Black 
+>black
+>black..." with the Patty Waters record yet? Patty Waters Sings, on ESP-Disk
+>back in 1965, featured a side two tantrum wherein Patty wailed "Black black
+>black..." for a really long time over the course of an assault on "Black Is
+>the Color of My True Love's Hair." I always think of it when I hear "Blues
+>Turned Black." I wonder if Jandek knew the cut or it was just a case of
+>moaning the same word in a similar way. Now I'll betcha Fahey knew the 
+>Waters
+>record though.
+>
+>          anyway, J. Walton, Michiana Spectral Evidence Accumulation 
+>Committee
+
+
+_________________________________________________________________
+STOP MORE SPAM with the new MSN 8 and get 2 months FREE*  
+http://join.msn.com/?page=features/junkmail
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 2892 invoked from network); 11 Apr 2003 15:08:01 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 11 Apr 2003 15:08:01 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 11 Apr 2003 10:07:59 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3BF7w730826
+	for jandek@cs.northwestern.edu; Fri, 11 Apr 2003 10:07:58 -0500
+Received: (qmail 2870 invoked from network); 11 Apr 2003 15:06:22 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 11 Apr 2003 15:06:22 -0000
+Received: from hotmail.com ([64.4.15.16] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 11 Apr 2003 10:06:20 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Fri, 11 Apr 2003 08:06:19 -0700
+Received: from 209.192.220.130 by lw10fd.law10.hotmail.msn.com with HTTP;
+	Fri, 11 Apr 2003 15:06:19 GMT
+X-Originating-IP: [209.192.220.130]
+X-Originating-Email: [oliveralden@hotmail.com]
+From: "Oliver Alden" <oliveralden@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: next 3 on ebay
+Date: Fri, 11 Apr 2003 11:06:19 -0400
+Mime-Version: 1.0
+Content-Type: text/html
+Message-ID: <F16pJviiGXzDG5L1HZH0003a4f9@hotmail.com>
+X-OriginalArrivalTime: 11 Apr 2003 15:06:19.0748 (UTC) FILETIME=[E8554A40:01C3003B]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<html><div style='background-color:'><DIV></DIV>
+<DIV></DIV>
+<P>My friend is still out of work, so the rest of his Jandek collection is going on ebay a little bit at a time.&nbsp; You guys mentioned Twelfth Apostle, so here it is:</P>
+<P>Twelfth Apostle&nbsp;&nbsp; <A href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;category=2262&amp;item=2522945421&amp;rd=1">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;category=2262&amp;item=2522945421&amp;rd=1</A></P>
+<P>Chair Beside A Window&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;category=2262&amp;item=2522940889&amp;rd=1">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;category=2262&amp;item=2522940889&amp;rd=1</A></P>
+<P>Living In A Moon So Blue&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;category=2262&amp;item=2522943362&amp;rd=1">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;category=2262&amp;item=2522943362&amp;rd=1</A></P>
+<DIV align=left>Thanks a ton.</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>- Oliver Alden </DIV>
+<DIV></DIV>
+<DIV align=center></DIV>
+<HR>
+
+<DIV></DIV>
+<DIV></DIV><FONT face="Arial Black, Geneva, Arial, Sans-serif" color=#ff0000></FONT>
+<DIV></DIV>
+<DIV align=center><FONT face="Arial Black, Geneva, Arial, Sans-serif" color=#ff0000>Down with pants! </DIV>
+<HR>
+
+<DIV></DIV></FONT>
+<DIV></DIV>
+<DIV></DIV>
+<DIV align=center><FONT face="Lucida Handwriting, Cursive" color=#009900 size=2><STRONG>Put an umbrella in your mouth and open it.</STRONG></FONT><FONT color=#000099><FONT color=#000099></DIV>
+<DIV></DIV>
+<DIV align=center></DIV>
+<HR>
+
+<DIV></DIV>
+<DIV></DIV></FONT></FONT>
+<DIV></DIV></div><br clear=all><hr>MSN 8 helps <a href="http://g.msn.com/8HMEENUS/2743">ELIMINATE E-MAIL VIRUSES. </a> Get 2 months FREE*.</html>
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 8581 invoked from network); 11 Apr 2003 20:54:04 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 11 Apr 2003 20:54:04 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 11 Apr 2003 15:53:59 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3BKrw004217
+	for jandek@cs.northwestern.edu; Fri, 11 Apr 2003 15:53:58 -0500
+Received: (qmail 8538 invoked from network); 11 Apr 2003 20:52:15 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 11 Apr 2003 20:52:15 -0000
+Received: from web41405.mail.yahoo.com ([66.218.93.71]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 11 Apr 2003 15:52:10 -0500
+Message-ID: <20030411205210.16625.qmail@web41405.mail.yahoo.com>
+Received: from [151.203.66.109] by web41405.mail.yahoo.com via HTTP; Fri, 11 Apr 2003 13:52:10 PDT
+Date: Fri, 11 Apr 2003 13:52:10 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: New Town
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 11 Apr 2003 20:52:10.0418 (UTC) FILETIME=[38B24120:01C3006C]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I read Seth's new comments on "new town". The all
+music guide gave it a four star review, the highest
+they give any of his albums. RFTH and Interstellar
+Discussion were the only others to get four stars.
+oddly, he hasn't sent them YWA or Blue Corpse yet;
+they would surely both get a four stars and maybe
+Corpse would get five.
+
+now look at these lyrics from New Town:
+
+"What You Are" (Track 11) 
+
+Sittin’ here thinkin’ about 
+What I got to do 
+Sittin’ here tryin’ to think 
+Where do my talents lie 
+Yes I’m sittin’ here thinkin’ 
+What am I supposed to be 
+What does it mean that I’m livin’ 
+What will it mean when I die 
+And how about you there 
+Do you know what you are 
+No matter who you are there 
+You must get the point 
+I came to ask you 
+Just who you think you are 
+
+Is he telling us here what his musical goal is? To
+make us reevaluate ourselves, think about the world as
+he has, with his music as the starting point? It
+sounds perfect. Very interesting. 
+
+One cool thing about the Late Period, for all of its
+monotony, is that we get a lot of info about the man
+Jandek. New Town is a better album than I gave it a
+chance to be. 
+
+"Look around/You're in a new town/And all the
+faces/Are underground"
+
+D.M.
+
+
+=====
+Take nothing and no one seriously.
+
+Daniel S. Marks- Author, musician, admirer of pretty things. 
+
+http://www.geocities.com/alfredggnome
+http://www.casualfridaysband.com
+http://www.mp3.com/CasualFridays
+
+__________________________________________________
+Do you Yahoo!?
+Yahoo! Tax Center - File online, calculators, forms, and more
+http://tax.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 11442 invoked from network); 12 Apr 2003 00:08:28 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 12 Apr 2003 00:08:28 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 11 Apr 2003 19:08:22 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3C08L606752
+	for jandek@cs.northwestern.edu; Fri, 11 Apr 2003 19:08:21 -0500
+Received: (qmail 11279 invoked from network); 12 Apr 2003 00:04:12 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 12 Apr 2003 00:04:12 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 11 Apr 2003 19:04:06 -0500
+Received: from dylan.cs.northwestern.edu (tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) with ESMTP id h3C046x06642
+	for <jandek@cs.northwestern.edu>; Fri, 11 Apr 2003 19:04:06 -0500
+Message-Id: <200304120004.h3C046x06642@dylan.cs.northwestern.edu>
+To: jandek@cs.northwestern.edu
+From: Seth Tisue <seth@tisue.net>
+Subject: New CD reissue
+X-Mailer: MH-E 7.0; nmh 1.0.4; Emacs 21.2
+Date: Fri, 11 Apr 2003 19:04:05 -0500
+X-OriginalArrivalTime: 12 Apr 2003 00:04:06.0723 (UTC) FILETIME=[08F2F130:01C30087]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+One Foot in the North (1991) is now out on CD -- arrived in the mail
+from Corwood today.  (Only two more LP's remain unreissued...)
+
+The lettering on the back is normal -- no Chinese restaurant font.
+
+Mostly just electric guitar (sometimes one, sometimes two) and vocals,
+no acoustic guitar, no woman singer, drums about a third of the time.
+"Yellow Pages" is a kind of cousin to "European Jewel".  "Alehouse
+Blues" is a pretty straight electric blues.  "Upon the Grandeur" is
+built around a very beautiful winding figure on the guitar; there's also
+a second guitarist and a drummer thumping along throughout on a bass
+drum.  (At the end you can hear two male voices speaking to
+each other: I can't pick out any words except when one of them says
+"What?")
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 17361 invoked from network); 12 Apr 2003 18:39:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 12 Apr 2003 18:39:53 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 12 Apr 2003 13:39:49 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3CIdmf13803
+	for jandek@cs.northwestern.edu; Sat, 12 Apr 2003 13:39:48 -0500
+Received: (qmail 17338 invoked from network); 12 Apr 2003 18:37:14 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 12 Apr 2003 18:37:14 -0000
+Received: from spf1.us.outblaze.com ([205.158.62.158] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 12 Apr 2003 13:37:10 -0500
+Received: (qmail 27563 invoked from network); 12 Apr 2003 18:36:27 -0000
+Received: from unknown (205.158.62.68)
+  by spf1.us.outblaze.com with QMQP; 12 Apr 2003 18:36:27 -0000
+Received: (qmail 72807 invoked from network); 12 Apr 2003 18:37:09 -0000
+Received: from unknown (HELO ws1-11.us4.outblaze.com) (205.158.62.80)
+  by 205-158-62-153.outblaze.com with SMTP; 12 Apr 2003 18:37:09 -0000
+Received: (qmail 76429 invoked by uid 1001); 12 Apr 2003 18:37:09 -0000
+Message-ID: <20030412183709.76428.qmail@mail.com>
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.41 (Entity 5.404)
+Received: from [68.41.100.16] by ws1-11.us4.outblaze.com with http for
+    crushtacoes@mail.com; Sat, 12 Apr 2003 13:37:09 -0500
+From: "Joe Henry" <crushtacoes@mail.com>
+To: jandek@cs.northwestern.edu, seth@tisue.net
+Date: Sat, 12 Apr 2003 13:37:09 -0500
+Subject: modern dances lyrics
+X-Originating-Ip: 68.41.100.16
+X-Originating-Server: ws1-11.us4.outblaze.com
+X-OriginalArrivalTime: 12 Apr 2003 18:37:10.0283 (UTC) FILETIME=[870D7DB0:01C30122]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Below is my transcription of the album "Modern Dances". The last song is missing, because I couldn't understand enough of the lyrics for it to be worth it. 
+I used "J" to credit Jandek (or the usual male voice) and "N" for Nancy (or the usual pre-"living end" female voice), but there was a different male voice heard on one track that I identify as "3rd Voice". 
+Feel free to correct any mistakes, and to take a shot at transcribing "Carnival Queen".
+PAINTED MY TEETH
+J – Oh yeah yeah yeah whoa yeah
+J – Come on, let’s go, ho
+J – Now, now, right now, yeah, painted my teeth
+J – Teeth teeth teeth teeth teeth teeth teeth
+J – Paint your teeth
+N - That is absurd
+N - Don’t paint your teeth
+J – Karl Marx painted his teeth
+J – Whoa whoa, go paint your teeth
+J – Teeth teeth, aw, paint your teeth
+J – Don’t paint your teeth, don’t paint your teeth
+N - How long you been, (morbid alive?)
+N - Paintin’ your teeth
+J – Hey, well you paint your dollar
+J – Hey, so paint your teeth
+N - Don’t paint your teeth
+J – You ain’t gonna paint no teeth, no teeth
+N - You just made my day
+J – How did I make your day?
+N - You didn’t paint your teeth
+J – I tell you somethin’, I painted my teeth
+N - Oh no, you didn’t paint your teeth
+J – I painted my teeth
+N - Oh no, you didn’t paint your teeth
+[Following parts are more or less simultaneous]
+J – Behind your back 
+N - Oh please don’t say you painted your teeth
+J – I painted my teeth [x3]
+J – Teeth, I painted my teeth
+J – Oh give me some paint
+J – I wanna paint my teeth some more
+N - Oh (???)
+J – Oh lots more
+N - Don’t paint your teeth
+J – I paint my teeth
+N - Don’t paint your teeth
+J – They’re my teeth and I’m gonna, ha ha
+J – Paint my teeth
+J – I ‘m gonna paint my teeth
+J – You didn’t think I’d be back, baby
+J – But I’ve made it
+J – To paint my teeth
+TWELVE SECONDS SINCE FEBRUARY 32’ND
+[sung by Jandek]
+Hurried, ha ha
+Aw, we’ve been waitin’ twelve seconds
+Since February thiry-second
+It’s been twelve minutes since February
+Now the thirty-second
+If your next last day of your life
+Everybody dies
+Get your knife, no leave it on
+Get your knife, get your knife and leave it on
+Get your knife and leave it on
+It’s February thirty-second and we’re gonna get it now
+Because the last day is February thirty-second
+C’mon now, we’re gonna get ‘em all
+This time its over, we’re gonna get ‘em
+Aw c’mon, we have been (???)
+We’re gonna kill ‘em all
+We’re gonna kill ‘em
+Cause it’s the thirty-second day of February
+Oh it’s raining on a dying man
+C’mon now, there’s a couple over there, let’s get ‘em
+Eeeow okay, they’re all dead now
+
+HAND FOR HARRY IDLE
+N – Let us have a hand for Harry Idle
+J – A hand
+N – He was peace and older days
+J – A hand, a hand, a hand for Harry Idle
+J – Ho ho ho ho ho ho ho ho ho ho
+N – Gonna have a hand, yeah, yeah [2x]
+N – Gonna have a hand [2x]
+N – Two hands for Harry Idle
+J – And now let’s have a real hand for Harry Idle
+N – He’s excited that he had a hand
+N – For Harry or anyone passing through
+N – Glad to have a hand for Harry and Tom
+3RD VOICE – Oh no
+N – Oh no
+J – Let’s have a hand
+N – Tom doesn’t want a hand
+
+NUMBER 512
+N – Okay, but what’s it gonna be?
+J – Just talk yourself into it, it’ll be number 512
+N – Talk yourself into number 512, okay
+J – (Lamb are you, huh?)
+N – I have found it’s very simple
+N – To talk yourself into number five twenty-one
+J – One
+N – With a shot of Cadillac club
+J – We’re almost there
+J – Five two one
+N – What we need very quickly is a change
+N – A real change, okay?
+N – And immediately we will change the pace
+N – Because we’re tired of this one
+N – Okay? Let us change the pace
+N – Oh boy did you ride?
+N – Don’t got a ride that night
+N – All I heard about drummers must be true
+N – To stand there lookin’ at you
+N – Fast, somebody’s got to go fast with me
+N – Because oh god, I get so bored
+J – One
+
+NOTHING IS BETTER THAN GOD
+J – Nothin’s better than God
+N – Nothing is better than God
+J – God
+N – I thank God, he’s a real good friend of mine
+J – God
+J – The lord on Sunday
+J – The lord on Monday, Tuesday, Wednesday
+J – Thursday, Friday, Saturday
+N – Oh why don’t you let me be a little more like you
+N – I enjoy being better
+N – But I guess you hear that lots of times
+J – Nothin’s better than God
+J – God [13x]
+N – It’s only a song here
+N – Aw, it’s just a word
+N – I would want to know you
+N – If I really could
+N – If I really could
+J – God [3x]
+N – Oh
+J – Oh, no
+N – I want to love you God
+N – I want to know God
+N – I want to love you God
+N – I want to hear you
+N – Is that wrong? Is that right?
+N – I don’t think there’s anything, God
+
+SPIRITUAL SONG
+[sung by Nancy]
+Flying down slow
+I don’t even want to go
+But it’s so nice when you fly slow
+I picked up a piece of the sky
+I watched it, watched it under my eyes
+And I noticed quite by accident
+That it’s the same, it’s all the same
+Why don’t you fly slowly down with me?
+I enjoy my work, I enjoy being alive
+There it goes again, here we are once more
+We are right are on the edge of 
+Whatever you choose to be on the edge of
+But it’s kind of nice
+And it’s kind of calm
+That you see these things
+Without even having to die
+Lucky us
+Lucky you, lucky me, lucky one two three
+Aren’t we happy? 
+Aren’t we glad that we’re here on the edge
+We’re right here in the sky
+We’re right ever you might choose to fly
+You and I and the entire world can fly
+Just you and I
+Why not fly?
+
+SPANISH IN ME 003
+J – We’ll that’s the Spanish in me
+J – That’s the Spanish in me
+J – Broke my neck until three
+J – Started wonderin’ why
+J – I kept seein’ the sky
+J – Took a vacation, woah
+J – What a thunderin’ blow
+J – Blew me back from the sky
+J – Broke my neck until four
+J – Took a vacation, whoa
+J – Sail away from the port
+J – Somewhere floatin’ down a river to Madrid
+J – Cause that’s the
+N – The Spanish in me
+J – Broke my neck until three
+N – Broke my neck until four
+J – Broke my neck until five
+N – Somewhere out there floatin on
+J – On a river to Madrid, lookin’ at the sky
+N – Spanish in me [2x]
+J – Spanish in me, that’s the Spanish in me
+N – That river to Madrid
+N – That’s the Spanish in me
+N – That (???) Spanish in me
+
+I WANT TO KNOW WHY
+J – I want to know why
+J – Tell me why, tell me why
+J – I, tell me why
+J – Why, he wants to know why
+J – I’ll tell you why
+J – Why?
+J – I want to know why, why why
+J – Why, come on now
+J – Tell me why [4x]
+J – Okay, let’s bring ‘em out
+J – She’s gonna tell me why
+J – Now bring it down
+N – Why, that’s all, just why
+J – She wants to know why
+N – Why? Why?
+J – Why? Why? Ohio
+N – Why-o why-o
+N – Why did I ever leave Ohio
+J – I’ll tell you why
+N – Why?
+J – I’ll tell you why
+N – Why?
+J – Oh this is why, this is why
+N – Why
+J – You want to know why?
+N – Yeah, I want to
+J – You want to know why?
+N – Yeah why?
+J – The cows came home [2x]
+J – There’s only one reason why [2x]
+J – One reason why [4x]
+N – [Eighteen?] Why?
+J – One
+N – Because, because that’s the only reason why
+
+SIMPLE AS THAT
+[sung by Jandek]
+You don’t realize 
+What it is I have to do
+You don’t realize
+What it is I’ve got to do
+Simple as that
+You don’t realize
+What I have to do
+
+OPEN E
+[sung by Jandek]
+I know that the times we’ve spent together 
+Weren’t always meant to be 
+The voices outside we heard so clearly 
+Weren’t meant for us to hear 
+Though it’s true I was with you 
+An everlasting moment grew to be 
+Listen to the other side of life 
+Listen, don’t turn back the tide of life 
+If I should go and try to find alone
+The thing inside my mind 
+Each and every day I dream a dream 
+In which I don’t return 
+But I can never feel the threat 
+Of threat of losing anything I get for free 
+Listen to the other side of life 
+Listen, don’t turn back the tide of life
+
+-- 
+__________________________________________________________
+Sign-up for your own FREE Personalized E-mail at Mail.com
+http://www.mail.com/?sr=signup
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 31418 invoked from network); 13 Apr 2003 13:49:52 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 13 Apr 2003 13:49:52 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 13 Apr 2003 08:49:49 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3DDnmi28318
+	for jandek@cs.northwestern.edu; Sun, 13 Apr 2003 08:49:48 -0500
+Received: (qmail 31159 invoked from network); 13 Apr 2003 12:24:35 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 13 Apr 2003 12:24:35 -0000
+Received: from snipe.mail.pas.earthlink.net ([207.217.120.62]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 13 Apr 2003 07:24:32 -0500
+Received: from dialup-209.246.89.23.dial1.newyork1.level3.net ([209.246.89.23] helo=t3d4s2)
+	by snipe.mail.pas.earthlink.net with smtp (Exim 3.33 #1)
+	id 194gX9-0002Xt-00
+	for jandek@cs.northwestern.edu; Sun, 13 Apr 2003 05:24:31 -0700
+Message-ID: <000801c30153$aac5a9e0$1759f6d1@t3d4s2>
+Reply-To: "Phylo Brag" <PhyloBrag@earthlink.net>
+From: "Phylo Brag" <phylobrag@earthlink.net>
+To: <jandek@cs.northwestern.edu>
+Subject: New subscriber
+Date: Sat, 12 Apr 2003 20:28:53 -0400
+Organization: Phylonian Retreats in cooperation with QWE Industries
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C30132.2285EA20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-OriginalArrivalTime: 13 Apr 2003 12:24:32.0924 (UTC) FILETIME=[A370FDC0:01C301B7]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0005_01C30132.2285EA20
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+I'm just checking for myself to see if I subscribed for real (I have =
+problems a lot). I'd like to introduce myself. I'm 16 years old and I =
+like DEVO, the Residents, Merzbow, Negativland etc.
+Jandek is really great. I have the first 3 albums plus Staring at the =
+Cellophane. I've been thinking about saving up $80 for a box of Jandek =
+CD's to save some $$ (the record store I go to I'm sure does this and =
+charges twice as much). Whats the shipping charge?
+The news about the Jandek documentary is great! My friend hates Jandek =
+but all these famous people he likes seem to be fans of Jandek. Now he =
+doesn't know what to think. Its sort of like telling your friend about =
+all the well-known artists on the Merzbow tribute CD's.
+I've transcribed a few lyrics for the site here and there. The newer =
+changes (fixes) in the first few albums are mine.
+
+Hope this goes out.
+
+Phylo Brag
+http://www.soundclick.com/bands/6/phylobrag.htm
+
+------=_NextPart_000_0005_01C30132.2285EA20
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2719.2200" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>I'm just checking for myself to see if =
+I subscribed=20
+for real (I have problems a lot). I'd like to introduce myself. I'm 16 =
+years old=20
+and I like DEVO, the Residents, Merzbow, Negativland&nbsp;etc.<BR>Jandek =
+is=20
+really great. I have the first 3 albums plus Staring at the Cellophane. =
+I've=20
+been thinking about saving up $80 for a box of Jandek CD's to save some =
+$$ (the=20
+record store I go to I'm sure </FONT><FONT face=3DArial size=3D2>does =
+this and=20
+charges twice as much). Whats the shipping charge?<BR>The news about the =
+Jandek=20
+documentary is great! My friend hates Jandek but all these famous people =
+he=20
+likes seem to be fans of Jandek. Now he doesn't know what to think. Its =
+sort of=20
+like telling your friend about all the well-known artists on the Merzbow =
+tribute=20
+CD's.<BR>I've transcribed a few lyrics for the site&nbsp;here and there. =
+The=20
+newer changes (fixes) in the first few albums are mine.<BR><BR>Hope this =
+goes=20
+out.<BR><BR>Phylo Brag<BR><A=20
+href=3D"http://www.soundclick.com/bands/6/phylobrag.htm">http://www.sound=
+click.com/bands/6/phylobrag.htm</A></FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0005_01C30132.2285EA20--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 32388 invoked from network); 13 Apr 2003 16:41:41 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 13 Apr 2003 16:41:41 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 13 Apr 2003 11:41:37 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3DGfal29376
+	for jandek@cs.northwestern.edu; Sun, 13 Apr 2003 11:41:36 -0500
+Received: (qmail 32370 invoked from network); 13 Apr 2003 16:41:00 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 13 Apr 2003 16:41:00 -0000
+Received: from spf1.us.outblaze.com ([205.158.62.158] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 13 Apr 2003 11:40:56 -0500
+Received: (qmail 6277 invoked from network); 13 Apr 2003 16:40:13 -0000
+Received: from unknown (205.158.62.68)
+  by spf1.us.outblaze.com with QMQP; 13 Apr 2003 16:40:13 -0000
+Received: (qmail 48510 invoked from network); 13 Apr 2003 16:40:53 -0000
+Received: from unknown (HELO ws1-11.us4.outblaze.com) (205.158.62.80)
+  by 205-158-62-153.outblaze.com with SMTP; 13 Apr 2003 16:40:53 -0000
+Received: (qmail 9000 invoked by uid 1001); 13 Apr 2003 16:40:53 -0000
+Message-ID: <20030413164053.8999.qmail@mail.com>
+Content-Type: text/html; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.41 (Entity 5.404)
+Received: from [68.41.100.16] by ws1-11.us4.outblaze.com with http for
+    crushtacoes@mail.com; Sun, 13 Apr 2003 11:40:53 -0500
+From: "Joe Henry" <crushtacoes@mail.com>
+To: "Phylo Brag" <PhyloBrag@earthlink.net>, jandek@cs.northwestern.edu
+Date: Sun, 13 Apr 2003 11:40:53 -0500
+Subject: Re: New subscriber
+X-Originating-Ip: 68.41.100.16
+X-Originating-Server: ws1-11.us4.outblaze.com
+X-OriginalArrivalTime: 13 Apr 2003 16:40:56.0696 (UTC) FILETIME=[74E24F80:01C301DB]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<P>Here's the great thing about ordering straight from Jandek: no shipping charge! And he even insures the boxes of 20 for no extra charge.</P>
+-- 
+<p>_______________________________________________<br>
+Sign-up for your own FREE Personalized E-mail at <a href="http://www.mail.com/?sr=signup" target="_new"><font color="#0000FF"> Mail.com</font></a></p>
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 14879 invoked from network); 14 Apr 2003 21:40:33 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Apr 2003 21:40:33 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 14 Apr 2003 16:40:27 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3ELeQo09340
+	for jandek@cs.northwestern.edu; Mon, 14 Apr 2003 16:40:26 -0500
+Received: (qmail 14796 invoked from network); 14 Apr 2003 21:33:15 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Apr 2003 21:33:15 -0000
+Received: from web12006.mail.yahoo.com ([216.136.172.214]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 14 Apr 2003 16:32:09 -0500
+Message-ID: <20030414213208.18438.qmail@web12006.mail.yahoo.com>
+Received: from [24.54.37.67] by web12006.mail.yahoo.com via HTTP; Mon, 14 Apr 2003 14:32:08 PDT
+Date: Mon, 14 Apr 2003 14:32:08 -0700 (PDT)
+From: Jason Cooley <jasonx12@yahoo.com>
+Subject: Byron Coley has been interviewed
+To: jandek@cs.northwestern.edu
+In-Reply-To: <20030413164053.8999.qmail@mail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 14 Apr 2003 21:32:09.0796 (UTC) FILETIME=[4E138840:01C302CD]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I was at the Godspeed You! Black Emperor show in
+Montreal last night and talked to Byron Coley for a
+few minutes.  He said that he'd been interviewed for
+the "Jandek On Corwood" film this past Friday.  He
+said the interview lasted two and a half hours and
+that had been asked some interesting questions (I'm
+paraphrasing)...we also talked a little about Daniel
+Johnston (who I saw live last Thursday, read my
+thoughts here:
+http://www.ibrecords.com/journal/entry.php?id=117 )
+He said that he's been interviewed for plenty of
+documentaries that never came out, for bands like the
+Shaggs, etc. , and that he's happy that it looks like
+the Jandek one will really happen.   He was a really
+nice, cool guy.  
+
+__________________________________________________
+Do you Yahoo!?
+Yahoo! Tax Center - File online, calculators, forms, and more
+http://tax.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 15819 invoked from network); 14 Apr 2003 22:34:22 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Apr 2003 22:34:22 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 14 Apr 2003 17:34:16 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3EMYEj09846
+	for jandek@cs.northwestern.edu; Mon, 14 Apr 2003 17:34:14 -0500
+Received: (qmail 15719 invoked from network); 14 Apr 2003 22:23:44 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Apr 2003 22:23:44 -0000
+Received: from imo-m02.mx.aol.com ([64.12.136.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 14 Apr 2003 17:23:38 -0500
+Received: from NCR13@aol.com
+	by imo-m02.mx.aol.com (mail_out_v34.21.) id l.46.37b39867 (16087)
+	 for <jandek@cs.northwestern.edu>; Mon, 14 Apr 2003 18:23:29 -0400 (EDT)
+Received: from  aol.com (mow-m17.webmail.aol.com [64.12.180.133]) by air-id10.mx.aol.com (v92.17) with ESMTP id MAILINID104-3ed73e9b34e0359; Mon, 14 Apr 2003 18:23:28 -0400
+Date: Mon, 14 Apr 2003 18:23:28 -0400
+From: NCR13@aol.com
+To: jandek@cs.northwestern.edu
+Subject: Re: Byron Coley has been interviewed
+MIME-Version: 1.0
+Message-ID: <21E9131E.68D981B0.0000E84F@aol.com>
+X-Mailer: Atlas Mailer 2.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-OriginalArrivalTime: 14 Apr 2003 22:23:38.0210 (UTC) FILETIME=[7EEA1C20:01C302D4]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Interesting...a month or two ago he said he didn't want to do it, suggesting a wind-up monkey be substituted in his place. No slag on Byron but that would've been interesting.
+
+
+In a message dated 4/14/2003 4:32:08 PM Eastern Standard Time, jasonx12@yahoo.com writes:
+
+> 
+> I was at the Godspeed You! Black Emperor show in
+> Montreal last night and talked to Byron Coley for a
+> few minutes.  He said that he'd been interviewed for
+> the "Jandek On Corwood" film this past Friday.  He
+> said the interview lasted two and a half hours and
+> that had been asked some interesting questions (I'm
+> paraphrasing)...we also talked a little about Daniel
+> Johnston (who I saw live last Thursday, read my
+> thoughts here:
+> http://www.ibrecords.com/journal/entry.php?id=117 )
+> He said that he's been interviewed for plenty of
+> documentaries that never came out, for bands like the
+> Shaggs, etc. , and that he's happy that it looks like
+> the Jandek one will really happen.   He was a really
+> nice, cool guy.  
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 16768 invoked from network); 14 Apr 2003 23:30:08 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Apr 2003 23:30:08 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 14 Apr 2003 18:30:02 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3ENU1Y10331
+	for jandek@cs.northwestern.edu; Mon, 14 Apr 2003 18:30:01 -0500
+Received: (qmail 16688 invoked from network); 14 Apr 2003 23:24:07 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 14 Apr 2003 23:24:07 -0000
+Received: from hotmail.com ([64.4.31.118] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 14 Apr 2003 18:24:00 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 14 Apr 2003 16:24:00 -0700
+Received: from 24.187.246.237 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Mon, 14 Apr 2003 23:23:59 GMT
+X-Originating-IP: [24.187.246.237]
+X-Originating-Email: [akelly1971@hotmail.com]
+From: "Amy Kelly" <akelly1971@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: Byron Coley has been interviewed
+Date: Mon, 14 Apr 2003 19:23:59 -0400
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F118ejLaCzL71H87eFL00069b1b@hotmail.com>
+X-OriginalArrivalTime: 14 Apr 2003 23:24:00.0434 (UTC) FILETIME=[EDEDA120:01C302DC]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Speaking of the Jan-Doc, what's the status on that?  Last I heard, they were 
+saying a May release date, but if they're still doing interviews, perhaps 
+not.
+
+~~Amy
+
+
+
+
+From: NCR13@aol.com
+>To: jandek@cs.northwestern.edu
+>Subject: Re: Byron Coley has been interviewed
+>Date: Mon, 14 Apr 2003 18:23:28 -0400
+>
+>Interesting...a month or two ago he said he didn't want to do it, 
+>suggesting a wind-up monkey be substituted in his place. No slag on Byron 
+>but that would've been interesting.
+>
+>
+>In a message dated 4/14/2003 4:32:08 PM Eastern Standard Time, 
+>jasonx12@yahoo.com writes:
+>
+> >
+> > I was at the Godspeed You! Black Emperor show in
+> > Montreal last night and talked to Byron Coley for a
+> > few minutes.  He said that he'd been interviewed for
+> > the "Jandek On Corwood" film this past Friday.  He
+> > said the interview lasted two and a half hours and
+> > that had been asked some interesting questions (I'm
+> > paraphrasing)...we also talked a little about Daniel
+> > Johnston (who I saw live last Thursday, read my
+> > thoughts here:
+> > http://www.ibrecords.com/journal/entry.php?id=117 )
+> > He said that he's been interviewed for plenty of
+> > documentaries that never came out, for bands like the
+> > Shaggs, etc. , and that he's happy that it looks like
+> > the Jandek one will really happen.   He was a really
+> > nice, cool guy.
+
+
+_________________________________________________________________
+The new MSN 8: smart spam protection and 2 months FREE*  
+http://join.msn.com/?page=features/junkmail
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 18499 invoked from network); 15 Apr 2003 03:02:54 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Apr 2003 03:02:54 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 14 Apr 2003 22:02:46 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3F32jb11579
+	for jandek@cs.northwestern.edu; Mon, 14 Apr 2003 22:02:45 -0500
+Received: (qmail 18472 invoked from network); 15 Apr 2003 03:01:41 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Apr 2003 03:01:41 -0000
+Received: from app3.nasc.inter.net ([203.176.60.253] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 14 Apr 2003 22:01:34 -0500
+Received: from ip5-119.vancbc01g01.dialup.ca.telus.com ([207.6.106.119] helo=istar.ca)
+	by app3.nasc.inter.net with esmtp (Exim 3.34 #1)
+	id 195GhQ-00006w-00
+	for jandek@cs.northwestern.edu; Mon, 14 Apr 2003 23:01:33 -0400
+Message-ID: <3E9B7556.30009@istar.ca>
+Date: Mon, 14 Apr 2003 19:58:30 -0700
+From: beeman <beeman@istar.ca>
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.0.1) Gecko/20020823 Netscape/7.0
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: jandek@cs.northwestern.edu
+Subject: cd's need a good home
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+X-OriginalArrivalTime: 15 Apr 2003 03:01:34.0294 (UTC) FILETIME=[52A29760:01C302FB]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Gang, I have a boatload of original music cd's to sell/trade. $6.50 US 
+ppd. To get my list please email me directly. I know there's some stuff 
+you would like, including a few mid-period Jandek titles.
+
+regards, Judith
+
+beeman@istar.ca
+
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 22590 invoked from network); 15 Apr 2003 13:45:30 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Apr 2003 13:45:30 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 15 Apr 2003 08:45:28 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3FDjR315673
+	for jandek@cs.northwestern.edu; Tue, 15 Apr 2003 08:45:27 -0500
+Received: (qmail 20264 invoked from network); 15 Apr 2003 07:02:22 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Apr 2003 07:02:22 -0000
+Received: from web13305.mail.yahoo.com ([216.136.175.41]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 15 Apr 2003 02:02:12 -0500
+Message-ID: <20030415070211.88844.qmail@web13305.mail.yahoo.com>
+Received: from [204.249.194.93] by web13305.mail.yahoo.com via HTTP; Tue, 15 Apr 2003 00:02:11 PDT
+Date: Tue, 15 Apr 2003 00:02:11 -0700 (PDT)
+From: john foster <blksab71@yahoo.com>
+Subject: jandek recordings
+To: jandek@cs.northwestern.edu
+Cc: blksab71@yahoo.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1797012185-1050390131=:88680"
+X-OriginalArrivalTime: 15 Apr 2003 07:02:12.0546 (UTC) FILETIME=[F0810220:01C3031C]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+--0-1797012185-1050390131=:88680
+Content-Type: text/plain; charset=us-ascii
+
+i am pretty new to the music of jandek, i plan on purchasing some cd's what would be the best starting point? list the first 3 albums i should start my collection with.someone help me on this matter PLEASE!!!!   
+
+
+---------------------------------
+Do you Yahoo!?
+The New Yahoo! Search - Faster. Easier. Bingo.
+--0-1797012185-1050390131=:88680
+Content-Type: text/html; charset=us-ascii
+
+<DIV>i am pretty new to the music of jandek, i plan on purchasing some cd's what would be the best starting point? list the first 3 albums i should start my collection with.someone help me on this matter PLEASE!!!!&nbsp;&nbsp; </DIV><p><br><hr size=1>Do you Yahoo!?<br>
+<a href="http://us.rd.yahoo.com/search/mailsig/*http://search.yahoo.com">The New Yahoo! Search</a> - Faster. Easier. Bingo.
+--0-1797012185-1050390131=:88680--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 28758 invoked from network); 15 Apr 2003 19:38:13 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Apr 2003 19:38:13 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 15 Apr 2003 14:38:09 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3FJc7t20041
+	for jandek@cs.northwestern.edu; Tue, 15 Apr 2003 14:38:07 -0500
+Received: (qmail 28486 invoked from network); 15 Apr 2003 19:34:39 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 15 Apr 2003 19:34:39 -0000
+Received: from app3.nasc.inter.net ([203.176.60.253] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Tue, 15 Apr 2003 14:34:34 -0500
+Received: from app2.nasc.inter.net ([10.0.0.12] helo=service.ca.inter.net)
+	by app3.nasc.inter.net with smtp (Exim 3.34 #1)
+	id 195WCP-00006K-00
+	for jandek@cs.northwestern.edu; Tue, 15 Apr 2003 15:34:33 -0400
+To: jandek@cs.northwestern.edu
+From: smathesn@istar.ca
+X-Sender: smathesn@istar.ca
+Subject: Re: Trubee/Rasen article in Spin
+Date: Tue, 15 Apr 2003 15:34:33 US/Eastern
+X-Mailer: Endymion MailMan Standard Edition v3.0.33
+Message-Id: <E195WCP-00006K-00@app3.nasc.inter.net>
+X-OriginalArrivalTime: 15 Apr 2003 19:34:34.0663 (UTC) FILETIME=[0B4D6B70:01C30386]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+          				Not that I'm looking for credit or anything, but...I did send 
+this article to the list
+about two years ago 
+complete with citations - it's from Vol. 1 No. 5, September 1985.  Pat Benetar cover. 
+Where was you, 
+man?  
+ 
+> Thanks to Ray Carmen for supplying me with a photocopy of this article.
+> It contains a few small but interesting revelations...
+> 
+> Jandek
+> [Spin magazine, unknown date (probably 1985)]
+> 
+> [illustration: Ready for the House cover]
+> 
+> Jandek is a virtually unknown poet living deep in the heart of Texas who
+> records eerie poems on a primitive reel-to-reel tape recorder in his
+> apartment.  Then, with money he earns as a machinist, he presses 300
+> albums that are sold by mail through obscure underground newsletters.
+> Nine albums have been released in this manner during the last five
+> years, and a tenth, simply called Nine-Thirty, should be available
+> sometime this year.  Small matters, such as tires for Jandek's car,
+> affect the production schedule.
+> 
+> Jandek's songs are so sparse, so obscure, and so downright unusual that
+> most normal people cannot listen to them for more than a few moments.
+> "The rocks crumble, unto dust they die," croons Jandek, in a monotonous,
+> atonal voice.  Some listeners involuntarily fidget, others scowl and and
+> sneer before making snide remarks, and a few assume a fetal position or
+> lapse into a catatonic state.  These strange and extreme reactions are
+> real, not figments of our imagination.  It is for those very reasons
+> that fans eagerly await and purchase each new album.
+> 
+> Uninitiated listeners may think that Jandek sounds like a drug-warped
+> hippie moaning surreal poetry while playing an obnoxiously out-of-tune
+> guitar.  And there is room here for argument.  However, Jandek insists
+> that he tunes the guitar for each recording session, in fact, every
+> song, but rather than use traditional methods, he creates unconventional
+> tone scales that match the aural imagery.
+> 
+> An enigmatic recluse, Jandek records his songs while alone in his
+> apartment somewhere in Houston.  Occasionally, he hits the microphone or
+> knocks it over with his guitar, imbuing the song with a charming,
+> homemade quality.  Rich, exotic lyrics may segue into brief flights of
+> frustration and anger.  However, Jandek's poetry is not all dark and
+> depressing.  The lyrics of "Nancy Sings" are suffused with the mystical
+> naturalism of Native Americans:
+> 
+>   A dozen drops
+>   Fall from your face
+>   Shaking the rain in a quiet place
+>   Shining clean, a fresh new day
+>   Wakes up the world in a fragrant bouquet
+>   Listen to the sound of constant fall
+>   Skies give water for life of all
+>   If you reach into the air. [*]
+> 
+> Jandek's Six and Six album addresses the ebb and flow of people and
+> things in everyone's life.  "I Knew You Would Leave" is about a rock
+> that crumbles into dust:
+> 
+>   The rocks crumble
+>   Unto dust they die
+>   Once hard
+>   Stuff of mountains
+>   Now soft powder among the sands
+>   Who dares crush a rock
+>   Oh rock
+>   No rock
+>   Reduced to the winds
+>   Scatter your parts
+>   You are not one but many
+>   To those you shall succumb. [*]
+> 
+> Jandek believes that each person's essential spirit exists forever in
+> the universe.  The imprints made on other people remain eternal in the
+> memories of all those involved.
+> 
+> Jandek seems an incredibly isolated but committed artist.  He refuses to
+> discuss his life or his songs, saying only that each speaks for itself.
+> Also, he refuses to perform in public.  The mysterious rock poet is
+> unknown in Houston's small music community except to the folks at the
+> record-pressing factory.  Some of the album covers, however, contain
+> grainy, slightly out-of-focus pictures that may be of him.  There are no
+> known photographs of him.
+> 
+> Other albums feature stark photographs of a guitar leaning against a
+> wall, or portions of a sparsely furnished room -- presumably all factual
+> documents to help maintain the eternal spirit.  The front cover of each
+> album is a sparse visual image without words or title.  The back covers
+> simply list the songs in sequence, time of each track, the album's
+> catalog number, and the label's address.
+> 
+> Jandek spends $600 for each release of 300 albums; color covers cost an
+> additional $200.  Everything from the recording tape to the shrink-wrap
+> on the albums is funded with earnings from his regular eight-to-five
+> job.  So far, none of the albums has sold more than 150 copies, which
+> makes this an unprofitable venture.
+> 
+> The Jandek Discography:
+> 0739 Ready for the House
+> 0740 Six and Six
+> 0741 Later On
+> 0742 Chair Beside a Window
+> 0743 Living in a Moon So Blue
+> 0744 Staring at the Cellophane
+> 0745 Your Turn to Fall
+> 0746 The Rocks Crumble
+> 0747 Interstellar Discussion
+> 0748 Nine-Thirty
+> 
+> All 10 LP's are available on Corwood Records at $6 per single album or
+> $55 per 25-count box (any mix).  Only prepaid orders can be accepted.
+> To order, or for more information about the Jandek albums, write to:
+> 
+>   Corwood Industries
+>   Box 15375
+>   Houston, TX 77020
+> 
+> -- John Trubee and Edward Rasen
+> 
+> [*] Song lyrics copyright Corwood Industries
+> 
+> ==
+
+          			
+
+          			
+
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 2215 invoked from network); 16 Apr 2003 05:31:29 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Apr 2003 05:31:29 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 16 Apr 2003 00:31:20 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3G5VJY24735
+	for jandek@cs.northwestern.edu; Wed, 16 Apr 2003 00:31:19 -0500
+Received: (qmail 2199 invoked from network); 16 Apr 2003 05:31:16 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Apr 2003 05:31:16 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 16 Apr 2003 00:31:08 -0500
+Received: from dylan.cs.northwestern.edu (tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) with ESMTP id h3G5V6X24702
+	for <jandek@cs.northwestern.edu>; Wed, 16 Apr 2003 00:31:06 -0500
+Message-Id: <200304160531.h3G5V6X24702@dylan.cs.northwestern.edu>
+To: jandek@cs.northwestern.edu
+Subject: Re: Trubee/Rasen article in Spin 
+In-Reply-To: Your message of "Tue, 15 Apr 2003 15:34:33 +0600."
+             <E195WCP-00006K-00@app3.nasc.inter.net> 
+From: Seth Tisue <seth@tisue.net>
+X-Mailer: MH-E 7.0; nmh 1.0.4; Emacs 21.2
+Date: Wed, 16 Apr 2003 00:31:06 -0500
+X-OriginalArrivalTime: 16 Apr 2003 05:31:08.0405 (UTC) FILETIME=[62090250:01C303D9]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+>>>>> "smathesn" == smathesn  <smathesn@istar.ca> writes:
+
+ >> Thanks to Ray Carmen for supplying me with a photocopy of this
+ >> article.  It contains a few small but interesting revelations...
+
+ smathesn>           				Not that I'm looking for
+ smathesn> credit or anything, but...I did send this article to the list
+ smathesn> about two years ago complete with citations - it's from
+ smathesn> Vol. 1 No. 5, September 1985.  Pat Benetar cover.  Where was
+ smathesn> you, man?
+ 
+Sorry -- I forgot!  Thanks to you also!
+
+==
+Seth Tisue - seth@tisue.net - http://tisue.net
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 9615 invoked from network); 16 Apr 2003 19:40:59 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Apr 2003 19:40:59 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 16 Apr 2003 14:40:54 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3GJerf31393
+	for jandek@cs.northwestern.edu; Wed, 16 Apr 2003 14:40:53 -0500
+Received: (qmail 9601 invoked from network); 16 Apr 2003 19:40:20 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Apr 2003 19:40:20 -0000
+Received: from spf1.us.outblaze.com ([205.158.62.158] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 16 Apr 2003 14:40:16 -0500
+Received: (qmail 30527 invoked from network); 16 Apr 2003 19:39:32 -0000
+Received: from unknown (205.158.62.68)
+  by spf1.us.outblaze.com with QMQP; 16 Apr 2003 19:39:32 -0000
+Received: (qmail 19861 invoked from network); 16 Apr 2003 19:40:12 -0000
+Received: from unknown (HELO ws1-6.us4.outblaze.com) (205.158.62.53)
+  by 205-158-62-153.outblaze.com with SMTP; 16 Apr 2003 19:40:12 -0000
+Received: (qmail 18098 invoked by uid 1001); 16 Apr 2003 19:40:12 -0000
+Message-ID: <20030416194012.18097.qmail@mail.com>
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.41 (Entity 5.404)
+Received: from [68.41.100.16] by ws1-6.us4.outblaze.com with http for
+    crushtacoes@mail.com; Wed, 16 Apr 2003 14:40:12 -0500
+From: "Joe Henry" <crushtacoes@mail.com>
+To: jandek@cs.northwestern.edu
+Date: Wed, 16 Apr 2003 14:40:12 -0500
+Subject: interesting item on ebay
+X-Originating-Ip: 68.41.100.16
+X-Originating-Server: ws1-6.us4.outblaze.com
+X-OriginalArrivalTime: 16 Apr 2003 19:40:16.0413 (UTC) FILETIME=[016A14D0:01C30450]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Someone's selling a compilation LP on ebay that has the Charalambides' cover of "Variant". If anyone buys it, let me know what it sounds like.
+Here's the link:
+http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2523807663&category=2262
+-- 
+__________________________________________________________
+Sign-up for your own FREE Personalized E-mail at Mail.com
+http://www.mail.com/?sr=signup
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 10005 invoked from network); 16 Apr 2003 19:55:31 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Apr 2003 19:55:31 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 16 Apr 2003 14:55:26 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3GJtQo04993
+	for jandek@cs.northwestern.edu; Wed, 16 Apr 2003 14:55:26 -0500
+Received: (qmail 9897 invoked from network); 16 Apr 2003 19:45:26 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Apr 2003 19:45:26 -0000
+Received: from mailsrv2.leoburnett.com ([63.115.251.15]) by mail1.cs.northwestern.edu over TLS secured channel with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 16 Apr 2003 14:45:21 -0500
+Received: from gwlbc.leoburnett.com ([10.75.76.56])
+	by mailsrv2.leoburnett.com (Switch-2.2.6/Switch-2.2.6) with ESMTP id h3GJhaP12603
+	for <jandek@cs.northwestern.edu>; Wed, 16 Apr 2003 14:43:36 -0500 (CDT)
+Received: from LBC-MTA by gwlbc.leoburnett.com
+	with Novell_GroupWise; Wed, 16 Apr 2003 14:45:18 -0500
+Message-Id: <se9d6c7e.022@gwlbc.leoburnett.com>
+X-Mailer: Novell GroupWise Internet Agent 6.0.2
+Date: Wed, 16 Apr 2003 14:44:51 -0500
+From: "Aaron Aldorisio" <Aaron.Aldorisio@StarcomWorldWide.com>
+To: <jandek@cs.northwestern.edu>, <crushtacoes@mail.com>
+Subject: Re: interesting item on ebay
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+X-OriginalArrivalTime: 16 Apr 2003 19:45:21.0380 (UTC) FILETIME=[B7305A40:01C30450]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+the charalambides cover of variant is amazing!  very melodic, more in
+line with their earlier, union-era sound.
+
+best,
+aaron
+
+>>> "Joe Henry" <crushtacoes@mail.com> 04/16/03 02:40PM >>>
+Someone's selling a compilation LP on ebay that has the Charalambides'
+cover of "Variant". If anyone buys it, let me know what it sounds like.
+Here's the link:
+http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2523807663&category=2262
+
+-- 
+__________________________________________________________
+Sign-up for your own FREE Personalized E-mail at Mail.com
+http://www.mail.com/?sr=signup
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 10646 invoked from network); 16 Apr 2003 20:34:39 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Apr 2003 20:34:39 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 16 Apr 2003 15:34:34 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3GKYYx05427
+	for jandek@cs.northwestern.edu; Wed, 16 Apr 2003 15:34:34 -0500
+Received: (qmail 10412 invoked from network); 16 Apr 2003 20:16:53 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Apr 2003 20:16:53 -0000
+Received: from hotmail.com ([64.4.22.206] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 16 Apr 2003 15:16:48 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 16 Apr 2003 13:16:47 -0700
+Received: from 4.60.184.140 by DAV71.law15.internal.hotmail.com with DAV;
+	Wed, 16 Apr 2003 20:16:47 +0000
+X-Originating-IP: [4.60.184.140]
+X-Originating-Email: [jandocumentary@hotmail.com]
+From: "JANDEK" <jandocumentary@hotmail.com>
+To: <jandek@cs.northwestern.edu>
+Subject: Jandek on Corwood progress
+Date: Wed, 16 Apr 2003 13:23:31 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0023_01C3041B.5FA087D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Message-ID: <DAV71jmfCHJr1Wtyi670001e27a@hotmail.com>
+X-OriginalArrivalTime: 16 Apr 2003 20:16:47.0683 (UTC) FILETIME=[1B835930:01C30455]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0023_01C3041B.5FA087D0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+> Speaking of the Jan-Doc, what's the status on that?
+
+Yes, yes... we interviewed Byron Coley on Friday.  Great interview.
+
+We went out to Point Judith, RI the following morning (mostly out of =
+curiosity... but we told ourselves that we were shooting b-roll).
+
+Point Judith is very, very cold... especially if you've lived in LA for =
+the last two years.  A sad footnote for anyone planning a vacation =
+there; apparently the Point Judith lighthouse has been closed to =
+tourists since 9/11... and we were kind of urgently shooed off the =
+property by a 17 year old ROTC Coast Guard recruit with a wispy =
+mustache.  (the inter-tidal zone is free to walk in, though... and =
+fortunately we were there during low tide).  It was a very visually =
+impressive walk despite the fact that the 35degree weather with 35mph =
+winds sapped my enthusiasm.
+
+Byron was the last interview, and the movie is around 90% completed.  We =
+have a hard deadline for completion set at June 1st... and we should =
+have little problem completing it by then.
+
+Good stuff,
+Paul
+
+------=_NextPart_000_0023_01C3041B.5FA087D0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2800.1106" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV>&gt; Speaking of the Jan-Doc, what's the status on that?</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Yes, yes... we interviewed Byron Coley on Friday.&nbsp; Great=20
+interview.<BR><BR>We went out to Point Judith, RI&nbsp;the following =
+morning=20
+(mostly out of curiosity... but we told ourselves that we were shooting=20
+b-roll).<BR><BR>Point Judith is very, very cold... especially if you've =
+lived in=20
+LA for the last two years.&nbsp; A sad footnote for anyone planning a =
+vacation=20
+there; apparently the Point Judith lighthouse has been closed to =
+tourists since=20
+9/11... and we were kind of urgently shooed off the property by a 17 =
+year old=20
+ROTC Coast Guard recruit with a wispy mustache.&nbsp; (the inter-tidal =
+zone is=20
+free to walk in, though... and fortunately we were there during low =
+tide).&nbsp;=20
+It was a very visually impressive walk despite the fact that the =
+35degree=20
+weather with 35mph winds sapped my enthusiasm.<BR><BR>Byron was the last =
+
+interview, and the movie is around 90% completed.&nbsp; We have a hard =
+deadline=20
+for completion set at June 1st... and we should have little problem =
+completing=20
+it by then.<BR><BR>Good stuff,<BR>Paul</DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_000_0023_01C3041B.5FA087D0--
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 16517 invoked from network); 16 Apr 2003 22:30:14 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Apr 2003 22:30:14 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 16 Apr 2003 17:29:46 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3GMTjK07554
+	for jandek@cs.northwestern.edu; Wed, 16 Apr 2003 17:29:45 -0500
+Received: (qmail 16484 invoked from network); 16 Apr 2003 22:29:14 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Apr 2003 22:29:14 -0000
+Received: from web41413.mail.yahoo.com ([66.218.93.79]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 16 Apr 2003 17:23:27 -0500
+Message-ID: <20030416222317.28010.qmail@web41413.mail.yahoo.com>
+Received: from [68.163.100.198] by web41413.mail.yahoo.com via HTTP; Wed, 16 Apr 2003 15:23:17 PDT
+Date: Wed, 16 Apr 2003 15:23:17 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Some more covers (don't worry, they're not by me!)
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 16 Apr 2003 22:23:27.0304 (UTC) FILETIME=[CD3D7C80:01C30466]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+I was snooping around google today and I found some
+info about two Jandek covers we didn't know existed.
+
+One by Celesteville, which I assume is the solo
+project of some geeky fellow not unlike myself, named
+John Anderson. The catalog page even has him standing
+in front of a store window with a great Jandekian
+look. It's on an EP (?) called Unconsumed, and he
+doesn't say which song it is. Also he says one song on
+his album "Purest Blue Light" is supposed to be a
+combination of "The Electric End" and some other tune.
+
+
+http://tapemountain.tripod.com/cvcat.html
+
+The other was found on Yahoo's outsider music board
+(yeah, I didn't know it existed either), by a group
+called Jensen's Down. It's "I Passed By the Building".
+Oddly enough, everybody's buddy Irwin Chusid is a
+frequent poster to the forums. Anyway, the Jensen's
+Down guy said that the cover was online, but it
+isn't...
+
+http://www.mp3.com/Jensensdown
+
+we find out more every day----and props to the
+documentarians for going all the way to point judith!
+
+peace,
+
+D.M.
+
+__________________________________________________
+Do you Yahoo!?
+The New Yahoo! Search - Faster. Easier. Bingo
+http://search.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 17897 invoked from network); 16 Apr 2003 23:23:41 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Apr 2003 23:23:41 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 16 Apr 2003 18:19:04 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3GNJ3x08170
+	for jandek@cs.northwestern.edu; Wed, 16 Apr 2003 18:19:03 -0500
+Received: (qmail 17706 invoked from network); 16 Apr 2003 23:08:32 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 16 Apr 2003 23:08:32 -0000
+Received: from spf1.us.outblaze.com ([205.158.62.158] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Wed, 16 Apr 2003 18:06:28 -0500
+Received: (qmail 18184 invoked from network); 16 Apr 2003 23:05:45 -0000
+Received: from unknown (205.158.62.68)
+  by spf1.us.outblaze.com with QMQP; 16 Apr 2003 23:05:45 -0000
+Received: (qmail 54559 invoked from network); 16 Apr 2003 23:06:21 -0000
+Received: from unknown (HELO ws1-1.us4.outblaze.com) (205.158.62.49)
+  by 205-158-62-153.outblaze.com with SMTP; 16 Apr 2003 23:06:21 -0000
+Received: (qmail 8039 invoked by uid 1001); 16 Apr 2003 23:06:21 -0000
+Message-ID: <20030416230621.8038.qmail@mail.com>
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.41 (Entity 5.404)
+Received: from [68.41.100.16] by ws1-1.us4.outblaze.com with http for
+    crushtacoes@mail.com; Wed, 16 Apr 2003 18:06:21 -0500
+From: "Joe Henry" <crushtacoes@mail.com>
+To: alfredggnome@yahoo.com, jandek@cs.northwestern.edu
+Date: Wed, 16 Apr 2003 18:06:21 -0500
+Subject: Re: Some more covers (don't worry, they're not by me!)
+X-Originating-Ip: 68.41.100.16
+X-Originating-Server: ws1-1.us4.outblaze.com
+X-OriginalArrivalTime: 16 Apr 2003 23:06:28.0443 (UTC) FILETIME=[CFB80AB0:01C3046C]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Good find, and Celesteville says which song he covered in the lyrics section - it's "Oh Jenny".
+-- 
+__________________________________________________________
+Sign-up for your own FREE Personalized E-mail at Mail.com
+http://www.mail.com/?sr=signup
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 30784 invoked from network); 18 Apr 2003 00:12:17 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 18 Apr 2003 00:12:17 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 17 Apr 2003 19:12:10 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3I0C9l22502
+	for jandek@cs.northwestern.edu; Thu, 17 Apr 2003 19:12:09 -0500
+Received: (qmail 30450 invoked from network); 17 Apr 2003 23:29:09 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 17 Apr 2003 23:29:09 -0000
+Received: from web41408.mail.yahoo.com ([66.218.93.74]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 17 Apr 2003 18:29:02 -0500
+Message-ID: <20030417232858.45519.qmail@web41408.mail.yahoo.com>
+Received: from [141.154.114.214] by web41408.mail.yahoo.com via HTTP; Thu, 17 Apr 2003 16:28:58 PDT
+Date: Thu, 17 Apr 2003 16:28:58 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: all the ohio mentions up to now
+To: jandek@cs.northwestern.edu
+In-Reply-To: <20030416222317.28010.qmail@web41413.mail.yahoo.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 17 Apr 2003 23:29:02.0572 (UTC) FILETIME=[21417AC0:01C30539]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Just because i was bored!
+
+from "Wild Strawberries":
+
+There’s a place you could call me 
+Out in Ohio 
+You’re down in the numbers 
+You’re listed forty-five 
+You heard and you answered 
+“I’m not dead, I’m alive”
+
+from "Phoenix":
+
+Said goodbye, San Francisco 
+Got to go, Arizona 
+Said why’d you leave me, Denver 
+I don’t even have a chance 
+Guess Ohio’s got my number 
+Rhode Island’s got my name 
+(*rhode island we know refers to point judith!)
+
+from "Left the Beach Last Sunday":
+
+I left the beach on last Sunday 
+I came a long way 
+Wasn’t fussy about the way I came 
+To me it was all the same 
+I left the beach on last Sunday
+
+From "I want to know why"
+
+N – Why? Why?
+J – Why? Why? Ohio
+N – Why-o why-o
+N – Why did I ever leave Ohio
+J – I’ll tell you why
+N – Why?
+J – I’ll tell you why
+N – Why?
+J – Oh this is why, this is why
+N – Why
+J – You want to know why?
+N – Yeah, I want to
+J – You want to know why?
+N – Yeah why?
+J – The cows came home [2x]
+
+
+think about that for a minute...the cows came home!
+this clearly refers to-
+
+aw, never mind.
+
+D.M.  
+
+ 
+
+
+__________________________________________________
+Do you Yahoo!?
+The New Yahoo! Search - Faster. Easier. Bingo
+http://search.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 30909 invoked from network); 18 Apr 2003 00:12:20 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 18 Apr 2003 00:12:20 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 17 Apr 2003 19:12:13 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3I0CCN22526
+	for jandek@cs.northwestern.edu; Thu, 17 Apr 2003 19:12:12 -0500
+Received: (qmail 30498 invoked from network); 17 Apr 2003 23:33:57 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 17 Apr 2003 23:33:57 -0000
+Received: from web41411.mail.yahoo.com ([66.218.93.77]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Thu, 17 Apr 2003 18:33:50 -0500
+Message-ID: <20030417233350.12046.qmail@web41411.mail.yahoo.com>
+Received: from [141.154.114.214] by web41411.mail.yahoo.com via HTTP; Thu, 17 Apr 2003 16:33:50 PDT
+Date: Thu, 17 Apr 2003 16:33:50 -0700 (PDT)
+From: Daniel Marks <alfredggnome@yahoo.com>
+Subject: Throughly Modern Dances
+To: jandek@cs.northwestern.edu
+In-Reply-To: <20030412183709.76428.qmail@mail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 17 Apr 2003 23:33:51.0034 (UTC) FILETIME=[CD3149A0:01C30539]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+hmmm. aside from another ohio mention, we also get
+this little bit from modern dances:
+
+HAND FOR HARRY IDLE
+N – Let us have a hand for Harry Idle
+J – A hand
+N – He was peace and older days
+J – A hand, a hand, a hand for Harry Idle
+J – Ho ho ho ho ho ho ho ho ho ho
+N – Gonna have a hand, yeah, yeah [2x]
+N – Gonna have a hand [2x]
+N – Two hands for Harry Idle
+J – And now let’s have a real hand for Harry Idle
+N – He’s excited that he had a hand
+N – For Harry or anyone passing through
+N – Glad to have a hand for Harry and Tom
+3RD VOICE – Oh no
+N – Oh no
+J – Let’s have a hand
+N – Tom doesn’t want a hand
+
+i'm not sure who harry idle is, but it looks like the
+mystery third voice's name is tom.
+
+D.M.
+
+
+
+--- Joe Henry <crushtacoes@mail.com> wrote:
+> Below is my transcription of the album "Modern
+> Dances". The last song is missing, because I
+> couldn't understand enough of the lyrics for it to
+> be worth it. 
+> I used "J" to credit Jandek (or the usual male
+> voice) and "N" for Nancy (or the usual pre-"living
+> end" female voice), but there was a different male
+> voice heard on one track that I identify as "3rd
+> Voice". 
+> Feel free to correct any mistakes, and to take a
+> shot at transcribing "Carnival Queen".
+> PAINTED MY TEETH
+> J – Oh yeah yeah yeah whoa yeah
+> J – Come on, let’s go, ho
+> J – Now, now, right now, yeah, painted my teeth
+> J – Teeth teeth teeth teeth teeth teeth teeth
+> J – Paint your teeth
+> N - That is absurd
+> N - Don’t paint your teeth
+> J – Karl Marx painted his teeth
+> J – Whoa whoa, go paint your teeth
+> J – Teeth teeth, aw, paint your teeth
+> J – Don’t paint your teeth, don’t paint your teeth
+> N - How long you been, (morbid alive?)
+> N - Paintin’ your teeth
+> J – Hey, well you paint your dollar
+> J – Hey, so paint your teeth
+> N - Don’t paint your teeth
+> J – You ain’t gonna paint no teeth, no teeth
+> N - You just made my day
+> J – How did I make your day?
+> N - You didn’t paint your teeth
+> J – I tell you somethin’, I painted my teeth
+> N - Oh no, you didn’t paint your teeth
+> J – I painted my teeth
+> N - Oh no, you didn’t paint your teeth
+> [Following parts are more or less simultaneous]
+> J – Behind your back 
+> N - Oh please don’t say you painted your teeth
+> J – I painted my teeth [x3]
+> J – Teeth, I painted my teeth
+> J – Oh give me some paint
+> J – I wanna paint my teeth some more
+> N - Oh (???)
+> J – Oh lots more
+> N - Don’t paint your teeth
+> J – I paint my teeth
+> N - Don’t paint your teeth
+> J – They’re my teeth and I’m gonna, ha ha
+> J – Paint my teeth
+> J – I ‘m gonna paint my teeth
+> J – You didn’t think I’d be back, baby
+> J – But I’ve made it
+> J – To paint my teeth
+> TWELVE SECONDS SINCE FEBRUARY 32’ND
+> [sung by Jandek]
+> Hurried, ha ha
+> Aw, we’ve been waitin’ twelve seconds
+> Since February thiry-second
+> It’s been twelve minutes since February
+> Now the thirty-second
+> If your next last day of your life
+> Everybody dies
+> Get your knife, no leave it on
+> Get your knife, get your knife and leave it on
+> Get your knife and leave it on
+> It’s February thirty-second and we’re gonna get it
+> now
+> Because the last day is February thirty-second
+> C’mon now, we’re gonna get ‘em all
+> This time its over, we’re gonna get ‘em
+> Aw c’mon, we have been (???)
+> We’re gonna kill ‘em all
+> We’re gonna kill ‘em
+> Cause it’s the thirty-second day of February
+> Oh it’s raining on a dying man
+> C’mon now, there’s a couple over there, let’s get
+> ‘em
+> Eeeow okay, they’re all dead now
+> 
+> HAND FOR HARRY IDLE
+> N – Let us have a hand for Harry Idle
+> J – A hand
+> N – He was peace and older days
+> J – A hand, a hand, a hand for Harry Idle
+> J – Ho ho ho ho ho ho ho ho ho ho
+> N – Gonna have a hand, yeah, yeah [2x]
+> N – Gonna have a hand [2x]
+> N – Two hands for Harry Idle
+> J – And now let’s have a real hand for Harry Idle
+> N – He’s excited that he had a hand
+> N – For Harry or anyone passing through
+> N – Glad to have a hand for Harry and Tom
+> 3RD VOICE – Oh no
+> N – Oh no
+> J – Let’s have a hand
+> N – Tom doesn’t want a hand
+> 
+> NUMBER 512
+> N – Okay, but what’s it gonna be?
+> J – Just talk yourself into it, it’ll be number 512
+> N – Talk yourself into number 512, okay
+> J – (Lamb are you, huh?)
+> N – I have found it’s very simple
+> N – To talk yourself into number five twenty-one
+> J – One
+> N – With a shot of Cadillac club
+> J – We’re almost there
+> J – Five two one
+> N – What we need very quickly is a change
+> N – A real change, okay?
+> N – And immediately we will change the pace
+> N – Because we’re tired of this one
+> N – Okay? Let us change the pace
+> N – Oh boy did you ride?
+> N – Don’t got a ride that night
+> N – All I heard about drummers must be true
+> N – To stand there lookin’ at you
+> N – Fast, somebody’s got to go fast with me
+> N – Because oh god, I get so bored
+> J – One
+> 
+> NOTHING IS BETTER THAN GOD
+> J – Nothin’s better than God
+> N – Nothing is better than God
+> J – God
+> N – I thank God, he’s a real good friend of mine
+> J – God
+> J – The lord on Sunday
+> J – The lord on Monday, Tuesday, Wednesday
+> J – Thursday, Friday, Saturday
+> N – Oh why don’t you let me be a little more like
+> you
+> N – I enjoy being better
+> N – But I guess you hear that lots of times
+> J – Nothin’s better than God
+> J – God [13x]
+> N – It’s only a song here
+> N – Aw, it’s just a word
+> N – I would want to know you
+> N – If I really could
+> N – If I really could
+> J – God [3x]
+> N – Oh
+> J – Oh, no
+> N – I want to love you God
+> N – I want to know God
+> N – I want to love you God
+> N – I want to hear you
+> N – Is that wrong? Is that right?
+> N – I don’t think there’s anything, God
+> 
+> SPIRITUAL SONG
+> [sung by Nancy]
+> Flying down slow
+> I don’t even want to go
+> But it’s so nice when you fly slow
+> I picked up a piece of the sky
+> I watched it, watched it under my eyes
+> And I noticed quite by accident
+> That it’s the same, it’s all the same
+> Why don’t you fly slowly down with me?
+> I enjoy my work, I enjoy being alive
+> There it goes again, here we are once more
+> We are right are on the edge of 
+> Whatever you choose to be on the edge of
+> But it’s kind of nice
+> And it’s kind of calm
+> That you see these things
+> Without even having to die
+> Lucky us
+> Lucky you, lucky me, lucky one two three
+> Aren’t we happy? 
+> Aren’t we glad that we’re here on the edge
+> We’re right here in the sky
+> We’re right ever you might choose to fly
+> You and I and the entire world can fly
+> Just you and I
+> Why not fly?
+> 
+> SPANISH IN ME 003
+> J – We’ll that’s the Spanish in me
+> J – That’s the Spanish in me
+> J – Broke my neck until three
+> J – Started wonderin’ why
+> J – I kept seein’ the sky
+> J – Took a vacation, woah
+> J – What a thunderin’ blow
+> J – Blew me back from the sky
+> J – Broke my neck until four
+> J – Took a vacation, whoa
+> J – Sail away from the port
+> J – Somewhere floatin’ down a river to Madrid
+> J – Cause that’s the
+> N – The Spanish in me
+> J – Broke my neck until three
+> N – Broke my neck until four
+> J – Broke my neck until five
+> N – Somewhere out there floatin on
+> J – On a river to Madrid, lookin’ at the sky
+> N – Spanish in me [2x]
+> 
+=== message truncated ===
+
+
+=====
+Take nothing and no one seriously.
+
+Daniel S. Marks- Author, musician, admirer of pretty things. 
+
+http://www.geocities.com/alfredggnome
+http://www.casualfridaysband.com
+http://www.mp3.com/CasualFridays
+
+__________________________________________________
+Do you Yahoo!?
+The New Yahoo! Search - Faster. Easier. Bingo
+http://search.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 8928 invoked from network); 19 Apr 2003 16:47:25 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 19 Apr 2003 16:47:25 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 19 Apr 2003 11:34:06 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3JGY6006351
+	for jandek@cs.northwestern.edu; Sat, 19 Apr 2003 11:34:06 -0500
+Received: (qmail 7652 invoked from network); 19 Apr 2003 12:03:13 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 19 Apr 2003 12:03:13 -0000
+Received: from pop-2.dnv.wideopenwest.com ([64.233.207.7]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 19 Apr 2003 06:47:58 -0500
+Received: from wowway.com (d53-196-230.try.wideopenwest.com [64.53.230.196])
+	by pop-2.dnv.wideopenwest.com (8.11.6/8.11.6) with ESMTP id h3JBmn802651
+	for <jandek@cs.northwestern.edu>; Sat, 19 Apr 2003 06:48:49 -0500
+Date: Sat, 19 Apr 2003 07:47:57 -0400
+Mime-Version: 1.0 (Apple Message framework v551)
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+Subject: subscribe
+From: Jericho Maxim <jerichomaxim@wowway.com>
+To: jandek@cs.northwestern.edu
+Content-Transfer-Encoding: 7bit
+Message-Id: <C39C9FCB-725C-11D7-8D85-003065DA931A@wowway.com>
+X-Mailer: Apple Mail (2.551)
+X-OriginalArrivalTime: 19 Apr 2003 11:47:58.0445 (UTC) FILETIME=[85E891D0:01C30669]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+"I'll tear the ears off of whoever says this is just rain" -- Akio 
+Suzuki
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 10025 invoked from network); 19 Apr 2003 19:04:08 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 19 Apr 2003 19:04:08 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 19 Apr 2003 13:59:56 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3JIxtu10291
+	for jandek@cs.northwestern.edu; Sat, 19 Apr 2003 13:59:55 -0500
+Received: (qmail 9901 invoked from network); 19 Apr 2003 18:52:08 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 19 Apr 2003 18:52:08 -0000
+Received: from web10009.mail.yahoo.com ([216.136.128.120]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 19 Apr 2003 13:38:07 -0500
+Message-ID: <20030419183807.52719.qmail@web10009.mail.yahoo.com>
+Received: from [67.33.152.252] by web10009.mail.yahoo.com via HTTP; Sat, 19 Apr 2003 11:38:07 PDT
+Date: Sat, 19 Apr 2003 11:38:07 -0700 (PDT)
+From: Benjamin <schluum@yahoo.com>
+Subject: Jandek Dreams
+To: jandek@cs.northwestern.edu
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-OriginalArrivalTime: 19 Apr 2003 18:38:07.0875 (UTC) FILETIME=[D2459530:01C306A2]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Greeting all...
+ I've been lurking here on the list for over a year,
+but never really contributed anything. But anyway, I
+thought I'd share a dream I had last night.
+
+So I order my box from Corwood and it arrives. But for
+some reason, there aren't any CD's in it, they're all
+books. The strange thing is, it seems that in about
+half the books, there are subtle clues to the ever
+looming Jandek mystery. In the first one I notice,
+it's a receipt for a pizza from a Houston area
+pizzeria, perhaps one that is visted frequently by
+Sterling Smith. I thought this was just an odd
+mistake, but I find more receipts, family pictures,
+odd notes. Suddenly I get the message that these are
+here to provide a path to Jandek.
+
+Yeah, it's kind of simplistic, and I bet you more than
+one person on the list has had a dream like this
+before... suddenly Jandek needs to connect with
+someone who listens to and appreciate his music, so he
+randomly selects someone to reach out to, although not
+explicitly - and that person is you. I don't get why
+they sent me books though. Anyway, it was interesting.
+
+
+
+__________________________________________________
+Do you Yahoo!?
+The New Yahoo! Search - Faster. Easier. Bingo
+http://search.yahoo.com
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 10639 invoked from network); 19 Apr 2003 20:09:15 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 19 Apr 2003 20:09:15 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 19 Apr 2003 14:59:28 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3JJxR911063
+	for jandek@cs.northwestern.edu; Sat, 19 Apr 2003 14:59:27 -0500
+Received: (qmail 10586 invoked from network); 19 Apr 2003 19:57:15 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 19 Apr 2003 19:57:15 -0000
+Received: from hotmail.com ([64.4.31.30] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 19 Apr 2003 14:56:34 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sat, 19 Apr 2003 12:56:34 -0700
+Received: from 24.187.246.237 by pv1fd.pav1.hotmail.msn.com with HTTP;
+	Sat, 19 Apr 2003 19:56:33 GMT
+X-Originating-IP: [24.187.246.237]
+X-Originating-Email: [akelly1971@hotmail.com]
+From: "Amy Kelly" <akelly1971@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Re: Jandek Dreams
+Date: Sat, 19 Apr 2003 15:56:33 -0400
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F30ONzADZBjgEG4XnhY00000a86@hotmail.com>
+X-OriginalArrivalTime: 19 Apr 2003 19:56:34.0089 (UTC) FILETIME=[C764D990:01C306AD]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Well, I for one have never had a true Jandek dream, and I thought the book 
+angle put a nice spin on things.  So I guess you can pat your subconscious 
+on the back for that one.  (Although doesn't the Katy Vine article mention 
+milk allergies?  I guess that would leave pizza out, unless he 
+special-ordered it in the dream.)
+
+~~Amy
+
+
+
+
+
+
+From: Benjamin <schluum@yahoo.com>
+>To: jandek@cs.northwestern.edu
+>Subject: Jandek Dreams
+>Date: Sat, 19 Apr 2003 11:38:07 -0700 (PDT)
+>
+>Greeting all...
+>  I've been lurking here on the list for over a year,
+>but never really contributed anything. But anyway, I
+>thought I'd share a dream I had last night.
+>
+>So I order my box from Corwood and it arrives. But for
+>some reason, there aren't any CD's in it, they're all
+>books. The strange thing is, it seems that in about
+>half the books, there are subtle clues to the ever
+>looming Jandek mystery. In the first one I notice,
+>it's a receipt for a pizza from a Houston area
+>pizzeria, perhaps one that is visted frequently by
+>Sterling Smith. I thought this was just an odd
+>mistake, but I find more receipts, family pictures,
+>odd notes. Suddenly I get the message that these are
+>here to provide a path to Jandek.
+>
+>Yeah, it's kind of simplistic, and I bet you more than
+>one person on the list has had a dream like this
+>before... suddenly Jandek needs to connect with
+>someone who listens to and appreciate his music, so he
+>randomly selects someone to reach out to, although not
+>explicitly - and that person is you. I don't get why
+>they sent me books though. Anyway, it was interesting.
+>
+>
+>
+>__________________________________________________
+>Do you Yahoo!?
+>The New Yahoo! Search - Faster. Easier. Bingo
+>http://search.yahoo.com
+
+
+_________________________________________________________________
+Tired of spam? Get advanced junk mail protection with MSN 8. 
+http://join.msn.com/?page=features/junkmail
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 11114 invoked from network); 19 Apr 2003 20:29:04 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 19 Apr 2003 20:29:04 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 19 Apr 2003 15:26:49 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3JKQmr12045
+	for jandek@cs.northwestern.edu; Sat, 19 Apr 2003 15:26:48 -0500
+Received: (qmail 11047 invoked from network); 19 Apr 2003 20:24:39 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 19 Apr 2003 20:24:39 -0000
+Received: from jhuml3.jhu.edu ([128.220.2.66]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sat, 19 Apr 2003 15:19:13 -0500
+Received: from jhuml3.jhu.edu (jhuml3.jhu.edu [128.220.2.66])
+ by jhuml3.jhu.edu (PMDF V6.1 #47562)
+ with SMTP id <0HDL00FEJXR3LH@jhuml3.jhu.edu> for jandek@cs.northwestern.edu;
+ Sat, 19 Apr 2003 16:19:11 -0400 (EDT)
+Received: from jhuml3.jhu.edu ([128.220.2.66])
+ by jhuml3.jhu.edu (SAVSMTP 3.1.0.29) with SMTP id M2003041916191131395 for
+ <jandek@cs.northwestern.edu>; Sat, 19 Apr 2003 16:19:11 -0400
+Received: from circ04.mse.jhu.edu (circ04.mse.jhu.edu [128.220.8.56])
+ by jhuml3.jhu.edu (PMDF V6.1 #47562)
+ with ESMTP id <0HDL00FO4XRZ17@jhuml3.jhu.edu> for jandek@cs.northwestern.edu;
+ Sat, 19 Apr 2003 16:19:11 -0400 (EDT)
+Date: Sat, 19 Apr 2003 16:19:11 -0400 (Eastern Daylight Time)
+From: Linda Gielec <lgielec@mse.jhu.edu>
+Subject: jandek on WFMU...
+X-X-Sender: lgielec@flux.mse.jhu.edu
+To: jandek@cs.northwestern.edu
+Message-id: <Pine.WNT.4.40.0304191617280.1764-100000@cir04.staff.ad.mse.jhu.edu>
+MIME-version: 1.0
+Content-type: TEXT/PLAIN; charset=US-ASCII
+X-OriginalArrivalTime: 19 Apr 2003 20:19:13.0718 (UTC) FILETIME=[F1CBC560:01C306B0]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+
+hey all,
+
+maybe this is common knowledge, but... if you have access to the wonderful
+world of internet radio, check these WFMU shows out:
+
+http://search.freefind.com/find.html?id=1682649&pageid=r&mode=ALL&query=JANDEK
+
+hope this finds you all well!!
+
+linda g.
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 20251 invoked from network); 25 Apr 2003 19:05:11 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Apr 2003 19:05:11 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 25 Apr 2003 14:04:08 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3PJ47D08531
+	for jandek@cs.northwestern.edu; Fri, 25 Apr 2003 14:04:07 -0500
+Received: (qmail 20221 invoked from network); 25 Apr 2003 19:03:11 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 25 Apr 2003 19:03:11 -0000
+Received: from hotmail.com ([64.4.15.53] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Fri, 25 Apr 2003 13:58:56 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Fri, 25 Apr 2003 11:58:56 -0700
+Received: from 67.75.31.224 by lw10fd.law10.hotmail.msn.com with HTTP;
+	Fri, 25 Apr 2003 18:58:55 GMT
+X-Originating-IP: [67.75.31.224]
+X-Originating-Email: [oliveralden@hotmail.com]
+From: "Oliver Alden" <oliveralden@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: 'mid-period' stuff on ebay
+Date: Fri, 25 Apr 2003 14:58:55 -0400
+Mime-Version: 1.0
+Content-Type: text/html
+Message-ID: <Law10-F53ktkzU5ZImw00009044@hotmail.com>
+X-OriginalArrivalTime: 25 Apr 2003 18:58:56.0132 (UTC) FILETIME=[B8C4FC40:01C30B5C]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+<html><div style='background-color:'><DIV></DIV>
+<DIV></DIV>
+<P>Three are up there:</P>
+<P>Staring At the Cellophane <A href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;category=2262&amp;item=2526361446&amp;rd=1">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;category=2262&amp;item=2526361446&amp;rd=1</A><BR><BR>Your Turn To Fall <A href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;category=2262&amp;item=2526364475">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;category=2262&amp;item=2526364475</A></P>
+<P>The Rocks Crumble, which I gloriously mis-spelled <A href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;category=2262&amp;item=2526374225&amp;rd=1">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;category=2262&amp;item=2526374225&amp;rd=1</A></P>
+<DIV align=left>Enjoy, &amp; thanks.</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>- Oliver Alden </DIV>
+<DIV></DIV>
+<DIV align=center></DIV>
+<HR>
+
+<DIV></DIV>
+<DIV></DIV><FONT color=#ff0000 face="Arial Black, Geneva, Arial, Sans-serif"></FONT>
+<DIV></DIV>
+<DIV align=center><FONT color=#ff0000 face="Arial Black, Geneva, Arial, Sans-serif">Down with pants! </DIV>
+<HR>
+
+<DIV></DIV></FONT>
+<DIV></DIV>
+<DIV></DIV>
+<DIV align=center><FONT color=#009900 face="Lucida Handwriting, Cursive" size=2><STRONG>Put an umbrella in your mouth and open it.</STRONG></FONT><FONT color=#000099><FONT color=#000099></DIV>
+<DIV></DIV>
+<DIV align=center></DIV>
+<HR>
+
+<DIV></DIV>
+<DIV></DIV></FONT></FONT>
+<DIV></DIV></div><br clear=all><hr>MSN 8 helps <a href="http://g.msn.com/8HMXENUS/2752">ELIMINATE E-MAIL VIRUSES.</a> Get 2 months FREE*.</html>
+
+Delivered-To: jandek@zappa.cs.northwestern.edu
+Received: (qmail 16873 invoked from network); 28 Apr 2003 06:52:36 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 28 Apr 2003 06:52:36 -0000
+Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Mon, 28 Apr 2003 01:50:14 -0500
+Received: (from tisue@localhost)
+	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h3S6oCs03385
+	for jandek@cs.northwestern.edu; Mon, 28 Apr 2003 01:50:12 -0500
+Received: (qmail 13851 invoked from network); 27 Apr 2003 20:49:28 -0000
+Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
+  by zappa.cs.nwu.edu with SMTP; 27 Apr 2003 20:49:28 -0000
+Received: from hotmail.com ([64.4.27.29] RDNS failed) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
+	 Sun, 27 Apr 2003 15:49:23 -0500
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 27 Apr 2003 13:49:22 -0700
+Received: from 193.120.45.142 by by8fd.bay8.hotmail.msn.com with HTTP;
+	Sun, 27 Apr 2003 20:49:22 GMT
+X-Originating-IP: [193.120.45.142]
+X-Originating-Email: [paulgcondon@hotmail.com]
+From: "Paul Condon" <paulgcondon@hotmail.com>
+To: jandek@cs.northwestern.edu
+Subject: Carnival Queen/Blue Blister
+Date: Sun, 27 Apr 2003 20:49:22 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <BAY8-F29970CMZK7Yb900013811@hotmail.com>
+X-OriginalArrivalTime: 27 Apr 2003 20:49:22.0933 (UTC) FILETIME=[7B7A1250:01C30CFE]
+Sender: owner-jandek@cs.northwestern.edu
+Precedence: bulk
+
+Here's my take on Carnival Queen, an excellent and haunting song that I 
+previously paid little attention to as it's hidden away on one of my least 
+listened to albums. An interesting lyric - this is the only one I can think 
+of where Jandek uses lots of religious imagery in what's basically a love 
+song (of sorts). He seems to be casting himself as a martyr here.
+
+CARNIVAL QUEEN
+Carnival queen
+All the ghosts lay by your side
+Moaning, groaning songs of woe
+Carnival queen
+Your hair is on fire
+Your arrows pierce my bones
+Angel, madonna
+Your eyes are on fire
+Breathing quiet prayers
+Angel, madonna
+You breathe
+Pumping life into my veins
+Carnival queen
+All the ghosts stay by your side
+Moaning, groaning songs of woe
+Carnival queen
+Your hair is on fire
+Your nails pierce my palms
+
+The lyrics of Blue Blister from Chair... are given on the site as:
+"I was lightin’ on fire one night / Smokin’ cigarettes"
+However, on the cd, only the first line is used. Is this a different take 
+(!), or was the line just edited out? Maybe Jandek didn't want to encourage 
+smoking amongst his younger, more impressionable fans (WWJD?)... It could be 
+a bit of revisionism in the light of his frugality as expressed in lyrics 
+such as that of You Know You Need: "You’d be surprised at how simple your 
+intake can be / You got to clean out the house / Take out all the things you 
+don’t want".
+
+
+_________________________________________________________________
+MSN 8 helps eliminate e-mail viruses. Get 2 months FREE*. 
+http://join.msn.com/?page=features/virus
