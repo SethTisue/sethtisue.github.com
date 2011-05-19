@@ -1,0 +1,13 @@
+/* http://theodorakis.net/tablecentertest.html */
+
+.center
+{ 
+text-align: center;
+}
+
+.center table
+{ 
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+}
