@@ -1,0 +1,3 @@
+#!/bin/sh
+wget -r -l0 -nc -nv --no-parent 'http://mylist.net/archives/jandek/'
+
