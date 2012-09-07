@@ -5376,79 +5376,6 @@ Yahoo! Mail Plus - Powerful. Affordable. Sign up now.
 http://mailplus.yahoo.com
 
 Delivered-To: jandek@cs.northwestern.edu
-Received: (qmail 382 invoked from network); 18 Jan 2003 16:29:41 -0000
-Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
-  by godzilla.cs.nwu.edu with SMTP; 18 Jan 2003 16:29:41 -0000
-Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
-	 Sat, 18 Jan 2003 10:23:57 -0600
-Received: (from tisue@localhost)
-	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h0IGNu220831
-	for jandek@cs.northwestern.edu; Sat, 18 Jan 2003 10:23:56 -0600
-Received: (qmail 15365 invoked from network); 18 Jan 2003 06:33:22 -0000
-Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
-  by godzilla.cs.nwu.edu with SMTP; 18 Jan 2003 06:33:22 -0000
-Received: from dewey.paralynx.net ([204.174.16.4]) by mail1.cs.northwestern.edu over TLS secured channel with Microsoft SMTPSVC(5.0.2195.5329);
-	 Sat, 18 Jan 2003 00:31:47 -0600
-Received: from h115.24.36.67.wyan.org ([67.36.24.115] helo=zaius)
-	by dewey.paralynx.net with smtp (Exim 4.05)
-	id 18ZmW9-0002WN-00
-	for jandek@cs.northwestern.edu; Fri, 17 Jan 2003 22:31:45 -0800
-Message-ID: <006101c2beba$d6d87660$73182443@cablerocket.net>
-From: "Gary Hall" <cryo@wyan.org>
-To: <jandek@cs.northwestern.edu>
-References: <OE24j16tFKHZgdOW7mN00014ff3@hotmail.com>
-Subject: Re: Jandek on Corwood -- Movie Trailer
-Date: Sat, 18 Jan 2003 01:28:38 -0500
-MIME-Version: 1.0
-Content-Type: multipart/alternative;
-	boundary="----=_NextPart_000_005E_01C2BE90.ED72FFA0"
-X-Priority: 3
-X-MSMail-Priority: Normal
-X-Mailer: Microsoft Outlook Express 6.00.2600.0000
-X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
-X-OriginalArrivalTime: 18 Jan 2003 06:31:47.0562 (UTC) FILETIME=[46CA4CA0:01C2BEBB]
-Sender: owner-jandek@cs.northwestern.edu
-Precedence: bulk
-
-This is a multi-part message in MIME format.
-
-------=_NextPart_000_005E_01C2BE90.ED72FFA0
-Content-Type: text/plain;
-	charset="iso-8859-1"
-Content-Transfer-Encoding: quoted-printable
-
-I'm relatively new to Jandek so please pardon my cluelessness.  I would =
-just like to know the name of the last song used in the trailer because =
-it is absolutely beautiful and I have not yet sent my first order to =
-Corwood.
-
-Thanks.
-------=_NextPart_000_005E_01C2BE90.ED72FFA0
-Content-Type: text/html;
-	charset="iso-8859-1"
-Content-Transfer-Encoding: quoted-printable
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML><HEAD>
-<META http-equiv=3DContent-Type content=3D"text/html; =
-charset=3Diso-8859-1">
-<META content=3D"MSHTML 6.00.2800.1106" name=3DGENERATOR>
-<STYLE></STYLE>
-</HEAD>
-<BODY bgColor=3D#ffffff>
-<DIV><FONT face=3DArial size=3D2>I'm relatively new to Jandek so please =
-pardon my=20
-cluelessness.&nbsp; I would just like to know the name of the last song =
-used in=20
-the trailer because it is absolutely beautiful and I have not yet sent =
-my first=20
-order to Corwood.</FONT></DIV>
-<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
-<DIV><FONT face=3DArial size=3D2>Thanks.</FONT></DIV></BODY></HTML>
-
-------=_NextPart_000_005E_01C2BE90.ED72FFA0--
-
-Delivered-To: jandek@cs.northwestern.edu
 Received: (qmail 383 invoked from network); 18 Jan 2003 16:29:41 -0000
 Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
   by godzilla.cs.nwu.edu with SMTP; 18 Jan 2003 16:29:41 -0000
@@ -5483,50 +5410,6 @@ http://www.engrish.com/
 
 before the image changes.  (It will be archived under "recent
 discoveries".)
-
-Delivered-To: jandek@cs.northwestern.edu
-Received: (qmail 6638 invoked from network); 18 Jan 2003 19:55:21 -0000
-Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
-  by godzilla.cs.nwu.edu with SMTP; 18 Jan 2003 19:55:21 -0000
-Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
-	 Sat, 18 Jan 2003 13:55:20 -0600
-Received: (from tisue@localhost)
-	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h0IJtJ122070
-	for jandek@cs.northwestern.edu; Sat, 18 Jan 2003 13:55:19 -0600
-Received: (qmail 1792 invoked from network); 18 Jan 2003 16:54:18 -0000
-Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
-  by godzilla.cs.nwu.edu with SMTP; 18 Jan 2003 16:54:18 -0000
-thread-index: AcK/Ej2sQSH0dlCWTauXAOqw2IaN4g==
-Received: from madonna.mediaunbound.com ([140.247.87.230]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329); Sat, 18 Jan 2003 10:54:18 -0600
-Received: by madonna.mediaunbound.com (Postfix, from userid 516) id B13CA128260; Sat, 18 Jan 2003 11:54:14 -0500 (EST)
-Received: from localhost (localhost [127.0.0.1]) by madonna.mediaunbound.com (Postfix) with ESMTP id AFCF012825E; Sat, 18 Jan 2003 11:54:14 -0500 (EST)
-Date: Sat, 18 Jan 2003 11:54:14 -0500 (EST)
-From: "joshua david mann" <joshua@mediaunbound.com>
-To: "Gary Hall" <cryo@wyan.org>
-Content-Transfer-Encoding: 7bit
-Cc: <jandek@cs.northwestern.edu>
-Subject: Re: Jandek on Corwood -- Movie Trailer
-In-Reply-To: <006101c2beba$d6d87660$73182443@cablerocket.net>
-Message-ID: <Pine.LNX.4.44.0301181153290.21676-100000@madonna.mediaunbound.com>
-Content-Class: urn:content-classes:message
-Importance: normal
-X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4920.2300
-MIME-Version: 1.0
-Content-Type: TEXT/PLAIN;
-	charset="US-ASCII"
-X-OriginalArrivalTime: 18 Jan 2003 16:54:18.0484 (UTC) FILETIME=[3DACB340:01C2BF12]
-Sender: owner-jandek@cs.northwestern.edu
-Precedence: bulk
-
-"only lover" from 'blue corpse.'
-
--- 
-
-On Sat, 18 Jan 2003, Gary Hall wrote:
-
-> I'm relatively new to Jandek so please pardon my cluelessness.  I would just like to know the name of the last song used in the trailer because it is absolutely beautiful and I have not yet sent my first order to Corwood.
-> 
-> Thanks.
 
 Delivered-To: jandek@cs.northwestern.edu
 Received: (qmail 6820 invoked from network); 18 Jan 2003 19:55:31 -0000
@@ -5581,57 +5464,6 @@ obtained, I must say to you,!
 _________________________________________________________________
 MSN 8: advanced junk mail protection and 2 months FREE*. 
 http://join.msn.com/?page=features/junkmail
-
-Delivered-To: jandek@cs.northwestern.edu
-Received: (qmail 6882 invoked from network); 18 Jan 2003 19:55:36 -0000
-Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
-  by godzilla.cs.nwu.edu with SMTP; 18 Jan 2003 19:55:36 -0000
-Received: from dylan.cs.northwestern.edu ([129.105.100.5]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329);
-	 Sat, 18 Jan 2003 13:55:35 -0600
-Received: (from tisue@localhost)
-	by dylan.cs.northwestern.edu (8.11.6/8.11.6) id h0IJtYe22123
-	for jandek@cs.northwestern.edu; Sat, 18 Jan 2003 13:55:34 -0600
-Received: (qmail 2766 invoked from network); 18 Jan 2003 17:31:00 -0000
-Received: from mail1.cs.nwu.edu (HELO mail1.cs.northwestern.edu) (129.105.100.4)
-  by godzilla.cs.nwu.edu with SMTP; 18 Jan 2003 17:31:00 -0000
-thread-index: AcK/F14G0G6JFzxHS22yvxMqlCWABA==
-Received: from web12006.mail.yahoo.com ([216.136.172.214]) by mail1.cs.northwestern.edu with Microsoft SMTPSVC(5.0.2195.5329); Sat, 18 Jan 2003 11:30:59 -0600
-Message-ID: <20030118173059.9181.qmail@web12006.mail.yahoo.com>
-Received: from [24.54.37.154] by web12006.mail.yahoo.com via HTTP; Sat, 18 Jan 2003 09:30:59 PST
-Content-Transfer-Encoding: 7bit
-Date: Sat, 18 Jan 2003 09:30:59 -0800 (PST)
-From: "Jason Cooley" <jasonx12@yahoo.com>
-Subject: Re: Jandek on Corwood -- Movie Trailer
-Content-Class: urn:content-classes:message
-Importance: normal
-To: <jandek@cs.northwestern.edu>
-X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4920.2300
-In-Reply-To: <006101c2beba$d6d87660$73182443@cablerocket.net>
-MIME-Version: 1.0
-Content-Type: text/plain;
-	charset="us-ascii"
-X-OriginalArrivalTime: 18 Jan 2003 17:31:00.0007 (UTC) FILETIME=[5DE27370:01C2BF17]
-Sender: owner-jandek@cs.northwestern.edu
-Precedence: bulk
-
-It's "Only Lover" and it's on "Blue Corpse", which you
-should definitely get, along with "You Walk Alone" and
-"Telegraph Melts".
-
---- Gary Hall <cryo@wyan.org> wrote:
-> I'm relatively new to Jandek so please pardon my
-> cluelessness.  I would just like to know the name of
-> the last song used in the trailer because it is
-> absolutely beautiful and I have not yet sent my
-> first order to Corwood.
-> 
-> Thanks.
-
-
-__________________________________________________
-Do you Yahoo!?
-Yahoo! Mail Plus - Powerful. Affordable. Sign up now.
-http://mailplus.yahoo.com
 
 Delivered-To: jandek@cs.northwestern.edu
 Received: (qmail 6965 invoked from network); 18 Jan 2003 19:55:54 -0000
