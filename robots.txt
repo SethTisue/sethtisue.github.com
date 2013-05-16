@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /jandek/mail/mylist/2010-October/005806.html
+Disallow: /jandek/mail/mylist/2010-October/005808.html
+Disallow: /jandek/mail/mylist/2010-October/005824.html
+Disallow: /jandek/mail/mylist/2010-October/005827.html
