@@ -9,7 +9,7 @@ listening daily. reading & viewing monthly.
 
 <img height="80" width="80" href="photo.jpg">
 
-Seth Tisue / [http://tisue.net](http://tisue.net/) / [seth@tisue.net](mailto:seth@tisue.net)
+Seth Tisue / <http://tisue.net> / <seth@tisue.net>
 
 {% for post in site.posts %}
 * [{{ post.title }}]({{ post.url }})
