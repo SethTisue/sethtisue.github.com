@@ -7,7 +7,7 @@ title: Index of Metals
 
 listening daily. reading & viewing monthly.
 
-{{ 'headshot' | photo.jpg | img_tag }}
+![headshot]({{ site.url }}photo.jpg)
 
 Seth Tisue / <http://tisue.net> / <seth@tisue.net>
 
