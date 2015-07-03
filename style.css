@@ -1,8 +1,8 @@
-.center { 
+.center {
   text-align: center;
 }
 
-.center table { 
+.center table {
   margin-left: auto;
   margin-right: auto;
   text-align: left;
@@ -13,7 +13,7 @@
 }
 
 :visited {
-  color: rgb(100, 0, 100) 
+  color: rgb(100, 0, 100)
 }
 
 body {
