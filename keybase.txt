@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/sethtisue
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tisue.net
+  * I am sethtisue (https://keybase.io/sethtisue) on keybase.
+  * I have a public key with fingerprint 638F 9B63 9EC0 110D DEB0  2B8D 10B0 9AD4 4B86 92CA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "638f9b639ec0110ddeb02b8d10b09ad44b8692ca",
+            "host": "keybase.io",
+            "key_id": "10b09ad44b8692ca",
+            "kid": "010140565e3e94114a01ccdbd8b53a096bc126f88f9a8b5d60df6efeb4c877bd708b0a",
+            "uid": "2aebde3b40d467e153f1c0faca5e9f19",
+            "username": "sethtisue"
+        },
+        "service": {
+            "hostname": "tisue.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1441925001,
+    "expire_in": 157680000,
+    "prev": "09a4d7887e12d31f483023c549c104ff1bc9daeb831c7da388b6e114316ff645",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.43
+Comment: https://keybase.io/crypto
+
+yMIRAnicbVJbSBVBGD5a3lEDK31KXXzQONjM3vdQivkQFBEEBmVy2NmZ1fWye9yz
+53jvIigYGoEvYYEPSYYQhhWamOWlpOxBUpQEITAhuz1IWGpWs2Jvzcsw3//93/zf
+xz+ZuMcTH7EpHV2NSegJRkyP5YU8RWsxbQ0MsnAd42tgKsjOpRtmKbEDtmE6jI8R
+OVlXkMgpRAMQAowJAiySMQQIKCrmeSSLCqupjJcps4JuB5VBapDkGhbF6MNvYIr+
+h1+xUwAQQB4IokA4ovAQ8iqAmoYRlpHAqUARkQZZUZfpGCqFsAiwLhKdIF6TJQlh
+CcgIuHKhHTlWJQgTDvEA86JEoMDpUAO6qqkCUXSouMQgsU21ilB2kDhljhEMEabJ
+Sx922NCIm4FrZZeyU841iUM7A7blWJpVSeEyxwn43C6nLuDSagjy7wr4kWFiGiJt
+CBM7aFgm44OUqTmGqwh5HiqsAAD0MqQ2YNjEb7gMQRJlQI/7DQm7ySgqjyVZpi5Y
+zEGdlznAcprAKxoEvK5DpCmY2pU5qElY5WQZiYQGyEFR10VeYFxL1abF+Dg6plrq
++jVKTdUJ2dTv+POLez0R8Z7oqEh3DTzxcfv+LYf5LtbTdT7xY/X7/KzpZLv18NaF
+jObvck9Khr95Jg4sbXW1jB08kRomWznDmaE36S2RTMbpxIHs60z9wI/O3yfX178V
+HRu8k0Y8OcxZLbr9Q2/yi6k/aVMHpMCp9Jylir4iqzDlVwnv9WbdbD+E2YLqhz8z
+E7qXhvrhwv6Rc5vhhQ04/4UdfHBmbjOYX/p5eH2i/sinu433rsRFJLUVPh6dnysZ
+fZJz7XLHq5q8eafjWedsfUrVmaFitvZqzY2VcnV7Y2K0ujd9ZXtx7aU/6RF6XfBW
+7Cxe7K0tX42635r9dLx/oNz6Ot49OXup6fbycuV04x0Si48Pj8xsqLf6NlO9Ucpf
+Wqoq9w==
+=09DX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sethtisue
+
+==================================================================
