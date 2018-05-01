@@ -9,14 +9,14 @@ listening daily. reading & viewing monthly.
 
 ![headshot]({{ site.url }}photo.jpg)
 
-Seth Tisue / <http://tisue.net> / <seth@tisue.net>
+Seth Tisue / <https://tisue.net> / <seth@tisue.net>
 
 {% for post in site.posts %}
 * [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
-older listening is at <http://tisue.net/listening.html>
+older listening is at <https://tisue.net/listening.html>
 
-older reading is at <http://tisue.net/reading.html>
+older reading is at <https://tisue.net/reading.html>
 
-older viewing is at <http://tisue.net/watching.html>
+older viewing is at <https://tisue.net/watching.html>
